@@ -100,7 +100,13 @@ def send_pushgate(key: str, title: str, markdown: str) -> bool:
     url = f"{base.rstrip('/')}/{key}.send"
     body = urllib.parse.urlencode({"title": title, "desp": markdown}).encode("utf-8")
     req = urllib.request.Request(
-        url, data=body, headers={"Content-Type": "application/x-www-form-urlencoded"}
+        url,
+        data=body,
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded",
+            # Cloudflare 默认会把 Python-urllib UA 当 bot 在边界 403，给个正常 UA
+            "User-Agent": "para-prot-signal/1.0 (+https://github.com/SHzzzAyys/para-prot-signal)",
+        },
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         result = json.loads(resp.read().decode("utf-8"))
