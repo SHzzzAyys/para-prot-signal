@@ -19,6 +19,7 @@ import re
 import smtplib
 import ssl
 import sys
+import urllib.parse
 import urllib.request
 from email.mime.text import MIMEText
 from email.header import Header
@@ -27,7 +28,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "research-data.js"
 STATE_PATH = ROOT / "notified-pmids.json"
-PUSHPLUS_URL = "https://www.pushplus.plus/send"
 MAX_KEEP = 3000  # 状态文件最多保留的 PMID 数，防止无限增长
 
 
@@ -94,17 +94,17 @@ def render(new_items: list[dict], shown: int) -> tuple[str, str, str]:
     return title, "\n\n".join(md_lines), "\n".join(html_lines)
 
 
-def send_pushplus(token: str, title: str, markdown: str) -> bool:
-    body = json.dumps(
-        {"token": token, "title": title, "content": markdown, "template": "markdown"}
-    ).encode("utf-8")
+def send_serverchan(sendkey: str, title: str, markdown: str) -> bool:
+    """Server酱 Turbo：推到个人微信，免实名。desp 支持 markdown。"""
+    url = f"https://sctapi.ftqq.com/{sendkey}.send"
+    body = urllib.parse.urlencode({"title": title, "desp": markdown}).encode("utf-8")
     req = urllib.request.Request(
-        PUSHPLUS_URL, data=body, headers={"Content-Type": "application/json"}
+        url, data=body, headers={"Content-Type": "application/x-www-form-urlencoded"}
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         result = json.loads(resp.read().decode("utf-8"))
-    if result.get("code") != 200:
-        raise RuntimeError(f"PushPlus 返回 {result.get('code')}: {result.get('msg')}")
+    if result.get("code") != 0:
+        raise RuntimeError(f"Server酱 返回 {result.get('code')}: {result.get('message')}")
     return True
 
 
@@ -123,14 +123,14 @@ def send_gmail(addr: str, app_password: str, to: str, title: str, html: str) -> 
 def _dispatch(title: str, markdown: str, html: str) -> bool:
     """按 secret 存在与否发送到各渠道；单个失败不阻断其余，返回是否至少发出一条。"""
     sent_any = False
-    pushplus_token = os.environ.get("PUSHPLUS_TOKEN")
-    if pushplus_token:
+    sendkey = os.environ.get("SERVERCHAN_SENDKEY")
+    if sendkey:
         try:
-            send_pushplus(pushplus_token, title, markdown)
-            print("已推送到微信 (PushPlus)。")
+            send_serverchan(sendkey, title, markdown)
+            print("已推送到微信 (Server酱)。")
             sent_any = True
         except Exception as exc:  # noqa: BLE001
-            print(f"[warn] PushPlus 推送失败：{exc}", file=sys.stderr)
+            print(f"[warn] Server酱 推送失败：{exc}", file=sys.stderr)
 
     gmail_addr = os.environ.get("GMAIL_ADDRESS")
     gmail_pw = os.environ.get("GMAIL_APP_PASSWORD")
@@ -143,10 +143,10 @@ def _dispatch(title: str, markdown: str, html: str) -> bool:
         except Exception as exc:  # noqa: BLE001
             print(f"[warn] Gmail 发送失败：{exc}", file=sys.stderr)
 
-    if not sent_any and (pushplus_token or gmail_addr):
+    if not sent_any and (sendkey or gmail_addr):
         print("[warn] 所有渠道发送失败。", file=sys.stderr)
-    elif not pushplus_token and not gmail_addr:
-        print("未配置任何推送渠道（PUSHPLUS_TOKEN / GMAIL_*），跳过。", file=sys.stderr)
+    elif not sendkey and not gmail_addr:
+        print("未配置任何推送渠道（SERVERCHAN_SENDKEY / GMAIL_*），跳过。", file=sys.stderr)
     return sent_any
 
 
