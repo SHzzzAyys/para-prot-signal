@@ -121,8 +121,8 @@ Running anonymous, 3 req/s            # 无 key
 
 抓取后自动把**本次新增**的文献推送到微信和邮箱，不用每天主动开网页。
 
-- **微信**：[Server酱 Turbo](https://sct.ftqq.com/)，微信扫码登录拿 SendKey，配 `SERVERCHAN_SENDKEY`（免实名，推到个人微信）。
-- **邮件**：Gmail SMTP，配 `GMAIL_ADDRESS` + `GMAIL_APP_PASSWORD`（[应用专用密码](https://myaccount.google.com/apppasswords)），可选 `GMAIL_TO` 指定收件人。
+- **多渠道（钉钉/飞书/Bark/邮件）**：通过自建的 [pushgate](https://github.com/SHzzzAyys/pushgate) 中转，配 `PUSHGATE_KEY`（可选 `PUSHGATE_URL` 覆盖默认 Worker 地址）。具体推到哪个渠道在 pushgate 的 secrets 里配置。
+- **邮件（备用直发）**：脚本也支持直接走 Gmail SMTP，配 `GMAIL_ADDRESS` + `GMAIL_APP_PASSWORD`（[应用专用密码](https://myaccount.google.com/apppasswords)），可选 `GMAIL_TO` 指定收件人。
 
 去重靠 `notified-pmids.json`（记录已推送 PMID），只推真正新增的文章；**首次运行只记录不推送**，避免存量刷屏。环境变量都通过 GitHub Actions secrets 注入，缺哪个就跳过哪个渠道，发送失败也不会让抓取任务变红。
 

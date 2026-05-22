@@ -94,9 +94,10 @@ def render(new_items: list[dict], shown: int) -> tuple[str, str, str]:
     return title, "\n\n".join(md_lines), "\n".join(html_lines)
 
 
-def send_serverchan(sendkey: str, title: str, markdown: str) -> bool:
-    """Server酱 Turbo：推到个人微信，免实名。desp 支持 markdown。"""
-    url = f"https://sctapi.ftqq.com/{sendkey}.send"
+def send_pushgate(key: str, title: str, markdown: str) -> bool:
+    """自建 pushgate：兼容 Server酱接口（POST /<key>.send，form: title+desp），fan-out 到所配渠道。"""
+    base = os.environ.get("PUSHGATE_URL", "https://pushgate.shangzzchin.workers.dev")
+    url = f"{base.rstrip('/')}/{key}.send"
     body = urllib.parse.urlencode({"title": title, "desp": markdown}).encode("utf-8")
     req = urllib.request.Request(
         url, data=body, headers={"Content-Type": "application/x-www-form-urlencoded"}
@@ -104,7 +105,9 @@ def send_serverchan(sendkey: str, title: str, markdown: str) -> bool:
     with urllib.request.urlopen(req, timeout=30) as resp:
         result = json.loads(resp.read().decode("utf-8"))
     if result.get("code") != 0:
-        raise RuntimeError(f"Server酱 返回 {result.get('code')}: {result.get('message')}")
+        # 把各渠道明细带回来便于排错
+        detail = result.get("data", {}).get("results") or result.get("message")
+        raise RuntimeError(f"pushgate 失败：{detail}")
     return True
 
 
@@ -123,14 +126,14 @@ def send_gmail(addr: str, app_password: str, to: str, title: str, html: str) -> 
 def _dispatch(title: str, markdown: str, html: str) -> bool:
     """按 secret 存在与否发送到各渠道；单个失败不阻断其余，返回是否至少发出一条。"""
     sent_any = False
-    sendkey = os.environ.get("SERVERCHAN_SENDKEY")
-    if sendkey:
+    pushgate_key = os.environ.get("PUSHGATE_KEY")
+    if pushgate_key:
         try:
-            send_serverchan(sendkey, title, markdown)
-            print("已推送到微信 (Server酱)。")
+            send_pushgate(pushgate_key, title, markdown)
+            print("已推送到 pushgate (自建多渠道网关)。")
             sent_any = True
         except Exception as exc:  # noqa: BLE001
-            print(f"[warn] Server酱 推送失败：{exc}", file=sys.stderr)
+            print(f"[warn] pushgate 推送失败：{exc}", file=sys.stderr)
 
     gmail_addr = os.environ.get("GMAIL_ADDRESS")
     gmail_pw = os.environ.get("GMAIL_APP_PASSWORD")
@@ -143,10 +146,10 @@ def _dispatch(title: str, markdown: str, html: str) -> bool:
         except Exception as exc:  # noqa: BLE001
             print(f"[warn] Gmail 发送失败：{exc}", file=sys.stderr)
 
-    if not sent_any and (sendkey or gmail_addr):
+    if not sent_any and (pushgate_key or gmail_addr):
         print("[warn] 所有渠道发送失败。", file=sys.stderr)
-    elif not sendkey and not gmail_addr:
-        print("未配置任何推送渠道（SERVERCHAN_SENDKEY / GMAIL_*），跳过。", file=sys.stderr)
+    elif not pushgate_key and not gmail_addr:
+        print("未配置任何推送渠道（PUSHGATE_KEY / GMAIL_*），跳过。", file=sys.stderr)
     return sent_any
 
 

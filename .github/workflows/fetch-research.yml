@@ -28,9 +28,9 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
         run: python scripts/fetch_research.py --days 7
 
-      - name: Notify new articles (WeChat + Email)
+      - name: Notify new articles (pushgate + Email)
         env:
-          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          PUSHGATE_KEY: ${{ secrets.PUSHGATE_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
