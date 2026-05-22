@@ -14,8 +14,10 @@ para-prot-signal/
 ├── research-config.json    # 抓取配置（主题、天数、每主题上限）
 ├── research-data.js        # 抓取输出 — 前端数据源
 ├── research-data.md        # 抓取输出 — Markdown 文档
+├── notified-pmids.json     # 已推送 PMID 记录（推送去重用，自动维护）
 └── scripts/
-    └── fetch_research.py   # PubMed 抓取脚本
+    ├── fetch_research.py   # PubMed 抓取脚本
+    └── notify.py           # 每日新文献推送（微信 PushPlus + 邮件 Gmail）
 ```
 
 ## 快速开始
@@ -114,6 +116,24 @@ Running anonymous, 3 req/s            # 无 key
 - **导出** — 导出收藏为 Obsidian 友好的 Markdown 文件
 
 收藏和讨论数据保存在浏览器 `localStorage`，不依赖后端。
+
+## 每日推送（微信 + 邮件）
+
+抓取后自动把**本次新增**的文献推送到微信和邮箱，不用每天主动开网页。
+
+- **微信**：[PushPlus](https://www.pushplus.plus/)，配 `PUSHPLUS_TOKEN`。
+- **邮件**：Gmail SMTP，配 `GMAIL_ADDRESS` + `GMAIL_APP_PASSWORD`（[应用专用密码](https://myaccount.google.com/apppasswords)），可选 `GMAIL_TO` 指定收件人。
+
+去重靠 `notified-pmids.json`（记录已推送 PMID），只推真正新增的文章；**首次运行只记录不推送**，避免存量刷屏。三个环境变量都通过 GitHub Actions secrets 注入，缺哪个就跳过哪个渠道，发送失败也不会让抓取任务变红。
+
+```powershell
+# 本地预览（不真发）
+python scripts/notify.py --dry-run
+# 验证推送通道：强制推最新 3 篇（不影响去重状态）
+python scripts/notify.py --force-latest 3
+```
+
+在 GitHub 上手动触发 **Fetch PubMed Research** workflow 时，勾选 `test_notify` 即可发一条测试推送验证通道。
 
 ## Daily Workflow
 
