@@ -1,4 +1,4 @@
-window.researchLastUpdated = "2026-05-22 05:54:22 +0000";
+window.researchLastUpdated = "2026-05-22 05:55:53 +0000";
 window.researchItems = [
   {
     "id": "pubmed-42167762",

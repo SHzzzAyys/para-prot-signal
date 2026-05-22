@@ -1,4 +1,4 @@
-# PubMed Research Feed — 2026-05-22 05:54:22 +0000
+# PubMed Research Feed — 2026-05-22 05:55:53 +0000
 
 共 **48** 篇文章（Toxoplasma 16 · Plasmodium 25 · Malaria parasite 10）
 
