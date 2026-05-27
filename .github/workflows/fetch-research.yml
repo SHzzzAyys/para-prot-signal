@@ -40,6 +40,16 @@ jobs:
             python scripts/notify.py
           fi
 
+      - name: Enrich with DeepSeek
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ -n "$DEEPSEEK_API_KEY" ]; then
+            python scripts/enrich_research.py --max 10
+          else
+            echo "DEEPSEEK_API_KEY not set, skipping enrichment"
+          fi
+
       - name: Commit & push if changed
         id: commit
         run: |

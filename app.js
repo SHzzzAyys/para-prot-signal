@@ -101,6 +101,12 @@ function normalizeItem(item) {
     pmid: item.pmid || "",
     doi: item.doi || "",
     why: item.why || item.abstract || "No abstract available.",
+    // AI enrichment fields (optional)
+    ai_enriched: item.ai_enriched === true,
+    model_organism: item.model_organism || "",
+    method_tags: Array.isArray(item.method_tags) ? item.method_tags : [],
+    result_direction: item.result_direction || "",
+    ai_synthesis: item.ai_synthesis || "",
   };
 
   return {
@@ -447,6 +453,47 @@ function renderDiscussionThread(item) {
   `;
 }
 
+const _DIRECTION_STYLES = {
+  positive: { color: "#166534", bg: "#dcfce7", label: "positive" },
+  negative: { color: "#991b1b", bg: "#fee2e2", label: "negative" },
+  mixed:    { color: "#92400e", bg: "#fef3c7", label: "mixed" },
+  null:     { color: "#374151", bg: "#f3f4f6", label: "null" },
+};
+
+function renderAiSummary(item) {
+  if (!item.ai_enriched) return "";
+
+  const dir = _DIRECTION_STYLES[item.result_direction] || _DIRECTION_STYLES.null;
+  const dirBadge = `<span style="display:inline-block;padding:1px 7px;border-radius:10px;font-size:0.72rem;font-weight:600;background:${dir.bg};color:${dir.color};">${escapeHtml(dir.label)}</span>`;
+
+  const orgBadge = item.model_organism
+    ? `<span style="display:inline-block;padding:1px 7px;border-radius:10px;font-size:0.72rem;font-weight:500;background:#e0e7ff;color:#3730a3;">${escapeHtml(item.model_organism)}</span>`
+    : "";
+
+  const methodChips = item.method_tags
+    .map(
+      (m) =>
+        `<span style="display:inline-block;padding:1px 6px;border-radius:10px;font-size:0.70rem;background:#f1f5f9;color:#475569;border:1px solid #e2e8f0;">${escapeHtml(m)}</span>`,
+    )
+    .join(" ");
+
+  const synthesis = item.ai_synthesis
+    ? `<p style="margin:6px 0 0;font-size:0.82rem;line-height:1.55;color:#1e293b;">${escapeHtml(item.ai_synthesis)}</p>`
+    : "";
+
+  return `
+    <div style="margin-top:8px;padding:8px 10px;border-radius:6px;background:#f8fafc;border:1px solid #e2e8f0;">
+      <div style="font-size:0.72rem;font-weight:700;color:#64748b;margin-bottom:5px;letter-spacing:0.04em;">🤖 AI 解读</div>
+      <div style="display:flex;flex-wrap:wrap;gap:4px;align-items:center;">
+        ${orgBadge}
+        ${methodChips}
+        ${dirBadge}
+      </div>
+      ${synthesis}
+    </div>
+  `;
+}
+
 function renderFeed() {
   const items = filteredItems();
   const savedCount = getSavedItems().length;
@@ -505,6 +552,7 @@ function renderFeed() {
               <a class="item-title" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a>
             </h3>
             <p class="why">${escapeHtml(item.why)}</p>
+            ${renderAiSummary(item)}
             <div class="meta">${meta}</div>
             ${renderDiscussionThread(item)}
           </article>
