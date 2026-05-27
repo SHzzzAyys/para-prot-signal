@@ -57,8 +57,18 @@ def call(prompt: str, max_tokens: int = 1500) -> str:
                 ).strip()
                 return text
         except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                retry_after = int(exc.headers.get("Retry-After", "10"))
+                wait = min(retry_after, 60)  # cap at 60 seconds
+                print(
+                    f"[deepseek_client] 429 限速，等待 {wait}s …",
+                    flush=True,
+                )
+                last_err = exc
+                time.sleep(wait)
+                continue
             if exc.code < 500:
-                raise  # 4xx — don't retry
+                raise  # other 4xx — don't retry
             last_err = exc
             wait = _BACKOFF[min(attempt, len(_BACKOFF) - 1)]
             print(

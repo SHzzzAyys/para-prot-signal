@@ -35,6 +35,16 @@ from lib.pubmed_text import fetch_abstract  # noqa: E402
 
 
 # ---------------------------------------------------------------------------
+# Controlled vocabularies for field validation
+# ---------------------------------------------------------------------------
+VALID_ORGANISMS = {
+    "Toxoplasma gondii", "Plasmodium", "Cryptosporidium", "Leishmania",
+    "Trypanosoma", "Mus musculus", "Homo sapiens", "cell line", "in silico", "other",
+}
+VALID_DIRECTIONS = {"positive", "negative", "mixed", "null"}
+
+
+# ---------------------------------------------------------------------------
 # Prompt
 # ---------------------------------------------------------------------------
 PROMPT_TEMPLATE = """你是生物医学文献分析助手。基于以下论文摘要，返回严格的 JSON，不要有任何其他文字。
@@ -124,6 +134,25 @@ def save_items(items: list[dict]) -> None:
     OUTPUT_PATH.write_text(new_content, encoding="utf-8")
 
 
+def _save_items(items: list[dict], filepath: str) -> None:
+    """Checkpoint helper: write items to *filepath* preserving the original JS format.
+
+    Identical behaviour to save_items() but operates on an arbitrary path
+    so callers can pass OUTPUT_PATH or a temp path without importing it.
+    """
+    path = Path(filepath)
+    content = path.read_text(encoding="utf-8")
+
+    last_updated_line = ""
+    lu_match = re.search(r'^window\.researchLastUpdated\s*=\s*"[^"]*"\s*;\s*$', content, re.MULTILINE)
+    if lu_match:
+        last_updated_line = lu_match.group(0).strip() + "\n"
+
+    payload = json.dumps(items, ensure_ascii=False, indent=2)
+    new_content = f"{last_updated_line}window.researchItems = {payload};\n"
+    path.write_text(new_content, encoding="utf-8")
+
+
 # ---------------------------------------------------------------------------
 # Enrichment logic
 # ---------------------------------------------------------------------------
@@ -161,10 +190,21 @@ def enrich_item(item: dict) -> bool:
         )
         return False
 
+    # Validate controlled-vocabulary fields before writing.
+    organism = parsed.get("model_organism", "other")
+    if organism not in VALID_ORGANISMS:
+        organism = "other"
+    parsed["model_organism"] = organism
+
+    direction = parsed.get("result_direction", "null")
+    if direction not in VALID_DIRECTIONS:
+        direction = "null"
+    parsed["result_direction"] = direction
+
     # Write enriched fields.
-    item["model_organism"] = parsed.get("model_organism", "other")
+    item["model_organism"] = parsed["model_organism"]
     item["method_tags"] = parsed.get("method_tags", [])
-    item["result_direction"] = parsed.get("result_direction", "null")
+    item["result_direction"] = parsed["result_direction"]
     item["ai_synthesis"] = parsed.get("ai_synthesis", "")
     item["ai_enriched"] = True
 
@@ -182,6 +222,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Enrich research-data.js with DeepSeek AI analysis.")
     parser.add_argument("--dry-run", action="store_true", help="Run without writing output.")
     parser.add_argument("--max", type=int, default=None, metavar="N", help="Limit to N items per run.")
+    parser.add_argument("--force", action="store_true", help="重新富化已有 ai_enriched 条目")
     args = parser.parse_args()
 
     if not os.environ.get("DEEPSEEK_API_KEY"):
@@ -192,29 +233,43 @@ def main() -> int:
     if not items:
         return 0
 
-    pending = [item for item in items if not item.get("ai_enriched")]
+    # Build list of (original_index, item) pairs that need enrichment.
+    pending_indexed = [
+        (idx, item)
+        for idx, item in enumerate(items)
+        if not item.get("ai_enriched") or args.force
+    ]
     if args.max is not None:
-        pending = pending[: args.max]
+        pending_indexed = pending_indexed[: args.max]
 
     print(
-        f"[enrich] {len(items)} total items, {len(pending)} pending enrichment"
+        f"[enrich] {len(items)} total items, {len(pending_indexed)} pending enrichment"
+        + (" (--force)" if args.force else "")
         + (f" (capped at {args.max})" if args.max else "")
     )
 
     enriched_count = 0
     skipped_count = 0
-    for item in pending:
+    processed = 0
+    for processed_pos, (idx, item) in enumerate(pending_indexed):
         success = enrich_item(item)
+        items[idx] = item  # item is mutated in-place; keep reference consistent
         if success:
             enriched_count += 1
         else:
             skipped_count += 1
+        processed += 1
         time.sleep(0.5)
+
+        # Checkpoint: save every 5 items (skip in dry-run).
+        if not args.dry_run and processed % 5 == 0:
+            _save_items(items, str(OUTPUT_PATH))
+            print(f"[checkpoint] 已保存 {processed} 条", flush=True)
 
     print(f"[enrich] Done — {enriched_count} enriched, {skipped_count} skipped/failed.")
 
     if not args.dry_run:
-        save_items(items)
+        _save_items(items, str(OUTPUT_PATH))
         print(f"[enrich] Wrote {OUTPUT_PATH}")
     else:
         print("[enrich] Dry-run mode — output NOT written.")
