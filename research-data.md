@@ -1,25 +1,32 @@
-# PubMed Research Feed — 2026-05-30 02:47:15 +0000
+# PubMed Research Feed — 2026-05-31 03:30:12 +0000
 
-共 **42** 篇文章（Plasmodium 25 · Malaria parasite 9 · Toxoplasma 16）
+共 **38** 篇文章（Plasmodium 25 · Malaria parasite 9 · Toxoplasma 12）
 
 ---
+
+## 2026-05-30
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Optimizing age-structured sampling for estimating the seroconversion rate in malaria seroepidemiology: a simulation study.](https://pubmed.ncbi.nlm.nih.gov/42215684/) | Scientific reports | Plasmodium | [10.1038/s41598-026-55736-x](https://doi.org/10.1038/s41598-026-55736-x) |
 
 ## 2026-05-29
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Harnessing the Quinoline Scaffold toward Discovery and Development of Antimalarials.](https://pubmed.ncbi.nlm.nih.gov/42213905/) | Journal of medicinal chemistry | Plasmodium | [10.1021/acs.jmedchem.5c03762](https://doi.org/10.1021/acs.jmedchem.5c03762) |
-| 2 | [Unravelling the distribution of vectors of major vector-borne diseases in Koshi Province of Nepal: A concern of expansion in diverse geo-ecological and climatic regions.](https://pubmed.ncbi.nlm.nih.gov/42213710/) | PLoS neglected tropical diseases | Malaria parasite | [10.1371/journal.pntd.0013188](https://doi.org/10.1371/journal.pntd.0013188) |
-| 3 | [ATG5 in DCs attenuates anti-malarial cellular immune responses through interfering with TLR2-mediated CD209A/DC-SIGN expression.](https://pubmed.ncbi.nlm.nih.gov/42171217/) | Autophagy | Malaria parasite | [10.1080/15548627.2026.2679173](https://doi.org/10.1080/15548627.2026.2679173) |
-| 4 | [Transplacental Infection: Frequency, Testing, and Treatment.](https://pubmed.ncbi.nlm.nih.gov/41636172/) | Deutsches Arzteblatt international | Toxoplasma | [10.3238/arztebl.m2025.0227](https://doi.org/10.3238/arztebl.m2025.0227) |
+| 1 | [Unravelling the distribution of vectors of major vector-borne diseases in Koshi Province of Nepal: A concern of expansion in diverse geo-ecological and climatic regions.](https://pubmed.ncbi.nlm.nih.gov/42213710/) | PLoS neglected tropical diseases | Malaria parasite | [10.1371/journal.pntd.0013188](https://doi.org/10.1371/journal.pntd.0013188) |
+| 2 | [In-silico study of the bioactive compounds of Blighia sapida koenig revealed a novel Plasmodium falciparum dihydroorotate dehydrogenase inhibitor for malaria.](https://pubmed.ncbi.nlm.nih.gov/42215589/) | Scientific reports | Plasmodium | [10.1038/s41598-026-55249-7](https://doi.org/10.1038/s41598-026-55249-7) |
+| 3 | [Harnessing the Quinoline Scaffold toward Discovery and Development of Antimalarials.](https://pubmed.ncbi.nlm.nih.gov/42213905/) | Journal of medicinal chemistry | Plasmodium | [10.1021/acs.jmedchem.5c03762](https://doi.org/10.1021/acs.jmedchem.5c03762) |
+| 4 | [ATG5 in DCs attenuates anti-malarial cellular immune responses through interfering with TLR2-mediated CD209A/DC-SIGN expression.](https://pubmed.ncbi.nlm.nih.gov/42171217/) | Autophagy | Malaria parasite | [10.1080/15548627.2026.2679173](https://doi.org/10.1080/15548627.2026.2679173) |
+| 5 | [Transplacental Infection: Frequency, Testing, and Treatment.](https://pubmed.ncbi.nlm.nih.gov/41636172/) | Deutsches Arzteblatt international | Toxoplasma | [10.3238/arztebl.m2025.0227](https://doi.org/10.3238/arztebl.m2025.0227) |
 
 ## 2026-05-28
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Serological detection of acute and chronic toxoplasmosis in infertile women in the north of Iran.](https://pubmed.ncbi.nlm.nih.gov/42204680/) | BMC women's health | Toxoplasma | [10.1186/s12905-026-04404-3](https://doi.org/10.1186/s12905-026-04404-3) |
-| 2 | [Development of an Oxford nanopore sequencing technology-based whole genome sequencing method for Plasmodium falciparum to support malaria molecular surveillance.](https://pubmed.ncbi.nlm.nih.gov/42209548/) | Scientific reports | Plasmodium | [10.1038/s41598-026-46451-8](https://doi.org/10.1038/s41598-026-46451-8) |
-| 3 | [LFA-1 interaction with GBP-130 on Plasmodium falciparum-infected red blood cells mediates NK cell activation and parasite control.](https://pubmed.ncbi.nlm.nih.gov/42206825/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.110942](https://doi.org/10.7554/eLife.110942) |
+| 2 | [LFA-1 interaction with GBP-130 on Plasmodium falciparum-infected red blood cells mediates NK cell activation and parasite control.](https://pubmed.ncbi.nlm.nih.gov/42206825/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.110942](https://doi.org/10.7554/eLife.110942) |
+| 3 | [Development of an Oxford nanopore sequencing technology-based whole genome sequencing method for Plasmodium falciparum to support malaria molecular surveillance.](https://pubmed.ncbi.nlm.nih.gov/42209548/) | Scientific reports | Plasmodium | [10.1038/s41598-026-46451-8](https://doi.org/10.1038/s41598-026-46451-8) |
 | 4 | [Genetic variants in red blood cell adhesion-related genes influence the severity of sickle cell anemia in a malaria-endemic region : Short title: Genetic variants in red blood cell adhesion-related genes in sickle cell anemia.](https://pubmed.ncbi.nlm.nih.gov/42207357/) | Molecular biology reports | Plasmodium | [10.1007/s11033-026-12029-w](https://doi.org/10.1007/s11033-026-12029-w) |
 
 ## 2026-05-27
@@ -60,23 +67,12 @@
 | 3 | [HLA polymorphisms shape divergent outcomes of Toxoplasma and Plasmodium infection in Eastern Indian HbE/β-thalassemia cohort.](https://pubmed.ncbi.nlm.nih.gov/42185657/) | Communications biology | Toxoplasma · Plasmodium · Malaria parasite | [10.1038/s42003-026-10222-y](https://doi.org/10.1038/s42003-026-10222-y) |
 | 4 | [Plasmodium falciparum invasion ligand gene transcript profiles in different populations.](https://pubmed.ncbi.nlm.nih.gov/42190989/) | Molecular and biochemical parasitology | Plasmodium | [10.1016/j.molbiopara.2026.111761](https://doi.org/10.1016/j.molbiopara.2026.111761) |
 | 5 | [Imported malaria in Trinidad, West Indies: Detection of multiple non-endemic Plasmodium species.](https://pubmed.ncbi.nlm.nih.gov/42190863/) | Parasitology international | Plasmodium | [10.1016/j.parint.2026.103305](https://doi.org/10.1016/j.parint.2026.103305) |
-| 6 | [Association between thrombocytopaenia and Plasmodium falciparum infection in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42185576/) | Scientific reports | Plasmodium | [10.1038/s41598-026-54953-8](https://doi.org/10.1038/s41598-026-54953-8) |
-| 7 | [Perovskone, a potential antiprotozoal hit compound, quantification and derivatization.](https://pubmed.ncbi.nlm.nih.gov/42185395/) | Scientific reports | Plasmodium | [10.1038/s41598-026-49277-6](https://doi.org/10.1038/s41598-026-49277-6) |
 
 ## 2026-05-23
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Imaging findings in pediatric interferonopathies.](https://pubmed.ncbi.nlm.nih.gov/42176059/) | Pediatric radiology | Toxoplasma | [10.1007/s00247-026-06642-x](https://doi.org/10.1007/s00247-026-06642-x) |
-
-## 2026-05-22
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [ROP16 Promotes Epithelial-Mesenchymal Transition-Like Changes in Ocular Toxoplasmosis via STAT3 and TGF-β1 Pathways.](https://pubmed.ncbi.nlm.nih.gov/42181749/) | Transboundary and emerging diseases | Toxoplasma | [10.1155/tbed/9126072](https://doi.org/10.1155/tbed/9126072) |
-| 2 | [Author Correction: Structure, assembly and inhibition of the Toxoplasma gondii respiratory chain supercomplex.](https://pubmed.ncbi.nlm.nih.gov/42174210/) | Nature structural & molecular biology | Toxoplasma | [10.1038/s41594-026-01824-5](https://doi.org/10.1038/s41594-026-01824-5) |
-| 3 | [Agreement Between Cranial Ultrasound and Computed Tomography in the Detection of Central Nervous System Findings in Infants With Congenital Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42168803/) | The Pediatric infectious disease journal | Toxoplasma | [10.1097/INF.0000000000005298](https://doi.org/10.1097/INF.0000000000005298) |
-| 4 | [Comparison of Detection Rates of Toxoplasma gondii among Five Host Tissues and Two Primer Sets in Three Bird Species.](https://pubmed.ncbi.nlm.nih.gov/42167762/) | Journal of wildlife diseases | Toxoplasma | [10.7589/JWD-D-25-00189](https://doi.org/10.7589/JWD-D-25-00189) |
 
 ## 2026-04-21
 
