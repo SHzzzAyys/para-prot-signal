@@ -1,5 +1,273 @@
-window.researchLastUpdated = "2026-06-11 03:37:35 +0000";
+window.researchLastUpdated = "2026-06-12 03:37:24 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42274961",
+    "title": "Toxoplasma gondii retinochoroiditis associated with Epstein-Barr virus-induced retinal necrosis in an immunocompetent patient.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42274961/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.6,
+    "score": 100,
+    "journal": "Journal of ophthalmic inflammation and infection",
+    "pubDate": "2026-06-11",
+    "authors": [
+      "Saturno MC",
+      "Iannetta D",
+      "Nguyen NC",
+      "Leon L",
+      "de Smet MD"
+    ],
+    "pmid": "42274961",
+    "doi": "10.1186/s12348-026-00611-z",
+    "why": "PURPOSE: To describe a rare case of concomitant Toxoplasma gondii (Tg) retinochoroiditis and Epstein-Barr virus (EBV) retinal necrosis in an immunocompetent patient, successfully treated with a combined intravitreal and systemic therapeutic approach. METHODS: A 52-year-old immunocompetent woman with recurrent bilateral Tg retinochoroiditis presented with reactivation in the left eye unresponsive to standard antiparasitic therapy. Comprehensive..."
+  },
+  {
+    "id": "pubmed-42271118",
+    "title": "Habitat-associated detection of Toxoplasma gondii and Sarcocystis spp. in Cetaceans from the Brazilian coast.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42271118/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.6,
+    "score": 96,
+    "journal": "Veterinary research communications",
+    "pubDate": "2026-06-11",
+    "authors": [
+      "Faita T",
+      "Keid LB",
+      "Silvestre-Perez N",
+      "de Sousa GP",
+      "Thomé GCR",
+      "Ceron BM"
+    ],
+    "pmid": "42271118",
+    "doi": "10.1007/s11259-026-11324-y",
+    "why": "Cetaceans are sentinels of marine ecosystem health and are increasingly exposed to protozoal pathogens. This study investigated the occurrence and molecular identity of Sarcocystidae protozoa in 159 stranded cetaceans representing 21 species along the Brazilian coast. Molecular analysis based on PCR amplification and sequencing of the sarcocystid internal transcribed spacer 1 (ITS1) region revealed infections in 14 individuals, showing a clear..."
+  },
+  {
+    "id": "pubmed-42271406",
+    "title": "Assessment of malaria prevalence and determinants among clinically suspected individuals attending Dejen Primary Hospital, East Gojjam Zone, northwest Ethiopia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42271406/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 100,
+    "journal": "Malaria journal",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Emnetu A",
+      "Habtamu A",
+      "Lemlemu A",
+      "Yeshanew S"
+    ],
+    "pmid": "42271406",
+    "doi": "10.1186/s12936-026-05992-z",
+    "why": "BACKGROUND: Malaria remains a major public health concern in Ethiopia, despite ongoing efforts toward its control and elimination. Generating updated evidence on its epidemiology and identifying the factors linked to infection are vital for guiding targeted interventions. This study assessed the prevalence of malaria and its associated determinants among clinically suspected individuals attending Dejen Primary Hospital, Dejen District, northwest Ethiopia..."
+  },
+  {
+    "id": "pubmed-42271263",
+    "title": "Amazonian toxoplasmosis complicated by severe hypoxemic pneumonia and myopericarditis in an immunocompetent adult.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42271263/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 98,
+    "journal": "BMC infectious diseases",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Fréville B",
+      "Herrebrecht C",
+      "Samawak C",
+      "Dia A",
+      "Clerc A",
+      "Massoure PL"
+    ],
+    "pmid": "42271263",
+    "doi": "10.1186/s12879-026-13754-0",
+    "why": "BACKGROUND: Amazonian toxoplasmosis (AT) is a severe form of acute toxoplasmosis occurring in the Guiana Shield and characterized by a high frequency of multivisceral involvement, even in immunocompetent individuals. Pulmonary, ocular, hepatic, and lymphatic manifestations are well documented, but cardiac involvement remains exceptionally rare and likely underdiagnosed. The diagnosis is challenging because the early symptoms are nonspecific and cardiac..."
+  },
+  {
+    "id": "pubmed-42271343",
+    "title": "Droplet digital PCR assays for Pvmdr1 and Pvcrt-o gene copy number variation determination in Plasmodium vivax.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42271343/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 98,
+    "journal": "Malaria journal",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Srisutham S",
+      "Boonpeng K",
+      "Pitchayatanakorn P",
+      "Kijprasong K",
+      "Nosten FH",
+      "Day NPJ"
+    ],
+    "pmid": "42271343",
+    "doi": "10.1186/s12936-026-05971-4",
+    "why": "BACKGROUND: mdr1 and crt-o amplification in Plasmodium vivax has been associated with antimalarial drug resistance and could thus be a molecular marker. Accurate copy number variation (CNV) quantification could provide valuable insights for monitoring resistance trends. OBJECTIVES: To develop a duplex digital PCR (ddPCR) assay for the simultaneous absolute pvmdr1 and pvcrt-o quantification using pvtubulin as a single-copy internal reference. METHODS..."
+  },
+  {
+    "id": "pubmed-42271339",
+    "title": "Searching for new candidates for antimalarial therapy: physicochemical and in vitro evaluation of gold(I) and silver(I) N-heterocyclic carbene complexes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42271339/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 96,
+    "journal": "Malaria journal",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Castro W",
+      "Rangel HR",
+      "Garibaldi L",
+      "Rojas-Campos W",
+      "Hernández AJ",
+      "Berroteran J"
+    ],
+    "pmid": "42271339",
+    "doi": "10.1186/s12936-026-05944-7",
+    "why": "BACKGROUND: The global fight against malaria is currently hindered by the rapid emergence and spread of multi-drug-resistant Plasmodium falciparum strains. This growing resistance has compromised the efficacy of frontline treatments and has led to the disease continuing to claim thousands of lives each year. Consequently, a new effective and non-toxic anti-malarial drug is urgently needed. In this context, metal-NHC (N-heterocyclic carbene) complexes have..."
+  },
+  {
+    "id": "pubmed-42270857",
+    "title": "Comparison of techniques and markers to distinguish Plasmodium falciparum recrudescence from new infection in Rwanda.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42270857/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 94,
+    "journal": "Scientific reports",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Cantoreggi SL",
+      "Golumbeanu M",
+      "Zwyer M",
+      "Uwimana A",
+      "Niyonzima JD",
+      "Mbituyumuremyi A"
+    ],
+    "pmid": "42270857",
+    "doi": "10.1038/s41598-026-57063-7",
+    "why": "Accurate estimation of antimalarial drug efficacy against P. falciparum requires PCR correction to distinguish recrudescence from new infection in recurrent infections. Here, we compared two different genotyping techniques and different decision algorithms used for PCR correction using samples collected in a Therapeutic Efficacy Study (TES) conducted in Rwanda in 2018. We first optimized an assay to genotype four microsatellites by capillary..."
+  },
+  {
+    "id": "pubmed-42270748",
+    "title": "Geospatial mapping of malaria risk in flood-prone zones of Sub-Saharan Africa.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42270748/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 92,
+    "journal": "Scientific reports",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Eudaric J",
+      "de Ruiter MC",
+      "Sairam N",
+      "Camero A",
+      "Shahi KR",
+      "Smith MW"
+    ],
+    "pmid": "42270748",
+    "doi": "10.1038/s41598-026-54811-7",
+    "why": "The World Health Organisation (WHO) aims to eliminate malaria by 2030; yet, the disease remains endemic in Sub-Saharan Africa. Stagnant floodwaters provide ideal breeding grounds for mosquitoes. Previous estimates of potential malaria risk in flood zones have been limited due to insufficient large-scale geospatial data. Here, we integrate high-resolution flood maps (2000-2018) from the Global Flood Database, malaria incidence data from the Malaria Atlas..."
+  },
+  {
+    "id": "pubmed-42270002",
+    "title": "Prevalence and Host-Migration Patterns of Avian Haemosporidian Parasites in Wild Birds from Jeju Island, Republic of Korea.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42270002/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 90,
+    "journal": "Acta tropica",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Gunawardhana GHRA",
+      "Cho YS",
+      "Youn SY",
+      "Yoo MS",
+      "Lee HS",
+      "Kim J"
+    ],
+    "pmid": "42270002",
+    "doi": "10.1016/j.actatropica.2026.108178",
+    "why": "Haemosporidians are diverse single-celled blood parasites infecting various vertebrate hosts, including birds. Avian haemosporidian infections caused by Plasmodium, Haemoproteus, and Leucocytozoon have been reported worldwide. This study investigated the prevalence and host-migration patterns of avian haemosporidian parasites at the Jeju Wildlife Rescue Center, Republic of Korea. A total of 234 birds from 55 species, belonging to 14 orders and 20..."
+  },
+  {
+    "id": "pubmed-42268935",
+    "title": "The pyrrolidinamide antimalarial drug MMV367 rapidly clears blood-stage Plasmodium falciparum in healthy adults with experimental malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42268935/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 88,
+    "journal": "Science translational medicine",
+    "pubDate": "2026-06-10",
+    "authors": [
+      "Barber BE",
+      "Denhardt-Eriksson R",
+      "Guirou EA",
+      "Flynn J",
+      "Sahai N",
+      "Leelasena I"
+    ],
+    "pmid": "42268935",
+    "doi": "10.1126/scitranslmed.aec1863",
+    "why": "Fast-acting antimalarial drugs are needed to address the emergence of artemisinin resistance in the protozoan parasite Plasmodium falciparum, the major cause of severe malaria worldwide. The pyrrolidinamide antimalarial drug MMV367 (GSK3772701) potentially interferes with parasite metabolism mediated by P. falciparum acyl-CoA synthetases 10 and 11. In this volunteer infection study, the antimalarial activity of MMV367 was tested against blood-stage P..."
+  },
   {
     "id": "pubmed-42267973",
     "title": "Macrophage markers and gene signature profiling reveals mesenchymal stem cells mediated immune modulation in Plasmodium berghei ANKA infection.",
@@ -11,8 +279,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.6,
-    "score": 100,
+    "ageHours": 51.6,
+    "score": 86,
     "journal": "International reviews of immunology",
     "pubDate": "2026-06-10",
     "authors": [
@@ -38,8 +306,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.6,
-    "score": 98,
+    "ageHours": 51.6,
+    "score": 84,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-06-10",
     "authors": [
@@ -65,8 +333,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.6,
-    "score": 94,
+    "ageHours": 51.6,
+    "score": 80,
     "journal": "Journal of medicinal chemistry",
     "pubDate": "2026-06-10",
     "authors": [
@@ -92,8 +360,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.6,
-    "score": 88,
+    "ageHours": 51.6,
+    "score": 74,
     "journal": "Analytical and bioanalytical chemistry",
     "pubDate": "2026-06-10",
     "authors": [
@@ -120,8 +388,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 98,
+    "ageHours": 75.6,
+    "score": 96,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-09",
     "authors": [
@@ -147,8 +415,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 92,
+    "ageHours": 75.6,
+    "score": 78,
     "journal": "Journal of cardiothoracic surgery",
     "pubDate": "2026-06-09",
     "authors": [
@@ -174,8 +442,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 90,
+    "ageHours": 75.6,
+    "score": 76,
     "journal": "BMC infectious diseases",
     "pubDate": "2026-06-09",
     "authors": [
@@ -201,8 +469,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 86,
+    "ageHours": 75.6,
+    "score": 72,
     "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
     "pubDate": "2026-06-09",
     "authors": [
@@ -228,8 +496,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 84,
+    "ageHours": 75.6,
+    "score": 70,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-06-09",
     "authors": [
@@ -255,8 +523,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 82,
+    "ageHours": 75.6,
+    "score": 68,
     "journal": "Travel medicine and infectious disease",
     "pubDate": "2026-06-09",
     "authors": [
@@ -282,8 +550,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 80,
+    "ageHours": 75.6,
+    "score": 66,
     "journal": "Folia microbiologica",
     "pubDate": "2026-06-09",
     "authors": [
@@ -299,6 +567,33 @@ window.researchItems = [
     "why": "Malaria caused by Plasmodium falciparum remains a major global health challenge, exacerbated by the emergence of resistance to artemisinin-based combination therapies. Dihydroorotate dehydrogenase (PfDHODH), an essential enzyme in parasite pyrimidine biosynthesis, represents a validated and selective antimalarial drug target. In this study, an integrated multilevel computational strategy was employed to identify novel PfDHODH inhibitors from a..."
   },
   {
+    "id": "pubmed-42266499",
+    "title": "Hemoglobin Digestion Genes Are Conserved in Lizard-Infective Plasmodium Species With Different Host Cellular Niches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42266499/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.6,
+    "score": 98,
+    "journal": "Ecology and evolution",
+    "pubDate": "2026-06-08",
+    "authors": [
+      "Pangburn SJ",
+      "Borner J",
+      "Misra S",
+      "Zavalunova J",
+      "Perkins SL"
+    ],
+    "pmid": "42266499",
+    "doi": "10.1002/ece3.73801",
+    "why": "In their vertebrate hosts, malaria parasites typically inhabit erythrocytes where they harvest the cell's abundant supply of hemoglobin as a nutrient source. A byproduct of hemoglobin digestion is free heme, which the parasites detoxify by converting it to a brown crystal known as hemozoin. Hemozoin is a hallmark of Plasmodium infection, and this enzymatic pathway is well studied in mammalian Plasmodium species. Despite their evolutionary relatedness to..."
+  },
+  {
     "id": "pubmed-42264164",
     "title": "Screening for Imported Infections in Pediatric Patients Prior to Immunosuppressive Therapy.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42264164/",
@@ -309,8 +604,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 100,
+    "ageHours": 99.6,
+    "score": 94,
     "journal": "Travel medicine and infectious disease",
     "pubDate": "2026-06-08",
     "authors": [
@@ -326,60 +621,6 @@ window.researchItems = [
     "why": "PURPOSE: To describe the prevalence of imported infections in pediatric patients prior to immunosuppressive therapy after implementing a structured screening protocol, and to assess adherence and diagnostic yield. METHODS: Retrospective study of patients <18 years from non-Western countries screened between 2020-2024 at a tertiary hospital in Madrid, Spain. Screening followed a standardized protocol including serology, tuberculosis testing, stool..."
   },
   {
-    "id": "pubmed-42266499",
-    "title": "Hemoglobin Digestion Genes Are Conserved in Lizard-Infective Plasmodium Species With Different Host Cellular Niches.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266499/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 100,
-    "journal": "Ecology and evolution",
-    "pubDate": "2026-06-08",
-    "authors": [
-      "Pangburn SJ",
-      "Borner J",
-      "Misra S",
-      "Zavalunova J",
-      "Perkins SL"
-    ],
-    "pmid": "42266499",
-    "doi": "10.1002/ece3.73801",
-    "why": "In their vertebrate hosts, malaria parasites typically inhabit erythrocytes where they harvest the cell's abundant supply of hemoglobin as a nutrient source. A byproduct of hemoglobin digestion is free heme, which the parasites detoxify by converting it to a brown crystal known as hemozoin. Hemozoin is a hallmark of Plasmodium infection, and this enzymatic pathway is well studied in mammalian Plasmodium species. Despite their evolutionary relatedness to..."
-  },
-  {
-    "id": "pubmed-42260188",
-    "title": "Association between Toxoplasma gondii seropositivity and Alzheimer's disease: a case-control study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42260188/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 98,
-    "journal": "Parasitology research",
-    "pubDate": "2026-06-08",
-    "authors": [
-      "Aldaghi M",
-      "Khatir AA",
-      "Sepidarkish M",
-      "Arjmandi D",
-      "Mousavi F",
-      "Aghapour S"
-    ],
-    "pmid": "42260188",
-    "doi": "10.1007/s00436-026-08711-4",
-    "why": "Alzheimer's disease (AD) is a progressive neurodegenerative condition marked by declining cognitive function and memory deterioration. Emerging evidence suggests that infectious agents, including Toxoplasma gondii, may contribute to the risk of developing this disorder. Because previous studies on this association have produced limited and inconsistent results, we examined the link between T. gondii infection and Alzheimer's disease. This case-control..."
-  },
-  {
     "id": "pubmed-42260576",
     "title": "Accurate and sensitive TaqMan real-time PCR assays to detect and quantify simian malaria parasites Plasmodium cynomolgi, Plasmodium inui and Plasmodium coatneyi.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42260576/",
@@ -391,8 +632,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 96,
+    "ageHours": 99.6,
+    "score": 94,
     "journal": "Malaria journal",
     "pubDate": "2026-06-08",
     "authors": [
@@ -408,6 +649,59 @@ window.researchItems = [
     "why": "BACKGROUND: Human infections with simian parasites such as Plasmodium inui, P. cynomolgi, and P. coatneyi have been reported in several countries within Southeast Asia. Though infections caused by these parasites are mostly asymptomatic and mild, this could hamper the efforts to eradicate malaria in this region. In this report, we outlined the development and optimisation of new TaqMan-based real-time PCR assays to accurately identify and quantify P..."
   },
   {
+    "id": "pubmed-42260188",
+    "title": "Association between Toxoplasma gondii seropositivity and Alzheimer's disease: a case-control study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42260188/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.6,
+    "score": 92,
+    "journal": "Parasitology research",
+    "pubDate": "2026-06-08",
+    "authors": [
+      "Aldaghi M",
+      "Khatir AA",
+      "Sepidarkish M",
+      "Arjmandi D",
+      "Mousavi F",
+      "Aghapour S"
+    ],
+    "pmid": "42260188",
+    "doi": "10.1007/s00436-026-08711-4",
+    "why": "Alzheimer's disease (AD) is a progressive neurodegenerative condition marked by declining cognitive function and memory deterioration. Emerging evidence suggests that infectious agents, including Toxoplasma gondii, may contribute to the risk of developing this disorder. Because previous studies on this association have produced limited and inconsistent results, we examined the link between T. gondii infection and Alzheimer's disease. This case-control..."
+  },
+  {
+    "id": "pubmed-42257769",
+    "title": "Clinical, hematobiochemical and phylogenetic studies of bubaline malaria in Indian water buffaloes (Bubalus bubalis).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42257769/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.6,
+    "score": 92,
+    "journal": "Tropical animal health and production",
+    "pubDate": "2026-06-08",
+    "authors": [
+      "Chavhan SG",
+      "Awandkar SP",
+      "Jadhav RK",
+      "Kulkarni MB",
+      "Kondre BM"
+    ],
+    "pmid": "42257769",
+    "doi": "10.1007/s11250-026-05126-2",
+    "why": "The present study was conducted to investigate the clinical profile, hematobiochemical alterations, and confirmation of Plasmodium bubalis infection by PCR and sequence analysis, as well as to detect Plasmodium bubalis and human Plasmodium species using a lateral flow assay targeting the Plasmodium lactate dehydrogenase (pLDH) antigen in domestic Indian water buffaloes (Bubalus bubalis). Out of 56 suspected cases, five (8.93%) buffaloes were found..."
+  },
+  {
     "id": "pubmed-42260670",
     "title": "Copper overload drives hepatic stellate cell activation via cuproptosis to exacerbate acute liver injury in murine malaria.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42260670/",
@@ -418,8 +712,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 74,
+    "ageHours": 99.6,
+    "score": 62,
     "journal": "Parasites & vectors",
     "pubDate": "2026-06-08",
     "authors": [
@@ -445,8 +739,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 72,
+    "ageHours": 99.6,
+    "score": 60,
     "journal": "Malaria journal",
     "pubDate": "2026-06-08",
     "authors": [
@@ -469,8 +763,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 68,
+    "ageHours": 99.6,
+    "score": 56,
     "journal": "Malaria journal",
     "pubDate": "2026-06-08",
     "authors": [
@@ -496,8 +790,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 66,
+    "ageHours": 99.6,
+    "score": 54,
     "journal": "Scientific reports",
     "pubDate": "2026-06-08",
     "authors": [
@@ -513,86 +807,6 @@ window.researchItems = [
     "why": "Malaria remains a serious global health problem, particularly in areas where drug-resistant Plasmodium species and the expanded geographical distribution of malaria caused by climate change are of concern. In response to the pressing need for a rapid and highly sensitive malaria diagnostic method, this paper proposes a novel surface plasmon resonance (SPR) biosensor design with a multilayer N-FK51a+SiO2+Cu+HfO2+BP structure. The biosensor performance is..."
   },
   {
-    "id": "pubmed-42257769",
-    "title": "Clinical, hematobiochemical and phylogenetic studies of bubaline malaria in Indian water buffaloes (Bubalus bubalis).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42257769/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 62,
-    "journal": "Tropical animal health and production",
-    "pubDate": "2026-06-08",
-    "authors": [
-      "Chavhan SG",
-      "Awandkar SP",
-      "Jadhav RK",
-      "Kulkarni MB",
-      "Kondre BM"
-    ],
-    "pmid": "42257769",
-    "doi": "10.1007/s11250-026-05126-2",
-    "why": "The present study was conducted to investigate the clinical profile, hematobiochemical alterations, and confirmation of Plasmodium bubalis infection by PCR and sequence analysis, as well as to detect Plasmodium bubalis and human Plasmodium species using a lateral flow assay targeting the Plasmodium lactate dehydrogenase (pLDH) antigen in domestic Indian water buffaloes (Bubalus bubalis). Out of 56 suspected cases, five (8.93%) buffaloes were found..."
-  },
-  {
-    "id": "pubmed-42253175",
-    "title": "Chitosan-hyaluronic acid engineered polycaprolactone nanoparticles enhance curcumin antiplasmodial activity and preserve blood-brain barrier integrity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253175/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 60,
-    "journal": "Journal of biomaterials science. Polymer edition",
-    "pubDate": "2026-06-08",
-    "authors": [
-      "Mwajombe J",
-      "Ahmed R",
-      "Maphasa RE",
-      "Rubaka C",
-      "Yongolo NM",
-      "Mohammed M"
-    ],
-    "pmid": "42253175",
-    "doi": "10.1080/09205063.2026.2680995",
-    "why": "Cerebral malaria (CM) is a severe neurological complication of Plasmodium falciparum infection associated with endothelial activation, neuroinflammation, and disruption of the blood-brain barrier (BBB). While curcumin (Cur) possesses antiplasmodial and anti-inflammatory properties, its therapeutic potential is limited by poor aqueous solubility, rapid metabolism, and insufficient brain bioavailability. In this study, we hypothesized that..."
-  },
-  {
-    "id": "pubmed-42253101",
-    "title": "Extracellular vesicles participate in proteostasis and heat shock adaptation in Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253101/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 58,
-    "journal": "Emerging microbes & infections",
-    "pubDate": "2026-06-08",
-    "authors": [
-      "Avalos-Padilla Y",
-      "Román-Álamo L",
-      "Bouzón-Arnáiz I",
-      "Arce EM",
-      "Muñoz-Torrero D",
-      "Fernàndez-Busquets X"
-    ],
-    "pmid": "42253101",
-    "doi": "10.1080/22221751.2026.2686468",
-    "why": "Heat shock is a hallmark of clinical malaria, where Plasmodium falciparum parasites are exposed to recurrent febrile episodes exceeding 40 °C and imposing acute proteotoxic stress. Parasite survival under these conditions relies on efficient proteostasis mechanisms and molecular chaperones, yet how stress resilience is coordinated beyond chaperone responses remains poorly understood.Here, we identify a stress-associated role for extracellular vesicles..."
-  },
-  {
     "id": "pubmed-42252477",
     "title": "Gene-edited live-attenuated vaccines against Toxoplasma gondii: recent advances and future frontiers.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42252477/",
@@ -603,8 +817,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 94,
+    "ageHours": 123.6,
+    "score": 88,
     "journal": "Parasites & vectors",
     "pubDate": "2026-06-07",
     "authors": [
@@ -621,7 +835,7 @@ window.researchItems = [
   },
   {
     "id": "pubmed-42259421",
-    "title": "Ethyl acetate extract from Dinizia excelsa Ducke wood: a potential phytotherapeutic agent with antioxidant, cytotoxic and hemolytic (in normal cells), immunomodulatory, antimicrobial, antiparasitic and antitumor activities.",
+    "title": "Ethyl acetate extract from Dinizia excelsa Ducke wood: A potential phytotherapeutic agent with antioxidant, cytotoxic and hemolytic (in normal cells), immunomodulatory, antimicrobial, antiparasitic and antitumor activities.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42259421/",
     "source": "PubMed",
     "tag": "Plasmodium",
@@ -630,8 +844,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 64,
+    "ageHours": 123.6,
+    "score": 52,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-06-07",
     "authors": [
@@ -644,33 +858,7 @@ window.researchItems = [
     ],
     "pmid": "42259421",
     "doi": "10.1016/j.molbiopara.2026.111758",
-    "why": "Amazonian biodiversity is an underexploited source of bioactive natural products with potential relevance to drug discovery for neglected diseases. Here, we characterized the chemistry and multi-target in vitro activity of an ethyl acetate extract from Dinizia excelsa wood. Extraction yielded 4.84 ± 0.10% and produced a phenolic-rich fraction with high total phenolics (501.8 ± 1.0mg GAE/g extract), flavonoids (172.4 ± 0.8mg QE/g), flavonols (49.7 ± 0.3mg..."
-  },
-  {
-    "id": "pubmed-42252314",
-    "title": "Diagnostic gaps in light microscopy for malaria case management and control in Dilla Zuria Health Facility, southern Ethiopia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252314/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 56,
-    "journal": "Scientific reports",
-    "pubDate": "2026-06-07",
-    "authors": [
-      "Bogale A",
-      "Tefera S",
-      "Mitiku A",
-      "Solomon Z",
-      "Misganaw T"
-    ],
-    "pmid": "42252314",
-    "doi": "10.1038/s41598-026-56354-3",
-    "why": "Malaria misdiagnosis has important clinical and public health consequences, including inappropriate treatment, missed infections, ongoing transmission, and weakened malaria control efforts. This study aimed to identify light-microscope misdiagnoses that may affect malaria case management and control efforts. A single-gate design study was conducted among 474 cases attending Dilla Zuria Health Facility. Venous blood samples were examined by light..."
+    "why": "Amazonian biodiversity is an underexploited source of bioactive natural products with potential relevance to drug discovery for neglected diseases. Here, we characterized the chemistry and multi-target in vitro activity of an ethyl acetate extract from Dinizia excelsa wood. Extraction yielded 4.84 ± 0.10% and produced a phenolic-rich fraction with high total phenolics (501.8 ± 1.0 mg GAE/g extract), flavonoids (172.4 ± 0.8 mg QE/g), flavonols (49.7 ± 0.3..."
   },
   {
     "id": "pubmed-42252005",
@@ -683,8 +871,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 92,
+    "ageHours": 147.6,
+    "score": 86,
     "journal": "Journal of equine veterinary science",
     "pubDate": "2026-06-06",
     "authors": [
@@ -700,6 +888,33 @@ window.researchItems = [
     "why": "Toxoplasmosis can cause reproductive losses in livestock species such as goats and sheep. However, the impact of this parasitic infection in mares remains poorly investigated, reflecting the neglect of this pathogen in equine production. The present study aimed to conduct a serological survey in 100 mares from farms enrolled in embryo transfer (ET) programs in Northeastern Brazil, report the first molecular detection of Toxoplasma gondii in the placenta..."
   },
   {
+    "id": "pubmed-42250645",
+    "title": "Parasitic infections in solid organ transplant.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250645/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 147.6,
+    "score": 84,
+    "journal": "The American journal of the medical sciences",
+    "pubDate": "2026-06-06",
+    "authors": [
+      "Henao-Cordero J",
+      "Botero AH",
+      "Batista MV",
+      "Cahuayme-Zúniga L",
+      "Caceres-Alan T",
+      "Higuita NIA"
+    ],
+    "pmid": "42250645",
+    "doi": "10.1016/j.amjms.2026.06.002",
+    "why": "Parasitic infections in solid organ transplant recipients are uncommon but potentially devastating. Transmission may occur through donor-derived infection, reactivation of latent disease, or post-transplant environmental exposure, often with nonspecific presentations that delay diagnosis. Clinically important pathogens include Toxoplasma gondii, Plasmodium spp., Babesia spp., Trypanosoma cruzi, Strongyloides stercoralis, Schistosoma spp., and selected..."
+  },
+  {
     "id": "pubmed-42250600",
     "title": "Integrative whole-transcriptome analysis of circRNAs, lncRNAs, miRNAs, and mRNAs reveals regulatory networks in mouse brain during Toxoplasma gondii infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42250600/",
@@ -710,8 +925,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 88,
+    "ageHours": 147.6,
+    "score": 82,
     "journal": "Veterinary journal (London, England : 1997)",
     "pubDate": "2026-06-06",
     "authors": [
@@ -737,8 +952,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 86,
+    "ageHours": 147.6,
+    "score": 80,
     "journal": "Acta parasitologica",
     "pubDate": "2026-06-06",
     "authors": [
@@ -754,57 +969,6 @@ window.researchItems = [
     "why": "INTRODUCTION: Toxoplasma gondii (T. gondii) is a globally prevalent parasite that poses significant medical and veterinary challenges. Although current therapies such as pyrimethamine and sulfadiazine are effective, they often cause severe adverse effects, including myelosuppression, highlighting the need for safer and more effective alternatives. In this study, we evaluated the immunostimulatory and antiparasitic activities of three traditional herbal..."
   },
   {
-    "id": "pubmed-42252009",
-    "title": "Molecular characterization of midgut Peritrophin-44 and Peritrophin-48 and their role in Plasmodium development.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252009/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 54,
-    "journal": "Acta tropica",
-    "pubDate": "2026-06-06",
-    "authors": [
-      "Dubey A",
-      "Chauhan VK",
-      "Chaitanya RK"
-    ],
-    "pmid": "42252009",
-    "doi": "10.1016/j.actatropica.2026.108176",
-    "why": "The peritrophic matrix (PM) is a semi-permeable, chitin-peritrophin layer lining the insect midgut. It facilitates digestive compartmentalization, maintains midgut homeostasis, mitigates the oxidative cytotoxicity of free heme, and acts as a mechanical barrier impeding the midgut invasion of pathogens like Plasmodium. The specific roles of individual peritrophins during parasite transmission are not well characterized. This study provides the first..."
-  },
-  {
-    "id": "pubmed-42252008",
-    "title": "Efficacy of Delayed Tafenoquine Administration for Radical Cure of Plasmodium vivax Malaria: A Systematic Review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252008/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 52,
-    "journal": "Acta tropica",
-    "pubDate": "2026-06-06",
-    "authors": [
-      "DeVita TN",
-      "Hwang J",
-      "Gutman JR",
-      "Ridpath AD",
-      "Williams S",
-      "Chang MA"
-    ],
-    "pmid": "42252008",
-    "doi": "10.1016/j.actatropica.2026.108175",
-    "why": "Malaria remains a significant global public health challenge. Among the causative species, Plasmodium vivax and Plasmodium ovale can form dormant liver stages known as hypnozoites, which require additional treatment to prevent relapse of the disease. Currently in the U.S., the only available anti-relapse therapies are single-dose tafenoquine (TQ) and a 14-day course of primaquine. Both medications carry the risk of hemolysis in patients with..."
-  },
-  {
     "id": "pubmed-42253329",
     "title": "Protective Immunity Induced by DNA Vaccines Encoding TgGRA47 and TgGRA72 Against Toxoplasma gondii Infection in BALB/c Mice.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42253329/",
@@ -815,8 +979,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 96,
+    "ageHours": 171.6,
+    "score": 90,
     "journal": "Transboundary and emerging diseases",
     "pubDate": "2026-06-05",
     "authors": [
@@ -831,33 +995,6 @@ window.researchItems = [
     "why": "Toxoplasma gondii (T. gondii) is a protozoan parasite that lives inside cells and causes zoonotic diseases in the vast majority of homeothermic vertebrates, such as humans. Despite the critical biological roles of TgGRA47 and TgGRA72 in the determination of T. gondii growth and virulence, no study has been focused on the possibility of whether these two dense granule proteins (GRAs) could be used as DNA vaccine candidate against T. gondii infection. To..."
   },
   {
-    "id": "pubmed-42250645",
-    "title": "Parasitic Infections in Solid Organ Transplant.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42250645/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 90,
-    "journal": "The American journal of the medical sciences",
-    "pubDate": "2026-06-05",
-    "authors": [
-      "Henao-Cordero J",
-      "Botero AH",
-      "Batista MV",
-      "Cahuayme-Zúniga L",
-      "Caceres-Alan T",
-      "Higuita NIA"
-    ],
-    "pmid": "42250645",
-    "doi": "10.1016/j.amjms.2026.06.002",
-    "why": "Parasitic infections in solid organ transplant recipients are uncommon but potentially devastating. Transmission may occur through donor-derived infection, reactivation of latent disease, or post-transplant environmental exposure, often with nonspecific presentations that delay diagnosis. Clinically important pathogens include Toxoplasma gondii, Plasmodium spp., Babesia spp., Trypanosoma cruzi, Strongyloides stercoralis, Schistosoma spp., and selected..."
-  },
-  {
     "id": "pubmed-42249505",
     "title": "Multi-epitope mRNA vaccine and protein vaccine protect mice against Toxoplasma gondii.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42249505/",
@@ -868,8 +1005,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 84,
+    "ageHours": 171.6,
+    "score": 78,
     "journal": "Parasites & vectors",
     "pubDate": "2026-06-05",
     "authors": [
@@ -895,8 +1032,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 82,
+    "ageHours": 171.6,
+    "score": 76,
     "journal": "Translational psychiatry",
     "pubDate": "2026-06-05",
     "authors": [
@@ -922,8 +1059,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 78,
+    "ageHours": 171.6,
+    "score": 72,
     "journal": "Scientific reports",
     "pubDate": "2026-06-05",
     "authors": [
@@ -949,8 +1086,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 94,
+    "ageHours": 195.6,
+    "score": 90,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-06-04",
     "authors": [
@@ -976,8 +1113,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 80,
+    "ageHours": 195.6,
+    "score": 74,
     "journal": "BMC psychiatry",
     "pubDate": "2026-06-04",
     "authors": [
@@ -999,8 +1136,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 76,
+    "ageHours": 195.6,
+    "score": 70,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-06-04",
     "authors": [
@@ -1010,33 +1147,6 @@ window.researchItems = [
     "pmid": "42240336",
     "doi": "10.1128/aac.00019-26",
     "why": "This investigation seeks to determine their potential efficacy in reducing parasite load and mitigating disease progression in immunocompromised hosts. The green synthesis of copper nanoparticles (CNPs) was performed using an extract from Rumex vesicarius. The chronic toxoplasmosis model was developed using the ME49 strain of Toxoplasma gondii. RT in the mice was achieved using dexamethasone (0.25 mg/kg) for 30 days. Then, mice were randomly assigned to..."
-  },
-  {
-    "id": "pubmed-42237289",
-    "title": "Ten years of Plasmodium malariae infections in an International Health Reference Center in Barcelona: temporal trends and insights.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42237289/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 92,
-    "journal": "Malaria journal",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Pérez-Ugarte A",
-      "Sulleiro E",
-      "Rovira-Plujà J",
-      "Bayram M",
-      "Zarzuela F",
-      "Maturana CR"
-    ],
-    "pmid": "42237289",
-    "doi": "10.1186/s12936-026-05964-3",
-    "why": "OBJECTIVES: Plasmodium malariae remains one of the most neglected human malaria parasites. Historically considered of low prevalence and limited clinical significance, emerging evidence suggests its true burden may be underestimated due to diagnostic challenges and the parasite's ability to persist at low densities. METHODS: A retrospective observational study was conducted at the Vall d'Hebron-Drassanes International Health Unit (Barcelona) from June..."
   },
   {
     "id": "pubmed-42234529",
@@ -1049,8 +1159,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 90,
+    "ageHours": 219.6,
+    "score": 88,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-06-03",
     "authors": [
@@ -1063,9 +1173,9 @@ window.researchItems = [
     "why": "Melanization is a central insect immune response to wounding and microbial invasion. It is mediated by a system of serine proteases and their homologs, mostly members of the CLIP subfamily, and leads to prophenoloxidase (proPO) activation and PO-mediated production of cytotoxic compounds and melanin polymers that kill and sequester invading pathogens. In mosquitoes, melanotic encapsulation provides an effective defense against malaria parasites, yet the..."
   },
   {
-    "id": "pubmed-42153399",
-    "title": "[Malaria diagnosis: French recommendations ANOFEL/LABAC].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153399/",
+    "id": "pubmed-42227818",
+    "title": "Structure-Guided Optimization of Novel Inhibitors of Plasmodium Lysyl-tRNA Synthetase with Multistage Activity against Malaria Parasites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42227818/",
     "source": "PubMed",
     "tag": "Malaria parasite",
     "topics": [
@@ -1073,123 +1183,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 88,
-    "journal": "Annales de biologie clinique",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Touafek F",
-      "Berry A",
-      "Giannoli JM",
-      "Ait-Ammar N",
-      "Coron N",
-      "Haim-Boukobza S"
-    ],
-    "pmid": "42153399",
-    "doi": "10.1684/abc.2026.2035",
-    "why": "The ANOFEL/LABAC recommendations aim to standardize the methods used for the biological diagnosis of malaria in France in accordance with the NF EN ISO 15189 standard. Any fever after returning from a malaria-endemic area should raise suspicion of malaria and prompt urgent testing for Plasmodium. Biological diagnosis is based on detecting parasites or their DNA using a sensitive technique, such as rapid molecular biology or a thick smear. If the result is..."
-  },
-  {
-    "id": "pubmed-42261285",
-    "title": "Severe Plasmodium falciparum Malaria Presenting with Gastrointestinal Symptoms in South Sudan: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261285/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 76,
-    "journal": "Infection and drug resistance",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Tran AD",
-      "Nguyen HT",
-      "Pham HK"
-    ],
-    "pmid": "42261285",
-    "doi": "10.2147/IDR.S601904",
-    "why": "Severe Plasmodium falciparum malaria typically presents with fever, chills, and features of multiple organ dysfunction; however, gastrointestinal manifestations may occur early and can be mistaken for gastrointestinal infection. We report the case of a 29-year-old Ghanaian man working in South Sudan who initially presented with nausea, vomiting, and diarrhea. He had not taken malaria chemoprophylaxis and reported inconsistent use of mosquito-prevention..."
-  },
-  {
-    "id": "pubmed-42237095",
-    "title": "Clofazimine against cerebral toxoplasmosis in diabetic and dexamethasone-immunosuppressed mice: ultrastructural and semiquantitative transmission electron microscopic study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42237095/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 74,
-    "journal": "BMC neuroscience",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Fahmy MA",
-      "Abdel-Aal AA",
-      "Hassan SI",
-      "Shalaby MA",
-      "Esmat M"
-    ],
-    "pmid": "42237095",
-    "doi": "10.1186/s12868-026-01008-3",
-    "why": "Cerebral toxoplasmosis is a common opportunistic parasitic infection of the CNS caused by the Toxoplasma gondii parasite. Host immunosuppression can affect disease outcomes. To explore the changes in the cerebral cortical ultrastructure accompanying the infection in different immune-altered models and to find an effective treatment against the infection, we tested the possible therapeutic effect of clofazimine (CFZ) (the FDA-approved antimycobacterial..."
-  },
-  {
-    "id": "pubmed-42231809",
-    "title": "Lead Optimization of TgCDPK1 Inhibitors for the Treatment of Toxoplasmosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42231809/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 72,
+    "ageHours": 243.6,
+    "score": 86,
     "journal": "Journal of medicinal chemistry",
-    "pubDate": "2026-06-03",
+    "pubDate": "2026-06-02",
     "authors": [
-      "Mannino MP",
-      "Gokanapalle A",
-      "Patil S",
-      "Kooner AS",
-      "Meena CL",
-      "Medcalf M"
+      "Forte B",
+      "Bellany F",
+      "Campbell PS",
+      "Chemi G",
+      "Dawson A",
+      "Anderson M"
     ],
-    "pmid": "42231809",
-    "doi": "10.1021/acs.jmedchem.6c00065",
-    "why": "Toxoplasma gondii is an important opportunistic pathogen that infects many individuals and threatens the health of those with compromised immunity. Current therapies are unable to eradicate chronic infections and pose risks of adverse reactions. Using X-ray structure-based drug design, we have developed a new series of biaryl-substituted pyrazolopyrimidine inhibitors of the essential parasite enzyme calcium-dependent protein kinase 1 (TgCDPK1). These..."
-  },
-  {
-    "id": "pubmed-42231089",
-    "title": "First Case of Congenital Toxoplasmosis After Maternal Reinfection in Colombia: Serotyping Evidence of Reinfection by Different Strains.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42231089/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.6,
-    "score": 70,
-    "journal": "The Pediatric infectious disease journal",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Beltrán-Higuera S",
-      "Moncada-Roa L",
-      "Torres-Morales E",
-      "Gómez-Marín JE"
-    ],
-    "pmid": "42231089",
-    "doi": "10.1097/INF.0000000000005307",
-    "why": "Herein, we report the first case of confirmed maternal reinfection in an immunocompetent woman, resulting in congenital toxoplasmosis in Colombia. The child was referred to an infectious disease pediatrician at 17 months of age because of strabismus and typical bilateral chorioretinitis scars with elevated immunoglobulin (Ig)G anti-Toxoplasma. The mother tested positive for Toxoplasma antibodies (IgG-positive and IgM-negative) in 2020. Four months before..."
+    "pmid": "42227818",
+    "doi": "10.1021/acs.jmedchem.6c00823",
+    "why": "A fused dihydropyrrolidino-pyrimidine hit with low lipophilicity and excellent ligand efficiency was identified in a biochemical screen of the Global Health Chemical Diversity Library (GHCDL) against Plasmodium lysyl-tRNA synthetase (KRS). Structure-guided lead optimization delivered analogues with potent parasite growth inhibition, excellent biochemical and cellular selectivity (>1000-fold), and oral efficacy in the malaria NOD-scid-IL2Rγnull (SCID)..."
   },
   {
     "id": "pubmed-42153709",
@@ -1202,7 +1210,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 555.6,
+    "ageHours": 579.6,
     "score": 68,
     "journal": "mBio",
     "pubDate": "2026-05-19",
@@ -1216,112 +1224,30 @@ window.researchItems = [
     "why": "Toxoplasmosis is a disease of worldwide distribution, causing high morbidity and mortality in humans, as well as heavily impacting animal health and the economy. Toxoplasma gondii, the causative agent, is an intracellular parasite with a complex life cycle whose completion entails asexual, pre-sexual, and sexual stage conversions. Pre-sexual and sexual differentiation take place only within the intestinal epithelium of felines. Recently, several..."
   },
   {
-    "id": "pubmed-42118117",
-    "title": "Spatial and temporal description of antimalarial drug resistance markers in Ghana using targeted amplicon deep sequencing.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42118117/",
+    "id": "pubmed-42070374",
+    "title": "Corrigendum to \"Heterologous DNA prime-crude tachyzoite lysate antigen boost targeting MIC8 confers protection against acute and chronic Toxoplasma gondii infection in mice\" [Vaccine 80 (2026) 128554].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42070374/",
     "source": "PubMed",
-    "tag": "Malaria parasite",
+    "tag": "Toxoplasma",
     "topics": [
-      "Malaria parasite"
+      "Toxoplasma"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 723.6,
-    "score": 86,
-    "journal": "Antimicrobial agents and chemotherapy",
-    "pubDate": "2026-05-12",
+    "ageHours": 987.6,
+    "score": 66,
+    "journal": "Vaccine",
+    "pubDate": "2026-05-02",
     "authors": [
-      "Tandoh KZ",
-      "Bruku SA",
-      "Opoku-Agyeman P",
-      "Ameyaw P",
-      "Baafi E",
-      "Frimpong AF"
+      "Peter AM",
+      "Ambu SP",
+      "Davamani FA",
+      "Somanath SD",
+      "Chakravarthi S"
     ],
-    "pmid": "42118117",
-    "doi": "10.1128/aac.01902-25",
-    "why": "Molecular markers give evidence of Plasmodium falciparum resistance to antimalarials. We determined the spatial and temporal distribution of antimalarial drug resistance markers in the P. falciparum population in Ghana using targeted amplicon deep sequencing. We contextualized our findings within the framework that duration of drug exposure and transmission intensity drive trends in molecular markers. About 87% (901/1,037) of samples collected from..."
-  },
-  {
-    "id": "pubmed-42037398",
-    "title": "Differential impact of Tafenoquine and Primaquine on Plasmodium vivax recurrence: the role of CYP2D6 variants.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42037398/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 1083.6,
-    "score": 84,
-    "journal": "Antimicrobial agents and chemotherapy",
-    "pubDate": "2026-04-27",
-    "authors": [
-      "Godinho VKC",
-      "Mwangi VI",
-      "Morais MC",
-      "Lopes APB",
-      "Alves JRdS",
-      "Brito MAM"
-    ],
-    "pmid": "42037398",
-    "doi": "10.1128/aac.01797-25",
-    "why": "Malaria, particularly by Plasmodium vivax, remains a significant public health challenge in endemic regions. P. vivax has the dormant liver-stage hypnozoites that can reactivate, causing relapses, even after the initial blood-stage infection has been cleared. The prevention of these relapses hinges on the use of 8-aminoquinolines such as primaquine (PQ) and tafenoquine (TQ). However, the efficacy of these treatments is associated with Cytochrome P450 2D6..."
-  },
-  {
-    "id": "pubmed-42037395",
-    "title": "Evaluating acridones as novel therapeutics for human babesiosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42037395/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 1083.6,
-    "score": 82,
-    "journal": "Antimicrobial agents and chemotherapy",
-    "pubDate": "2026-04-27",
-    "authors": [
-      "Vydyam P",
-      "Zhang E",
-      "Pal AC",
-      "Dodean RA",
-      "Kancharla P",
-      "Kelly JX"
-    ],
-    "pmid": "42037395",
-    "doi": "10.1128/aac.00016-26",
-    "why": "Human babesiosis is an emerging tick-borne disease caused by Babesia parasites, most notably Babesia microti and Babesia duncani in North America and Babesia divergens in Europe. Infections can be severe or persistent or relapse despite treatment, and current therapeutic options remain limited, underscoring the urgent need for new and effective treatment options. Acridone derivatives originally developed as potent antimalarial agents against multiple life..."
-  },
-  {
-    "id": "pubmed-41990733",
-    "title": "Prevalence of Plasmodium ovale and Plasmodium malariae Mixed Infections and Associated Mortality in Children with Severe Falciparum Malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41990733/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 1347.6,
-    "score": 80,
-    "journal": "The American journal of tropical medicine and hygiene",
-    "pubDate": "2026-04-16",
-    "authors": [
-      "Lima-Cooper G",
-      "Datta D",
-      "Bond C",
-      "Mellencamp KA",
-      "Namazzi R",
-      "Gupta M"
-    ],
-    "pmid": "41990733",
-    "doi": "10.4269/ajtmh.25-0514",
-    "why": "The prevalence and clinical significance of mixed Plasmodium infections in children with severe Plasmodium falciparum (P. falciparum) malaria are not well characterized. In a cohort of 440 Ugandan children hospitalized with severe malaria who were diagnosed with Plasmodium species via microscopy, nested polymerase chain reaction (nPCR) testing was used to detect P. falciparum, Plasmodium ovale (P. ovale), Plasmodium malariae (P. malariae), and Plasmodium..."
+    "pmid": "42070374",
+    "doi": "10.1016/j.vaccine.2026.128637",
+    "why": "PubMed 暂无摘要。"
   },
   {
     "id": "pubmed-41713101",
@@ -1334,8 +1260,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2763.6,
-    "score": 78,
+    "ageHours": 2787.6,
+    "score": 84,
     "journal": "Bioorganic chemistry",
     "pubDate": "2026-02-16",
     "authors": [
