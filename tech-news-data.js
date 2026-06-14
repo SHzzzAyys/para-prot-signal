@@ -1,5 +1,45 @@
-window.techNewsLastUpdated = "2026-06-13 05:02:37 +0000";
+window.techNewsLastUpdated = "2026-06-14 05:16:04 +0000";
 window.techNewsItems = [
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "pub_date": "2026-06-14",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "pub_date": "2026-06-14",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "description": "Once again, AI proves to be an unreliable source of information about AI.",
+    "pub_date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "pub_date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "pub_date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
   {
     "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
     "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -15,6 +55,190 @@ window.techNewsItems = [
     "pub_date": "2026-06-13",
     "source": "TechCrunch AI",
     "category": "AI 产业"
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "description": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
+    "pub_date": "2026-06-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
+    "pub_date": "2026-06-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM — Skytech's desktop gaming PC now just $1,499",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-beastly-gaming-rig-with-an-rtx-5060-ti-16gb-ryzen-7800x3d-and-32gb-of-ram-skytechs-desktop-gaming-pc-now-just-usd1-499",
+    "description": "Looking for a solid gaming PC but tired of seeing exorbitant prices on every retailer's website? We've got you covered with this prebuilt, equipped with high-quality components ready for 1440p gaming and more, with a clear upgrade path once prices settle down.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 — bipartisan opposition mounts nationwide over fears of soaring power and water costs",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs",
+    "description": "A research firm says the number of blocked data centers in the first quarter of 2026 already matches the number of projects stopped in 2025. The opposition also comes from both sides of the aisle, despite President Trump's push for more AI development inside the U.S.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory",
+    "description": "Powered by the Ryzen AI Max+ 395 processor and 128GB of unified memory, AMD's developer kit arrives as a direct competitor to Nvidia's DGX Spark, which recently saw a price increase to $4,699.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' — alleges its 'American company' rebrand is false advertising",
+    "link": "https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising",
+    "description": "Netgear filed counterclaims against TP-Link in federal court in Delaware on June 11, accusing its larger rival of false advertising under the Lanham Act.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time",
+    "description": "Nvidia now sells the RTX Pro 6000 Blackwell graphics cards for $13,250, while partner offerings start at $11,359.99.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+    "description": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as utilization rates higher than 5.7% could lead to losses.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel reportedly preparing surprise return to DDR4 systems with 'Raptor Lake Next' — LGA 1700 platform apparently slated for first half of 2027, takes a page from AMD's book by extending budget platform longevity",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-preparing-surprise-return-to-ddr4-systems-with-raptor-lake-next-ddr4-platform-slated-for-the-first-half-of-2027-on-the-lga-1700-socket-takes-a-page-from-amds-book-by-extending-budget-platform-longevity",
+    "description": "The name came up a few times during our conversations at Computex. Intel has declined to comment on it.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats — ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-export-control-order-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-worldwide",
+    "description": "Anthropic disabled its two most capable AI models, Claude Fable 5 and Claude Mythos 5, for every customer worldwide on Friday.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Ukraine used ten AI-controlled ‘Terminator’ drones to kill Russian soldiers two years ago, marking first autonomous killings of humans — autonomous killer quadcopters left ‘everything dead’ says senior Ukrainian defense industry figure",
+    "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+    "description": "A watershed moment occurred on the battlefields of Ukraine in 2024 when 10 fully autonomous AI-controlled quadcopter drones were sent to the front lines against Russia with ‘Terminator Mode’ engaged.",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Dev releases ‘unblockable’ ASCII video stream software, stoking fears of unstoppable ads — delivers 360p video at 30 FPS and acts as a ‘bridge for AI’",
+    "link": "https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text",
+    "description": "A new and unique video streaming solution is pitched as a 'high-performance, real-time ASCII video rendering engine' that can be used to broadcast 'an unblockable video stream.'",
+    "pub_date": "2026-06-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Apple Wants Its Future Drone Swarms To Stop Overwhelming 4G And 5G Networks, As Per A New Patent Application",
+    "link": "https://wccftech.com/apple-wants-its-future-drone-swarms-to-stop-overwhelming-4g-and-5g-networks-as-per-a-new-patent-application/",
+    "description": "Apple might have abandoned its ambitious dreams for the Apple Car, but the project's ethos-laden spirit apparently lives on in the form of a secretive drone project, as hinted within a recent patent application filed by the Cupertino-based tech giant. Apple's patent tackles the very real challenge of network congestion, which can be spurred by a swarm of drones that constantly exchange information with cell towers Apple has now filed a patent application that aims to tackle the core network cong",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella Says Xbox Must Finally Become a Sustainable Business After 25 Years of Investment",
+    "link": "https://wccftech.com/satya-nadella-xbox-sustainable-business/",
+    "description": "The week that ends tomorrow easily ranks at the very top when it comes to the sheer amount of public statements made by Xbox and Microsoft executives in the span of a few days. Through a series of interviews, Xbox CEO Asha Sharma and Chief Strategy Officer Matthew Ball outlined a bold plan to rescue the division from its low margins (and the potential spin-off, joint venture, or sale by the parent company). Yesterday, in a video interview with Hard Fork, Microsoft CEO Satya Nadella claimed no on",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "IQUNIX EV63 Ghost in the Shell Magnetic Keyboard Review: Gorgeous Design With Blazing-Fast Performance",
+    "link": "https://wccftech.com/review/iqunix-ev63-ghost-in-the-shell-magnetic-keyboard-review/",
+    "description": "After bringing the EV63 as the flagship Hall Effect 60% keyboard that brings an unparalleled gaming experience, IQUNIX is back with its EV63 \"Ghost in the Shell\" edition, which it showcased at the Computex event recently. The EV63 Ghost in the Shell is based on the standard EV63 but brings some noticeable changes to both the appearance and hardware, bringing a special experience to the desk that enthusiasts would love. I was lucky to get the EV6 Ghost in the Shell edition keyboard, which essenti",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD Says MacBook Neo Can’t Run All Your Games While Ryzen-Based Laptops Can",
+    "link": "https://wccftech.com/amd-says-macbook-neo-cant-run-all-your-games-while-ryzen-based-laptops-can/",
+    "description": "It's a weird comparison AMD made, but here we are, back at the Windows vs Mac debate that nobody needed. AMD Taunts Apple's MacBook Neo Over Gaming, Boasting Ryzen Laptops Run 20 of 20 Titles While Mac Manages Only 5 Windows vs. macOS debate seems never-ending, but it's surprising when it comes from one of the major chip manufacturers. AMD suddenly woke up and posted new marketing material that advertised Ryzen capabilities while taking a jab at the cost-effective MacBook Neo. Instead of directl",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel Reportedly Prepares Itself For Raptor Lake ‘NEXT’, As The Demand For DDR4 Platform Increases Significantly",
+    "link": "https://wccftech.com/intel-reportedly-prepares-itself-for-raptor-lake-next/",
+    "description": "Intel is once again down for another Refresh for its Raptor Lake series and as per the report, it's set to launch it next year. Intel Aims for DDR4 Abundance in the Market Through Releasing New Raptor Lake Refreshes Alongside Nova Lake CPUs Intel Raptor Lake has witnessed multiple refreshes in recent years. After the success of the 13th-gen Raptor Lake family, Intel followed up with the 14th-gen Raptor Lake Refresh. Even after the release of Intel's Arrow Lake, aka Core Ultra Series 2 processors",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD Brings Advanced Shader Delivery Across All RDNA GPUs, Slashing Game Load Times By 95%",
+    "link": "https://wccftech.com/amd-brings-advanced-shader-delivery-across-all-rdna-gpus-slashing-game-load-times/",
+    "description": "AMD is expanding Advanced Shader Delivery support across its entire RDNA GPU stack, starting with RDNA 1 and up to RDNA 4. Microsoft Advanced Shader Delivery Lands On All AMD RDNA GPUs, Giving Load Times A Big Boost Microsoft's Advanced Shader Delivery is now being expanded through general availability via the Xbox PC App, and GPUs such as AMD's RDNA series are able to take advantage of ASD in the latest titles. As per Microsoft, they have partnered with AMD to invest in and improve the experien",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA’s 96 GB RTX PRO 6000 Blackwell Is Now Over 50% More Expensive As Price Hits $13,250",
+    "link": "https://wccftech.com/nvidia-96-gb-rtx-pro-6000-blackwell-price-hits-13250-over-50-percent-hike/",
+    "description": "NVIDIA's fastest PRO graphics card, the RTX 6000 Blackwell, continues to see price hikes with the latest official listing of $13,250. NVIDIA RTX PRO 6000 Blackwell & RTX 5090 Graphics Cards Continue To Face Price Hikes Due To Memory Shortages & Rising AI Demand Last month, we reported that NVIDIA's RTX PRO 6000 Blackwell GPUs had breached the $10,000 US price point, but that was just the beginning. Now, NVIDIA has officially listed the card for an even higher price. Over at the official NVIDIA m",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "CachyOS Proton Can Now Download DLSS Files To Enable FSR 4 In More Linux Games",
+    "link": "https://wccftech.com/cachyos-proton-can-now-download-dlss-files-to-enable-fsr-4-in-more-linux-games/",
+    "description": "A new Proton-CachyOS update can automatically download NVIDIA DLSS DLL files when using Optiscaler, allowing AMD users to enable FSR 4 in more games. Linux Gamers Can Now Enable AMD FSR 4 in More DLSS-Only Games Thanks to Proton-CachyOS Update Linux gaming has taken another step forward, thanks to a new update that changes how one can enable FSR 4 in games. The new update just dropped for Proton-CachyOS, which allows the compatibility layer to automatically download and create the DLSS-related f",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Asha Sharma’s Xbox Overhaul Targets Fallout, and Obsidian’s The Outer Worlds Team Looks Like the Perfect Fit",
+    "link": "https://wccftech.com/obsidian-fallout-asha-sharma-xbox/",
+    "description": "Obsidian Entertainment has created a lot of great roleplaying games over its 23-year history (the studio's anniversary was yesterday, by the way), but there is little doubt that its name, in the minds of the gaming mainstream, is synonymous with that of Fallout: New Vegas. The game wasn't actually a unanimous critical darling (it famously \"only\" got an average Metacritic score of 84, thus narrowly missing the 85 Metacritic score clause that Bethesda had added in the contract for an extra payout)",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs",
+    "link": "https://wccftech.com/amd-tackles-nvidia-4679-usd-dgx-spark-ai-pc-with-its-3999-ryzen-ai-halo-now-available/",
+    "description": "AMD has officially launched its Ryzen AI Halo AI PC, which offers super-fast token throughput at a $3999 price point. AMD Challenges DGX Spark With Its Strix Halo-Equipped Ryzen AI Halo \"AI PC\" That Costs $679 US Lower The first AMD Ryzen AI Halo platforms are now available on retail, and are listed at the official MSRP of $3999. These systems pack the Ryzen AI MAX+ 395 SoC, 128 GB of memory, and lots of AI horsepower within a compact form factor that challenges NVIDIA's DGX Spark at a much lowe",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "CI Games Rebuilds Lords of the Fallen 2’s Umbral Realm After Criticism It Felt “Too Static” in Earlier Footage",
+    "link": "https://wccftech.com/ci-games-lords-of-the-fallen-2-umbral-realm-static-criticism/",
+    "description": "During Summer Game Fest 2026, CI Games confirmed what we had already assumed when the publisher announced it had purchased back the publishing rights for Lords of the Fallen 2: it's no longer an Epic Games Store exclusive on PC. Moreover, the studio also revealed that a Nintendo Switch 2 version is in the works and will be released later this year alongside the PC, PlayStation 5, and Xbox Series S and X versions. Today, in the tenth episode of the Lifting the Veil videocast series, the developer",
+    "pub_date": "2026-06-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
   },
   {
     "title": "Trillionaire Elon Musk Wants To Take His Partnership With NVIDIA To The “Next Level” After A Historic SpaceX IPO",
@@ -97,6 +321,30 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
+    "title": "My yard is dying, so I made an app for that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "description": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
+    "pub_date": "2026-06-12",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "description": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]",
+    "pub_date": "2026-06-12",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "description": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of […]",
+    "pub_date": "2026-06-12",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
     "title": "Siri is good now??",
     "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
     "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
@@ -132,14 +380,6 @@ window.techNewsItems = [
     "title": "Siri won’t be your AI girlfriend",
     "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
     "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many […]",
-    "pub_date": "2026-06-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
-    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-    "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations […]",
     "pub_date": "2026-06-12",
     "source": "The Verge AI",
     "category": "AI 产业"
@@ -398,342 +638,6 @@ window.techNewsItems = [
     "description": "Nintendo has instituted temporary restrictions on buying a Nintendo Switch 2 in Japan, though the restrictions don't apply to every Switch 2 sold in the company's home base. Users looking for the multilingual Switch 2 in Japan will have a tougher time finding one, as Nintendo adds new restrictions and suspends the sale of multi-language consoles, under suspicion that customers are hoarding them for scalping and reselling purposes. You may recall that there are two kinds of Switch 2's you can buy",
     "pub_date": "2026-06-12",
     "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Google Tried Charging A Pixel 9 Owner $400 To Fix Green Display Lines That Appeared Right After Its Own Security Update",
-    "link": "https://wccftech.com/google-tried-charging-a-pixel-9-owner-400-to-fix-green-display-lines-that-appeared-right-after-its-own-security-update/",
-    "description": "Unsightly green lines marring your otherwise pristine OLED or AMOLED screens has become a veritable bane in the Android sphere over the past few years. Now, Google's Pixel 9 smartphones are reportedly developing this issue after a recent update, and Google seems to have no idea what's triggering these defects. A Redditor was able to convince Google to grant him a goodwill replacement on his Pixel 9 after its display developed unsightly green lines following a security update A Redditor, who goes",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Huawei’s HarmonyOS Can Be Further Optimized To Run On 64KB RAM While Running On A Single Dry Cell Battery For A Year, Says Executive Director",
-    "link": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
-    "description": "The U.S. ban hammer pushed Huawei into a corner, and with no way to run Android on its devices, the company that was once poised to become the largest smartphone manufacturer in the world was now limited to its home turf in China. Not wanting to accept its fate, Huawei introduced HarmonyOS, its microkernel-based platform capable of running on different classes of products, and during the company’s keynote, an executive mentioned that the operating system can be optimized to run on measly 64KB of",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "New STALKER 2: Cost of Hope DLC Trailer Digs Into Tense New Campaign Ahead of Summer 2026 Launch",
-    "link": "https://wccftech.com/stalker-2-cost-of-hope-dlc-new-trailer-release-date/",
-    "description": "STALKER 2: Cost of Hope is the upcoming DLC expansion for GSC Game World's powerhouse of tense first-person shooter survival gameplay that is STALKER 2: Heart of Chornobyl. It'll arrive at some point this coming summer, and ahead of that launch, GSC Game World just debuted a new story trailer, setting the stage for another journey into the Zone. This new expansion puts players in the middle of the conflict between two factions, while joining Zulu and Mavka as they endure the Zone to try to uncov",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD’s RX 9070 XT Finally Crashes Steam Survey At 1.33% Share, Closing The Gap On NVIDIA’s RTX 5080 After A Year In Hiding",
-    "link": "https://wccftech.com/amds-rx-9070-xt-finally-crashes-steam-survey-at-1-33-share-closing-the-gap-on-nvidias-rtx-5080-after-a-year-in-hiding/",
-    "description": "Finally, the most popular AMD GPUs are visible in the Steam database after their launch nearly one year ago. May 2026 Steam Hardware Survey Reveals RX 9070 XT With 1.33% Share While RX 9060 XT Appears With 0.72% Share After Missing For a Whole Year From the time of the launch of RDNA 4 GPUs, most RX 9000 series GPUs never made it to the Steam Hardware Survey. Despite seeing some of the RDNA 4 GPUs dominate the charts on major retailers, they remained absent from the Steam database, while the GeF",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD Refused To Replace A Swollen Ryzen 9 7950X3D Until Hardware Unboxed Warned It Would Become ‘Another Marketing Disaster’",
-    "link": "https://wccftech.com/amd-refused-to-replace-a-swollen-ryzen-9-7950x3d-until-hardware-unboxed-warned-it-would-become-another-marketing-disaster/",
-    "description": "The customer will now receive a replacement for his damaged Ryzen 9 7950X3D, though it took intervention from a YouTuber for AMD to reverse course. AMD Resolves Damaged Ryzen 9 7950X3D Issue, For Which it Refused to Provide a Replacement Earlier Recently, a user reported that he had his Ryzen 9 7950X3D unexpectedly damaged despite having no manual overclocking done to the chip. After inspection, it appeared that the substrate of the Ryzen 9 7950X3D was swollen, so the customer sent it for RMA to",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Alkimia Interactive’s Gothic 1 Remake Cuts Through the Summer Game Fest Craze, Hits 500K Copies Sold in First Week",
-    "link": "https://wccftech.com/gothic-1-remake-500k-copies-sold-first-week-summer-game-fest/",
-    "description": "The recently released Gothic 1 Remake from developer Alkimia Interactive and publisher THQ Nordic has officially reached 500,000 copies sold in just its first week on digital store shelves, the studio announced. It's a significant milestone not just because of its scale, but because it's done so during one of the nosiest months in the video game industry, Summer Game Fest 2026. This remake has been a long time coming, and the original Gothic was such an influential release when it first arrived ",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "LG Stretches Its UltraGear OLED Lineup To 45 Inches With Curved 800R Panels Hitting 1,300 Nits And 240Hz",
-    "link": "https://wccftech.com/lg-launches-39gx90sb-and-45gx90sb-curved-oled/",
-    "description": "The company is adding newer OLED models to its OLED catalog, this time, bringing large-sized displays that offer a curved screen. LG Launches 39GX90SB and 45GX90SB Curved OLED Gaming Monitors, Featuring 800R Curved WOLED Panels The OLED sphere has become highly competitive for monitor makers. Almost every monitor maker is introducing new and innovative displays that bring distinguished features. OLED displays are no longer limited to just the same display sizes, resolutions, and refresh rates. T",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel’s 18-Core Core Ultra 7 251HX Quietly Matches 20-Core Siblings In PassMark, Edges Them Out In Single-Core",
-    "link": "https://wccftech.com/intel-core-ultra-7-251hx-benchmarked-on-passmark-for-the-first-time/",
-    "description": "The newer Arrow Lake processor doesn't trail behind CPUs with more cores, and surprisingly delivers results that are on par with them. Intel Core Ultra 7 251HX Delivers Slightly Higher Single and Multi-Core Performance Than Ultra 7 255HX and Ultra 7 265HX in PassMark The Intel Core Ultra 7 251HX is one of the latest additions to the Arrow Lake-HX family, if you remember our recent posts on the processor. Previously, it was spotted in a Cinebench R23 benchmark, where it was delivering superior re",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Xbox Bleeds Hundreds of Dollars per Series S|X Sold as Memory Costs Spike 700%, Report Claims",
-    "link": "https://wccftech.com/xbox-bleeds-hundreds-series-sx-memory-costs-spike-report/",
-    "description": "A few hours ago, Windows Central's Jez Corden published a deep dive into Xbox's complex situation, outlined earlier this week by CEO Asha Sharma, with the division only keeping a weak 3% margin after costs. This is why Sharma's next goal after cutting the Game Pass Ultimate price and relaunching the exclusivity program is to \"reset\" Xbox, including an upcoming round of layoffs (rumored to be up to a thousand) and possibly even a studio closure, with Double Fine and Compulsion Games believed to b",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "MSI Chairman Warns Memory & GPU Shortages Will Drag Into 2026, But Says CPU Supply Will Get Better By Q3",
-    "link": "https://wccftech.com/msi-warns-memory-gpu-shortages-will-drag-into-2026-but-cpu-supply-will-get-better-by-q3/",
-    "description": "MSI says that it expects memory and GPU shortages to persist, but CPU supply will get better in the coming quarters. PC Market Was Down 20% & GPU Supply Sees 30% Reduction Due To Memory Shortages, But CPUs Are About To See Better Availability Soon Chairman of MSI (Micro-Star International), Hsu Hsiang, has talked about the PC market & the shortages that currently grip the segments. We know that ever since the rise of Agentic AI and its massive demand for compute, component prices have swelled be",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Unreal Engine 5 Won’t Lock Players Out Of Phantom Blade Zero, As Dev Vows Low-End Hardware and Steam Deck Optimization",
-    "link": "https://wccftech.com/unreal-engine-5-phantom-blade-zero-low-end-hardware/",
-    "description": "Powered by Unreal Engine 5, Phantom Blade Zero is set to be one of the most stunning action games launching in the PlayStation 5 and Xbox Series X|S generation, but developer S-Game's choice of engine will not prevent those playing on low-end hardware from enjoying the game, as game director Qiwei \"Soulframe\" Liang promised a smooth experience on every format, even on Steam Deck. Speaking with PC Gamer, Liang highlighted how aware the team is of the rising prices of gaming hardware due to the AI",
-    "pub_date": "2026-06-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-    "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-    "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Pool’s new app turns your screenshots into something useful",
-    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-    "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "description": "The decision comes as India emerges as the world’s largest GCC market.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "pub_date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
-    "pub_date": "2026-06-11",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Agentic AI Is Changing Data Center Architectures",
-    "link": "https://semiengineering.com/agentic-ai-is-changing-data-center-architectures/",
-    "description": "Standalone GPUs are being replaced by heterogeneous SoCs and chiplets that combine CPUs, GPUs, and NPUs to eliminate memory bottlenecks, reduce latency, and boost efficiency. The post Agentic AI Is Changing Data Center Architectures appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-11",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Can AI Create Missing Models?",
-    "link": "https://semiengineering.com/can-ai-create-missing-models/",
-    "description": "It depends on what those models are used, which also can have a big impact on the cost. The post Can AI Create Missing Models? appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-11",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Mastering 3D-IC Verification Complexity",
-    "link": "https://semiengineering.com/mastering-3d-ic-verification-complexity/",
-    "description": "Multiphysics analysis for advanced packaging. The post Mastering 3D-IC Verification Complexity appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-11",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Clocked DDR5 Client Memory Modules Enable Scaling To 9600 MT/s For AI PCs",
-    "link": "https://semiengineering.com/clocked-ddr5-client-memory-modules-enable-scaling-to-9600-mt-s-for-ai-pcs/",
-    "description": "Reliable performance at higher data rates requires tight coordination between clocking, power delivery, and system-level management. The post Clocked DDR5 Client Memory Modules Enable Scaling To 9600 MT/s For AI PCs appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-11",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "How To Start Building Edge-Native AI",
-    "link": "https://semiengineering.com/how-to-start-building-edge-native-ai/",
-    "description": "Packet-based architecture enables out-of-order execution to optimize hardware utilization without retraining the model. The post How To Start Building Edge-Native AI appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-11",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options",
-    "link": "https://www.eetimes.com/rebellions-bets-on-memory-centric-architecture-as-it-weighs-ipo-options/",
-    "description": "Rebellions leverages memory-centric AI chip designs with SK Hynix and Samsung to fuel IPO ambitions. The post Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options appeared first on EE Times.",
-    "pub_date": "2026-06-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "GigaDevice Introduces GD32E512 and GD32E252 MCUs for Optical Modules",
-    "link": "https://www.eetimes.com/gigadevice-introduces-gd32e512-and-gd32e252-mcus-for-optical-modules/",
-    "description": "GigaDevice has introduced the new GD32E512 and GD32E252 series MCUs specifically designed for optical module applications. The post GigaDevice Introduces GD32E512 and GD32E252 MCUs for Optical Modules appeared first on EE Times.",
-    "pub_date": "2026-06-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "RISC-V Targets Data Centers, Edge AI, Space",
-    "link": "https://www.eetimes.com/risc-v-targets-data-centers-edge-ai-space/",
-    "description": "\"RISC-V is now,\" said Andrea Gallo, CEO of RISC-V International, during his keynote at this week's RISC-V Summit Europe 2026 in Bologna. The post RISC-V Targets Data Centers, Edge AI, Space appeared first on EE Times.",
-    "pub_date": "2026-06-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Logistics Leaders Navigate Cost and Automation",
-    "link": "https://www.eetimes.com/logistics-leaders-navigate-cost-and-automation/",
-    "description": "Gartner's VP analyst David Gonzalez shares strategies for profitability and technology in supply chain management. The post Logistics Leaders Navigate Cost and Automation appeared first on EE Times.",
-    "pub_date": "2026-06-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash — used AI-generated cartoons to stoke fears over U.S. data center energy costs",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-china-linked-chatgpt-accounts-that-amplified-us-data-center-electricity-price-backlash",
-    "description": "OpenAI says it has banned two clusters of ChatGPT accounts it believes are operating from China, and that used its models for covert influence campaigns targeting U.S. tech and policy debates.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Memory famine compels GPU vendors to re-release 2020 graphics cards — GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
-    "link": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
-    "description": "Graphics card manufacturer Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "After spat with Chinese gov't, Meta cuts AI Manus off from its internal systems and is 'sunsetting' platform, report claims — Beijing-ordered breakup of $2 billion AI deal begins",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-cuts-manus-off-from-its-internal-systems-as-china-ordered-breakup-of-2-billion-ai-deal-begins",
-    "description": "Meta has finished separating its operations from Manus, the Chinese-founded agentic AI startup it acquired for roughly $2 billion in December.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Razer Blade 18 (2026) review: Coming in fast and hot",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review",
-    "description": "The Razer Blade 18 is a large gaming rig with an 18-inch dual-mode display and strong performance, but it runs hot and is very expensive.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Watching the World Cup online is easier with these VPN deals — deals for watching the FIFA World Cup 2026",
-    "link": "https://www.tomshardware.com/software/vpn/watching-the-world-cup-online-shouldnt-risk-your-precious-data-or-cost-you-the-earth-save-money-on-these-vpn-deals-now",
-    "description": "A choice of VPN subscriptions to cover you over the FIFA World Cup 2026 and beyond. Stay safe online for less.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Logi Mobi Fold portable mouse bends in half and slides neatly into your pocket — wireless mouse has a month-long battery life",
-    "link": "https://www.tomshardware.com/peripherals/mice/logi-mobi-fold-portable-mouse-bends-in-half-and-slides-neatly-into-your-pocket-wireless-mouse-has-a-battery-life-that-will-last-up-to-a-month",
-    "description": "Logitech's new Mobi Fold mouse neatly bends in half and can be easily carried around in a pocket, making it ideal for laptop users on the go, and far less bulky than conventional offerings, while having an arguably more ergonomic shape.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Gaming PC deflects bullet shot through wall by neighbour, saving owner's life — criminal negligence charges for culprit who claims 'firearm was accidentally discharged by her dog'",
-    "link": "https://www.tomshardware.com/desktops/pc-building/gaming-pc-deflects-bullet-shot-through-wall-by-neighbour-saving-owners-life-criminal-negligence-charges-for-culprit-who-claims-firearm-was-accidentally-discharged-by-her-dog",
-    "description": "A Redditor's powerful gaming PC just might have just saved their life after its splintered G.Skill RAM sticks diverted a bullet shot through the wall.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Crushing shortages force Biwin into $1.86 billion NAND deal for SSDs — multi-year agreement locks in fixed pricing as spot market threatens to dry up",
-    "link": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-force-biwin-into-usd1-86-billion-nand-deal-for-ssds-multi-year-agreement-locks-in-fixed-pricing-as-spot-market-threatens-to-dry-up",
-    "description": "Biwin signs a 24-months supply agreement with an unknown NAND maker to get memory worth $1.86 billion.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Get 32GB DDR5 for just $280, $100 less than elsewhere, in this epic Newegg combo deal — save 23% on this gaming PC parts bundle featuring Intel's fastest gaming CPU in years, along with a Z890 motherboard for just $769.99",
-    "link": "https://www.tomshardware.com/pc-components/get-32gb-ddr5-for-just-usd280-usd100-less-than-elsewhere-in-this-epic-newegg-combo-deal-save-23-percent-on-this-gaming-pc-parts-bundle-featuring-intels-fastest-gaming-cpu-in-years-along-with-a-z890-motherboard-for-just-usd769-99",
-    "description": "Save $230 on this fast Intel Core Ultra 7 270K Plus CPU with a Z890 motherboard and 32GB of DDR5-6000 memory, now just $769.99.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AI is set to consume up to 600 billion gallons of water by 2030 — rising energy consumption primarily to blame as data center power demands rise",
-    "link": "https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise",
-    "description": "Direct cooling data center GPUs uses only a fraction of the water required to keep them running, and with plans for future GPUs and rack systems to be even more power hungry, this problem could make data centers even more of a resource hog.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Massive 8TB SD cards are set to ship 'shortly' after a two-year delay — mind-blowing storage at possibly bank-breaking prices",
-    "link": "https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices",
-    "description": "Notebookcheck reports that 8TB SD cards will soon hit the retail market, although an exact launch date and pricing remain a mystery.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "We tested 20 wall chargers, from cheap to expensive, to find the best — from 15W to 140W, here are the chargers that perform the best without overheating and throttling",
-    "link": "https://www.tomshardware.com/peripherals/usb/we-tested-20-wall-chargers-from-cheap-to-expensive-to-see-what-we-would-find-from-15-140w-with-screens-and-without",
-    "description": "We tested the top 20 chargers on the market across different power segments to find out which models provide the most consistent power and the best charging experience without thermal throttling.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 — spat over 4TB 990 Pro SSD is headed to court",
-    "link": "https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty",
-    "description": "Right to Repair activist Louis Rossman threatens to sue Samsung after the SSD maker failed to replace his dead 990 Pro 4TB SSD under warranty.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures — Nashville weighs sweeping hyperscale ban",
-    "link": "https://www.tomshardware.com/tech-industry/nashville-considers-hyperscale-data-center-ban-as-zoo-dispute-escalates",
-    "description": "An ongoing fight over a proposed data center sited just 50 yards from Nashville Zoo has escalated further, with the zoo’s land use attorney filing a zoning appeal to overturn permits already approved.",
-    "pub_date": "2026-06-11",
-    "source": "Tom's Hardware",
     "category": "芯片/市场"
   }
 ];
