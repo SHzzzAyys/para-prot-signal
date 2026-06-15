@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-06-14 03:40:58 +0000
+# PubMed Research Feed — 2026-06-15 03:56:02 +0000
 
-共 **48** 篇文章（Toxoplasma 17 · Plasmodium 25 · Malaria parasite 10）
+共 **44** 篇文章（Toxoplasma 13 · Plasmodium 25 · Malaria parasite 10）
 
 ---
 
@@ -71,15 +71,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Gene-edited live-attenuated vaccines against Toxoplasma gondii: recent advances and future frontiers.](https://pubmed.ncbi.nlm.nih.gov/42252477/) | Parasites & vectors | Toxoplasma | [10.1186/s13071-026-07454-6](https://doi.org/10.1186/s13071-026-07454-6) |
-
-## 2026-06-06
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Molecular detection of Toxoplasma gondii in an aborted equine fetus and serological evidence of infection in mares enrolled in embryo transfer programs in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42252005/) | Journal of equine veterinary science | Toxoplasma | [10.1016/j.jevs.2026.106054](https://doi.org/10.1016/j.jevs.2026.106054) |
-| 2 | [Parasitic infections in solid organ transplant.](https://pubmed.ncbi.nlm.nih.gov/42250645/) | The American journal of the medical sciences | Toxoplasma | [10.1016/j.amjms.2026.06.002](https://doi.org/10.1016/j.amjms.2026.06.002) |
-| 3 | [Integrative whole-transcriptome analysis of circRNAs, lncRNAs, miRNAs, and mRNAs reveals regulatory networks in mouse brain during Toxoplasma gondii infection.](https://pubmed.ncbi.nlm.nih.gov/42250600/) | Veterinary journal (London, England : 1997) | Toxoplasma | [10.1016/j.tvjl.2026.106737](https://doi.org/10.1016/j.tvjl.2026.106737) |
-| 4 | [Prophylactic Administration of Gypsophila oldhamiana Extract Restricts Acute Toxoplasma gondii Infection via the DC-IL-12-CD8⁺ T Cell Axis in a Murine Model.](https://pubmed.ncbi.nlm.nih.gov/42250127/) | Acta parasitologica | Toxoplasma | [10.1007/s11686-026-01296-z](https://doi.org/10.1007/s11686-026-01296-z) |
 
 ## 2026-06-03
 
