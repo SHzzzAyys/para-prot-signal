@@ -1,5 +1,135 @@
-window.researchLastUpdated = "2026-06-17 03:44:29 +0000";
+window.researchLastUpdated = "2026-06-18 03:36:39 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42307231",
+    "title": "Plasmodium vivax malaria in India: microbiological barriers to diagnosis, treatment, and elimination.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42307231/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.6,
+    "score": 100,
+    "journal": "Clinical microbiology reviews",
+    "pubDate": "2026-06-17",
+    "authors": [
+      "Kumar C",
+      "Bharti PK",
+      "Gupta H"
+    ],
+    "pmid": "42307231",
+    "doi": "10.1128/cmr.00025-26",
+    "why": "SUMMARYPlasmodium vivax remains a major barrier to global malaria elimination due to dormant liver-stage hypnozoites that drive relapse and sustain transmission even in low-endemic settings. India accounts for nearly half of the global P. vivax burden, placing it at the center of elimination efforts. This review synthesizes current evidence on the epidemiology, biology, and control of P. vivax in India. Despite progress, early gametocytogenesis..."
+  },
+  {
+    "id": "pubmed-42304683",
+    "title": "Characterising the circulation of gametocytes and mosquito infectivity in induced blood stage malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42304683/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.6,
+    "score": 96,
+    "journal": "The Journal of infectious diseases",
+    "pubDate": "2026-06-17",
+    "authors": [
+      "Marquart-Wilson L",
+      "Alkema M",
+      "Collins K",
+      "Lanke K",
+      "O'Rourke P",
+      "Llewellyn S"
+    ],
+    "pmid": "42304683",
+    "doi": "10.1093/infdis/jiag301",
+    "why": "BACKGROUND: Understanding the influence of gametocyte dynamics on transmission of Plasmodium falciparum from humans to mosquitoes may support malaria elimination initiatives. METHODS: Longitudinal parasitemia, gametocytemia and mosquito transmission data from 91 participants in 9 controlled human malaria infection studies conducted in Brisbane, Australia (n=8) and Nijmegen, Netherlands (n=1) were analysed to explore the relationship of parasite and..."
+  },
+  {
+    "id": "pubmed-42304443",
+    "title": "Vaccination with live-attenuated Toxoplasma gondii mutants RHΔtkl1 and PruΔpp2a-c induces protective immunity in sheep.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42304443/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 100,
+    "journal": "Parasites & vectors",
+    "pubDate": "2026-06-16",
+    "authors": [
+      "Wu ZX",
+      "Kang Y",
+      "Hao WB",
+      "Wang YX",
+      "Zheng Z",
+      "Huang SB"
+    ],
+    "pmid": "42304443",
+    "doi": "10.1186/s13071-026-07516-9",
+    "why": "BACKGROUND: Toxoplasma gondii is a globally distributed intracellular parasitic protozoan. It infects nearly all warm-blooded animals and causes a zoonotic disease of worldwide significance. Currently, the only commercially available vaccine, Toxovax®, is solely used for the prevention of Toxoplasma-induced abortion in sheep, but it has limitations such as a short shelf life and the potential of reversion to virulence. This study evaluated the safety and..."
+  },
+  {
+    "id": "pubmed-42304102",
+    "title": "A dual-antigen mRNA-lipid polyplex vaccine elicits durable multistage immunity and sterile protection against malaria in mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42304102/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 94,
+    "journal": "Acta pharmacologica Sinica",
+    "pubDate": "2026-06-16",
+    "authors": [
+      "Wang X",
+      "Wang A",
+      "Huang W",
+      "Tian P",
+      "Cao L",
+      "Xiao B"
+    ],
+    "pmid": "42304102",
+    "doi": "10.1038/s41401-026-01850-5",
+    "why": "Malaria remains one of the most devastating infectious diseases worldwide, predominantly caused by Plasmodium falciparum. Although the RTS,S and R21 vaccines have demonstrated partial efficacy, durable and broad protection across multiple parasite life stages remains an unmet need. Here, we report the development of a lipid-polyplex (LPP)-formulated mRNA vaccine platform targeting both the pre-erythrocytic and blood stages of P. falciparum. We designed..."
+  },
+  {
+    "id": "pubmed-42302954",
+    "title": "Ultrastructural evidence of autophagy-related processes and mitochondrial remodeling in the myxozoan parasite Henneguya piaractus.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42302954/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.6,
+    "score": 92,
+    "journal": "Journal of structural biology",
+    "pubDate": "2026-06-16",
+    "authors": [
+      "Capodifoglio KRH",
+      "Schneberger F",
+      "Maia AAM",
+      "de Paiva MJTR"
+    ],
+    "pmid": "42302954",
+    "doi": "10.1016/j.jsb.2026.108344",
+    "why": "Henneguya piaractus is a myxozoan parasite infecting the gills of Piaractus mesopotamicus, yet its cellular biology remains poorly understood. Here, we investigated mitochondrial organization and the occurrence of autophagy-related processes using an integrated approach combining confocal laser microscopy and transmission electron microscopy. SSU rDNA sequencing (1546 bp) confirmed species identity, showing 99.7% similarity to available H. piaractus..."
+  },
   {
     "id": "pubmed-42300840",
     "title": "Proteogenomic Analysis of CDPK1 Mutant in Plasmodium falciparum.",
@@ -11,8 +141,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 100,
+    "ageHours": 51.6,
+    "score": 90,
     "journal": "Omics : a journal of integrative biology",
     "pubDate": "2026-06-16",
     "authors": [
@@ -36,8 +166,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 98,
+    "ageHours": 51.6,
+    "score": 88,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-16",
     "authors": [
@@ -63,8 +193,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 96,
+    "ageHours": 51.6,
+    "score": 86,
     "journal": "Journal of medical case reports",
     "pubDate": "2026-06-16",
     "authors": [
@@ -85,8 +215,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 84,
+    "ageHours": 51.6,
+    "score": 86,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-16",
     "authors": [
@@ -112,8 +242,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 80,
+    "ageHours": 51.6,
+    "score": 82,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-16",
     "authors": [
@@ -139,8 +269,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.7,
-    "score": 76,
+    "ageHours": 51.6,
+    "score": 78,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-16",
     "authors": [
@@ -166,8 +296,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 100,
+    "ageHours": 75.6,
+    "score": 98,
     "journal": "Infection and immunity",
     "pubDate": "2026-06-15",
     "authors": [
@@ -183,6 +313,33 @@ window.researchItems = [
     "why": "Zoonotic infections constitute a major cause of reproductive failure and perinatal mortality in humans and animals. Among the most relevant etiological agents are Listeria monocytogenes, Brucella spp., and Toxoplasma gondii, which, despite distinct biological properties, share the capacity to breach placental defenses, establish intracellular niches, and impair fetal development. This review aims to synthesize current knowledge on the pathological and..."
   },
   {
+    "id": "pubmed-42305886",
+    "title": "Biological activity of Juglans regia leaf extract and in silico evaluation of its phytochemicals against Plasmodium berghei target proteins.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42305886/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.6,
+    "score": 98,
+    "journal": "Helminthologia",
+    "pubDate": "2026-06-15",
+    "authors": [
+      "Alharbi HM",
+      "Dkhil M",
+      "Santourlidis S",
+      "Albeshr M",
+      "Al-Shaebi EM",
+      "Abdel-Gaber R"
+    ],
+    "pmid": "42305886",
+    "doi": "10.2478/helm-2026-0009",
+    "why": "Parasitic infections remain a major global health challenge, with helminthiasis causing significant morbidity and economic losses. Limitations of synthetic anthelmintics, such as resistance and toxicity, have encouraged the search for natural plant-based alternatives. Juglans regia (walnut) leaves are rich in bioactive phytochemicals with potential antiparasitic effects. This study aimed to evaluate the anthelmintic efficacy of the methanolic leaf extract..."
+  },
+  {
     "id": "pubmed-42294622",
     "title": "Kiss and spit metabolomics highlight the role of host purine metabolism during pathogen infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42294622/",
@@ -193,8 +350,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 98,
+    "ageHours": 75.6,
+    "score": 96,
     "journal": "mSphere",
     "pubDate": "2026-06-15",
     "authors": [
@@ -220,8 +377,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 94,
+    "ageHours": 75.6,
+    "score": 84,
     "journal": "Malaria journal",
     "pubDate": "2026-06-15",
     "authors": [
@@ -245,8 +402,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 92,
+    "ageHours": 75.6,
+    "score": 82,
     "journal": "Nature immunology",
     "pubDate": "2026-06-15",
     "authors": [
@@ -272,8 +429,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 90,
+    "ageHours": 75.6,
+    "score": 80,
     "journal": "ChemMedChem",
     "pubDate": "2026-06-15",
     "authors": [
@@ -297,8 +454,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 88,
+    "ageHours": 75.6,
+    "score": 78,
     "journal": "BMJ (Clinical research ed.)",
     "pubDate": "2026-06-15",
     "authors": [
@@ -322,8 +479,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 86,
+    "ageHours": 75.6,
+    "score": 76,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-06-15",
     "authors": [
@@ -349,8 +506,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 84,
+    "ageHours": 75.6,
+    "score": 74,
     "journal": "Mikrochimica acta",
     "pubDate": "2026-06-15",
     "authors": [
@@ -375,8 +532,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.7,
-    "score": 82,
+    "ageHours": 75.6,
+    "score": 72,
     "journal": "mSphere",
     "pubDate": "2026-06-15",
     "authors": [
@@ -403,7 +560,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
+    "ageHours": 123.6,
     "score": 100,
     "journal": "EMBO molecular medicine",
     "pubDate": "2026-06-13",
@@ -431,7 +588,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
+    "ageHours": 123.6,
     "score": 98,
     "journal": "ACS chemical biology",
     "pubDate": "2026-06-13",
@@ -459,8 +616,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 94,
+    "ageHours": 123.6,
+    "score": 92,
     "journal": "Discover oncology",
     "pubDate": "2026-06-13",
     "authors": [
@@ -484,8 +641,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 92,
+    "ageHours": 123.6,
+    "score": 90,
     "journal": "Cell death & disease",
     "pubDate": "2026-06-13",
     "authors": [
@@ -511,8 +668,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 78,
+    "ageHours": 123.6,
+    "score": 68,
     "journal": "Parasites & vectors",
     "pubDate": "2026-06-13",
     "authors": [
@@ -538,8 +695,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 76,
+    "ageHours": 123.6,
+    "score": 66,
     "journal": "Malaria journal",
     "pubDate": "2026-06-13",
     "authors": [
@@ -565,8 +722,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 74,
+    "ageHours": 123.6,
+    "score": 64,
     "journal": "BMC medical genomics",
     "pubDate": "2026-06-13",
     "authors": [
@@ -592,8 +749,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.7,
-    "score": 70,
+    "ageHours": 123.6,
+    "score": 60,
     "journal": "Communications biology",
     "pubDate": "2026-06-13",
     "authors": [
@@ -609,30 +766,6 @@ window.researchItems = [
     "why": "PubMed 暂无摘要。"
   },
   {
-    "id": "pubmed-42293261",
-    "title": "Endoparasites of Rattus norvegicus With Reference to Their Zoonotic Importance in an Urban District, East Kuwait.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42293261/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 96,
-    "journal": "Veterinary medicine international",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Aryan FAM",
-      "Tahrani LMA",
-      "El-Azazy OME"
-    ],
-    "pmid": "42293261",
-    "doi": "10.1155/vmi/6864944",
-    "why": "Rattus norvegicus (the brown rat) is adaptable to living in urban settlements across the globe, including Kuwait where this rodent species is widespread in human habitats. It has been known that brown rats are reservoirs of many pathogens, including parasites that can pose a threat to human and animal health. Therefore, it seems paramount to study the frequency and diversity of parasite fauna of brown rats and determine which of them have zoonotic..."
-  },
-  {
     "id": "pubmed-42284414",
     "title": "Integrated evaluation of antibody responses to mosquitoes and mosquito-borne pathogens using highly multiplexed serology.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42284414/",
@@ -643,7 +776,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.7,
+    "ageHours": 147.6,
     "score": 96,
     "journal": "Science advances",
     "pubDate": "2026-06-12",
@@ -660,6 +793,30 @@ window.researchItems = [
     "why": "Vector-borne diseases (VBDs) are a leading cause of morbidity and mortality worldwide. Antigens driving host immune responses to pathogens and vectors can serve as vaccine candidates and biomarkers of previous exposure, but the immunogenicity of relevant proteomes remains undercharacterized. To comprehensively profile antibody responses to VBDs and the vectors themselves, we developed a highly multiplexed phage display library, VectorScan, containing more..."
   },
   {
+    "id": "pubmed-42293261",
+    "title": "Endoparasites of Rattus norvegicus With Reference to Their Zoonotic Importance in an Urban District, East Kuwait.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42293261/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 147.6,
+    "score": 94,
+    "journal": "Veterinary medicine international",
+    "pubDate": "2026-06-12",
+    "authors": [
+      "Aryan FAM",
+      "Tahrani LMA",
+      "El-Azazy OME"
+    ],
+    "pmid": "42293261",
+    "doi": "10.1155/vmi/6864944",
+    "why": "Rattus norvegicus (the brown rat) is adaptable to living in urban settlements across the globe, including Kuwait where this rodent species is widespread in human habitats. It has been known that brown rats are reservoirs of many pathogens, including parasites that can pose a threat to human and animal health. Therefore, it seems paramount to study the frequency and diversity of parasite fauna of brown rats and determine which of them have zoonotic..."
+  },
+  {
     "id": "pubmed-42281444",
     "title": "Maternal and clinical predictors of congenital toxoplasmosis: A prospective cohort study in Brazil.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42281444/",
@@ -670,8 +827,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 90,
+    "ageHours": 147.6,
+    "score": 88,
     "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
     "pubDate": "2026-06-12",
     "authors": [
@@ -697,8 +854,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 64,
+    "ageHours": 147.6,
+    "score": 54,
     "journal": "Malaria journal",
     "pubDate": "2026-06-12",
     "authors": [
@@ -721,8 +878,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 62,
+    "ageHours": 147.6,
+    "score": 52,
     "journal": "BMC infectious diseases",
     "pubDate": "2026-06-12",
     "authors": [
@@ -738,137 +895,6 @@ window.researchItems = [
     "why": "BACKGROUND: Pregnancy-associated malaria (PAM), caused predominantly by Plasmodium falciparum, remains a major contributor to maternal and neonatal morbidity in malaria-endemic regions. Placental sequestration of infected erythrocytes is mediated by the parasite protein VAR2CSA, a leading target for PAM vaccine development. However, extensive antigenic polymorphism within VAR2CSA complicates the identification of broadly protective vaccine candidates..."
   },
   {
-    "id": "pubmed-42286103",
-    "title": "Conserved genetic and antigenic profiles of Pf12 and Pf41 in asymptomatic Plasmodium falciparum carriers in Tanzania.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42286103/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 60,
-    "journal": "Scientific reports",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Fitriana F",
-      "Lee WJ",
-      "Sim HY",
-      "Jun H",
-      "Syahada JH",
-      "Muh F"
-    ],
-    "pmid": "42286103",
-    "doi": "10.1038/s41598-026-55360-9",
-    "why": "Plasmodium falciparum remains a major cause of mortality in malaria-endemic regions, and strain-specific immunity limits vaccine efficacy. The 6-cysteine proteins Pf12 and Pf41 are proposed blood-stage vaccine candidates, yet their diversity and antigenicity in asymptomatic carriers are poorly defined. Genetic variation and natural selection pressure were analyzed in 172 P. falciparum isolates from asymptomatic individuals in Tanzania. Genomic DNA..."
-  },
-  {
-    "id": "pubmed-42285546",
-    "title": "Host-Pathogen Interactions in Malaria: Invasion, Neutralization, and Evasion.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42285546/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 58,
-    "journal": "Annual review of microbiology",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Dickey TH",
-      "Tolia NH"
-    ],
-    "pmid": "42285546",
-    "doi": "10.1146/annurev-micro-042424-032639",
-    "why": "Malaria remains a major global health burden despite decades of effort toward its prevention and treatment. Much of this difficulty stems from the complexity of the Plasmodium parasite's life cycle and its interactions with the human host. Here, we review receptor-ligand interactions between the Plasmodium parasite and human host, with a focus on clinically relevant antigens. The parasite uses a variety of proteins at each stage of its life cycle to..."
-  },
-  {
-    "id": "pubmed-42285102",
-    "title": "Analysis of monoclonal antibodies against the malaria invasion complex protein RIPR reveals the structural basis for synergistic antibody protection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42285102/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 56,
-    "journal": "Immunity",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Williams BG",
-      "Barrett JR",
-      "Scott JB",
-      "Rigby CA",
-      "Cagiada M",
-      "Quinkert D"
-    ],
-    "pmid": "42285102",
-    "doi": "10.1016/j.immuni.2026.05.012",
-    "why": "Plasmodium falciparum RH5-interacting protein (RIPR) is central to the essential PTRAMP-CSS-RIPR-CyRPA-RH5 (PCRCR) complex, a leading target of blood-stage malaria vaccines. However, mechanisms whereby anti-RIPR antibodies inhibit parasite invasion are poorly understood. We characterized 83 human IgG monoclonal antibodies (mAbs) from RIPR-vaccinated Kymouse platform mice. Single mAbs had minimal neutralizing activity; however, high-level synergistic..."
-  },
-  {
-    "id": "pubmed-42284598",
-    "title": "Digital Health Center App for Community and National Malaria Surveillance in Cambodia: Implementation Case Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42284598/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 54,
-    "journal": "JMIR public health and surveillance",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Ngor P",
-      "Rekol H",
-      "Thyda E",
-      "Rith R",
-      "Kimleng S",
-      "Rattana Y"
-    ],
-    "pmid": "42284598",
-    "doi": "10.2196/85881",
-    "why": "BACKGROUND: By 2015, the emergence and dissemination of multidrug-resistant Plasmodium falciparum in the Greater Mekong Subregion threatened regional and global malaria control efforts. In response, Greater Mekong Subregion countries committed to malaria elimination by 2030, with strengthened surveillance as a strategic pillar. In 2017, Cambodia introduced an elimination-oriented digital Malaria Information System (MIS). Its health center app enables..."
-  },
-  {
-    "id": "pubmed-42283691",
-    "title": "Selective targeting of Plasmodium falciparum hexose transporter by phytochemical Ginsenoside Rg1 disrupts glucose metabolism and blocks development of parasite.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283691/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.7,
-    "score": 52,
-    "journal": "Antimicrobial agents and chemotherapy",
-    "pubDate": "2026-06-12",
-    "authors": [
-      "Shafi S",
-      "Maurya P",
-      "Bansal R",
-      "Sharma J",
-      "Mishra SK",
-      "Najmi AK"
-    ],
-    "pmid": "42283691",
-    "doi": "10.1128/aac.01727-25",
-    "why": "The emergence of resistance to first-line antimalarial therapies highlights the critical need for next-generation drugs that target distinct molecular pathways and employ novel mechanisms of action. Notably, the intra-erythrocytic parasite development is highly dependent on a sustained glucose supply as their fundamental energy source. Therefore, exploiting a \"selective starvation\" strategy by targeting the parasite's reliance on glucose metabolism..."
-  },
-  {
     "id": "pubmed-42276531",
     "title": "Advancing Protozoan Vaccine Research: A Review of Promising Candidates and Emerging Technologies.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276531/",
@@ -879,8 +905,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 88,
+    "ageHours": 171.6,
+    "score": 86,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-06-11",
     "authors": [
@@ -905,8 +931,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 86,
+    "ageHours": 171.6,
+    "score": 84,
     "journal": "Acta tropica",
     "pubDate": "2026-06-11",
     "authors": [
@@ -932,8 +958,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 84,
+    "ageHours": 171.6,
+    "score": 82,
     "journal": "Vaccine",
     "pubDate": "2026-06-11",
     "authors": [
@@ -957,8 +983,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 82,
+    "ageHours": 171.6,
+    "score": 80,
     "journal": "Journal of ophthalmic inflammation and infection",
     "pubDate": "2026-06-11",
     "authors": [
@@ -973,33 +999,6 @@ window.researchItems = [
     "why": "PURPOSE: To describe a rare case of concomitant Toxoplasma gondii (Tg) retinochoroiditis and Epstein-Barr virus (EBV) retinal necrosis in an immunocompetent patient, successfully treated with a combined intravitreal and systemic therapeutic approach. METHODS: A 52-year-old immunocompetent woman with recurrent bilateral Tg retinochoroiditis presented with reactivation in the left eye unresponsive to standard antiparasitic therapy. Comprehensive..."
   },
   {
-    "id": "pubmed-42293176",
-    "title": "Malaria Epidemiological Characteristics in Urban and Suburban Areas of Bamako, Mali.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42293176/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 80,
-    "journal": "Journal of parasitology research",
-    "pubDate": "2026-06-11",
-    "authors": [
-      "Kone AK",
-      "Maiga B",
-      "Dolo A",
-      "Camara B",
-      "Traoré A",
-      "Mounkoro JD"
-    ],
-    "pmid": "42293176",
-    "doi": "10.1155/japr/8652385",
-    "why": "INTRODUCTION: Malaria remains a major health problem in sub-Saharan Africa. Malaria burden may vary according to different settings in a city. We aim to describe malaria epidemiology in urban and suburban areas in Bamako, capital of Mali. METHODS: A cross-sectional study was conducted in children and adults seeking care with febrile illnesses in urban and suburban community health centers in Bamako. The Community Health Care Center (CScom) of Dravéla in..."
-  },
-  {
     "id": "pubmed-42271118",
     "title": "Habitat-associated detection of Toxoplasma gondii and Sarcocystis spp. in Cetaceans from the Brazilian coast.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42271118/",
@@ -1010,8 +1009,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.7,
-    "score": 78,
+    "ageHours": 171.6,
+    "score": 76,
     "journal": "Veterinary research communications",
     "pubDate": "2026-06-11",
     "authors": [
@@ -1027,6 +1026,33 @@ window.researchItems = [
     "why": "Cetaceans are sentinels of marine ecosystem health and are increasingly exposed to protozoal pathogens. This study investigated the occurrence and molecular identity of Sarcocystidae protozoa in 159 stranded cetaceans representing 21 species along the Brazilian coast. Molecular analysis based on PCR amplification and sequencing of the sarcocystid internal transcribed spacer 1 (ITS1) region revealed infections in 14 individuals, showing a clear..."
   },
   {
+    "id": "pubmed-42293176",
+    "title": "Malaria Epidemiological Characteristics in Urban and Suburban Areas of Bamako, Mali.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42293176/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 171.6,
+    "score": 70,
+    "journal": "Journal of parasitology research",
+    "pubDate": "2026-06-11",
+    "authors": [
+      "Kone AK",
+      "Maiga B",
+      "Dolo A",
+      "Camara B",
+      "Traoré A",
+      "Mounkoro JD"
+    ],
+    "pmid": "42293176",
+    "doi": "10.1155/japr/8652385",
+    "why": "INTRODUCTION: Malaria remains a major health problem in sub-Saharan Africa. Malaria burden may vary according to different settings in a city. We aim to describe malaria epidemiology in urban and suburban areas in Bamako, capital of Mali. METHODS: A cross-sectional study was conducted in children and adults seeking care with febrile illnesses in urban and suburban community health centers in Bamako. The Community Health Care Center (CScom) of Dravéla in..."
+  },
+  {
     "id": "pubmed-42271406",
     "title": "Assessment of malaria prevalence and determinants among clinically suspected individuals attending Dejen Primary Hospital, East Gojjam Zone, northwest Ethiopia.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42271406/",
@@ -1037,7 +1063,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.7,
+    "ageHours": 195.6,
     "score": 94,
     "journal": "Malaria journal",
     "pubDate": "2026-06-10",
@@ -1062,7 +1088,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.7,
+    "ageHours": 195.6,
     "score": 92,
     "journal": "Science translational medicine",
     "pubDate": "2026-06-10",
@@ -1089,8 +1115,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.7,
-    "score": 80,
+    "ageHours": 195.6,
+    "score": 78,
     "journal": "BMC infectious diseases",
     "pubDate": "2026-06-10",
     "authors": [
@@ -1106,57 +1132,6 @@ window.researchItems = [
     "why": "BACKGROUND: Amazonian toxoplasmosis (AT) is a severe form of acute toxoplasmosis occurring in the Guiana Shield and characterized by a high frequency of multivisceral involvement, even in immunocompetent individuals. Pulmonary, ocular, hepatic, and lymphatic manifestations are well documented, but cardiac involvement remains exceptionally rare and likely underdiagnosed. The diagnosis is challenging because the early symptoms are nonspecific and cardiac..."
   },
   {
-    "id": "pubmed-42262128",
-    "title": "Fc-fucosylation of Plasmodium falciparum-specific IgG varies with antigen and immunization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42262128/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.7,
-    "score": 90,
-    "journal": "The Journal of infectious diseases",
-    "pubDate": "2026-06-09",
-    "authors": [
-      "Partey FD",
-      "Dos Santos MI",
-      "Seidu Z",
-      "Tiono AB",
-      "Thomson-Luque R",
-      "Wuhrer M"
-    ],
-    "pmid": "42262128",
-    "doi": "10.1093/infdis/jiag296",
-    "why": "BACKGROUND: IgG-mediated effector functions are modulated by the antibody Fc-region glycan composition, and the absence of core fucose is a strong modifier of NK cell-mediated antibody-dependent cellular cytotoxicity (ADCC). Most plasma IgG is fully Fc-fucosylated, but antigens displayed on host-derived membranes can selectively induce Fc-afucosylated IgG. These antigens include alloantigens, enveloped virus surface proteins, and PfEMP1, a malaria..."
-  },
-  {
-    "id": "pubmed-42234529",
-    "title": "Partial reconstitution of the prophenoloxidase activation system in Anopheles gambiae.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42234529/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 339.7,
-    "score": 88,
-    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-    "pubDate": "2026-06-03",
-    "authors": [
-      "Hou C",
-      "Wang Y",
-      "Jiang H"
-    ],
-    "pmid": "42234529",
-    "doi": "10.1073/pnas.2607910123",
-    "why": "Melanization is a central insect immune response to wounding and microbial invasion. It is mediated by a system of serine proteases and their homologs, mostly members of the CLIP subfamily, and leads to prophenoloxidase (proPO) activation and PO-mediated production of cytotoxic compounds and melanin polymers that kill and sequester invading pathogens. In mosquitoes, melanotic encapsulation provides an effective defense against malaria parasites, yet the..."
-  },
-  {
     "id": "pubmed-42227818",
     "title": "Structure-Guided Optimization of Novel Inhibitors of Plasmodium Lysyl-tRNA Synthetase with Multistage Activity against Malaria Parasites.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42227818/",
@@ -1167,8 +1142,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 363.7,
-    "score": 86,
+    "ageHours": 387.6,
+    "score": 90,
     "journal": "Journal of medicinal chemistry",
     "pubDate": "2026-06-02",
     "authors": [
@@ -1184,6 +1159,31 @@ window.researchItems = [
     "why": "A fused dihydropyrrolidino-pyrimidine hit with low lipophilicity and excellent ligand efficiency was identified in a biochemical screen of the Global Health Chemical Diversity Library (GHCDL) against Plasmodium lysyl-tRNA synthetase (KRS). Structure-guided lead optimization delivered analogues with potent parasite growth inhibition, excellent biochemical and cellular selectivity (>1000-fold), and oral efficacy in the malaria NOD-scid-IL2Rγnull (SCID)..."
   },
   {
+    "id": "pubmed-42224660",
+    "title": "Population-Level Raman Biochemical Staging of Malaria in Human Red Blood Cells Using Interpretable Machine Learning.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224660/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 411.6,
+    "score": 88,
+    "journal": "Nano letters",
+    "pubDate": "2026-06-01",
+    "authors": [
+      "Wu L",
+      "Gupta A",
+      "Tripathi AK",
+      "Barman I"
+    ],
+    "pmid": "42224660",
+    "doi": "10.1021/acs.nanolett.6c00910",
+    "why": "Accurate malaria staging is vital for treatment decisions and monitoring of transmission. Because mature Plasmodium falciparum parasites sequester in deep vasculature, noninvasive diagnostics must target circulating ring stages and transmissible gametocyte stages. Label-free optical detection is ideal as it probes intrinsic biochemical signatures without exogenous reagents. We present a population-level Raman spectroscopy framework coupled with..."
+  },
+  {
     "id": "pubmed-42187178",
     "title": "Legacy 4(1H)-Quinolone Scaffolds Activity against Acute and Chronic Toxoplasma gondii Infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42187178/",
@@ -1194,8 +1194,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 531.7,
-    "score": 76,
+    "ageHours": 555.6,
+    "score": 74,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-05-26",
     "authors": [
@@ -1221,8 +1221,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 699.7,
-    "score": 74,
+    "ageHours": 723.6,
+    "score": 72,
     "journal": "mBio",
     "pubDate": "2026-05-19",
     "authors": [
@@ -1245,8 +1245,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1107.7,
-    "score": 72,
+    "ageHours": 1131.6,
+    "score": 70,
     "journal": "Vaccine",
     "pubDate": "2026-05-02",
     "authors": [
@@ -1271,8 +1271,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2187.7,
-    "score": 82,
+    "ageHours": 2211.6,
+    "score": 84,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-03-18",
     "authors": [
@@ -1298,8 +1298,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2283.7,
-    "score": 78,
+    "ageHours": 2307.6,
+    "score": 80,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-03-14",
     "authors": [
@@ -1313,5 +1313,32 @@ window.researchItems = [
     "pmid": "41839298",
     "doi": "10.1016/j.jep.2026.121535",
     "why": "ETHNOPHARMACOLOGICAL RELEVANCE: Malaria is a significant global health issue, made worse by the growing resistance of Plasmodium falciparum to current antimalarial drugs. This highlights the need for new, safe, and multi-target therapeutic agents. Solanum nigrum L., a wild vegetable used in traditional herbal medicine in Cameroon, helps treat several ailments, including some cancers, urinary issues, malaria, fever, and joint pain. However, we have not..."
+  },
+  {
+    "id": "pubmed-41431186",
+    "title": "Rosette margination in blood flow during malaria pathogenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41431186/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 4275.6,
+    "score": 76,
+    "journal": "Biophysical journal",
+    "pubDate": "2025-12-22",
+    "authors": [
+      "Dasanna AK",
+      "Papagrigorakes M",
+      "Lanzer M",
+      "Schwarz US",
+      "Gompper G",
+      "Fedosov DA"
+    ],
+    "pmid": "41431186",
+    "doi": "10.1016/j.bpj.2025.12.023",
+    "why": "Margination is a physical phenomenon that describes the migration of cells and particles toward vessel walls in blood flow, and thus, it serves as a necessary precondition for the adhesion of particles suspended in blood plasma to the endothelium. In the context of malaria, adhesion of infected red blood cells (iRBCs) to the endothelium is essential for the disease progression, as iRBCs have to evade the removal from the blood circulation in the spleen..."
   }
 ];
