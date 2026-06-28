@@ -1,5 +1,37 @@
-window.techNewsLastUpdated = "2026-06-27 04:34:27 +0000";
+window.techNewsLastUpdated = "2026-06-28 05:01:27 +0000";
 window.techNewsItems = [
+  {
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+    "pub_date": "2026-06-27",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "pub_date": "2026-06-27",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "pub_date": "2026-06-27",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "pub_date": "2026-06-27",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
   {
     "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
     "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -7,6 +39,198 @@ window.techNewsItems = [
     "pub_date": "2026-06-27",
     "source": "TechCrunch AI",
     "category": "AI 产业"
+  },
+  {
+    "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "description": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+    "pub_date": "2026-06-27",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "description": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the […]",
+    "pub_date": "2026-06-27",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Get an RTX 5060 gaming laptop loaded with Ryzen 7 CPU and 32GB RAM for $1,099 — mobile gaming upgrade just got $300 cheaper",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5060-gaming-laptop-loaded-with-ryzen-7-cpu-and-32gb-ram-for-usd1-099-mobile-gaming-upgrade-just-got-usd300-cheaper",
+    "description": "The Gigabyte Aero X16 positions itself as a compelling mid-range gaming laptop offering a smooth high-refresh display, capable RTX 5060 graphics performance, and future-ready upgrade options.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT",
+    "link": "https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt",
+    "description": "Following a historic price hike, the Financial Times reports that Apple is lobbying in Washington to secure approval to buy cheaper RAM from CXMT. The manufacturer is currently designated as a Chinese military company, but is not entirely banned by the White House.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Steam Machine scalping hits $3,000 on eBay as sellers list preorder reservations — scalpers already flipping queues for 2X the MSRP of the 2TB model",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-scalping-hits-usd3-000-on-ebay-as-sellers-list-preorder-reservations-scalpers-already-flipping-queues-for-2x-the-msrp-of-the-2tb-model",
+    "description": "Several listings for Steam Machine pre-orders are being sold at markups so high that buyers will have to pay 140% to 167% above Valve's selling price.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end LGA1954 motherboards may need three 8-pin power connectors to feed the monster",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster",
+    "description": "Intel's flagship 52-core Nova Lake processor could feature a 474W PL2 power limit. At the same time, the new LGA1954 platform may introduce motherboard tiers for up to 175W CPUs and optional triple EPS power connectors on enthusiast boards.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Best Amazon Prime Day tech deals you can still get LIVE, last chance for hot deals — PC hardware deals on GPUs, CPUs, SSDs, and more",
+    "link": "https://www.tomshardware.com/live/news/best-amazon-prime-day-deals-2026",
+    "description": "Find the very best PC hardware deals during Amazon Prime Day.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Bambu Lab A2L 3D printer review: The A1 grows up",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review",
+    "description": "Bambu Lab adds a bigger bed slinger to their lineup.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Modded Steam Controller can automatically charge itself like a robot vacuum — enthusiast creates GitHub program that uses the vibration motor to walk it back to its docking station",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modded-steam-controller-can-automatically-charge-itself-like-a-robot-vacuum-enthusiast-creates-github-program-that-uses-the-vibration-motor-to-walk-it-back-to-its-docking-station",
+    "description": "Ray Foss built this program that uses computer vision to let your Steam Controller slide back towards its charging puck by just using its built-in haptic motors. You can also try it for yourself by visiting the web app and using a webcam so it can see your controller and charging puck.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones — Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers",
+    "link": "https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips",
+    "description": "Commodore has slashed the starting price of its Callback 8020 flip phone to $399, down from $499.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware — other key vintage components included the Core 2 Q6600 and ATI Radeon HD 4650 AGP",
+    "link": "https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp",
+    "description": "Enthusiast demos Microsoft’s newest OS running 'completely stable' on a Core 2 Quad Q6600, using a DDR1 motherboard, supported by an ATi Radeon HD 4650 AGP graphics card.",
+    "pub_date": "2026-06-27",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Jim Keller Says Cerebras IPO Was Helpful As Tenstorrent Set To “Beat Them on Everything”, Confirms Meeting With Intel & Qualcomm CEOs “Hoping To Get A Big Deal”",
+    "link": "https://wccftech.com/jim-keller-cerebras-ipo-was-helpful-tenstorrent-to-beat-them-on-everything/",
+    "description": "Jim Keller isn't bothered by Cerebras's recent IPO and says that he welcomes it, but Tenstorrent will still beat them on everything. Tenstorrent CEO, Jim Keller, Signals Deal With Intel or Qualcomm While Promising To Beat Cerebras \"on everything\" Tenstorrent recently introduced its latest BlackHole Galaxy server, a system with which it can disrupt the entire AI segment, with performance levels that crush the competition. We covered the announcement last month when the company demoed its Blackhol",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Jefferies Warns Memory Prices Will Surge 50% in Q3 2026 and Another 40% in Q4, With No Relief Until 2028",
+    "link": "https://wccftech.com/jefferies-warns-memory-prices-surge-50-percent-q3-40-in-q4-2026-no-relief-until-2028/",
+    "description": "Memory prices are all set to rise further in the coming quarters of 2026 as persistent shortages continue to grip the market. Memory Prices Will Continue Going Up, Massive 50% Hike In Q3 2026 Followed By Another 40% In Q4 Ongoing memory shortages continue to result in higher prices across the tech industry. With no positive outlook presented by the big three DRAM makers, Samsung, SK Hynix, Micron, and China's CXMT not being the savior that the industry hoped for as the \"Cheap Chinese Memory\" nar",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "PlayStation 6 Bill of Materials Is Now Very Close to the Dreaded $1,000 Line, But a Delay Still Isn’t Likely",
+    "link": "https://wccftech.com/ps6-bom-nears-1000-delay-unlikely/",
+    "description": "Almost exactly three months ago, renowned AMD leaker Kepler_L2 claimed that Sony's current BoM (bill of materials) for the upcoming PlayStation 6 console was around $760, thus floating the possibility that the console could be priced at $699 with an initial subsidy from the Japanese corporation. Fellow leaker Moore's Law Is Dead reported a very similar BoM ($743) just days later. However, the component crisis is worsening almost weekly. We've seen that Valve was forced to launch its Steam Machin",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "RTX 5090 Arrives at Repair Shop With Its 16-Pin Connector Blown to Smithereens, Killing the GPU and VRAM",
+    "link": "https://wccftech.com/rtx-5090-arrives-at-repair-shop-with-16-pin-connector-blown-gpu-vram-dead/",
+    "description": "NVIDIA's GeForce RTX 5090 graphics cards continue to cause trouble, as the latest case shows a 16-pin connector that's blown out. NVIDIA 16-Pin Connector Issues Continue To Mount With The RTX 5090, New Case Shows The Worst Kind of Damage We've Seen Yet Ever since the RTX 40 series, the 16-pin connector has been killing many graphics cards. Most cases are specific to the higher-end GPUs such as the RTX 4090 and the latest RTX 5090, which consume lots of power, mainly between 450-600W. But we have",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Scalpers Are Already Flipping Steam Machine Reservations On eBay For $2,700–$2,900, Roughly Double Valve’s Price",
+    "link": "https://wccftech.com/scalpers-are-already-flipping-steam-machine-reservations-on-ebay-for-2700-2900-roughly-double-valves-price/",
+    "description": "What a ridiculous price for a machine that doesn't justify its official price tag, but I guess, there will be users who will buy them at nearly triple the price. Steam Machine Hits eBay As Scalpers Start Selling Their Reservations on the Platform for Over $2700 Scalping is probably the second most hated thing in the market, while high DDR5 prices remain at the top. Just recently, we saw how scalpers immediately bought the AMD Ryzen 7 5800X3D 10th Anniversary edition and started selling it for ne",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Rockstar Reportedly Has No Plans for GTA VI Physical Disc, Not Even After Launch, Despite Rumors",
+    "link": "https://wccftech.com/gta-vi-no-physical-disc-rockstar/",
+    "description": "Back in January, the Polish website PPE shared a worrying rumor about GTA VI: according to their sources, Rockstar and Take-Two were planning a digital-only launch of the highly anticipated game, primarily to avoid spoilers. This was later denied by both Rockstar and Take-Two, though when pre-orders opened earlier this week, customers learned that the physical copy they would buy at a retailer included only a download code, not an actual disc. This was inevitably a source of disappointment for m",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "UPERFECT GR19BU 4K QLED Monitor Review: Sharp And Vibrant",
+    "link": "https://wccftech.com/review/uperfect-gr19bu-4k-qled-monitor-review/",
+    "description": "Conventional IPS portable displays are plenty in the market, but OLED, Mini LED, and QLED displays are still less common. After having used several IPS portable monitors as well as a 16-inch OLED from Uperfect, I got the opportunity to try out the company's new offering, which is a 4K QLED portable monitor. At this point, it's hard to ignore QLED or any other non-conventional LED panels, and this is why the new GR19BU makes complete sense to remain in the market, offering users a better alternat",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "GIGABYTE AORUS RTX 5080 INFINITY And INFINITY WOOD Are Now Available",
+    "link": "https://wccftech.com/gigabyte-aorus-rtx-5080-infinity-and-infinity-wood-are-now-available/",
+    "description": "The Infinity editions for the second-fastest RTX 50 series GPU are out, featuring two different aesthetics inspired by the same design. GIGABYTE Officially Launches RTX 5080 INFINITY and INFINITY WOOD; RTX 5070 Series INFINITY to Launch in July Recently, GIGABYTE introduced a completely new lineup of INFINITY cards in the RTX 50 series. After having launched the AORUS RTX 5090 INFINITY card that sits at over $5,000, the company decided to make more INFINITY GPUs, including the 80 and 70-class RT",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "We’ve Searched Through Some Of The Best Amazon Tech Deals For The Month So You Don’t Have To – Here They Are",
+    "link": "https://wccftech.com/best-amazon-tech-deals-for-the-month/",
+    "description": "There’s no better feeling than stumbling upon an offer that fits your budget, and on Amazon, there’s something listed for everyone. However, with hundreds of thousands of products showing up the moment you tap on the app or visit the website, it can be an arduous task when doom scrolling across a plethora of pages. Fortunately, we’ve rounded up the best tech deals for you, saving you hours of time and energy. Of course, with all of these deals changing without a moment’s notice, we recommend ref",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Quantic Dream Developers Strike to Save Star Wars Eclipse, Warning that 115 Layoffs Would Doom the Unfinished Game",
+    "link": "https://wccftech.com/quantic-dream-strike-star-wars-eclipse-layoffs/",
+    "description": "A couple of days ago, some employees of French developer Quantic Dream staged a strike in front of the studio's Paris headquarters in an attempt to save both up to 115 colleagues (who are on the verge of being laid off) and the studio's big Star Wars Eclipse project. Let's hit the rewind button for a minute. The development of Star Wars Eclipse, formally announced at The Game Awards 2021, has reportedly \"simmered\" for years as the studio struggled in many areas, including hiring new talent. Then",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Copa City Review – FIFA World Cup Host City Simulator",
+    "link": "https://wccftech.com/review/copa-city-review-fifa-world-cup-host-city-simulator/",
+    "description": "I've been a fan of the Kicksphere for as long as I can remember, and my team of choice is - for better or worse - Manchester United. When I was young, I was attracted to the fast-paced, attractive football of your Giggs and Scholes, the never-give-up nature of the Neville brothers, and the fact that your Wes Brown and John O'Shea could and did play far above the level people expected of them. It was a good time. Not so much now. Also, absolutely nothing of that has anything to do with Copa City,",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA Quietly Claims Top Spot In The Datacenter Ethernet Switching Market As The Segment Balloons to $15.4b in Q1 2026",
+    "link": "https://wccftech.com/nvidia-quietly-claims-top-spot-in-the-datacenter-ethernet-switch-market/",
+    "description": "NVIDIA has gained the top spot in the datacenter ethernet switching segment for the first time as the market swells to a record $15.4b in Q1 2026. Not GPUs, Not CPUs, This Time NVIDIA Is Topping The Datacenter Ethernet Switching Market With Record Revenue The GPU market, mainly AI accelerators and consumer chips, is dominated by NVIDIA. The green team is also set to post record revenues with its Vera CPUs, making it one of the top suppliers of the current fiscal year. But there's a new market th",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Apple Is Now Begging The Trump Administration For Access To Blacklisted DRAM From CXMT, As iPhone 18 Pro’s Memory Costs Threaten To Triple",
+    "link": "https://wccftech.com/apple-is-now-begging-the-trump-administration-for-access-to-blacklisted-dram-from-cxmt-as-iphone-18-pros-memory-costs-threaten-to-triple/",
+    "description": "Apple appears adamant to break through the memory-related constraints imposed by Samsung, SK hynix, and Micron, and is willing to take on a sizable political risk by lobbying the eminently mercurial Trump administration on behalf of China's CXMT. While this gambit is quite risky, it is nonetheless the only viable option for Apple to gain access to the required memory resources at affordable prices short of setting up its own memory fabs. Apple wants explicit clearance from the Trump administrati",
+    "pub_date": "2026-06-27",
+    "source": "Wccftech",
+    "category": "芯片/市场"
   },
   {
     "title": "Marvell’s Structera CXL Accelerators Compress Data By Up To 3.64x To Make Every Gigabyte Count As Memory Shortages Intensify",
@@ -329,14 +553,6 @@ window.techNewsItems = [
     "category": "芯片/市场"
   },
   {
-    "title": "Best Amazon Prime Day tech deals you can still get, live on day four — PC hardware deals on GPUs, CPUs, SSDs, and more",
-    "link": "https://www.tomshardware.com/live/news/best-amazon-prime-day-deals-2026",
-    "description": "Find the very best PC hardware deals during Amazon Prime Day.",
-    "pub_date": "2026-06-26",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
     "title": "Prime Day gaming mouse deals round-up — up your game with a new mouse on sale",
     "link": "https://www.tomshardware.com/peripherals/gaming-mice/prime-day-gaming-mouse-deals-round-up-up-your-game-with-a-new-mouse-on-sale",
     "description": "We've rounded up the best Prime Day deals on gaming mice for every type of gamer — whether you're looking for ultra-lightweight, tons of buttons, or even modular mice, we've got you covered.",
@@ -406,478 +622,6 @@ window.techNewsItems = [
     "description": "Tis' the season of product recalibration at Apple, with its labyrinthine supply chain now leaking the kind of atypical product specifications that would have attracted a serious flak at any other time. Such is the upheaval currently permeating through the entire global consumer electronics industry, however, that Apple's growing litany of compromises now barely raises any eyebrows. Apple's so-called MacBook Ultra won't launch with a brand-new silicon We reported recently that Apple has significa",
     "pub_date": "2026-06-26",
     "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "“The Cheaper the Better,” Says Valve About its Steam Machine Pricing, but Don’t Expect a Price Decrease “Any Time Soon”",
-    "link": "https://wccftech.com/valve-says-cheaper-the-better-steam-machine-but-dont-expect-it-any-time-soon/",
-    "description": "Valve revealed its price for the Steam Machine at the top of this week, and it was higher than players would've liked. The $1,049 price tag was also higher than what Valve would've liked too, as we've learned from subsequent interviews that it was supposed to be priced closer to $718. But if the component crisis that painted Valve (and every other platform manufacturer) into a price-raising corner were to end tomorrow, would Valve lower the Steam Machine's price? The answer, thankfully, seems to",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Sword Sage: Awakening Brings Chinese Mythology, Intense Action and Sci-Fi Together in New Story Trailer",
-    "link": "https://wccftech.com/sword-sage-awakening-gameplay/",
-    "description": "Publisher 4Divinity, who you may recognize as the publishers of JDM: Japanese Drift Master has something very different coming to its portfolio with Sword Sage: Awakening. A third-person action RPG where you step into the shoes of San Niang, and an adventure wrapped in Chinese myth and folklore. The studio debuted a new gameplay and story trailer today, which shows off a bit of the kind of action players can expect. It's a game that, to some, will look like another Soulslike, while others will s",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel Nova Lake Dual-Tile CPUs Reportedly Feature Up To 474W PL2 Power Limit",
-    "link": "https://wccftech.com/intel-nova-lake-dual-tile-cpus-reportedly-feature-up-to-474w-pl2-power-limit/",
-    "description": "Intel's Nova Lake flagship may temporarily consume up to 474W under heavy boost workloads. Intel's Nova Lake Flagship 52-Core Chip Could Push PL2 Power to a Massive 474W as Intel Sends Revised Z990 Power Design Instructions With 3x 8-pin EPS Connectors More leaks are surfacing regarding Intel's upcoming Nova Lake lineup. As of today, we expect Intel's top-of-the-line Nova Lake S desktop lineup to feature up to a 52-core configuration, which is a massive jump over the current 24-core/24-thread co",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple’s A20 Pro With Newer Packaging On iPhone 18 Pro Logic Board Allegedly Leaked, Showing Bigger NPU But No Change To Package Size Compared To A19 Pro",
-    "link": "https://wccftech.com/a20-pro-packaging-with-bigger-npu-shown-on-iphone-18-pro-motherboard-leak/",
-    "description": "A first look at the iPhone 18 Pro’s logic board shows that the A20 Pro has adopted the new WMCM (Wafer-Level Multi-Chip Module) packaging, with Apple gradually shifting away from the PoP (Package-on-Package) technology used for the A19 Pro. We also see that Apple has once more relied on its chip design prowess to limit the size of the SoC while also making changes to the Neural Engine. Maintaining the same physical size as the A19 Pro allows Apple to lower production costs for the A20 Pro, which",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "EA’s Laura Miele Champions AI as Creativity Accelerant, Echoing Epic’s Tim Sweeney Even as ‘Slop’ Fears Linger",
-    "link": "https://wccftech.com/ea-laura-miele-ai-creativity-tim-sweeney/",
-    "description": "Electronic Arts executive Laura Miele, a 30-plus-year veteran at the American publisher, was recently featured on The Game Business Show and talked about various topics, including, of course, how the publisher is using AI in its development process. Back in late 2024, EA CEO Andrew Wilson was one of the very first major gaming executives to openly state that generative AI would soon be at the \"very core of business\", allowing greater efficiency, expansion, and transformation. Now that it's been ",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "The Nintendo Switch 2 Helped Drive US Video Game Spending Growth in May 2026, while PlayStation and Xbox had their Worst May in Over Two Decades",
-    "link": "https://wccftech.com/nintendo-switch-2-drove-us-video-game-growth-ps5-xbox-recorded-worst-may-in-history/",
-    "description": "Circana senior director and veteran video game industry analyst Mat Piscatella has just shared the latest monthly sales numbers for the video game industry in the US for the month of May 2026. Usually, the big topic from these reports comes down to which games are at the top of the charts, and while that's still significant here, the bigger topic is what happened with hardware sales. While the Nintendo Switch 2 continued to sell and helped drive spending growth in the US video game industry for ",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Never Worry About Low Framerates With ASUS’ Prime RX 9070 XT, With Your Next GPU Upgrade Now $699.99 For Amazon Prime Day 2026",
-    "link": "https://wccftech.com/asus-prime-amd-radeon-rx-9070-xt-down-to-700-on-amazon/",
-    "description": "NVIDIA might be the preferred company when it comes to desktop and laptop GPUs, but AMD hit it out of the park when it unveiled its Radeon RX 9070 XT, making it the best graphics card for those who want to experience increased raw rasterization performance over the RTX 5070 Ti. If you don’t want to wait for your AAA gaming experience to begin, Amazon’s Prime Day 2026 has discounted the ASUS Prime RX 9070 XT by 13 percent, with the new listing showing $699.99. When it comes to ‘price to performan",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "PlayStation Will Continue To Push Live Service Games Despite Evident Challenges, While Teasing A PlayStation 6 Handheld",
-    "link": "https://wccftech.com/playstation-continue-to-push-live-service-games-teases-playstation-6-handheld/",
-    "description": "In the PlayStation 5 generation, Sony Computer Entertainment's software output hasn't been as impressive as it was in the previous console generation. Due to SIE’s aggressive live service push, the Japanese publisher released several games - such as the ill-fated Concord from Firewalk Studios and Marathon from Bungie - that did not meet players' expectations. Despite this, President Hideaki Nishino confirmed they will continue to pursue live-service games, even as he heavily hints at a PlayStati",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple’s M7 To Bring New On-Device AI Performance Levels, With Its Unified Memory Bandwidth Reportedly 56% Higher Than M5, Launch Expected In H1 2027",
-    "link": "https://wccftech.com/apple-m7-to-bring-new-on-device-ai-performance-56-higher-bandwidth-than-m5/",
-    "description": "A chipset’s AI inference performance largely depends on its unified memory bandwidth and memory count, which is why a truckload of M5 Max MacBook Pro purchases have been made to take advantage of its 128GB memory pool. Sadly, the base Apple Silicon hasn’t been given much priority in this area, but things could change with the arrival of the M7. M7 to have a lower unified memory bandwidth than the M5 Pro, but it’ll still be high enough to make a proper difference compared to the M5 A ton of speci",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Trump Mobile Takes The T1 Phone Reservation Holders For A Ride, Opens Sales To The Public Without Clearing The Backlog",
-    "link": "https://wccftech.com/trump-mobile-takes-the-t1-phone-reservation-holders-for-a-ride-opens-sales-to-the-public-without-clearing-the-backlog/",
-    "description": "That Trump Mobile has an eccentric bent is no longer a revelation. Even so, the extent to which the company is willing to give itself up to its eccentric proclivities is certainly a bit jarring, Consider the latest episode of Trump Mobile's rebellious streak, where it has seemingly violated the sanctity of pre-orders by opening up sales of its T1 Phone to the public at large without clearing the reservation backlog first. Those who paid Trump Mobile a $100 deposit to gain early access to the T1 ",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "ShadNet Lets PlayStation 4 Emulation Players Go Online Without Sony, as ShadPS4 Sidesteps PlayStation Network Entirely",
-    "link": "https://wccftech.com/shadnet-playstation-4-emulation-shadps4-sidesteps-playstation-network/",
-    "description": "PlayStation 4 emulation on PC via the ShadPS4 emulator is poised to reach new heights in the near future. The developers behind the emulator that made the dream of playing Bloodborne on PC with enhanced visuals and performance a reality have revealed ShadNet, an open-source infrastructure project designed to allow users to play multiplayer games online. \"ShadNet is going to offer shadPS4 users a way to connect, and play online games together. This project has been in the works for a few months n",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Snapdragon 8 Elite Gen 6 Pro Specification Differences Between Snapdragon 8 Elite Gen 6 Show Why It’ll Be Exclusive For Premium Flagships",
-    "link": "https://wccftech.com/snapdragon-8-elite-gen-6-pro-vs-snapdragon-8-elite-gen-6-differences-mentioned-in-rumor/",
-    "description": "Qualcomm will introduce its first 2nm chipsets later this year, but don’t expect these SoCs to share the same capabilities just because they utilize the same lithography. In fact, a tipster shares some specification differences between the Snapdragon 8 Elite Gen 6 Pro and Snapdragon 8 Elite Gen 6 to show the ‘Pro’ version will only be found in the ‘top of the line’ flagships arriving next year. Despite sporting the same CPU cluster, the Snapdragon 8 Elite Gen 6 Pro boasts a better GPU, increased",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "CAPCOM Shows A More Aggressive Genma in Onimusha: Way of the Sword, But Release Date Remains Set For September 25",
-    "link": "https://wccftech.com/capcom-more-aggressive-genma-onimusha-way-of-the-sword-release-date-remains-september-25/",
-    "description": "Onimusha: Way of the Sword is set to continue CAPCOM's incredible streak in 2026, and the Japanese publisher showed more of its upcoming PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2 game during its latest Spotlight showcase. The new footage suggests that the low enemy aggression seen in the playable demo may have been addressed, but some may be disappointed to learn that the game is not launching earlier than anticipated. During the segment focused on the first new entry in the seri",
-    "pub_date": "2026-06-26",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-    "description": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-    "description": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "description": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Europe is pushing back on Washington’s chip war",
-    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "description": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-    "pub_date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-    "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of […]",
-    "pub_date": "2026-06-25",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-    "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of […]",
-    "pub_date": "2026-06-25",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "I/O Design Challenges Grow In AI Data Centers And HPC Clusters",
-    "link": "https://semiengineering.com/i-o-design-challenges-grow-in-ai-data-centers-and-hpc-clusters/",
-    "description": "Physical I/Os can be a chokepoint for high-performance chips and high-speed interconnect protocols, requiring design tradeoffs and extra reliability measures. The post I/O Design Challenges Grow In AI Data Centers And HPC Clusters appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Verification Methodologies Struggle To Keep Up With AI",
-    "link": "https://semiengineering.com/verification-methodologies-struggle-to-keep-up-with-ai/",
-    "description": "Engineers are flooded with new capabilities. The problem now is how best to deploy them. The post Verification Methodologies Struggle To Keep Up With AI appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Executive Outlook: Agentic AI’s Impact On Chip Design",
-    "link": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/",
-    "description": "Can engineers trust AI to get everything right in semiconductor design and verification? The post Executive Outlook: Agentic AI’s Impact On Chip Design appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "How Far Left Can We Really Shift Verification?",
-    "link": "https://semiengineering.com/how-far-left-can-we-really-shift-verification/",
-    "description": "When verification is never fully complete, the only question left is how early it can begin. The post How Far Left Can We Really Shift Verification? appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Realizing The Future Of 3D-IC Design",
-    "link": "https://semiengineering.com/realizing-the-future-of-3d-ic-design/",
-    "description": "Designing heterogeneously integrated packages necessitates a system-centric co-design approach. The post Realizing The Future Of 3D-IC Design appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Reducing Avoidable Memory Trips In HBM Systems",
-    "link": "https://semiengineering.com/reducing-avoidable-memory-trips-in-hbm-systems/",
-    "description": "Last-level cache helps manage data movement and reduces pressure on the external memory subsystem. The post Reducing Avoidable Memory Trips In HBM Systems appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Wafer-Scale vs. Chiplets: The New War? Part 2",
-    "link": "https://semiengineering.com/wafer-scale-vs-chiplets-the-new-war-part-2/",
-    "description": "Moving data fast enough so that compute stops waiting. The post Wafer-Scale vs. Chiplets: The New War? Part 2 appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "More Massive Still: Why AI Infrastructure Demands A Unified Design Approach",
-    "link": "https://semiengineering.com/more-massive-still-why-ai-infrastructure-demands-a-unified-design-approach/",
-    "description": "Tokens-per-watt is now the primary metric driving AI data center optimization. The post More Massive Still: Why AI Infrastructure Demands A Unified Design Approach appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Introducing An Agentic LLM For Chip Design",
-    "link": "https://semiengineering.com/introducing-an-agentic-llm-for-chip-design/",
-    "description": "A fine-tuned model brings frontier-level AI performance to chip design. The post Introducing An Agentic LLM For Chip Design appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-06-25",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Jim Keller: ‘AI Still Obeys the Old Laws of Compute’",
-    "link": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/",
-    "description": "Invoking Rent's Rule and Amdahl's Law, Keller argues that memory and communication, not bigger processors, will define the future of AI infrastructure The post Jim Keller: ‘AI Still Obeys the Old Laws of Compute’ appeared first on EE Times.",
-    "pub_date": "2026-06-25",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "OpenAI’s Jalapeño Will Be Spicy, But the Real Sizzle Is Its Chip Design AI",
-    "link": "https://www.eetimes.com/openai-jalapeno-will-be-spicy-but-the-real-sizzle-is-its-chip-design-ai/",
-    "description": "The custom inference accelerator follows the hyperscaler playbook, but the AI-automated chip design process could prove the more consequential announcement. The post OpenAI’s Jalapeño Will Be Spicy, But the Real Sizzle Is Its Chip Design AI appeared first on EE Times.",
-    "pub_date": "2026-06-25",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Vicfuse Introduces UL Class Fuse Series for Modern AI Infrastructure and Industrial Protection",
-    "link": "https://www.eetimes.com/vicfuse-introduces-ul-class-fuse-series-for-modern-ai-infrastructure-and-industrial-protection/",
-    "description": "Vicfuse introduces its UL Class fuse series, an industrial circuit-protection portfolio designed for AC and DC applications. The post Vicfuse Introduces UL Class Fuse Series for Modern AI Infrastructure and Industrial Protection appeared first on EE Times.",
-    "pub_date": "2026-06-25",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years",
-    "link": "https://www.eetimes.com/ibm-shows-sub-1-nm-chips-targeting-production-in-5-years/",
-    "description": "IBM unveils 0.7-nm nanostack chips promising 100 billion transistors, denser SRAM, and production within five years. The post IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years appeared first on EE Times.",
-    "pub_date": "2026-06-25",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
-    "link": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
-    "description": "Qualcomm takes the data center by storm with networking, AI accelerators, and both custom and standard CPUs. The post Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions appeared first on EE Times.",
-    "pub_date": "2026-06-25",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Get a Radeon RX 9060 XT 16GB upgrade for just $399 — take your pick from four attainable options at Newegg now",
-    "link": "https://www.tomshardware.com/pc-components/get-a-radeon-rx-9060-xt-16gb-upgrade-for-just-usd399-take-your-pick-from-four-attainable-options-at-newegg-now",
-    "description": "The RAM price crunch has made affordable 16GB graphics cards an endangered species, but Newegg is offering a path to an affordable upgrade with four $399 RX 9060 XT 16GB options.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Get the fastest 8TB Gen4 SSD around for less with this WD SN850X deal — $1199 sale makes it the cheapest big drive around",
-    "link": "https://www.tomshardware.com/pc-components/get-the-fastest-8tb-gen4-ssd-around-for-less-with-this-wd-sn850x-deal-usd1199-sale-makes-it-the-cheapest-big-drive-around",
-    "description": "Big SSDs often have the craziest prices in today's tight market, but if you need 8TB of space, you can get it for less with this WD SN850X deal.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Microsoft increases Xbox Series console prices for the third time in two years, kills off 2TB model — $100-$150 upswings on every model",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-increases-xbox-series-console-prices-for-the-third-time-in-two-years-kills-off-2tb-model-usd100-usd150-upswings-on-every-model",
-    "description": "Microsoft increases Xbox Series console prices for the third time in two years — $100-$150 upswings on every model except the now-dead 2 TB version",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games — says move is ‘irresponsible of Valve’",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/epic-boss-tim-sweeney-blasts-steam-for-putting-ai-tags-on-games-says-move-is-irresponsible-of-valve",
-    "description": "The Epic executive said in an interview after unveiling Unreal Engine 6 that AI tools help make developers far more productive. Putting the AI tag on games discourage their use, especially as titles with this label gets fewer reviews and tend to have more negative reviews, as well.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Scalpers circle AMD's Ryzen 7 5800X3D 10th Anniversary Edition, asking for $600 or more — re-released CPU sees inconsistent inventory on release day",
-    "link": "https://www.tomshardware.com/pc-components/cpus/scalpers-circle-amds-ryzen-7-5800x3d-10th-anniversary-edition-asking-for-usd600-or-more-re-released-cpu-sees-inconsistent-inventory-on-release-day",
-    "description": "Scalpers are trying to capitalize on the release of the Ryzen 7 5800X3D 10th Anniversary Edition, asking nearly double the CPU's suggested retail price.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Save up to 45% on SteelSeries headsets, keyboards, and mice — Arctic Nova Pro headset, Apex Pro keyboards, Aerox 5 mouse, and more, are on deep discounts right now",
-    "link": "https://www.tomshardware.com/pc-components/save-up-to-45-percent-on-steelseries-headsets-keyboards-and-mice-arctic-nova-pro-headset-apex-pro-keyboards-aerox-5-mouse-and-more-are-on-deep-discounts-right-now",
-    "description": "Take advantage of these Steelseries deals - up to 45% off includes Arctis gaming headsets and GameBuds to Apex Pro keyboards and Aerox mice, now is a great time to upgrade your gaming setup",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Prime Day gaming monitor deals live 2026 — hot sales on the best monitors from Amazon, Newegg, Dell, Best Buy, and more",
-    "link": "https://www.tomshardware.com/live/news/prime-day-gaming-monitor-deals-live-2026",
-    "description": "The best Amazon Prime Day 2026 monitor sales, live round-the-clock coverage of all the best deals.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD Ryzen 7 5800X3D re-review: Maxing out DDR4’s gaming potential",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review",
-    "description": "AMD has re-released the Ryzen 7 5800X3D to provide some relief from high DDR5 prices, so we’re re-reviewing the CPU to see how it stacks up to current options around the same price.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "B&H's RAM bundles blowout offers 32GB of DDR5 memory for around $250 — save on multiple bundles, including Ryzen 7 9850X3D, DDR5, and a motherboard",
-    "link": "https://www.tomshardware.com/pc-components/b-and-hs-bundles-blowout-offers-32gb-of-ddr5-memory-for-around-usd250-save-on-multiple-bundles-including-ryzen-7-9850x3d-ddr5-and-a-motherboard",
-    "description": "B&H has several bundles on sale right now, offering 32GB of DDR5 memory for around $250 with a motherboard and AMD's Ryzen 7 9850X3D.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Riot Vanguard finally drops its controversial always-on requirement for anti-cheat — new on-demand mode requires a strict Windows 11 security stack",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/riot-vanguard-adds-an-on-demand-mode-that-stops-anti-cheat-loading-at-boot-on-secured-windows-11-pcs",
-    "description": "Riot Games has announced that it plans to let players stop its Vanguard anti-cheat from loading on startup.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Beat Apple's price increases on new MacBooks with these stellar deals that can save you up to $500 — big sale on current-gen Pro, Air, and Neo models, avoid new price hikes with extra discounts on top",
-    "link": "https://www.tomshardware.com/laptops/macbooks/beat-apples-price-increases-on-new-macbooks-with-these-stellar-deals-that-can-save-you-up-to-usd500-big-sale-on-current-gen-pro-air-and-neo-models-avoid-new-price-hikes-with-extra-discounts-on-top",
-    "description": "Apple is raising MacBook pricing by hundreds of dollars, but these sale week deals are still live, so grab a bargain while you can.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "The AI tokenmaxxing party is crashing over spiraling costs — leaked consulting firm audio suggests no one is sure how to measure AI effectiveness",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness",
-    "description": "A recording from a meeting at consulting firm Accenture has raised concerns over how much companies are spending on AI. As companies bullish on AI rush to take advantage of the technology, solutions to out of control token spend could see non-technical employees encouraged to stop using it for spurious tasks.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Asus beta BIOS updates restore Ryzen 9000 memory encryption ahead of AMD’s July timeline — TSME returns to select AM5 boards after silent backlash over removal",
-    "link": "https://www.tomshardware.com/pc-components/cpus/asus-beta-bios-updates-restore-ryzen-9000-memory-encryption-ahead-of-amds-july-timeline-tsme-returns-to-select-am5-boards-after-silent-backlash-over-removal",
-    "description": "Asus has released beta BIOS updates for several X870, B850, and X670 AM5 motherboards, restoring Transparent Secure Memory Encryption support for non-Pro Ryzen 9000 CPUs.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Want an RTX 5070 Ti? Here’s where to get one for $899 — don't pay retail and save $220 today",
-    "link": "https://www.tomshardware.com/pc-components/gpus/want-an-rtx-5070-ti-heres-where-to-get-one-for-usd899-dont-pay-retail-and-save-usd220-today",
-    "description": "Newegg has the Gigabyte GeForce RTX 5070 Ti Eagle OC Ice SFF 16G graphics card up for sale for $899 after direct discounts.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "These 15 under-$50 gadgets have upgraded my tech life, and they're all on sale",
-    "link": "https://www.tomshardware.com/peripherals/these-15-under-usd50-gadgets-have-upgraded-my-tech-life-and-theyre-all-on-sale",
-    "description": "From electric screwdrivers to high-res webcams, these are inexpensive game-changers.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "RAM crisis bites Apple as unprecedented Mac and iPad price rises arrive — cheapest MacBook Pro price hiked by $400 to $1,999",
-    "link": "https://www.tomshardware.com/laptops/macbooks/ram-crisis-bites-apple-as-unprecedented-mac-and-ipad-price-rises-arrive-cheapest-macbook-pro-price-hiked-by-usd400-to-usd1-999",
-    "description": "Apple has made the unprecedented decision to hike the prices of all its current computers and tablets with some entry-level model prices up as much as $500.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model — violations occurred from April to June 2026",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
-    "description": "AI tech giant Alibaba, often considered as the Amazon of China, is being accused by Anthropic for using Claude to train its AI models. The American AI startup claimed that it traced over 25,000 accounts to operators that were affiliated with Alibaba and Alibaba Qwen.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Today only, you can snag a 37-inch 4K Samsung monitor for just $249 – B&H offers up a big productivity screen for 50% off in a one-day deal",
-    "link": "https://www.tomshardware.com/pc-components/today-only-you-can-snag-a-37-inch-4k-samsung-monitor-for-just-usd249-b-and-h-offers-up-a-big-productivity-screen-for-50-percent-off-in-a-one-day-deal",
-    "description": "B&H is selling a 37-inch 4K Samsung monitor for half off, or just $249, today only.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds",
-    "link": "https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits",
-    "description": "Qualcomm has announced that it will bring all four of its Dragonfly data center product lines to China.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "HyperX Cloud Stinger 3 Wireless Headset Review: 80 hours and under $100",
-    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-stinger-3-wireless-review",
-    "description": "The HyperX Cloud Stinger 3 Wireless is an over-ear wireless gaming headset with 50mm dynamic drivers, a flip-to-mute boom mic, and up to 80 hours of battery life — all for under $100.",
-    "pub_date": "2026-06-25",
-    "source": "Tom's Hardware",
     "category": "芯片/市场"
   }
 ];
