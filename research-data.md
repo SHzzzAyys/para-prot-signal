@@ -1,16 +1,28 @@
-# PubMed Research Feed — 2026-06-28 03:30:05 +0000
+# PubMed Research Feed — 2026-06-29 03:34:59 +0000
 
-共 **49** 篇文章（Toxoplasma 18 · Plasmodium 25 · Malaria parasite 11）
+共 **47** 篇文章（Toxoplasma 17 · Plasmodium 25 · Malaria parasite 10）
 
 ---
+
+## 2026-06-28
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Correlation between microRNAs- 604, microRNA-1302- 3p and IL-37 Expression in Iraqi patients with Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42365476/) | Iranian journal of immunology : IJI | Toxoplasma | [10.22034/iji.2026.109352.3131](https://doi.org/10.22034/iji.2026.109352.3131) |
+
+## 2026-06-27
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Splenic macrophage-B cell axis drives systemic autoimmune-like pathology in Cerebral Malaria.](https://pubmed.ncbi.nlm.nih.gov/42364976/) | Nature communications | Plasmodium | [10.1038/s41467-026-74882-4](https://doi.org/10.1038/s41467-026-74882-4) |
 
 ## 2026-06-26
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [The human parasite, Toxoplasma gondii, is paralyzed without two components of the apical polar ring.](https://pubmed.ncbi.nlm.nih.gov/42361143/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014378](https://doi.org/10.1371/journal.ppat.1014378) |
-| 2 | [Targeting vaccine fusion proteins to APCs increases immunogenicity of adenoviral and mRNA-LNP vaccines.](https://pubmed.ncbi.nlm.nih.gov/42363600/) | Molecular therapy : the journal of the American Society of Gene Therapy | Plasmodium | [10.1016/j.ymthe.2026.06.034](https://doi.org/10.1016/j.ymthe.2026.06.034) |
-| 3 | [Estimating probabilities of malaria importation in southern Mozambique through modelling P. falciparum genomics and mobility patterns.](https://pubmed.ncbi.nlm.nih.gov/42360804/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.107136](https://doi.org/10.7554/eLife.107136) |
+| 1 | [Estimating probabilities of malaria importation in southern Mozambique through modelling P. falciparum genomics and mobility patterns.](https://pubmed.ncbi.nlm.nih.gov/42360804/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.107136](https://doi.org/10.7554/eLife.107136) |
+| 2 | [The human parasite, Toxoplasma gondii, is paralyzed without two components of the apical polar ring.](https://pubmed.ncbi.nlm.nih.gov/42361143/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014378](https://doi.org/10.1371/journal.ppat.1014378) |
+| 3 | [Targeting vaccine fusion proteins to APCs increases immunogenicity of adenoviral and mRNA-LNP vaccines.](https://pubmed.ncbi.nlm.nih.gov/42363600/) | Molecular therapy : the journal of the American Society of Gene Therapy | Plasmodium | [10.1016/j.ymthe.2026.06.034](https://doi.org/10.1016/j.ymthe.2026.06.034) |
 | 4 | [Antiparasitic activity of peppermint and lavender essential oil nano-emulsions against Toxoplasma gondii RH strain in vitro and in vivo.](https://pubmed.ncbi.nlm.nih.gov/42360597/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11348-4](https://doi.org/10.1007/s11259-026-11348-4) |
 | 5 | [Prevalence of malaria and its major parasite species in Bangladesh: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42363176/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06014-8](https://doi.org/10.1186/s12936-026-06014-8) |
 | 6 | [Ocular toxoplasmosis in Latin American and European patients: clinical characteristics, visual outcomes, and recurrence patterns.](https://pubmed.ncbi.nlm.nih.gov/42360580/) | Journal of ophthalmic inflammation and infection | Toxoplasma | [10.1186/s12348-026-00615-9](https://doi.org/10.1186/s12348-026-00615-9) |
@@ -46,10 +58,10 @@
 | 2 | [Epitope mirroring between the malaria surface proteins PfGARP and PIESP2 identifies a knob-associated complex in infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42336280/) | The Journal of biological chemistry | Plasmodium · Malaria parasite | [10.1016/j.jbc.2026.113291](https://doi.org/10.1016/j.jbc.2026.113291) |
 | 3 | [Improving the field accuracy of a malaria diagnostic algorithm combining sequential interpretation of rapid diagnostic test detecting PfHRP2 and pLDH in febrile children in a seasonal hyperendemic malaria transmission area in Burkina Faso.](https://pubmed.ncbi.nlm.nih.gov/42335182/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0351990](https://doi.org/10.1371/journal.pone.0351990) |
 | 4 | [Latent cytomegalovirus disrupts innate NK cell responses to P. falciparum and impairs parasite control in first infection in adults.](https://pubmed.ncbi.nlm.nih.gov/42335170/) | PLoS pathogens | Malaria parasite | [10.1371/journal.ppat.1014372](https://doi.org/10.1371/journal.ppat.1014372) |
-| 5 | [Hidden hematological, biochemical and immune costs of asymptomatic malaria infections in semi-wild chimpanzees.](https://pubmed.ncbi.nlm.nih.gov/42335105/) | PLoS pathogens | Malaria parasite | [10.1371/journal.ppat.1014287](https://doi.org/10.1371/journal.ppat.1014287) |
-| 6 | [North-to-south increasing gradient in Toxoplasma gondii seroprevalence and no serological evidence of exposure to Neospora caninum in semi-domesticated Eurasian tundra reindeer (Rangifer tarandus tarandus) in Finland and northern Norway in 2015.](https://pubmed.ncbi.nlm.nih.gov/42337579/) | Acta veterinaria Scandinavica | Toxoplasma | [10.1186/s13028-026-00869-2](https://doi.org/10.1186/s13028-026-00869-2) |
-| 7 | [From multiplicity of infection to force of infection in sparsely sampled high-transmission Plasmodium falciparum populations.](https://pubmed.ncbi.nlm.nih.gov/42333925/) | eLife | Malaria parasite | [10.7554/eLife.100076](https://doi.org/10.7554/eLife.100076) |
-| 8 | [Seroprevalence and molecular detection of Toxoplasma gondii in patients with obsessive-compulsive disorder: a case-control study in northern Iran.](https://pubmed.ncbi.nlm.nih.gov/42337477/) | BMC infectious diseases | Toxoplasma | [10.1186/s12879-026-13855-w](https://doi.org/10.1186/s12879-026-13855-w) |
+| 5 | [North-to-south increasing gradient in Toxoplasma gondii seroprevalence and no serological evidence of exposure to Neospora caninum in semi-domesticated Eurasian tundra reindeer (Rangifer tarandus tarandus) in Finland and northern Norway in 2015.](https://pubmed.ncbi.nlm.nih.gov/42337579/) | Acta veterinaria Scandinavica | Toxoplasma | [10.1186/s13028-026-00869-2](https://doi.org/10.1186/s13028-026-00869-2) |
+| 6 | [Hidden hematological, biochemical and immune costs of asymptomatic malaria infections in semi-wild chimpanzees.](https://pubmed.ncbi.nlm.nih.gov/42335105/) | PLoS pathogens | Malaria parasite | [10.1371/journal.ppat.1014287](https://doi.org/10.1371/journal.ppat.1014287) |
+| 7 | [Seroprevalence and molecular detection of Toxoplasma gondii in patients with obsessive-compulsive disorder: a case-control study in northern Iran.](https://pubmed.ncbi.nlm.nih.gov/42337477/) | BMC infectious diseases | Toxoplasma | [10.1186/s12879-026-13855-w](https://doi.org/10.1186/s12879-026-13855-w) |
+| 8 | [From multiplicity of infection to force of infection in sparsely sampled high-transmission Plasmodium falciparum populations.](https://pubmed.ncbi.nlm.nih.gov/42333925/) | eLife | Malaria parasite | [10.7554/eLife.100076](https://doi.org/10.7554/eLife.100076) |
 | 9 | [Molecular detection of Toxoplasma gondii in marine fish from Tunisia: First report in the Southern Mediterranean Sea.](https://pubmed.ncbi.nlm.nih.gov/42337177/) | Parasitology research | Toxoplasma | [10.1007/s00436-026-08714-1](https://doi.org/10.1007/s00436-026-08714-1) |
 | 10 | [The immune-stimulating particle adjuvant (ISPA) as a versatile adjuvant platform for recombinant vaccines against chronic Toxoplasma gondii infection.](https://pubmed.ncbi.nlm.nih.gov/42336023/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108197](https://doi.org/10.1016/j.actatropica.2026.108197) |
 | 11 | [Cerebral toxoplasmosis in patients with peripheral B-cell lymphoma : A case series and a literature review.](https://pubmed.ncbi.nlm.nih.gov/42334546/) | Wiener medizinische Wochenschrift (1946) | Toxoplasma | [10.1007/s10354-026-01166-3](https://doi.org/10.1007/s10354-026-01166-3) |
@@ -65,8 +77,8 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [In vitro and in vivo activity of the aspartic protease inhibitor CWHM-117 against Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42363834/) | Antimicrobial agents and chemotherapy | Toxoplasma · Plasmodium | [10.1128/aac.00370-26](https://doi.org/10.1128/aac.00370-26) |
-| 2 | [Inhibition of PfCLK3 interferes with malaria parasite RNA splicing and explains the mechanism of action of a new class of antimalarial candidates.](https://pubmed.ncbi.nlm.nih.gov/42363832/) | Antimicrobial agents and chemotherapy | Malaria parasite | [10.1128/aac.01561-25](https://doi.org/10.1128/aac.01561-25) |
+| 1 | [Inhibition of PfCLK3 interferes with malaria parasite RNA splicing and explains the mechanism of action of a new class of antimalarial candidates.](https://pubmed.ncbi.nlm.nih.gov/42363832/) | Antimicrobial agents and chemotherapy | Malaria parasite | [10.1128/aac.01561-25](https://doi.org/10.1128/aac.01561-25) |
+| 2 | [In vitro and in vivo activity of the aspartic protease inhibitor CWHM-117 against Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42363834/) | Antimicrobial agents and chemotherapy | Toxoplasma · Plasmodium | [10.1128/aac.00370-26](https://doi.org/10.1128/aac.00370-26) |
 | 3 | [Diagnostic and therapeutic impact of PCR in uveitis: real-world data from intraocular fluid analysis of 45 uveitis patients in a tertiary referral center in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42332605/) | BMC ophthalmology | Toxoplasma | [10.1186/s12886-026-05002-5](https://doi.org/10.1186/s12886-026-05002-5) |
 | 4 | [Social marginalisation, environmental degradation and Toxoplasma gondii exposure in urban informal settlements in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42330015/) | PLoS neglected tropical diseases | Toxoplasma | [10.1371/journal.pntd.0014453](https://doi.org/10.1371/journal.pntd.0014453) |
 | 5 | [Genome-wide CRISPR screen identifies ELFN2 as a key regulator of host autophagy and lipid metabolism important for Toxoplasma gondii proliferation.](https://pubmed.ncbi.nlm.nih.gov/42329082/) | Autophagy | Toxoplasma | [10.1080/15548627.2026.2693781](https://doi.org/10.1080/15548627.2026.2693781) |
@@ -76,15 +88,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Towards anti-Toxoplasmosis agents: synthesis and biological evaluation of diosgenin ester derivatives.](https://pubmed.ncbi.nlm.nih.gov/42323910/) | Natural product research | Toxoplasma | [10.1080/14786419.2026.2689487](https://doi.org/10.1080/14786419.2026.2689487) |
-
-## 2026-06-20
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Immunogenicity of a Recombinant Multi-Epitope Vaccine Incorporating GRA14, SAG1, and GRA1 Antigens of Toxoplasma gondii in BALB/c Mice.](https://pubmed.ncbi.nlm.nih.gov/42347666/) | Vaccines | Toxoplasma | [10.3390/vaccines14060545](https://doi.org/10.3390/vaccines14060545) |
-| 2 | [Myopericarditis Secondary to Toxoplasma Gondii Infection in an Immunocompetent Young Male-A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42347105/) | Reports (MDPI) | Toxoplasma | [10.3390/reports9020192](https://doi.org/10.3390/reports9020192) |
-| 3 | [In Vitro, In Silico, and In Vivo Evaluation of Antiplasmodial Activity of Ursodeoxycholic Acid Following GNPS Dereplication of an Active Streptomyces sp. Fraction.](https://pubmed.ncbi.nlm.nih.gov/42356575/) | Pharmaceuticals (Basel, Switzerland) | Plasmodium | [10.3390/ph19060958](https://doi.org/10.3390/ph19060958) |
-| 4 | [A modular chromosomal passenger complex rewires chromosome segregation in Plasmodium berghei.](https://pubmed.ncbi.nlm.nih.gov/42323312/) | Nature communications | Malaria parasite | [10.1038/s41467-026-74542-7](https://doi.org/10.1038/s41467-026-74542-7) |
 
 ## 2026-06-03
 
