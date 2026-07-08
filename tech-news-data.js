@@ -1,5 +1,13 @@
-window.techNewsLastUpdated = "2026-07-07 04:32:35 +0000";
+window.techNewsLastUpdated = "2026-07-08 03:54:09 +0000";
 window.techNewsItems = [
+  {
+    "title": "Apple Begins Testing CXMT DRAM Ahead Of A Possible Negotiation Power Play With Samsung, SK hynix, And Micron",
+    "link": "https://wccftech.com/apple-begins-testing-cxmt-dram-ahead-of-a-possible-negotiation-power-play-with-samsung-sk-hynix-and-micron/",
+    "description": "In a major development that suggests things are moving ahead at a fairly rapid pace, Apple has apparently begun testing DRAM from CXMT ahead of a possible inclusion in its expansive product portfolio. Apple has begun testing DRAM from CXMT as it continues its lobbying efforts in Washington for a more lax attitude towards China-sourced memory products According to the Financial Times, Apple is currently testing DRAM products from China's CXMT, hinting at a growing probability of the Chinese DRAM ",
+    "pub_date": "2026-07-08",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
   {
     "title": "iFLYTEK-Embodied-Omni Technical Report",
     "link": "https://arxiv.org/abs/2607.02542",
@@ -419,7 +427,7 @@ window.techNewsItems = [
   {
     "title": "Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs",
     "link": "https://arxiv.org/abs/2607.04371",
-    "description": "arXiv:2607.04371v1 Announce Type: new Abstract: We present Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super optimized for interactive deployment. We designed the model to maximize server throughput under high user throughput constraints. In interactive serving workloads on a single 8xB200 node, Puzzle-75B-A9B achieves approximately 2x higher server throughput than Nemotron-3-Super at matched user throughput constraints. In ultra-long-context deployment on a single H100 GP",
+    "description": "arXiv:2607.04371v2 Announce Type: new Abstract: We present Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super optimized for interactive deployment. We designed the model to maximize server throughput under high user throughput constraints. In interactive serving workloads on a single 8xB200 node, Puzzle-75B-A9B achieves approximately 2x higher server throughput than Nemotron-3-Super at matched user throughput constraints. In ultra-long-context deployment on a single H100 GP",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -449,9 +457,9 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "Agent Step Value: State-Transition Measurement with State-Grounded LLM Evaluators",
+    "title": "Agent Step Value: Probing the Observer Effect in Black-Box Traces",
     "link": "https://arxiv.org/abs/2607.04419",
-    "description": "arXiv:2607.04419v1 Announce Type: new Abstract: Most agent evaluations collapse a multi-step trace into a final answer, a success flag, or a trajectory-level score. These aggregates obscure the diagnostic question developers need most: which action changed the state in a useful direction? We introduce Agent Step Value (ASV), a state-transition measurement framework that scores each observed action by the change it induces in a state-grounded evaluator's distribution over fixed candidate outcomes",
+    "description": "arXiv:2607.04419v2 Announce Type: new Abstract: Final-answer scores hide which agent transitions helped or harmed a trace. We introduce Agent Step Value (ASV), a replay framework that scores before/after states with a stateless LLM evaluator over a fixed candidate set. ASV reports entropy movement and Bayesian surprise measure belief movement, while offline gold-margin gain measures movement toward a reviewed target. It also quantifies evaluator-channel sensitivity by replaying the same frozen t",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -755,7 +763,7 @@ window.techNewsItems = [
   {
     "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
     "link": "https://arxiv.org/abs/2607.05391",
-    "description": "arXiv:2607.05391v1 Announce Type: new Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring addit",
+    "description": "arXiv:2607.05391v2 Announce Type: new Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring addit",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -787,7 +795,7 @@ window.techNewsItems = [
   {
     "title": "Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation",
     "link": "https://arxiv.org/abs/2607.02289",
-    "description": "arXiv:2607.02289v1 Announce Type: cross Abstract: Three-dimensional superconducting radio-frequency (SRF) cavities provide exceptionally long-lived electromagnetic modes and, when coupled to nonlinear elements such as transmon qubits, become promising architectures for bosonic quantum information processing. The inverse design of such systems, i.e., recovering device geometries that produce specified electromagnetic and coupling targets, is generally a one-to-many problem. The qubit-cavity coupl",
+    "description": "arXiv:2607.02289v2 Announce Type: cross Abstract: Three-dimensional superconducting radio-frequency (SRF) cavities provide exceptionally long-lived electromagnetic modes and, when coupled to nonlinear elements such as transmon qubits, become promising architectures for bosonic quantum information processing. The inverse design of such systems, i.e., recovering device geometries that produce specified electromagnetic and coupling targets, is generally a one-to-many problem. The qubit-cavity coupl",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -873,9 +881,9 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "CRODA-ST: Single-Target Cross-Receiver Open-Set Radio Fingerprint Recognition",
+    "title": "Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation",
     "link": "https://arxiv.org/abs/2607.02567",
-    "description": "arXiv:2607.02567v1 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is transferred to a target receiver. Receiver shift can lower the confidence of known transmitters and cause false rejection; closed-set alignment can have the opposite effect by pulling unseen target transmitters into known regions and increas",
+    "description": "arXiv:2607.02567v2 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is applied to a target receiver. Receiver shift can lower the confidence of known transmitters and cause false rejection, whereas closed-set alignment can pull unseen target transmitters into known regions and increase false acceptance. This pa",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1035,7 +1043,7 @@ window.techNewsItems = [
   {
     "title": "Not All Refusals Are Equal: How Safety Alignment Fails Cybersecurity at Scale",
     "link": "https://arxiv.org/abs/2607.02714",
-    "description": "arXiv:2607.02714v1 Announce Type: cross Abstract: There is no doubt that safety alignment is an essential step in LLM training. However, conceptually it does not distinguish between various domains and the level of potential harm of a query, which creates significant complications in the fields like cyber security, where a model should not be constrained by its safety circuits to accomplish the goals of legitimate, authorized operations. In this work, we share our findings from a large scale abl",
+    "description": "arXiv:2607.02714v2 Announce Type: cross Abstract: There is no doubt that safety alignment is an essential step in LLM training. However, conceptually it does not distinguish between various domains and the level of potential harm of a query, which creates significant complications in the fields like cyber security, where a model should not be constrained by its safety circuits to accomplish the goals of legitimate, authorized operations. In this work, we share our findings from a large scale abl",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1329,9 +1337,9 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training",
+    "title": "CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training",
     "link": "https://arxiv.org/abs/2607.02998",
-    "description": "arXiv:2607.02998v1 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX, a latent diffusion model for chest computed tomography (CT): a 3D variational autoencoder compresses each volume, and a rectified-flow transformer generates in the latent space. Generation is condit",
+    "description": "arXiv:2607.02998v2 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX, a latent diffusion model for chest computed tomography (CT): a 3D variational autoencoder compresses each volume, and a rectified-flow transformer generates in the latent space. Generation is condit",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1451,7 +1459,7 @@ window.techNewsItems = [
   {
     "title": "ACPO: Adaptive Credit Policy Optimization via Fine-Grained Surrogate Entropy",
     "link": "https://arxiv.org/abs/2607.03126",
-    "description": "arXiv:2607.03126v1 Announce Type: cross Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-level rewards uniformly across tokens, while recent entropy-aware approaches either rely on coarse detached heuristics or directly optimize true entropy, which can introduce non-local gradient components ",
+    "description": "arXiv:2607.03126v2 Announce Type: cross Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-level rewards uniformly across tokens, while recent entropy-aware approaches either rely on coarse detached heuristics or directly optimize true entropy, which can introduce non-local gradient components ",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1667,7 +1675,7 @@ window.techNewsItems = [
   {
     "title": "Hierarchical Multi-Agent Reinforcement Learning for Carbon-Aware AI Data Centers in Power Distribution Systems",
     "link": "https://arxiv.org/abs/2607.03324",
-    "description": "arXiv:2607.03324v1 Announce Type: cross Abstract: Eco-friendly energy management for artificial intelligence data centers (AIDCs) is crucial because of the significant increase in energy consumption-induced carbon emissions from AIDCs resulting from the rapid expansion of AI applications. This paper proposes a hierarchical carbon-aware multi-agent reinforcement learning (CA-MARL) framework for robust and efficient operations of AIDCs under uncertainties while ensuring low-carbon operation of pow",
+    "description": "arXiv:2607.03324v2 Announce Type: cross Abstract: Eco-friendly energy management for artificial intelligence data centers (AIDCs) is crucial because of the significant increase in energy consumption-induced carbon emissions from AIDCs resulting from the rapid expansion of AI applications. This paper proposes a hierarchical carbon-aware multi-agent reinforcement learning (CA-MARL) framework for robust and efficient operations of AIDCs under uncertainties while ensuring low-carbon operation of pow",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2139,7 +2147,7 @@ window.techNewsItems = [
   {
     "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
     "link": "https://arxiv.org/abs/2607.03819",
-    "description": "arXiv:2607.03819v1 Announce Type: cross Abstract: Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of viewpoint-consistent and semantically aligned visual content, as well as the construction of accurate geometric structures. In this paper, we propose CGGS, a text-to-3D framework aiming to enhance 3D-content-awareness and address geometric distortions i",
+    "description": "arXiv:2607.03819v2 Announce Type: cross Abstract: Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of viewpoint-consistent and semantically aligned visual content, as well as the construction of accurate geometric structures. In this paper, we propose CGGS, a text-to-3D framework aiming to enhance 3D-content-awareness and address geometric distortions i",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2555,7 +2563,7 @@ window.techNewsItems = [
   {
     "title": "Piercing Gilbreath's Conjecture: From Deep Number Theory Insights to Fintech and Cybersecurity",
     "link": "https://arxiv.org/abs/2607.04166",
-    "description": "arXiv:2607.04166v1 Announce Type: cross Abstract: I propose a new methodology to attack the fascinating Gilbreath's conjecture about prime numbers, first posted in 1878 and unsolved to this day. The problem statement is rudimentary: kids can understand it. However, despite decades of research, almost no progress has been made. This paper changes the game by presenting a new approach based on sieving, a number of new results with proof, a precise path to the solution, and solid references. It als",
+    "description": "arXiv:2607.04166v2 Announce Type: cross Abstract: I propose a new methodology to attack the fascinating Gilbreath's conjecture about prime numbers, first posted in 1878 and unsolved to this day. The problem statement is rudimentary: kids can understand it. However, despite decades of research, almost no progress has been made. This paper changes the game by presenting a new approach based on sieving, a number of new results with proof, a precise path to the solution, and solid references. It als",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2707,7 +2715,7 @@ window.techNewsItems = [
   {
     "title": "Transferability Between Understanding and Generation in Unified Multimodal Models",
     "link": "https://arxiv.org/abs/2607.04423",
-    "description": "arXiv:2607.04423v1 Announce Type: cross Abstract: Unified Multimodal Models (UMMs) integrate image understanding and generation within a single architecture, yet how the two tasks interact remains understudied. We investigate $\\boldsymbol{\\mathsf{transferability}}$ in UMMs: whether training a capability on one task improves the same capability on the other without explicit supervision. Through controlled experiments, we empirically find that transferability depends on architecture-models with fu",
+    "description": "arXiv:2607.04423v2 Announce Type: cross Abstract: Unified Multimodal Models (UMMs) integrate image understanding and generation within a single architecture, yet how the two tasks interact remains understudied. We investigate $\\boldsymbol{\\mathsf{transferability}}$ in UMMs: whether training a capability on one task improves the same capability on the other without explicit supervision. Through controlled experiments, we empirically find that transferability depends on architecture-models with fu",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2755,7 +2763,7 @@ window.techNewsItems = [
   {
     "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
     "link": "https://arxiv.org/abs/2607.04434",
-    "description": "arXiv:2607.04434v1 Announce Type: cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, and are often conducted only in simulation or only in the real world. Simulation enables scalable feedback but misses physical deployment challenges, while real-world evaluation is costly, time-consuming, and",
+    "description": "arXiv:2607.04434v2 Announce Type: cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, and are often conducted only in simulation or only in the real world. Simulation enables scalable feedback but misses physical deployment challenges, while real-world evaluation is costly, time-consuming, and",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2787,7 +2795,7 @@ window.techNewsItems = [
   {
     "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
     "link": "https://arxiv.org/abs/2607.04443",
-    "description": "arXiv:2607.04443v1 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving approximately 200 ms model-side signal-to-signal latency at 25 FPS. The higher-resolution stream supports scene-grounded mid-shot agents whose posture, gaze, hands, nearby objects, and local scene la",
+    "description": "arXiv:2607.04443v2 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving approximately 200 ms model-side signal-to-signal latency at 25 FPS. The higher-resolution stream supports scene-grounded mid-shot agents whose posture, gaze, hands, nearby objects, and local scene la",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -3283,7 +3291,7 @@ window.techNewsItems = [
   {
     "title": "TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction",
     "link": "https://arxiv.org/abs/2607.05001",
-    "description": "arXiv:2607.05001v1 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of adversarial entities, actions, and relations, but constructing such graphs from free-text CTI remains a challenge. Recent approaches rely on monolithic Large Language Models (LLMs) to perform end-to-e",
+    "description": "arXiv:2607.05001v2 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of adversarial entities, actions, and relations, but constructing such graphs from free-text CTI remains a challenge. Recent approaches rely on monolithic Large Language Models (LLMs) to perform end-to-e",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -3419,7 +3427,7 @@ window.techNewsItems = [
   {
     "title": "Unified Audio Intelligence Without Regressing on Text Intelligence",
     "link": "https://arxiv.org/abs/2607.05196",
-    "description": "arXiv:2607.05196v1 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are ",
+    "description": "arXiv:2607.05196v2 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are ",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -3497,9 +3505,9 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "Topological Shape Representation for Aneurysm -- Bifurcation Detection",
+    "title": "Shape Over Intensity: Directional Topological Encoding for False Positive Reduction in Intracranial Aneurysm Detection",
     "link": "https://arxiv.org/abs/2607.05317",
-    "description": "arXiv:2607.05317v1 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneurysms and vascular bifurcations -- a problem especially acute for small lesions (<3 mm), where detection sensitivity falls below 60%. We propose a plug-and-play, topology-aware false-positive reduction",
+    "description": "arXiv:2607.05317v2 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneurysms and vascular bifurcations - a problem especially acute for small lesions (<3 mm), where detection sensitivity falls below 60%. We propose a plug-and-play, topology-aware false-positive reduction ",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -3523,7 +3531,7 @@ window.techNewsItems = [
   {
     "title": "Multiplayer Interactive World Models with Representation Autoencoders",
     "link": "https://arxiv.org/abs/2607.05352",
-    "description": "arXiv:2607.05352v1 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of multiple agents, learning to attribute changes in the scene to the correct player and to stay coherent under arbitrary combinations of their actions. We study this problem in the game of Rocket League,",
+    "description": "arXiv:2607.05352v2 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of multiple agents, learning to attribute changes in the scene to the correct player and to stay coherent under arbitrary combinations of their actions. We study this problem in the game of Rocket League,",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -4027,7 +4035,7 @@ window.techNewsItems = [
   {
     "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
     "link": "https://arxiv.org/abs/2606.12742",
-    "description": "arXiv:2606.12742v3 Announce Type: replace Abstract: Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the activity of the heart and brain, respectively. Although deep neural networks are considered the primary way to process and analyze these signals, the very tight energy and computational power constraints in wearable devices are far below the computat",
+    "description": "arXiv:2606.12742v4 Announce Type: replace Abstract: Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the activity of the heart and brain, respectively. Although deep neural networks are considered the primary way to process and analyze these signals, the very tight energy and computational power constraints in wearable devices are far below the computat",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -4123,7 +4131,7 @@ window.techNewsItems = [
   {
     "title": "FADE: Mitigating Hallucinations by Reducing Language-Prior Dominance in Large Vision-Language Models",
     "link": "https://arxiv.org/abs/2606.29431",
-    "description": "arXiv:2606.29431v3 Announce Type: replace Abstract: Despite the impressive capabilities of Large Vision-Language Models (LVLMs), they remain susceptible to hallucination, generating content inconsistent with the input image. Recent studies attribute this to the dominance of language priors over visual inputs and employ contrastive decoding methods to mitigate this dominance, but the mechanistic origin remains unexplored. We investigate the information flow through each transformer layer and find",
+    "description": "arXiv:2606.29431v4 Announce Type: replace Abstract: Despite the impressive capabilities of Large Vision-Language Models (LVLMs), they remain susceptible to hallucination, generating content inconsistent with the input image. Recent studies attribute this to the dominance of language priors over visual inputs and employ contrastive decoding methods to mitigate this dominance, but the mechanistic origin remains unexplored. We investigate the information flow through each transformer layer and find",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -4443,7 +4451,7 @@ window.techNewsItems = [
   {
     "title": "Empirical Computation: Prompting versus Programming",
     "link": "https://arxiv.org/abs/2503.10954",
-    "description": "arXiv:2503.10954v2 Announce Type: replace-cross Abstract: Large Language Model (LLM) agents can solve *any* computational problem *without* an algorithm in a runtime *independent* of the computational complexity of that problem. Instead of specifying precisely how to solve problem instance using *programming*, we ask an LLM to solve the problem instance using *prompting*. Outputs are sampled from a distribution rather than generated procedurally. In this vision paper, we explore the challenges a",
+    "description": "arXiv:2503.10954v3 Announce Type: replace-cross Abstract: Large Language Models (LLM) can solve *any* computational problem *without* an algorithm in a runtime *independent* of the computational complexity of that problem. Instead of specifying precisely how to solve problem instance using *programming*, we ask an LLM to solve the problem instance using *prompting*. Outputs are sampled from a distribution rather than generated procedurally. In this vision paper, we explore the challenges and opp",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -6411,7 +6419,7 @@ window.techNewsItems = [
   {
     "title": "Rank-Order N-of-M Codes for Sparse Distributed Memory: Disentangling Representation and Learning Effects in Noise Robustness Against Contemporary Neuromorphic Architectures",
     "link": "https://arxiv.org/abs/2607.02967",
-    "description": "arXiv:2607.02967v1 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an open design question. This paper evaluates rank-order N-of-M encoding (Furber et al., 2007) as an alternative. We make three contributions. First, a faithful reimplementation validates the published arc",
+    "description": "arXiv:2607.02967v2 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an open design question. This paper evaluates rank-order N-of-M encoding (Furber et al., 2007) as an alternative. We make three contributions. First, a faithful reimplementation validates the published arc",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -6587,7 +6595,7 @@ window.techNewsItems = [
   {
     "title": "How Much of the Routing Gap Is Real? Decomposing the Router-to-Oracle Gap into Reproducible Specialist Advantage and Single-Draw Label Noise",
     "link": "https://arxiv.org/abs/2607.03436",
-    "description": "arXiv:2607.03436v1 Announce Type: new Abstract: Routing among large language models (LLMs) promises better quality at lower cost, motivated by the reported gap between learned routers and a per-instance oracle. But that oracle is computed from a single correctness label per (query, model), so under stochastic decoding it is one Bernoulli draw, not a reproducible property. We recast the question structurally: the expected per-instance oracle decomposes as $O^{\\exp}=O^{\\mathrm{repro}}+\\Delta$, int",
+    "description": "arXiv:2607.03436v2 Announce Type: new Abstract: On real open-model pools, 12--36% of the reported router-to-oracle gap is single-draw label noise that no single-commit router can capture, while the majority is genuine, recoverable specialist advantage; this work proves why (a recoverability asymmetry) and releases a protocol to measure it. Routing among large language models (LLMs) trades cost for quality, motivated by the gap between learned routers and a per-instance oracle. But under stochast",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -6707,7 +6715,7 @@ window.techNewsItems = [
   {
     "title": "PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling",
     "link": "https://arxiv.org/abs/2607.03692",
-    "description": "arXiv:2607.03692v1 Announce Type: new Abstract: Spectral methods are widely used to construct representations from the geometry of data, but they often rely on a fixed kernel, graph Laplacian, or manually selected feature scaling. We propose Physics-Informed Eigenfunction Features with Learnable Scaling (PIEFS), a supervised neural representation-learning framework with a spectral inductive bias, based on a modified Dirichlet energy. In PIEFS, scalar coordinate maps are trained under empirical G",
+    "description": "arXiv:2607.03692v2 Announce Type: new Abstract: Spectral methods are widely used to construct representations from the geometry of data, but they often rely on a fixed kernel, graph Laplacian, or manually selected feature scaling. We propose Physics-Informed Eigenfunction Features with Learnable Scaling (PIEFS), a supervised neural representation-learning framework with a spectral inductive bias, based on a modified Dirichlet energy. In PIEFS, scalar coordinate maps are trained under empirical G",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -6963,7 +6971,7 @@ window.techNewsItems = [
   {
     "title": "Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B",
     "link": "https://arxiv.org/abs/2607.04244",
-    "description": "arXiv:2607.04244v1 Announce Type: new Abstract: This report describes our approach to the Efficient Qwen Competition, where the goal is to enable low-latency serving of Qwen3.5-4B on a resource-constrained NVIDIA A10G GPU. Our system combines a quantized target model with speculative decoding. To recover accuracy, we apply quantization-aware distillation to the target model while retaining the original quantization grid. To speed up decoding, a block-diffusion drafter specialized for the quantiz",
+    "description": "arXiv:2607.04244v2 Announce Type: new Abstract: This report describes our approach to the Efficient Qwen Competition, where the goal is to enable low-latency serving of Qwen3.5-4B on a resource-constrained NVIDIA A10G GPU. Our system combines a quantized target model with speculative decoding. To recover accuracy, we apply quantization-aware distillation to the target model while retaining the original quantization grid. To speed up decoding, a block-diffusion drafter specialized for the quantiz",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -7035,7 +7043,7 @@ window.techNewsItems = [
   {
     "title": "Environmental Drivers of Respiratory Disease: A District Level Analysis",
     "link": "https://arxiv.org/abs/2607.04416",
-    "description": "arXiv:2607.04416v1 Announce Type: new Abstract: Sri Lanka has experienced a decade of progressive forest degradation and rising atmospheric pollution, yet district-level respiratory admissions have paradoxically declined, pointing to the confounding role of healthcare access. This study addresses that gap by constructing an 11-year (2014-2024) panel dataset across all 25 administrative districts, integrating satellite-derived vegetation indices, fire radiative power, pollutant concentrations (pa",
+    "description": "arXiv:2607.04416v2 Announce Type: new Abstract: Sri Lanka has experienced a decade of progressive forest degradation and rising atmospheric pollution, yet district-level respiratory admissions have paradoxically declined, pointing to the confounding role of healthcare access. This study addresses that gap by constructing an 11-year (2014-2024) panel dataset across all 25 administrative districts, integrating satellite-derived vegetation indices, fire radiative power, pollutant concentrations (pa",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -7283,7 +7291,7 @@ window.techNewsItems = [
   {
     "title": "Non-Convex Sparse Reinforcement Learning via Non-Monotone Inclusions",
     "link": "https://arxiv.org/abs/2607.04990",
-    "description": "arXiv:2607.04990v1 Announce Type: new Abstract: This work delivers two key contributions: one to efficient feature selection in reinforcement learning (RL), the other to the theory of non-monotone inclusions. On the RL side, the estimation bias inherent in conventional regularization schemes is addressed by augmenting classical least-squares temporal-difference (LSTD) policy evaluation with the sparsity-inducing, non-convex projected minimax concave (PMC) penalty. Because the PMC penalty is weak",
+    "description": "arXiv:2607.04990v2 Announce Type: new Abstract: This work delivers two key contributions: one to efficient feature selection in reinforcement learning (RL), the other to the theory of non-monotone inclusions. On the RL side, the estimation bias inherent in conventional regularization schemes is addressed by augmenting classical least-squares temporal-difference (LSTD) policy evaluation with the sparsity-inducing, non-convex projected minimax concave (PMC) penalty. Because the PMC penalty is weak",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -7291,7 +7299,7 @@ window.techNewsItems = [
   {
     "title": "Beyond Modality Fusion: Deep Ensembles for Multimodal Classification",
     "link": "https://arxiv.org/abs/2607.05019",
-    "description": "arXiv:2607.05019v1 Announce Type: new Abstract: In multimodal classification, late-fusion approaches classify concatenated modality-specific features extracted by unimodal neural networks. When modality imbalance is pronounced, various regularization techniques have been proposed to balance the learning process and overcome the inferior performance of late-fusion networks. In contrast, this work demonstrates that multimodal data can be effectively classified without any explicit modality fusion,",
+    "description": "arXiv:2607.05019v2 Announce Type: new Abstract: In multimodal classification, late-fusion approaches classify concatenated modality-specific features extracted by unimodal neural networks. When modality imbalance is pronounced, various regularization techniques have been proposed to balance the learning process and overcome the inferior performance of late-fusion networks. In contrast, this work demonstrates that multimodal data can be effectively classified without any explicit modality fusion,",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -7387,7 +7395,7 @@ window.techNewsItems = [
   {
     "title": "SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits",
     "link": "https://arxiv.org/abs/2607.05187",
-    "description": "arXiv:2607.05187v1 Announce Type: new Abstract: As CMOS technology scales into the deep nanometer regime, digital circuit reliability is increasingly threatened by the combined stochastic effects of Bias Temperature Instability (BTI) and Process Variation (PV). Traditional reliability analysis methods, which rely on computationally intensive simulations or extensive lookup tables, fail to scale efficiently for large designs, creating a critical bottleneck in design space exploration. To address ",
+    "description": "arXiv:2607.05187v2 Announce Type: new Abstract: As CMOS technology scales into the deep nanometer regime, digital circuit reliability is increasingly threatened by the combined stochastic effects of Bias Temperature Instability (BTI) and Process Variation (PV). Traditional reliability analysis methods, which rely on computationally intensive simulations or extensive lookup tables, fail to scale efficiently for large designs, creating a critical bottleneck in design space exploration. To address ",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -8099,7 +8107,7 @@ window.techNewsItems = [
   {
     "title": "Robust Bayes-Assisted Conformal Prediction",
     "link": "https://arxiv.org/abs/2607.04236",
-    "description": "arXiv:2607.04236v1 Announce Type: cross Abstract: Bayes-assisted conformal prediction combines the strengths of Bayesian modelling with exact, distribution-free frequentist coverage guarantees. Although conformal validity is preserved even when the Bayesian working model (BWM) is misspecified, the size of the resulting prediction sets can degrade substantially when the prior is poorly aligned with the observed data. We address this limitation by introducing RoBAS (Robust Bayes-Assisted Shrinkage",
+    "description": "arXiv:2607.04236v2 Announce Type: cross Abstract: Bayes-assisted conformal prediction combines the strengths of Bayesian modelling with exact, distribution-free frequentist coverage guarantees. Although conformal validity is preserved even when the Bayesian working model (BWM) is misspecified, the size of the resulting prediction sets can degrade substantially when the prior is poorly aligned with the observed data. We address this limitation by introducing RoBAS (Robust Bayes-Assisted Shrinkage",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -8339,7 +8347,7 @@ window.techNewsItems = [
   {
     "title": "Physically-Relevant Information Learning in High-Dimensional Time-Derivatives Spaces",
     "link": "https://arxiv.org/abs/2607.05127",
-    "description": "arXiv:2607.05127v1 Announce Type: cross Abstract: Understanding the physics of many-body complex dynamical systems is typically non-trivial. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or descriptors capturing information related to, e.g., relative positions, symmetries, etc., of the units in the studied system. However, in many cases, gaining information related to the relative positions (or veloc",
+    "description": "arXiv:2607.05127v2 Announce Type: cross Abstract: Understanding the physics of many-body complex dynamical systems may be a non-trivial task. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or descriptors capturing information related to, e.g., relative positions, symmetries, etc., of the units in the studied system. However, in many cases, gaining information related to the relative positions of the c",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -8459,7 +8467,7 @@ window.techNewsItems = [
   {
     "title": "DIRA-SS:Dynamic Domain Incremental Regularised Adaptation -- Self-Supervised",
     "link": "https://arxiv.org/abs/2311.07461",
-    "description": "arXiv:2311.07461v3 Announce Type: replace Abstract: Autonomous systems (AS) often rely on Deep Neural Network (DNN) classifiers to operate in complex and dynamically changing environments. However, during operation, these classifiers may encounter domains that differ from those seen during development, causing performance degradation under distribution shift. Removing systems from operation for labelled data collection and retraining is often impractical, particularly when adaptation must occur ",
+    "description": "arXiv:2311.07461v4 Announce Type: replace Abstract: Autonomous systems (AS) often rely on Deep Neural Network (DNN) classifiers to operate in complex and dynamically changing environments. However, during operation, these classifiers may encounter domains that differ from those seen during development, causing performance degradation under distribution shift. Removing systems from operation for labelled data collection and retraining is often impractical, particularly when adaptation must occur ",
     "pub_date": "2026-07-07",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -9913,6 +9921,478 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+    "pub_date": "2026-07-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "description": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI […]",
+    "pub_date": "2026-07-07",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "description": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, […]",
+    "pub_date": "2026-07-07",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices",
+    "link": "https://semiengineering.com/photoluminescence-inspection-is-changing-how-manufacturers-protect-yield-in-sic-and-gan-devices/",
+    "description": "Detecting subsurface or crystalline defects that directly impact electrical behavior in wide-bandgap materials. The post Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "From Data Accumulation To Data Activation: AI-Driven Data Feed Forward For Chiplet-Based Test",
+    "link": "https://semiengineering.com/from-data-accumulation-to-data-activation-ai-driven-data-feed-forward-for-chiplet-based-test/",
+    "description": "Why the move to advanced packaging is reshaping how the industry collects, moves, and acts on test data, and how Data Feed Forward turns upstream measurements into downstream intelligence. The post From Data Accumulation To Data Activation: AI-Driven Data Feed Forward For Chiplet-Based Test appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "The Test Cell Ecosystem: From Tester Performance To Production Outcomes",
+    "link": "https://semiengineering.com/the-test-cell-ecosystem-from-tester-performance-to-production-outcomes/",
+    "description": "Why integration and cross-domain coordination now define test outcomes. The post The Test Cell Ecosystem: From Tester Performance To Production Outcomes appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Multi-die Testing In The Field Must Build On Established Test Methodologies",
+    "link": "https://semiengineering.com/multi-die-testing-in-the-field-must-build-on-established-test-methodologies/",
+    "description": "Having a device that works at time zero is no longer a guarantee of reliability over its lifetime. The post Multi-die Testing In The Field Must Build On Established Test Methodologies appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Inspection And Metrology Catching Up For High-Density Fan-Out Panel Packaging",
+    "link": "https://semiengineering.com/inspection-and-metrology-catching-up-for-high-density-fan-out-panel-packaging/",
+    "description": "Optical methods need to comply with increasing warpage, finer RDL pitch, and trace size. The post Inspection And Metrology Catching Up For High-Density Fan-Out Panel Packaging appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "From Reactive Replacement To Predictive Planning: Unlocking Probe Card Intelligence With Real-Time Data",
+    "link": "https://semiengineering.com/from-reactive-replacement-to-predictive-planning-unlocking-probe-card-intelligence-with-real-time-data/",
+    "description": "DC profiling–based analytics could reduce downtime, protect yield, and improve operational stability across wafer test environments. The post From Reactive Replacement To Predictive Planning: Unlocking Probe Card Intelligence With Real-Time Data appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "When The Test Cell Lies",
+    "link": "https://semiengineering.com/when-the-test-cell-lies/",
+    "description": "As margins shrink and dies move into expensive packages, separating device failures from test-cell artifacts has become a first-order economic problem. The post When The Test Cell Lies appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Microchip Manufacturing: Understanding The Semiconductor Manufacturing Process",
+    "link": "https://semiengineering.com/microchip-manufacturing-understanding-the-semiconductor-manufacturing-process/",
+    "description": "The role of precision dispensing and fluid management in front and back-end processes. The post Microchip Manufacturing: Understanding The Semiconductor Manufacturing Process appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Unlocking Scalable SRG Waveguides for Mass‑Market AR/MR Displays",
+    "link": "https://semiengineering.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/",
+    "description": "An approach for full process control for the HVM of SRG waveguides, encompassing metal film metrology, OCD measurements of grating parameters, overlay alignment verification, and defect inspection. The post Unlocking Scalable SRG Waveguides for Mass‑Market AR/MR Displays appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-07-07",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Can Agentic AI Solve the Embedded Software Problem?",
+    "link": "https://www.eetimes.com/can-agentic-ai-solve-the-embedded-software-problem/",
+    "description": "Agents will also need CPU plus acceleration to run on edge devices, said Ambarella’s Muneyb Minhazuddin. The post Can Agentic AI Solve the Embedded Software Problem? appeared first on EE Times.",
+    "pub_date": "2026-07-07",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "Optimizing Electromechanical Hardware for Extreme Defense Environments",
+    "link": "https://www.eetimes.com/optimizing-electromechanical-hardware-for-extreme-defense-environments/",
+    "description": "Commercial parts die fast in combat. See how advanced composites, coatings and MIL testing keep defense hardware alive under brutal stress. The post Optimizing Electromechanical Hardware for Extreme Defense Environments appeared first on EE Times.",
+    "pub_date": "2026-07-07",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "Manufacturing Expands in June Amid Global Unrest",
+    "link": "https://www.eetimes.com/manufacturing-expands-in-june-amid-global-unrest/",
+    "description": "U.S. manufacturing expanded in June, but Middle East conflict impacted raw materials. The post Manufacturing Expands in June Amid Global Unrest appeared first on EE Times.",
+    "pub_date": "2026-07-07",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "eSIM Evolves from Subscriber Identity to Device Trust",
+    "link": "https://www.eetimes.com/esim-evolves-from-subscriber-identity-to-device-trust/",
+    "description": "eSIM turns SIMs into device trust anchors for IoT, cars and AI, letting fleets switch networks and stay secure remotely. The post eSIM Evolves from Subscriber Identity to Device Trust appeared first on EE Times.",
+    "pub_date": "2026-07-07",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
+    "link": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
+    "description": "Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potentially higher TGPs of those products.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
+    "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
+    "description": "The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
+    "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
+    "description": "Chinese memory and storage manufacturer Longsys expects to post a massive increase in profits due to the AI-driven chip shortage.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Save nearly $2,000 on this RTX 5090 OLED gaming laptop right now — massive discount on powerhouse 16-inch Lenovo rig with 240Hz refresh rate, 32GB DDR5 RAM, 2TB SSD, and a 24-core Intel CPU, all for $3,199",
+    "link": "https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199",
+    "description": "Grab this Lenovo Legion Pro 7i gaming laptop with an RTX 5090 for just $3,199 right now at B&H Photo, saving you $1,800.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs — Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution",
+    "link": "https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution",
+    "description": "It looks like Intel is adding back AVX-512 support to its client CPUs starting from the upcoming Nova Lake desktop lineup. Previously, we expected to see AVX-256 debut on a consumer family, allowing E-cores to execute 256-bit code, but now it seems that even the E-cores will gain native 512-bit registers.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware — customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's how to block the new ads",
+    "link": "https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads",
+    "description": "LG monitors apparently auto-install an app on your PC when you first connect them, all thanks to the Microsoft Store.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "PlayStation disc petition approaches 200,000 signatures as backlash grows over Sony's decision to stop producing new physical media — firm still plans to produce optical media for existing titles, but new games will be digital only",
+    "link": "https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures",
+    "description": "A Change.org petition urging Sony to keep making physical PlayStation games has passed 172,000 signatures.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Steam Machines with the ‘Red Line of Death’ get a simple, official cure: Clear the CMOS — clearing the CMOS can revive flat(red)-lining cubes",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes",
+    "description": "Valve’s official account on Reddit has responded to RLOD victims with simple step-by-step instructions to get any affected Steam Machine up and running again.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year — eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights",
+    "description": "The British government ruled that nationally significant infrastructure projects, which include data centers, can bypass local council approvals. This move is expected to speed up developments by up to a year and save more than a billion dollars.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Snag 32GB of DDR5 memory, Ryzen 7 9800X3D, and Gigabyte X870E motherboard for $233 off — deal includes 'free' AIO in a four-item combo from Newegg",
+    "link": "https://www.tomshardware.com/pc-components/snag-32gb-of-ddr5-memory-ryzen-7-9800x3d-and-gigabyte-x870e-motherboard-for-usd233-off-deal-includes-free-aio-in-a-four-item-combo-from-newegg",
+    "description": "Missed Prime Day? You can still soften the blow of buying PC parts with this three-item AM5 Newegg combo - 32GB of DDR5, 9800X3D, Gigabyte X870E motherboard, and a free AIO to take the sting out of buying",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case – smaller footprint, roomy internals, includes three fans",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on",
+    "description": "Corsair’s 2800X RS-R ARGB brings a compact MicroATX design with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans. Priced under $90, it offers solid value for a small-form-factor chassis.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Dev ports Linux to Atari's notorious Jaguar console from 1993 — the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped",
+    "link": "https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped",
+    "description": "A developer has ported Linux to the Atari Jaguar console. To succeed at the task, they had to overcome severe memory limits, the lack of an MMU, and face off against a handful of unusual hardware quirks.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Record-low price on this 10-port PoE+ switch with gigabit speeds and up to 60W of power, save 24% — $38 for Ugreen switch that unlocks an extra eight power-delivery ports for cameras and Wi-Fi extenders",
+    "link": "https://www.tomshardware.com/networking/network-switches/record-low-price-on-this-10-port-poe-switch-with-gigabit-speeds-and-up-to-60w-of-power-save-24-percent-usd38-for-ugreen-switch-that-unlocks-an-extra-eight-power-delivery-ports-for-cameras-and-wi-fi-extenders",
+    "description": "This Ugreen 10-port unmanaged Ethernet switch is on sale for just $37.97 right now, delivering eight PoE+ ports for up to 60W of power delivery for cameras and WiFi extenders, along with two extra ports for Gigabit uplink to your existing network.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Kioxia and Sandisk sample world's densest 3D NAND — new 332-Layer beats Samsung’s 400-Layer NAND",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand",
+    "description": "Kioxia, Sandisk begin to sample BiCS10 3D NAND: 332 active layers and over 29 Gb/mm2 areal capacity.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Unix copyright code infringement lawsuit is back from the dead — IBM still under fire from Xinuos over 2003-era bytes",
+    "link": "https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes",
+    "description": "Unix copyright code infringement back from the dead — IBM is still under fire from Xinuos about 2003-era bytes, with a hearing as recent as June 22.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Modder builds 8,192-core GPU at home out of RISC-V microcontrollers — full \"graphics card\" draws over 2,000 watts of power, requires a 3D printer to program",
+    "link": "https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program",
+    "description": "Well-known engineer Matthias Balwierz (aka Bitluni) designed and created an 8,192-core RISC-V GPU at home.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer — backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck",
+    "description": "Intel’s XBM patent proposes an HBM alternative that uses backend-transistor DRAM, UCIe chiplet links, and repair logic to reduce packaging costs and complexity.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
+    "link": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026",
+    "description": "Brokerage consensus puts Samsung's full-year 2026 operating profit near 300 trillion won.",
+    "pub_date": "2026-07-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Rebel Wolves Shows That The Blood of Dawnwalker Is Much More Than Another Witcher-Influenced Adventure",
+    "link": "https://wccftech.com/blood-of-dawnwalker-beyond-witcher-influence/",
+    "description": "As a new studio founded by ex-Witcher Alumni, Rebel Wolves and Bandai Namco allowed us an intimate four hours with the studio’s inaugural title: The Blood of Dawnwalker. While players may have been initially concerned about being rushed with the story’s thirty-day limit, our experience proved that there’s more than enough content here to enjoy the adventure at your own pace. In The Blood of Dawnwalker, players take on the role of Coen, a perfectly normal human male with a single goal: to save hi",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "GTA Trilogy Dev Finally Admits Fans Were Right, Yet Says the Disaster Wasn’t Entirely the Remaster’s Fault",
+    "link": "https://wccftech.com/gta-trilogy-dev-admits-fans-were-right/",
+    "description": "When GTA Trilogy: The Definitive Edition launched in November 2021, it was supposed to be a glossy return to three of the most beloved games in Rockstar's history (GTA 3, GTA Vice City, and GTA San Andreas), which redefined the open world genre upon their respective releases. Instead, it immediately became one of the most widely mocked releases in recent memory, with players pointing to bugs, broken lighting, bizarre character models, missing songs, misspelled signs, and even forced Rockstar to ",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "SpaceX Asks The FCC For Permission To Launch 100,000 Gen3 Satellites That Sport Advanced Phased-Array Beamforming And Electronic Beam Steering Capabilities",
+    "link": "https://wccftech.com/spacex-asks-the-fcc-for-permission-to-launch-100000-gen3-satellites-that-sport-advanced-phased-array-beamforming-and-electronic-beam-steering-capabilities/",
+    "description": "SpaceX is now putting its cash-rich coffers to good use by significantly ramping up the planned launch cadence for its Gen3 (alternatively called the V3) constellation of satellites, as evidenced by a recent FCC filing that seeks authorization for launching as many as 100,000 satellites. SpaceX now wants to place 100,000 Gen3 satellites in very-low Earth orbit shells, with each satellite weighing as much as 2,000 kg For the benefit of those who might not be aware, SpaceX's Gen2 Starlink satellit",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "IO Interactive Doubles Down on Project Fantasy Funding Alone After Xbox Bails, Shuttering Its Istanbul Office to Survive",
+    "link": "https://wccftech.com/io-interactive-project-fantasy-funding-alone-xbox-bails-istanbul-office/",
+    "description": "Last week, IO Interactive announced that it was forced to cut some of its staff after Xbox abandoned funding for the Project Fantasy IP, first revealed over three years ago. Today, the developer has confirmed that it regained complete control of the intellectual property and the project, which it still wants to fund out of its own pockets. However, the downside is that the Istanbul studio, which opened in March 2023, will have to shutter. Following the end of our external finance partnership on ",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "China Weighs National Security Law Against AI Theft as Beijing Mirrors US Crackdown on Frontier Models",
+    "link": "https://wccftech.com/china-weighs-national-security-law-against-ai-theft-as-beijing-mirrors-us-crackdown-on-frontier-models/",
+    "description": "After Anthropic's models being restricted and then unrestricted for foreign nationals, a report from Reuters suggests that the Chinese government is interested in restricting access to the country's most advanced artificial intelligence models as well. Officials are interested in applying China's tough national security laws to the advanced artificial intelligence technologies and have held discussions with several leading technology companies in the country. China is Worried About Capabilities ",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Ubisoft Insider Rogue Says Splinter Cell Preserves Its Identity While Far Cry 7 Gambles Everything on a Radical New Direction",
+    "link": "https://wccftech.com/ubisoft-insider-splinter-cell-identity-far-cry-7-radical-direction/",
+    "description": "Ubisoft leaker Rogue has shared updated information about two highly anticipated games, the Splinter Cell remake and Far Cry 7. According to Rogue, Ubisoft is still trying to ship a linear, mission-based stealth remake built in Snowdrop, with a strong emphasis on non-lethal play, visibility systems, destructible environments, and classic Splinter Cell-style traversal and gadgets like sticky cameras, gas grenades, pipe sliding, and ziplines. That all sounds very promising to fans of the original,",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Google Pixel 11 Bumps Up Base Storage To 256GB, Replete With The Now-Customary Hefty Price Hikes [Update: August 12 Launch]",
+    "link": "https://wccftech.com/google-pixel-11-bumps-up-base-storage-to-256gb-replete-with-the-now-customary-hefty-price-hikes/",
+    "description": "With the new Google Pixel 11 series presumably all set for a debut as soon as this August, the supply chain-sourced leaks are picking up their pace, as is typical for the pre-launch stage. A new report, however, has created substantial turbulence within the heretofore rather staid expectations for the Pixel 11 lineup, disclosing a purported bump in base storage, higher prices, and new color options. The Google Pixel 11 lineup is apparently saying farewell to the base 128GB storage tier, with mat",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA’s Next-Gen Rosa CPU To Feature Rigel “Arm v9.2” Cores With Larger L2 Cache & Higher Per-Core Performance In The Same Silicon Footprint",
+    "link": "https://wccftech.com/nvidia-next-gen-rosa-cpu-rigel-arm-v9-2-cores-larger-l2-cache-higher-per-core-performance/",
+    "description": "NVIDIA has disclosed the first real information about its next-generation Rosa CPU, which will be coupled with its Feynman lineup. NVIDIA Rosa CPU Extends Vera's Per-Core Leadership With A New Core Architecture, Larger Cache, & Better Instruction Delivery At GTC 2026, NVIDIA disclosed its next-gen Data Center CPU, called Rosa. The Rosa CPU will be launching alongside Feynman and will be precisely optimized for Agentic AI workloads as those continue to demand increased processing performance. Ros",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Granblue Fantasy: Relink – Endless Ragnarok Review – A Solid Expansion Well Worth Its Price",
+    "link": "https://wccftech.com/review/granblue-fantasy-relink-endless-ragnarok-review-an-solid-expansion-well-worth-its-price/",
+    "description": "Once the Monster Hunter series finally made it big in North America and Europe with Monster Hunter: World, a few other development studios attempted to create games based on a similar gameplay loop, but only a few succeeded. Among the most successful attempts, Cygames' Granblue Fantasy: Relink stood out for incorporating a fairly entertaining story mode based on the mobile and web browser JRPG, as well as a huge roster of unique characters whose visual and combat designs made them extremely dive",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "MSI Unlocks China’s CXMT Memory On AM5 Boards, Pushing Domestic DDR5 From 6800 To 8200 MT/s",
+    "link": "https://wccftech.com/msi-unlocks-china-cxmt-memory-on-am5-boards-pushing-ddr5-from-6800-to-8200-mtps/",
+    "description": "MSI has enabled CXMT memory support on its China-specific AM5 motherboard driver, enabling up to DDR5-8200 speeds. MSI's China-Specific AM5 Motherboard BIOS Available For Download, Unlocks CXMT DDR5 Memory Support China is rapidly adopting its domestically produced memory to reduce reliance on offshore brands that are charging heavy prices for their DRAM solutions. As such, CXMT (ChangXin Memory Technologies) has become the go-to choice as it is the country's premier DRAM manufacturer. While the",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ASRock Announces Taichi 10th Anniversary Product Concepts, Including Motherboards, GPU, Monitor, PSU, And AIO",
+    "link": "https://wccftech.com/asrock-announces-taichi-10th-anniversary-product-concepts/",
+    "description": "Almost every vendor is celebrating its 10th or 20th anniversary by releasing special edition products. ASRock Celebrates Taichi 10th Anniversary By Launching RX 9070 XT Taichi OC Special Edition Concept; Introduces Several New Special Edition Components If I remember correctly, we have seen the Radeon RX 9070 XT Taichi 16 GB OC 10th Anniversary edition before. ASRock already has the regular and white edition RX 9070 XT Taichi GPUs, but it has now launched a special edition to celebrate 10 years ",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "DeepSeek Looks To Sidestep Huawei As It Begins In-House AI Chip Journey While Dodging Development Complications, Trade Sanctions, Delays & More",
+    "link": "https://wccftech.com/deepseek-developing-custom-ai-chip-to-reduce-dependency-on-huawei-and-nvidia/",
+    "description": "AI chips from Huawei and NVIDIA are currently being leveraged to train and run DeepSeek’s popular models, but the days of this arrangement could be numbered as the Chinese startup has plans in motion to launch its in-house inference silicon. According to people familiar with the firm’s plans, the chip won’t be utilized for training new models, but for generating responses for users on a pre-trained one. Of course, the journey will be arduous because not only does it take years to launch a viable",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Lexar Breaks The 6000 MT/s Barrier And Launches CXMT-Based DDR5 RAM Kits With Up To 7600 MT/s Speed",
+    "link": "https://wccftech.com/lexar-breaks-the-6000-mt-s-barrier-and-launches-cxmt-based-ddr5-ram-kits-with-up-to-7600-mt-s-speed/",
+    "description": "The 6000 MT/s limit doesn't exist anymore, and with Lexar's newest DDR5 memory kits, users an enjoy higher clock speeds. Lexar Launches DDR5-7600 CL38 Memory Kits Using CXMT Memory Chips; Available in 32 GB Dual-Channel Kits CXMT (ChangXin Memory Technologies) has made great progress in pushing its memory chips to boast higher transfer speeds. Unlike previously, when the CXMT-based DDR5 RAM kits could only push to 6000 MT/s, newer memory kits have unlocked faster speeds. Popular memory maker Lex",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA Drops New Game Ready Driver Optimized for DOOM: The Dark Ages Revelations and Assassin’s Creed Black Flag Resynced",
+    "link": "https://wccftech.com/nvidia-game-ready-driver-doom-dark-ages-assassins-creed-black-flag-resynced/",
+    "description": "NVIDIA has released a new Game Ready driver (version 610.74) for its GeForce RTX graphics cards, optimized for DOOM: The Dark Ages - Revelations (out today) and Assassin's Creed Black Flag Resynced (out on Thursday, July 9). DOOM: The Dark Ages – Revelations is id Software's campaign expansion, which the studio described as the culmination of 35 years of DOOM history. Despite being technically a DLC, it delivers 10-12 hours of content, equal to both DOOM Eternal expansions combined. The centerpi",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "GIGABYTE Silently Packs GeForce RTX 3050 And RTX 4050 Inside Its Latest EAGLE Series Laptop",
+    "link": "https://wccftech.com/gigabyte-silently-packs-geforce-rtx-3050-and-rtx-4050-inside-its-latest-eagle-series-laptop/",
+    "description": "The laptop is new, but the specs aren't. Given the current market state, many OEMs are deploying older hardware in their machines. GIGABYTE Launches EAGLE GL6J in Two Variants, Offering Ryzen 5 7533HS Paired With Either RTX 3050 or RTX 4050 It's not surprising to see vendors using older hardware in their devices these days. Many vendors are now deploying Intel's Raptor Lake series chips in their mini PCs and laptops, while some are now seen using previous-generation GPUs as well. The current sta",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Valve Ships Official Windows Drivers For The Steam Machine, But Installing It Wipes SteamOS Entirely",
+    "link": "https://wccftech.com/valve-ships-official-windows-drivers-for-the-steam-machine-but-installing-it-wipes-steamos-entirely/",
+    "description": "Users can officially install Windows OS on their Steam Machine. However, once they do, they can't use the SteamOS. Steam Machine Receives Windows Drivers, But Valve Doesn't Encourage Installing Windows on the Device Yet Steam Machine might one of the most interesting launches from Valve yet, but its hefty price tag has left the community divided. The majority sees $1000 price tag too high, but Valve considers it necessary due to the ongoing DRAM and SSD shortage. Nonetheless, Steam Machine is an",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "From PCs To Servers, DDR4 Memory Is Back In Action As DDR5 Shortages Continue",
+    "link": "https://wccftech.com/from-pcs-to-servers-ddr4-memory-is-back-in-action-as-ddr5-shortages-continue/",
+    "description": "DDR4 memory was going to enter its EOL phase, but shortages have forced DRAM makers to extend production for consumer and server segments. DDR4 Memory Is Just As Relevant Today As It Was 12 Years Ago When It First Launched Due To DRAM Shortages The DDR4 memory standard was launched back in 2014. The memory standard replaced the older DDR3 standard as new platforms came to life on both client and server markets. In 2020, DDR4 was replaced by DDR5 as the current memory standard, offering much high",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ASUS Launches ROG Strix OLED XG32UQWMS Dual-Mode Monitor At $882",
+    "link": "https://wccftech.com/asus-launches-rog-strix-oled-xg32uqwms-dual-mode-monitor-at-882/",
+    "description": "The newest OLED monitor from ASUS has been officially debuted on ASUS popular Chinese platform JD at less than $900. ASUS Prices ROG Strix OLED XG32UQWMS at $882 in China; Features UHD@240Hz and FHD@480Hz Modes Popular hardware and peripheral maker, ASUS, has debuted one of its latest OLED monitors for retail launch, giving enthusiasts a high-end display panel that can run two different modes. ASUS recently launched the ROG Strix OLED XG32UQWMS, which is a dual-mode gaming monitor, boasting the ",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Square Enix’s Final Fantasy VII Revelation Will Emotionally Break Players, As The Game Will Deliver Massive Cathartic Payoff In 2027",
+    "link": "https://wccftech.com/square-enixs-final-fantasy-vii-revelation-massive-cathartic-finale/",
+    "description": "While there's a lot of excitement for how the Highwind will redefine the scope of the entire series and how the world will feel more substantial, Square Enix’s upcoming Final Fantasy VII Revelation will have a lot more going on for itself on PC, PlayStation 5, Xbox and Nintendo Switch 2 in 2027 Being the conclusion of the trilogy, the biggest challenge will be to deliver a proper payoff for the events seen in the first two entries in the series, and in this regard, it seems like the game will no",
+    "pub_date": "2026-07-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
@@ -9985,6 +10465,14 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+    "description": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings […]",
+    "pub_date": "2026-07-06",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
     "title": "I spy",
     "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
     "description": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson […]",
@@ -10020,14 +10508,6 @@ window.techNewsItems = [
     "title": "Research Bits: July 6",
     "link": "https://semiengineering.com/research-bits-july-6/",
     "description": "Neural net predicts semiconductor properties; ferroelectric titanium dioxide thin film; bidirectional pixels. The post Research Bits: July 6 appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-07-06",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Data Center AI Growth Faces Challenging Bottlenecks",
-    "link": "https://semiengineering.com/data-center-ai-growth-faces-challenging-bottlenecks/",
-    "description": "Will AI growth grind to a halt due to bottlenecks? The post Data Center AI Growth Faces Challenging Bottlenecks appeared first on Semiconductor Engineering.",
     "pub_date": "2026-07-06",
     "source": "SemiEngineering",
     "category": "半导体"
@@ -10173,318 +10653,6 @@ window.techNewsItems = [
     "link": "https://www.tomshardware.com/monitors/bigme-introduces-a-color-e-ink-monitor-that-could-reportedly-hit-60-fps-25-3-inch-display-will-come-with-a-3200-x-1800-resolution-and-support-for-4096-colors",
     "description": "This is the first e-ink monitor that can hit 60 FPS, making it useful in more tasks outside of just reading. While you likely won't be able to play fast-paced games on this display, it should still make other everyday tasks on it easier while reducing eye strain.",
     "pub_date": "2026-07-06",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Samsung Posts A Shocking Miss On Revenue For Q2 2026 At A Time When Investors Were Positioned For A Pristine Print",
-    "link": "https://wccftech.com/samsung-posts-a-shocking-miss-on-revenue-for-q2-2026-at-a-time-when-investors-were-positioned-for-a-pristine-print/",
-    "description": "With a Samsung executive already having stunned the world at large by declaring that the South Korean tech giant's profits in 2026 would eclipse the cumulative profits it earned over the past 40 years, it was largely a fait accompli that Samsung's provisional results for the second quarter of 2026 would be shockingly good. And, as the fates would have it, Samsung has just disappointed the market by a long shot on its revenue metric. Samsung has just guided to $111.76 billion in revenue and $58.4",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Anthropic Now Thinks Claude Has A Soul, As Evidence Emerges Of “Convergent Evolution” Between AI And The Human Brain",
-    "link": "https://wccftech.com/anthropic-now-thinks-claude-has-a-soul-as-evidence-emerges-of-convergent-evolution-between-ai-and-the-human-brain/",
-    "description": "If you are a millennial, chances are that you must have watched the 2004 sci-fi film I, Robot, where an NS-5 humanoid robot and the V.I.K.I supercomputer develop consciousness. Well, Anthropic now thinks something comparable, but far less dramatic, is taking place within its Claude AI model. The background blurb Most of the synapses firing up in your brain right now are performing automatic, involuntary tasks, such as regulating breathing, processing vision, etc. Even so, a tiny fraction of thes",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "iPhone 18 Pro Logic Board’s High-Resolution Images Show A20 Pro Occupying Larger Die Area With Next-Generation Packaging & Qualcomm 5G Modem",
-    "link": "https://wccftech.com/iphone-18-pro-logic-board-high-resolution-images-showing-larger-a20-pro-die/",
-    "description": "We’ve already had our first gander at the logic board belonging to the iPhone 18 Pro and iPhone 18 Pro Max, with the most notable difference coming from the A20 Pro and its unique Wafer-Level Multi-Chip Module Packaging (WMCM) that has moved the DRAM to the side to improve heat dissipation. While the previous leak didn’t deliver on image quality, we now have high-resolution shots of what the upcoming logic board will look like, along with getting a closer look at Apple’s first 2nm SoC. Despite t",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Sony’s Disc-Free 2028 Plan Hands it Total Price Control, Dutch Group Warns in Exclusive Wccftech Statement as €400M Lawsuit Escalates",
-    "link": "https://wccftech.com/sonys-disc-free-2028-plan-hands-it-total-price-control-dutch-group-warns/",
-    "description": "Last week, Sony dropped an explosive news on PlayStation gamers: no more PlayStation discs will be produced from January 2028, thus essentially confining even the retail market to a digital-only future (physical copies will include a download code, just like GTA VI). This inevitably triggered a massive backlash on the Internet, with fans whipping up petitions to get Sony to change their mind and legendary game designer Hideo Kojima sharing his sadness at the news. But that's not the only kind of",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Hybrid Bonding Was HBM4’s Headline Upgrade, Yet Samsung and SK hynix May Sideline it Over Relaxed JEDEC rules",
-    "link": "https://wccftech.com/hybrid-bonding-was-hbm4s-headline-upgrade-yet-samsung-and-sk-hynix-may-sideline-it-over-relaxed-jedec-rules/",
-    "description": "With hybrid bonding making the news for becoming the preferred choice of bonding for next-generation memory chips, a relaxation of standards by the Joint Electron Device Engineering Council (JEDEC) could lead to Samsung and SK hynix skipping the technology for HBM4 memory, suggests a report from the Korean press. The previous standards had determined that next-generation HBM memory would have a thickness of 900 micrometers, but the new standards could mean that the thickness is relaxed to 1,000 ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Galaxy S26 Ultra Has Yet To Succumb To Any Price Hike, Giving You A Chance To Grab Samsung’s Flagship At $200 Off On Amazon For Both Storage Models",
-    "link": "https://wccftech.com/galaxy-s26-ultra-two-storage-models-available-for-200-off-on-amazon/",
-    "description": "With Android smartphone makers increasing prices left, right, and center, analysts have warned that budget devices will cease to exist in 2027, while flagships will be out of reach for the majority of buyers. Thankfully, if you’re looking for an alternative that’ll provide you with years of software updates and provide that “all in one” package, Samsung’s Galaxy S26 Ultra should seriously be considered. With its latest $200 price drop on Amazon for both the 256GB and 512GB storage models, we dou",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Bethesda Pivots to a Franchise-First Model as Xbox Cuts 3,200 Jobs, Betting Everything on The Elder Scrolls and Fallout",
-    "link": "https://wccftech.com/bethesda-pivots-to-a-franchise-first-model-as-xbox-cuts-3200-jobs-betting-everything-on-the-elder-scrolls-and-fallout/",
-    "description": "After weeks of rumors and speculation, Xbox has confirmed today that it is cutting 3,200 jobs, with some of its first-party studios under the Microsoft umbrella either getting sold or returning to independence. In the accompanying note from Xbox CEO Asha Sharma, there is no mention of anything specific regarding ZeniMax Media, Bethesda's parent company, but according to reliable journalist Jason Schreier of Bloomberg, the creator of The Elder Scrolls series is being affected by this restructurin",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Lenovo Crams 180 TOPS Of AI Power Into A 600-Gram YOGA Mini PC That Fits In Your Palm",
-    "link": "https://wccftech.com/lenovo-launches-yoga-ai-mini-pc-with-core-ultra-x7-358h/",
-    "description": "More new mini PCs are being launched with the latest Intel Core Ultra Series 3 processors, coupled with capacity RAM. Lenovo Launches YOGA AI Mini PC, Featuring 16-Core Ultra X7 358H Processor for Up To 180 TOPS of AI Power Lenovo has quickly adopted Intel's latest Core Ultra Series 3, aka Panther Lake, processors for its devices, and whether you look at its laptop catalog or mini PC arsenal, you will find newer offerings with these chips. The company has now debuted its latest high-end mini PC ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple iPhone 18 Pro Max Will Sport A Battery That Is Even Bigger Than The 5,425mAh One Detailed Within The Documents Stolen From India’s Tata Factory",
-    "link": "https://wccftech.com/apple-iphone-18-pro-max-will-sport-a-battery-that-is-even-bigger-than-the-5425mah-one-detailed-within-the-documents-stolen-from-indias-tata-factory/",
-    "description": "The battery capacities within the upcoming Apple iPhone 18 Pro and Pro Max have become a subject of considerable interest after a high-profile information theft from a Tata-controlled iPhone factory in India revealed a sizable bump in battery capacities for the Pro duo. Well, just a few days later, we've now become privy to the official battery capacities that Apple's iPhone 18 Pro and Pro Max will sport, courtesy of a regulatory filing. Apple's iPhone 18 Pro (eSIM) to sport a battery capacity o",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Minisforum Revives DDR4 In Its New NAB9S Mini PC, Powered By Intel Core i9 13900HX",
-    "link": "https://wccftech.com/minisforum-revives-ddr4-in-its-new-nab9s-mini-pc-powered-by-intel-core-i9-13900hx/",
-    "description": "Vendors now seem to be prioritizing DDR4 platforms, which is obvious since DDR5-based systems have become unaffordable. Minisforum Launches Elite Mini NAB9S, Featuring Intel Core i9 13900HX, SO-DIMM DDR4 Memory, and Support for SATA Driver at $399 for Barebones Despite being nearly 12 years old, DDR4 isn't going anywhere. It took a lot of time for the market to transition from DDR4 to DDR5 properly, but right when DDR5 became the norm, the RAMpocalypse hit the market like a truck. Since DDR5 mem",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "GTA 6 Ditching Discs Could Kill Physical Releases by 2027, As CI Games CEO Warns Studios Earn Half Per Unit",
-    "link": "https://wccftech.com/gta-6-ditching-discs-kill-physical-releases-2027/",
-    "description": "Last month, Take-Two and Rockstar Games announced that GTA 6 would not receive a physical release, sending parts of the gaming community into upheaval. As if this wasn't enough, Sony Interactive Entertainment doubled down on the matter, announcing the controversial decision to stop production of new game discs by 2028. Although the gaming community is rightly opposed to these decisions, which are likely to have severe consequences, CI Games founder and CEO Marek Tyminski believes this shift is u",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Samsung DDR4 Memory Spikes 19% In A Month In Korea, Outpacing DDR5 As The RAMpocalypse Hits An Unlikely Target",
-    "link": "https://wccftech.com/samsung-ddr4-memory-spikes-19-in-a-month-in-korea-outpacing-ddr5-as-the-rampocalypse-hits-an-unlikely-target/",
-    "description": "The increase in memory prices reflects the price hike in memory chips made by Samsung, and both DDR4 and DDR5 have been reportedly affected. Samsung Reportedly Raises DDR4 and DDR5 Memory Chip Prices as Retail Memory Modules are Now Up By 10-19% Once again, we are witnessing a noticeable hike in the prices of memory modules. The ongoing RAMpocalypse is continuously fueling the DRAM prices, affecting electronic devices worldwide. The never-ending RAMpocalypse seems to have caused another hike in ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Broadcom Avoids Qualcomm’s Fate; Enters Into New Agreement With Apple, One That Ensures A Steady Chip Supply And Revenue For Several Years",
-    "link": "https://wccftech.com/broadcom-inks-multi-year-chip-supply-deal-with-apple/",
-    "description": "A new agreement between Broadcom and Apple meant that both firms could accomplish their individual goals without being adversely affected by external forces. With the latest partnership, Apple will be receiving chip supply until 2031. The deal was absolutely necessary for Broadcom, as Apple accounts for 20 percent of the chipmaker’s annual revenue Ditching Qualcomm and entering the custom 5G modem market enabled Apple to introduce the C1 and C1X, but that doesn’t mean the story ends here. These ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Asha Sharma’s Xbox Reset Cuts 3,200 Jobs as Compulsion and Double Fine Go Indie, Ninja Theory and Undead Labs Sold",
-    "link": "https://wccftech.com/xbox-reset-3200-layoffs-studio-shake-up/",
-    "description": "The layoff hammer has finally fallen at Xbox, with CEO Asha Sharma herself announcing that the division will lose 3,200 employees through job cuts and four studio divestitures (plus a wildcard). The wildcard is Arkane Lyon, which the executive says has already begun the obligatory consultation with its Works Council to\" review potential strategic options\". This suggests every option is still on the table for the studio that made Dishonored and Deathloop: closure, going independent, or finding a ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel Plots A 14A Gen2 Node With Dual-Side Power Delivery To Counter TSMC And Samsung’s 1.4nm Push",
-    "link": "https://wccftech.com/intel-plots-14a-gen2-node-with-dual-side-power-delivery-to-counter-tsmc-samsung/",
-    "description": "Intel's process technology roadmap is expected to see an optimized version of the 14A node with dual-sided architecture. Intel 14A Gen2 Is Being Considered To Tackle TSMC and Samsung 1.4nm Technologies, Offering Improved Process Maturization & Dual-Side Architecture TSMC and Samsung are heating up the foundry space with 1.4nm offerings in the coming years. TSMC is bringing its A14 fabs online next year, & Samsung is targeting 2029 for mass production of its 1.4nm tech. Meanwhile, Intel is set to",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Sweeney Claims AI Could Have Saved Destiny From Its Demise, but Clair Obscur Founder Fears Games Made in 5 Seconds",
-    "link": "https://wccftech.com/sweeney-ai-destiny-clair-obscur-5-seconds/",
-    "description": "Epic Games CEO Tim Sweeney continued to share his pro-AI sentiments in a tweet, noting that AI could have helped Bungie produce Destiny content faster, potentially avoiding its eventual demise (and subsequent layoffs at the studio). If only some sort of newfangled technology could come along and make it possible to overcome bullet point #1 and enable games like Destiny to thrive! Sweeney recently championed AI on a couple of different occasions. First, he claimed that the MCP integration of LLMs",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel Races TSMC and Samsung on 1.4A2, but Shrinking 21nm Interconnects Force a Power-Delivery Rethink",
-    "link": "https://wccftech.com/intel-races-tsmc-and-samsung-on-1-4a2-but-shrinking-21nm-interconnects-force-a-power-delivery-rethink/",
-    "description": "Chip manufacturing giant Intel is considering deploying front and back side power delivery for its 1.4A manufacturing technology due to patterning errors in lithography, says a report. The limitations in lithography stem from the firm's need to catch up with Taiwan's TSMC and Samsung Foundry for transistor density on the 1.4A node. Through its 1.4A2 process, the firm aims to compete with TSMC's N2 and Samsung's SF2Z chip manufacturing process technologies. Finer Circuit Size Forces Intel To Choo",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Keychron Expands Beyond Keyboards By Launching Its First 14-in-1 Thunderbolt 5 Docking Station",
-    "link": "https://wccftech.com/keychron-expands-beyond-keyboards-by-launching-its-first-14-in-1-thunderbolt-5-docking-station/",
-    "description": "Apart from producing peripherals for gaming, the company is now expanding its product catalog by introducing desktop accessories. Keychron Introduces 14-in-1 Thunderbolt 5 Docking Station, Offering High Bandwidth Ports for Peripherals, Displays, and Laptops Popular gaming peripheral maker Keychron is now expanding its arsenal with more products. The peripheral maker is well-known for its mechanical keyboards, wireless mice, and productivity-focused accessories, but it's now taking its first step",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "China’s $300 RTX 4080M Uses A Mobile Chip In A Desktop Card, Yet Loses To The RX 9700 GRE By 35%",
-    "link": "https://wccftech.com/chinas-300-rtx-4080m-uses-a-mobile-chip-in-a-desktop-card-yet-loses-to-the-rx-9700-gre-by-35/",
-    "description": "The GPU isn't that bad at all, and performs slightly slower than its competitor from the team Red. However, being capped at just 100W, it can't perform similar to a desktop variant. Reviewer Tests Desktop RTX 4080M GPU With Mobile GPU Core and Finds Slightly Lower Performance vs RX 9700 GRE in Games You may or may not be aware of such a graphics card, but it exists in the Chinese markets. This isn't the regular RTX 4080, but a variant that uses the RTX 4080 mobile chip. Yes, it's still a desktop",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Beelink Packs 128 GB RAM And 4 TB SSD Into GTR9 Pro Mini PC, But Only China Gets It For Now",
-    "link": "https://wccftech.com/beelink-packs-128-gb-ram-and-4-tb-ssd-into-gtr9-pro-mini-pc-but-only-china-gets-it-for-now/",
-    "description": "The mini PC is already available with up to 2 TB SSD, but it will now be offering users twice the storage capacity. Beelink Launches GTR9 Pro With 128 GB RAM + 4 TB SSD Configuration at Over $4,200 Beelink's GTR9 Pro is already an expensive machine that is priced over $4,000 for a configuration of 128 GB + 2 TB. However, the company has just announced another configuration for the mini PC for mainland China. We don't know if this configuration will arrive in other parts of the world, but as far ",
-    "pub_date": "2026-07-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "description": "These may be the last days of Amazon’s Mechanical Turk.",
-    "pub_date": "2026-07-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg — MSI Ventus 2X OC model back in stock with free shipping",
-    "link": "https://www.tomshardware.com/pc-components/get-an-rtx-3060-with-12-gb-of-vram-for-just-usd329-99-at-newegg-msi-ventus-2x-oc-model-back-in-stock-with-free-shipping",
-    "description": "Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg — MSI Ventus 2X OC model back in stock with free shipping",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "SpaceX vaporizes 260 Starlink satellites in six months using Earth's atmosphere — new environmental concerns emerge over burning 2,700-pound orbital data centers, FCC seeks to exempt satellites from regulations",
-    "link": "https://www.tomshardware.com/tech-industry/space/spacex-vaporizes-260-starlink-satellites-in-six-months-using-earths-atmosphere-new-environmental-concerns-emerge-over-burning-2-700-pound-orbital-data-centers-fcc-seeks-to-exempt-satellites-from-regulations",
-    "description": "SpaceX retired 260 Starlink satellites in six months, with hundreds more to follow, as debate grows over the atmospheric impact of satellite burn-ups.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech — USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts",
-    "link": "https://www.tomshardware.com/pc-components/storage/rampocalyse-pricing-prompts-maker-to-construct-his-own-memory-using-ancient-apollo-era-tech-usb-drive-resurrects-hand-threaded-magnetic-core-memory-using-salvaged-russian-computer-parts",
-    "description": "DIYer shows how they made a handsome magnetic core memory USB drive using home CNC and 3D printing equipment. However, it isn't a homebrew answer to the AI-induced memory crisis with only 64 bits of data capacity",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Germany's massive 60,000-game preservation project collapses after €1.5 million funding dries up — world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up",
-    "description": "A German effort to assemble the world's largest publicly accessible video game archive is being wound down after roughly €1.5 million in public funding expired.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon — performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games",
-    "link": "https://www.tomshardware.com/pc-components/gpus/reviewer-tests-rtx-4080m-desktop-graphics-card-powered-by-salvaged-laptop-silicon-performs-worse-than-slightly-more-expensive-rx-9070-gre-but-draws-only-100w-in-games",
-    "description": "Turns out, a modded RTX 4080M desktop GPU performs worse than similarly-priced official options. It currently costs roughly $400 in China and compared to the RX 9070 GRE, this custom card loses in every game tested except PUBG.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Hannah Montana Linux gets modern remaster after nearly two decades — ‘Sweet niblets,’ new v26 is built on Debian with a re-skin of KDE Plasma",
-    "link": "https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma",
-    "description": "Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "US Navy is flight-testing 3D printed fighter jet parts that cut repair times in half — forward-deployed 3D printers generate composite parts, flight testing to begin on operational F/A-18 Super Hornets",
-    "link": "https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets",
-    "description": "The US Navy is experimenting with 3D-printed patches for composite parts, allowing forward bases to repair F/A-18 Super Hornets without waiting for replacement parts coming from the tail end of a logistics supply chain thousands of miles long.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "F1 25: 2026 Season Edition GPU benchmarks – From Pole Position to the Back of the Grid",
-    "link": "https://www.tomshardware.com/pc-components/gpus/f1-25-2026-season-edition-gpu-benchmarks-from-pole-position-to-the-back-of-the-grid",
-    "description": "With a year of updates behind it and a major overhaul now in place, this is the perfect opportunity to revisit F1 25 and see where performance stands in 2026 with a selection of both Nvidia and AMD GPUs.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Jim Keller's startup is building a factory to mass-produce small semiconductor fabs —Atomic Semi rebrands as 'Fab2' underlining intended role as a 'fab fab'",
-    "link": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
-    "description": "Atomic Semi, the semiconductor tooling startup founded by chip architect Jim Keller and DIY fabrication pioneer Sam Zeloof, has rebranded as Fab2.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition review: A masterclass in mobility and usability",
-    "link": "https://www.tomshardware.com/laptops/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
-    "description": "A sublime ultraportable with world-class quality and OLED visuals, the ThinkPad X1 Carbon Gen 14 excels at everything it does.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Windows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI — 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
-    "link": "https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group",
-    "description": "Petet Stokes was arrested in Finland and extradited to the U.S. over alleged ties to the Scattered Spider group, with Microsoft helping in the investigation. He's in custody awaiting trial based on a criminal complaint for a May 2025 attack on a U.S.-based luxury jewelry retailer",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Grab this RTX 5070 Ti OLED gaming laptop at $300 off — Acer Predator Helios Neo 16S AI drops to $1,899.99",
-    "link": "https://www.tomshardware.com/pc-components/grab-this-rtx-5070-ti-oled-gaming-laptop-at-usd300-off-acer-predator-helios-neo-16s-ai-drops-to-usd1-899-99",
-    "description": "The Acer Predator Helios Neo 16S AI combines an OLED 240 Hz display, Intel's Core Ultra 9 275HX, RTX 5070 Ti graphics, and 32GB of DDR5 memory, all while saving you $300 off its regular price.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens",
-    "description": "Alibaba banned Claude Code after an alleged hidden China-detection code was found, prompting staff to switch to Qoder as its feud with Anthropic deepens.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Turtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potential",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb7-review",
-    "description": "Turtle Beach's new \"Command Series\" KB7 TKL keyboard features a 4.3-inch touchscreen instead of the typical navigation cluster — like a Stream Deck, but as a touchscreen. Unfortunately, it lacks the software to back it up.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "PS5 Disc Drive purchase cap predates Sony's disc cutoff — 'high demand' order limit has been on the store page since at least March 2025",
-    "link": "https://www.tomshardware.com/video-games/playstation/ps5-disc-drive-purchase-cap-predates-sonys-disc-cutoff",
-    "description": "Meanwhile, the largest petition against the disc cutoff sat beyond 74,000 signatures on the morning of July 4th, closing in on its 75,000 goal.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "You can now play Half-Life 2 right inside your browser at over 100 FPS with save states & console support — Ingenious port recreates the entire game campaign using WebGL 2",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-play-half-life-2-right-inside-your-browser-at-over-100-fps-with-save-states-and-console-support-ingenious-port-recreates-the-entire-game-campaign-using-webgl-2",
-    "description": "An unofficial browser port of Half-Life 2 has popped up online, allowing you to play the original campaign without downloading anything. Developed in just three months by Slqnt and 98006, it even features Source console integration for cheats.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Fill your Steam library without spending a single dime — scratch your shopping itch with the Steam Summer Sale Simulator",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/fill-your-steam-library-without-spending-a-single-dime-scratch-your-shopping-itch-with-the-steam-summer-sale-simulator",
-    "description": "This website lets you \"buy\" all the Steam games you want without spending anything at all. It was primarily made for the dopamine hit, but the Achievements page is quite engaging, too.",
-    "pub_date": "2026-07-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "DARPA plans 30-year endurance nuclear waste batteries to power next-gen drones, says report — project SYMPHONEE aims to harvest Strontium-90 to power persistent military drones",
-    "link": "https://www.tomshardware.com/tech-industry/drones/darpa-plans-30-year-endurance-nuclear-waste-batteries-to-power-next-gen-drones-says-report-project-symphonee-aims-to-harvest-strontium-90-to-power-persistent-military-drones",
-    "description": "A report suggests that upcoming nuclear waste-powered radiovoltaic batteries could last as long as 30 years and power next-gen drones.",
-    "pub_date": "2026-07-05",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
   }
