@@ -1,8 +1,15 @@
-# PubMed Research Feed — 2026-07-12 02:26:28 +0000
+# PubMed Research Feed — 2026-07-13 02:27:53 +0000
 
-共 **47** 篇文章（Toxoplasma 13 · Plasmodium 25 · Malaria parasite 11）
+共 **45** 篇文章（Toxoplasma 12 · Plasmodium 25 · Malaria parasite 11）
 
 ---
+
+## 2026-07-11
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Multi-omics-guided diagnosis and treatment of toxoplasma retinochoroiditis with co-infection: a case report.](https://pubmed.ncbi.nlm.nih.gov/42436394/) | BMC ophthalmology | Toxoplasma | [10.1186/s12886-026-05123-x](https://doi.org/10.1186/s12886-026-05123-x) |
+| 2 | [First detection of a Haemoproteus macrovacuolatus-like parasite in two captive birds of the order Anseriformes: Evidence of atypical morphology.](https://pubmed.ncbi.nlm.nih.gov/42435880/) | Parasitology international | Plasmodium · Malaria parasite | [10.1016/j.parint.2026.103340](https://doi.org/10.1016/j.parint.2026.103340) |
 
 ## 2026-07-10
 
@@ -45,9 +52,8 @@
 | 7 | [Guillain-Barré syndrome following Plasmodium falciparum malaria in a child: a case report.](https://pubmed.ncbi.nlm.nih.gov/42421018/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06024-6](https://doi.org/10.1186/s12936-026-06024-6) |
 | 8 | [Malaria prevalence and epidemiological characteristics in Northern Malawi: a nine-year retrospective hospital-based study.](https://pubmed.ncbi.nlm.nih.gov/42421002/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06046-0](https://doi.org/10.1186/s12936-026-06046-0) |
 | 9 | [Preparation, characterization and pre-clinical evaluation of artemether-lumefantrine-paracetamol (AL-P) loaded nanocarriers in the treatment of malaria.](https://pubmed.ncbi.nlm.nih.gov/42420999/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06001-z](https://doi.org/10.1186/s12936-026-06001-z) |
-| 10 | [Plasmodium knowlesi malaria in Europe: a new imported case in Spain and a case review.](https://pubmed.ncbi.nlm.nih.gov/42419579/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103011](https://doi.org/10.1016/j.tmaid.2026.103011) |
-| 11 | [Molecular mechanisms underlying resistance to antimalarial compounds.](https://pubmed.ncbi.nlm.nih.gov/42419160/) | Current opinion in microbiology | Plasmodium | [10.1016/j.mib.2026.102792](https://doi.org/10.1016/j.mib.2026.102792) |
-| 12 | [A structure-based epitope tagging approach identifies vulnerable sites on the malarial P36-P52 protein complex for antibody-mediated neutralization of Plasmodium sporozoites.](https://pubmed.ncbi.nlm.nih.gov/42418521/) | PLoS pathogens | Plasmodium | [10.1371/journal.ppat.1014418](https://doi.org/10.1371/journal.ppat.1014418) |
+| 10 | [Molecular mechanisms underlying resistance to antimalarial compounds.](https://pubmed.ncbi.nlm.nih.gov/42419160/) | Current opinion in microbiology | Plasmodium | [10.1016/j.mib.2026.102792](https://doi.org/10.1016/j.mib.2026.102792) |
+| 11 | [A structure-based epitope tagging approach identifies vulnerable sites on the malarial P36-P52 protein complex for antibody-mediated neutralization of Plasmodium sporozoites.](https://pubmed.ncbi.nlm.nih.gov/42418521/) | PLoS pathogens | Plasmodium | [10.1371/journal.ppat.1014418](https://doi.org/10.1371/journal.ppat.1014418) |
 
 ## 2026-07-07
 
@@ -74,14 +80,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Identification and profiling of HLA-A*02:01-restricted Toxoplasma gondii peptides through immunopeptidomics in HLA-A2.1 transgenic mice.](https://pubmed.ncbi.nlm.nih.gov/42402043/) | Virulence | Toxoplasma | [10.1080/21505594.2026.2697091](https://doi.org/10.1080/21505594.2026.2697091) |
-
-## 2026-07-04
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Novel structural hybrids of 8-Aminoquinoline and Thiazole based heterocycles: design, synthesis, in-vitro and in-silico approaches.](https://pubmed.ncbi.nlm.nih.gov/42413399/) | Bioorganic chemistry | Malaria parasite | [10.1016/j.bioorg.2026.110191](https://doi.org/10.1016/j.bioorg.2026.110191) |
-| 2 | [Targeting the cGAS-STING pathway alleviates neuroinflammation and cognitive impairment induced by chronic infection of Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42401926/) | Journal of neuroinflammation | Toxoplasma | [10.1186/s12974-026-03937-6](https://doi.org/10.1186/s12974-026-03937-6) |
-| 3 | [Seroprevalence of Toxoplasma gondii and Feline Immunodeficiency Virus in Domestic Cats and Their Associations with Clinical Signs.](https://pubmed.ncbi.nlm.nih.gov/42400719/) | Acta parasitologica | Toxoplasma | [10.1007/s11686-026-01334-w](https://doi.org/10.1007/s11686-026-01334-w) |
 
 ## 2026-06-25
 
