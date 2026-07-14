@@ -1,24 +1,39 @@
-# PubMed Research Feed — 2026-07-13 02:27:53 +0000
+# PubMed Research Feed — 2026-07-14 02:07:46 +0000
 
-共 **45** 篇文章（Toxoplasma 12 · Plasmodium 25 · Malaria parasite 11）
+共 **45** 篇文章（Plasmodium 25 · Toxoplasma 12 · Malaria parasite 11）
 
 ---
+
+## 2026-07-13
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Malaria serology for surveillance, insights into immunity, and vaccine development.](https://pubmed.ncbi.nlm.nih.gov/42439828/) | Infection and immunity | Plasmodium | [10.1128/iai.00031-26](https://doi.org/10.1128/iai.00031-26) |
+| 2 | [Primaquine-derived 5,6-orthoquinone concentrations in urine associated with CYP2D6 genotype-predicted phenotype and blood methemoglobin levels.](https://pubmed.ncbi.nlm.nih.gov/42439801/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00539-26](https://doi.org/10.1128/aac.00539-26) |
+
+## 2026-07-12
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Recent SARS-CoV-2 infections and increased antibody responses to viral antigens are associated with greater autoantibody reactivity.](https://pubmed.ncbi.nlm.nih.gov/42437598/) | Immunology letters | Toxoplasma | [10.1016/j.imlet.2026.107212](https://doi.org/10.1016/j.imlet.2026.107212) |
+| 2 | [Low prevalence of sub-microscopic malaria among rural communities of an endemic area in Kapit Division, Malaysian Borneo.](https://pubmed.ncbi.nlm.nih.gov/42437921/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06057-x](https://doi.org/10.1186/s12936-026-06057-x) |
+| 3 | [Regional Patterns and Temporal Trends of Pfdhfr and Pfdhps Markers of Antifolate Resistance in Plasmodium falciparum in East and West Africa, 2010-2025: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42437651/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108237](https://doi.org/10.1016/j.actatropica.2026.108237) |
 
 ## 2026-07-11
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Multi-omics-guided diagnosis and treatment of toxoplasma retinochoroiditis with co-infection: a case report.](https://pubmed.ncbi.nlm.nih.gov/42436394/) | BMC ophthalmology | Toxoplasma | [10.1186/s12886-026-05123-x](https://doi.org/10.1186/s12886-026-05123-x) |
-| 2 | [First detection of a Haemoproteus macrovacuolatus-like parasite in two captive birds of the order Anseriformes: Evidence of atypical morphology.](https://pubmed.ncbi.nlm.nih.gov/42435880/) | Parasitology international | Plasmodium · Malaria parasite | [10.1016/j.parint.2026.103340](https://doi.org/10.1016/j.parint.2026.103340) |
+| 1 | [First detection of a Haemoproteus macrovacuolatus-like parasite in two captive birds of the order Anseriformes: Evidence of atypical morphology.](https://pubmed.ncbi.nlm.nih.gov/42435880/) | Parasitology international | Plasmodium · Malaria parasite | [10.1016/j.parint.2026.103340](https://doi.org/10.1016/j.parint.2026.103340) |
+| 2 | [Multi-omics-guided diagnosis and treatment of toxoplasma retinochoroiditis with co-infection: a case report.](https://pubmed.ncbi.nlm.nih.gov/42436394/) | BMC ophthalmology | Toxoplasma | [10.1186/s12886-026-05123-x](https://doi.org/10.1186/s12886-026-05123-x) |
 
 ## 2026-07-10
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Lauramide-Functionalized Silver-Selenide Nanoparticles Enhance the Therapeutic Efficacy of Pyrimethamine in Murine Reactivated Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42431569/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108231](https://doi.org/10.1016/j.actatropica.2026.108231) |
-| 2 | [Optimizing intermittent preventive treatment for malaria in pregnancy: protocol for phase IV randomized controlled trial of sulphadoxine-pyrimethamine, dihydroartemisinin-piperaquine, and combination therapy in Northern Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42432528/) | BMC pregnancy and childbirth | Plasmodium | [10.1186/s12884-026-09535-x](https://doi.org/10.1186/s12884-026-09535-x) |
-| 3 | [Cell cycle checkpoint activity in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42429611/) | mSphere | Plasmodium · Malaria parasite | [10.1128/msphere.00341-26](https://doi.org/10.1128/msphere.00341-26) |
-| 4 | [Congenital toxoplasmosis induces NMDA receptor hypofunction and neuroinflammation associated with neurobehavioral abnormalities in adult mice.](https://pubmed.ncbi.nlm.nih.gov/42431346/) | Experimental neurology | Toxoplasma | [10.1016/j.expneurol.2026.115911](https://doi.org/10.1016/j.expneurol.2026.115911) |
+| 1 | [Cell cycle checkpoint activity in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42429611/) | mSphere | Plasmodium · Malaria parasite | [10.1128/msphere.00341-26](https://doi.org/10.1128/msphere.00341-26) |
+| 2 | [Lauramide-Functionalized Silver-Selenide Nanoparticles Enhance the Therapeutic Efficacy of Pyrimethamine in Murine Reactivated Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42431569/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108231](https://doi.org/10.1016/j.actatropica.2026.108231) |
+| 3 | [Congenital toxoplasmosis induces NMDA receptor hypofunction and neuroinflammation associated with neurobehavioral abnormalities in adult mice.](https://pubmed.ncbi.nlm.nih.gov/42431346/) | Experimental neurology | Toxoplasma | [10.1016/j.expneurol.2026.115911](https://doi.org/10.1016/j.expneurol.2026.115911) |
+| 4 | [Optimizing intermittent preventive treatment for malaria in pregnancy: protocol for phase IV randomized controlled trial of sulphadoxine-pyrimethamine, dihydroartemisinin-piperaquine, and combination therapy in Northern Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42432528/) | BMC pregnancy and childbirth | Plasmodium | [10.1186/s12884-026-09535-x](https://doi.org/10.1186/s12884-026-09535-x) |
 | 5 | [Host IFN-γ is dispensable for anti-arthritic effects of Plasmodium yoelii 17XNL in mouse collagen-induced arthritis.](https://pubmed.ncbi.nlm.nih.gov/42431573/) | Experimental parasitology | Plasmodium | [10.1016/j.exppara.2026.109168](https://doi.org/10.1016/j.exppara.2026.109168) |
 | 6 | [Bioinformatic analysis of Plasmodium knowlesi Serine Repeat Antigen 3 (SERA3) sequences for antimalarial peptide development.](https://pubmed.ncbi.nlm.nih.gov/42431567/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108226](https://doi.org/10.1016/j.actatropica.2026.108226) |
 
@@ -27,8 +42,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Diagnostic performance of malaria microscopy among laboratory professionals in Ethiopia: a systematic review.](https://pubmed.ncbi.nlm.nih.gov/42426727/) | Malaria journal | Malaria parasite | [10.1186/s12936-026-06023-7](https://doi.org/10.1186/s12936-026-06023-7) |
-| 2 | [Progesterone interferes with microtubule-dependent cell division in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42426865/) | Parasites & vectors | Toxoplasma | [10.1186/s13071-026-07442-w](https://doi.org/10.1186/s13071-026-07442-w) |
-| 3 | [Characterisation of the thermal and non-thermal stress conditions that activate the Plasmodium falciparum AP2-HS-dependent heat-shock response.](https://pubmed.ncbi.nlm.nih.gov/42424253/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014346](https://doi.org/10.1371/journal.ppat.1014346) |
+| 2 | [Characterisation of the thermal and non-thermal stress conditions that activate the Plasmodium falciparum AP2-HS-dependent heat-shock response.](https://pubmed.ncbi.nlm.nih.gov/42424253/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014346](https://doi.org/10.1371/journal.ppat.1014346) |
+| 3 | [Progesterone interferes with microtubule-dependent cell division in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42426865/) | Parasites & vectors | Toxoplasma | [10.1186/s13071-026-07442-w](https://doi.org/10.1186/s13071-026-07442-w) |
 | 4 | [Molecular epidemiology of Toxoplasma gondii in impala (Aepyceros melampus) from the Greater Kruger in South Africa: Detection of the Africa 4 lineage.](https://pubmed.ncbi.nlm.nih.gov/42424399/) | PLoS neglected tropical diseases | Toxoplasma | [10.1371/journal.pntd.0014475](https://doi.org/10.1371/journal.pntd.0014475) |
 | 5 | [Heterogeneous neuroanatomical distribution of Toxoplasma gondii parasitic elements and associated lesions in the brain of naturally infected red foxes (Vulpes vulpes) from Italy and Australia.](https://pubmed.ncbi.nlm.nih.gov/42423095/) | Parasitology | Toxoplasma | [10.1017/S0031182026102443](https://doi.org/10.1017/S0031182026102443) |
 | 6 | [A bivalent multi-epitope vaccine targeting CSP and TRAP of Plasmodium vivax designed through immunoinformatics and structural bioinformatics.](https://pubmed.ncbi.nlm.nih.gov/42426630/) | BMC microbiology | Plasmodium | [10.1186/s12866-026-05331-x](https://doi.org/10.1186/s12866-026-05331-x) |
@@ -60,10 +75,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Validating a point-of-care test for Toxoplasma gondii infection in southern sea otters (Enhydra lutris nereis).](https://pubmed.ncbi.nlm.nih.gov/42412205/) | Parasitology research | Toxoplasma | [10.1007/s00436-026-08725-y](https://doi.org/10.1007/s00436-026-08725-y) |
-| 2 | [Drug resistance gene polymorphisms of Plasmodium falciparum clinical isolates from Kinshasa, Democratic Republic of the Congo.](https://pubmed.ncbi.nlm.nih.gov/42415199/) | Tropical medicine and health | Plasmodium | [10.1186/s41182-026-01022-5](https://doi.org/10.1186/s41182-026-01022-5) |
-| 3 | [Prevalence and associated risk factors of malaria in Amhara National Regional State: a systematic review and meta-analyses.](https://pubmed.ncbi.nlm.nih.gov/42415007/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06034-4](https://doi.org/10.1186/s12936-026-06034-4) |
-| 4 | [KDIGO stage 3 acute kidney injury in children with severe Plasmodium falciparum malaria including blackwater fever: a case series from a resource-limited setting in Southwest Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42414944/) | BMC nephrology | Plasmodium | [10.1186/s12882-026-05183-7](https://doi.org/10.1186/s12882-026-05183-7) |
-| 5 | [Green synthesis of tetrahydropyridine-3-carboxylate derivatives and evaluation of antimicrobial and antimalarial activities supported by molecular docking, POM studies, and drug-likeness analysis.](https://pubmed.ncbi.nlm.nih.gov/42414423/) | Scientific reports | Plasmodium | [10.1038/s41598-026-60876-1](https://doi.org/10.1038/s41598-026-60876-1) |
 
 ## 2026-07-06
 
@@ -72,14 +83,8 @@
 | 1 | [Use of FTA Cards for DNA Preservation and Dual-LAMP Analysis of Plasmodium knowlesi and P. cynomolgi.](https://pubmed.ncbi.nlm.nih.gov/42406182/) | Acta parasitologica | Malaria parasite | [10.1007/s11686-026-01332-y](https://doi.org/10.1007/s11686-026-01332-y) |
 | 2 | [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) | Emerging microbes & infections | Malaria parasite | [10.1080/22221751.2026.2686473](https://doi.org/10.1080/22221751.2026.2686473) |
 | 3 | [Radiological and FDG-PET imaging features of Epstein-Barr virus-positive primary central nervous system lymphomas.](https://pubmed.ncbi.nlm.nih.gov/42410107/) | Journal of neurology | Toxoplasma | [10.1007/s00415-026-13974-z](https://doi.org/10.1007/s00415-026-13974-z) |
-| 4 | [Microglial PTP1B promotes synaptic pathology and cognitive deficits in chronic Toxoplasma gondii infection.](https://pubmed.ncbi.nlm.nih.gov/42409182/) | Brain, behavior, and immunity | Toxoplasma | [10.1016/j.bbi.2026.106894](https://doi.org/10.1016/j.bbi.2026.106894) |
-| 5 | [On the use of generative models for demographic inference in malaria vectors from genomic data.](https://pubmed.ncbi.nlm.nih.gov/42132223/) | G3 (Bethesda, Md.) | Malaria parasite | [10.1093/g3journal/jkag114](https://doi.org/10.1093/g3journal/jkag114) |
-
-## 2026-07-05
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Identification and profiling of HLA-A*02:01-restricted Toxoplasma gondii peptides through immunopeptidomics in HLA-A2.1 transgenic mice.](https://pubmed.ncbi.nlm.nih.gov/42402043/) | Virulence | Toxoplasma | [10.1080/21505594.2026.2697091](https://doi.org/10.1080/21505594.2026.2697091) |
+| 4 | [On the use of generative models for demographic inference in malaria vectors from genomic data.](https://pubmed.ncbi.nlm.nih.gov/42132223/) | G3 (Bethesda, Md.) | Malaria parasite | [10.1093/g3journal/jkag114](https://doi.org/10.1093/g3journal/jkag114) |
+| 5 | [Microglial PTP1B promotes synaptic pathology and cognitive deficits in chronic Toxoplasma gondii infection.](https://pubmed.ncbi.nlm.nih.gov/42409182/) | Brain, behavior, and immunity | Toxoplasma | [10.1016/j.bbi.2026.106894](https://doi.org/10.1016/j.bbi.2026.106894) |
 
 ## 2026-06-25
 
