@@ -1,9 +1,86 @@
-window.researchLastUpdated = "2026-07-15 02:05:34 +0000";
+window.researchLastUpdated = "2026-07-16 02:13:51 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-42447146",
-    "title": "Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447146/",
+    "id": "pubmed-42455455",
+    "title": "Serological evidence of Toxoplasma gondii infection in native Dongan chickens intended for human consumption in Hunan province, subtropical China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455455/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 26.2,
+    "score": 100,
+    "journal": "Tropical animal health and production",
+    "pubDate": "2026-07-15",
+    "authors": [
+      "Xie WQ",
+      "Chen WC"
+    ],
+    "pmid": "42455455",
+    "doi": "10.1007/s11250-026-05191-7",
+    "why": "Toxoplasma gondii, an important food-borne parasite, has been reported in a wide range of food animals, including poultry. Dongan chicken, a native breed of Hunan province, subtropical China, is widely consumed, but its T. gondii infection status remains unknown. A total of 1,220 serum samples were collected from Dongan chickens intended for human consumption in Hunan province, China. Serum samples were tested for T. gondii IgG antibodies using an..."
+  },
+  {
+    "id": "pubmed-42455873",
+    "title": "Identification of two genomic cryptotypes of Plasmodium malariae in Africa.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455873/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 26.2,
+    "score": 100,
+    "journal": "PLoS neglected tropical diseases",
+    "pubDate": "2026-07-15",
+    "authors": [
+      "Lefebvre MJM",
+      "Arnathau C",
+      "Houzé S",
+      "de Thoisy B",
+      "González C",
+      "Rondón S"
+    ],
+    "pmid": "42455873",
+    "doi": "10.1371/journal.pntd.0014176",
+    "why": "Plasmodium malariae is a neglected human malaria parasite that causes persistent, often asymptomatic infections and remains difficult to diagnose. Despite being generally associated with lower prevalence and severity than other malaria parasites, P. malariae represents a significant public health concern, particularly in Africa, but also as a zoonosis in South America with monkey-adapted Plasmodium brasilianum. Plasmodium malariae and P. brasilianum..."
+  },
+  {
+    "id": "pubmed-42455119",
+    "title": "Mutations in apicoplast rRNA genes are associated with clindamycin resistance and impair the ability of malaria parasites to infect mosquitoes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455119/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 26.2,
+    "score": 98,
+    "journal": "Antimicrobial agents and chemotherapy",
+    "pubDate": "2026-07-15",
+    "authors": [
+      "Home JL",
+      "Yeoh LM",
+      "McFadden GI",
+      "Goodman CD"
+    ],
+    "pmid": "42455119",
+    "doi": "10.1128/aac.00507-26",
+    "why": "Drug resistance hampers malaria treatment and control. Resistance to nearly all clinically used antimalarials has emerged and spread globally. With multi-drug-resistant parasites now on the rise, understanding resistance mechanisms and their ability to spread is crucial for optimal treatment and control strategies. Clindamycin is an apicoplast-targeting antimalarial used as a partner compound in second-line treatment combinations, but mechanisms of..."
+  },
+  {
+    "id": "pubmed-42454490",
+    "title": "Antigen-specific type 1 regulatory T cell responses shape immunity and disease tolerance in human malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42454490/",
     "source": "PubMed",
     "tag": "Plasmodium",
     "topics": [
@@ -11,18 +88,43 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 26.1,
-    "score": 100,
-    "journal": "PLOS global public health",
+    "ageHours": 26.2,
+    "score": 96,
+    "journal": "The Journal of clinical investigation",
+    "pubDate": "2026-07-15",
+    "authors": [
+      "Brockmann L"
+    ],
+    "pmid": "42454490",
+    "doi": "10.1172/JCI208046",
+    "why": "Type 1 regulatory (Tr1) T cells are a major source of IL-10-mediated immune regulation, yet their phenotypic definition and role in human disease remain incompletely understood. In this issue of the Journal of Clinical Investigation, Nideffer et al. provide insight into human Tr1 cells during pediatric Plasmodium falciparum (Pf) infection. The authors identified Tr1 cells as a major component of the malaria-specific CD4+ T cell response, producing both..."
+  },
+  {
+    "id": "pubmed-42448064",
+    "title": "Anti-Toxoplasma gondii activity of two novel synthetic compounds based on pyridine, benzimidazole and benzoxazole scaffolds in human maternal-fetal interface models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448064/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.2,
+    "score": 98,
+    "journal": "Microbial pathogenesis",
     "pubDate": "2026-07-14",
     "authors": [
-      "Choi W",
-      "Kang Y",
-      "Yeom J"
+      "Rosini AM",
+      "Novais RM",
+      "Dias JVDC",
+      "de Melo Fernandes TA",
+      "Luz LC",
+      "Paschoalino M"
     ],
-    "pmid": "42447146",
-    "doi": "10.1371/journal.pgph.0006693",
-    "why": "Despite developmental heterogeneity, children under five are often analyzed as a single group, obscuring age-related differences in Plasmodium infection. Using the 2018 Nigeria Demographic and Health Survey data, we analyzed 2,914 younger children (6-23.9 months) and 5,553 older children (24-59 months) to identify age-common and age-specific factors. We applied a Cluster-aware Multistage Selection (CMS) framework integrating penalized regression..."
+    "pmid": "42448064",
+    "doi": "10.1016/j.micpath.2026.108705",
+    "why": "Congenital toxoplasmosis remains a major public health concern, and current therapy with sulfadiazine and pyrimethamine is limited by toxicity and efficacy, highlighting the need for safer alternatives. This study evaluated the anti-Toxoplasma gondii activity of two novel synthetic compounds, RVI 30 and RVI 33, containing pyridine, benzimidazole, and benzoxazole scaffolds, using BeWo cells and human third-trimester villous explants as models of the..."
   },
   {
     "id": "pubmed-42447104",
@@ -35,8 +137,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 26.1,
-    "score": 98,
+    "ageHours": 50.2,
+    "score": 94,
     "journal": "PloS one",
     "pubDate": "2026-07-14",
     "authors": [
@@ -52,6 +154,30 @@ window.researchItems = [
     "why": "Toxoplasma gondii is an intracellular protozoan capable of promoting physiological and behavioural changes in hosts. When female mammals acquire T. gondii for the first time during pregnancy, Congenital Toxoplasmosis (CT) can occur, posing a significant risk to the foetus. Due to challenges in diagnosing and treating CT, a new blue LED light therapy (BLLT) was proposed to eliminate parasites during placenta and tissue invasion in mice; however, its..."
   },
   {
+    "id": "pubmed-42447146",
+    "title": "Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447146/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.2,
+    "score": 94,
+    "journal": "PLOS global public health",
+    "pubDate": "2026-07-14",
+    "authors": [
+      "Choi W",
+      "Kang Y",
+      "Yeom J"
+    ],
+    "pmid": "42447146",
+    "doi": "10.1371/journal.pgph.0006693",
+    "why": "Despite developmental heterogeneity, children under five are often analyzed as a single group, obscuring age-related differences in Plasmodium infection. Using the 2018 Nigeria Demographic and Health Survey data, we analyzed 2,914 younger children (6-23.9 months) and 5,553 older children (24-59 months) to identify age-common and age-specific factors. We applied a Cluster-aware Multistage Selection (CMS) framework integrating penalized regression..."
+  },
+  {
     "id": "pubmed-42446942",
     "title": "Bradykinin contributes to vasogenic edema in murine experimental cerebral malaria.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42446942/",
@@ -62,8 +188,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 26.1,
-    "score": 98,
+    "ageHours": 50.2,
+    "score": 92,
     "journal": "The Journal of clinical investigation",
     "pubDate": "2026-07-14",
     "authors": [
@@ -89,8 +215,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 26.1,
-    "score": 96,
+    "ageHours": 50.2,
+    "score": 90,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-07-14",
     "authors": [
@@ -116,8 +242,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 26.1,
-    "score": 94,
+    "ageHours": 50.2,
+    "score": 88,
     "journal": "eLife",
     "pubDate": "2026-07-14",
     "authors": [
@@ -143,8 +269,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 100,
+    "ageHours": 74.2,
+    "score": 96,
     "journal": "Revista medica del Instituto Mexicano del Seguro Social",
     "pubDate": "2026-07-13",
     "authors": [
@@ -169,8 +295,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 100,
+    "ageHours": 74.2,
+    "score": 96,
     "journal": "Scientific reports",
     "pubDate": "2026-07-13",
     "authors": [
@@ -193,8 +319,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 96,
+    "ageHours": 74.2,
+    "score": 92,
     "journal": "RSC advances",
     "pubDate": "2026-07-13",
     "authors": [
@@ -220,8 +346,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 90,
+    "ageHours": 74.2,
+    "score": 84,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-07-13",
     "authors": [
@@ -247,8 +373,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 88,
+    "ageHours": 74.2,
+    "score": 82,
     "journal": "Infection and immunity",
     "pubDate": "2026-07-13",
     "authors": [
@@ -272,8 +398,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.1,
-    "score": 86,
+    "ageHours": 74.2,
+    "score": 80,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-07-13",
     "authors": [
@@ -299,8 +425,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.1,
-    "score": 94,
+    "ageHours": 98.2,
+    "score": 90,
     "journal": "Immunology letters",
     "pubDate": "2026-07-12",
     "authors": [
@@ -326,8 +452,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.1,
-    "score": 84,
+    "ageHours": 98.2,
+    "score": 78,
     "journal": "Malaria journal",
     "pubDate": "2026-07-12",
     "authors": [
@@ -353,8 +479,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.1,
-    "score": 82,
+    "ageHours": 98.2,
+    "score": 76,
     "journal": "Acta tropica",
     "pubDate": "2026-07-12",
     "authors": [
@@ -380,8 +506,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.1,
-    "score": 98,
+    "ageHours": 122.2,
+    "score": 94,
     "journal": "Parasitology international",
     "pubDate": "2026-07-11",
     "authors": [
@@ -407,8 +533,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.1,
-    "score": 92,
+    "ageHours": 122.2,
+    "score": 88,
     "journal": "BMC ophthalmology",
     "pubDate": "2026-07-11",
     "authors": [
@@ -435,8 +561,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 96,
+    "ageHours": 146.2,
+    "score": 92,
     "journal": "mSphere",
     "pubDate": "2026-07-10",
     "authors": [
@@ -461,8 +587,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 90,
+    "ageHours": 146.2,
+    "score": 86,
     "journal": "Acta tropica",
     "pubDate": "2026-07-10",
     "authors": [
@@ -487,8 +613,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 88,
+    "ageHours": 146.2,
+    "score": 84,
     "journal": "Experimental neurology",
     "pubDate": "2026-07-10",
     "authors": [
@@ -514,8 +640,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 78,
+    "ageHours": 146.2,
+    "score": 72,
     "journal": "BMC pregnancy and childbirth",
     "pubDate": "2026-07-10",
     "authors": [
@@ -541,8 +667,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 76,
+    "ageHours": 146.2,
+    "score": 70,
     "journal": "Experimental parasitology",
     "pubDate": "2026-07-10",
     "authors": [
@@ -568,8 +694,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.1,
-    "score": 74,
+    "ageHours": 146.2,
+    "score": 68,
     "journal": "Acta tropica",
     "pubDate": "2026-07-10",
     "authors": [
@@ -593,8 +719,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 94,
+    "ageHours": 170.2,
+    "score": 90,
     "journal": "Malaria journal",
     "pubDate": "2026-07-09",
     "authors": [
@@ -618,8 +744,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 92,
+    "ageHours": 170.2,
+    "score": 88,
     "journal": "PLoS pathogens",
     "pubDate": "2026-07-09",
     "authors": [
@@ -644,8 +770,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 86,
+    "ageHours": 170.2,
+    "score": 82,
     "journal": "Parasites & vectors",
     "pubDate": "2026-07-09",
     "authors": [
@@ -671,8 +797,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 84,
+    "ageHours": 170.2,
+    "score": 80,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-07-09",
     "authors": [
@@ -698,8 +824,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 82,
+    "ageHours": 170.2,
+    "score": 78,
     "journal": "Parasitology",
     "pubDate": "2026-07-09",
     "authors": [
@@ -725,8 +851,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 70,
+    "ageHours": 170.2,
+    "score": 64,
     "journal": "BMC microbiology",
     "pubDate": "2026-07-09",
     "authors": [
@@ -751,8 +877,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 68,
+    "ageHours": 170.2,
+    "score": 62,
     "journal": "Journal of fish diseases",
     "pubDate": "2026-07-09",
     "authors": [
@@ -777,8 +903,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 66,
+    "ageHours": 170.2,
+    "score": 60,
     "journal": "Natural product research",
     "pubDate": "2026-07-09",
     "authors": [
@@ -804,8 +930,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 64,
+    "ageHours": 170.2,
+    "score": 58,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-07-09",
     "authors": [
@@ -830,8 +956,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 62,
+    "ageHours": 170.2,
+    "score": 56,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-07-09",
     "authors": [
@@ -857,8 +983,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.1,
-    "score": 58,
+    "ageHours": 170.2,
+    "score": 52,
     "journal": "Mycologia",
     "pubDate": "2026-07-09",
     "authors": [
@@ -871,6 +997,33 @@ window.researchItems = [
     "why": "Sclerotia are dormant structures formed from plasmodia under dehydration and metabolic arrest, but the extent to which passage through the sclerotial stage leaves lasting changes in transcriptional states remains unclear. Here, we compared plasmodial transcriptomes of Physarum polycephalum and P. rigidum before and after sclerotium formation and reactivation. No differentially expressed genes (DEGs) were detected in P. rigidum, whereas 519 DEGs were..."
   },
   {
+    "id": "pubmed-42418521",
+    "title": "A structure-based epitope tagging approach identifies vulnerable sites on the malarial P36-P52 protein complex for antibody-mediated neutralization of Plasmodium sporozoites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42418521/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 194.2,
+    "score": 86,
+    "journal": "PLoS pathogens",
+    "pubDate": "2026-07-08",
+    "authors": [
+      "Das S",
+      "Boeykens L",
+      "Loubens M",
+      "Marinach C",
+      "Briquet S",
+      "De Vocht L"
+    ],
+    "pmid": "42418521",
+    "doi": "10.1371/journal.ppat.1014418",
+    "why": "Malaria is caused by apicomplexan parasites of the genus Plasmodium, which are transmitted through the bite of Anopheles mosquitoes that inject sporozoites (SPZs) into the skin. SPZs migrate to and infect the liver for an initial round of replication. SPZs and liver stages have long been considered as ideal targets for malaria vaccines. The main SPZ surface protein, the circumsporozoite protein (CSP), is the target of currently approved malaria vaccines..."
+  },
+  {
     "id": "pubmed-42414835",
     "title": "Seroprevalence and Risk Factors for Transfusion-transmitted Infections among Blood Donors in Dera Ismail Khan, Pakistan: A Single-Center Cross-sectional Study.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42414835/",
@@ -881,8 +1034,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 90,
+    "ageHours": 194.2,
+    "score": 84,
     "journal": "Journal of epidemiology and global health",
     "pubDate": "2026-07-08",
     "authors": [
@@ -908,8 +1061,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 84,
+    "ageHours": 194.2,
+    "score": 80,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-07-08",
     "authors": [
@@ -935,8 +1088,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 80,
+    "ageHours": 194.2,
+    "score": 76,
     "journal": "PloS one",
     "pubDate": "2026-07-08",
     "authors": [
@@ -951,110 +1104,6 @@ window.researchItems = [
     "why": "Free-roaming cats (Felis catus) can serve as reservoirs of various zoonotic parasites in urban settings. Despite a large population of free-roaming cats around New York City, studies assessing the prevalence and shedding of various parasites in the New York urban landscape are scarce. This study utilized fecal and blood samples opportunistically collected during the Trap Neuter Return (TNR) program from 87 free-roaming cats in New York City between May..."
   },
   {
-    "id": "pubmed-42422289",
-    "title": "4-Aminoquinoline derivatives and benzoxaborole-4-aminoquinoline hybrids: synthesis, antiplasmodial evaluation, heme-inhibition and in silico studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42422289/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 56,
-    "journal": "RSC advances",
-    "pubDate": "2026-07-08",
-    "authors": [
-      "Saini A",
-      "Kumar S",
-      "Pradines B",
-      "Delandre O",
-      "Mosnier J",
-      "Fonta I"
-    ],
-    "pmid": "42422289",
-    "doi": "10.1039/d6ra02824a",
-    "why": "A library of 4-aminoquinoline derivatives and benzoxaborole-4-aminoquinoline hybrids, linked through amide and 1H-1,2,3-triazole spacers, was synthesized and evaluated against both chloroquine-sensitive (3D7) and -resistant (W2) strains of Plasmodium falciparum. Structure-activity relationship studies revealed that antiplasmodial potency was strongly influenced by the length of the alkyl chain and by the nature of the terminal functional group (azido..."
-  },
-  {
-    "id": "pubmed-42421101",
-    "title": "Evidence of Anopheles stephensi involvement in the transmission of Plasmodium vivax in Djibouti City using highly sensitive sporozoite detection assay.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42421101/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 54,
-    "journal": "Parasites & vectors",
-    "pubDate": "2026-07-08",
-    "authors": [
-      "Rao S",
-      "Samake JN",
-      "Rafferty C",
-      "Mumba P",
-      "Chibsa S",
-      "Balkew M"
-    ],
-    "pmid": "42421101",
-    "doi": "10.1186/s13071-026-07532-9",
-    "why": "BACKGROUND AND OBJECTIVE: Anopheles stephensi is a malaria mosquito vector that has been raising international concern due to its invasive nature in Africa, including the nation of Djibouti. Since its initial detection in Djibouti in 2012, malaria morbidity and mortality have increased exponentially in the country. With the observed increases in human malaria cases and previously reported An. stephensi involvement in outbreaks, high-quality evidence of..."
-  },
-  {
-    "id": "pubmed-42421019",
-    "title": "Prevalence of malaria and associated risk factors in Loka Abaya district, Sidama regional state, Southern Ethiopia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42421019/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.1,
-    "score": 52,
-    "journal": "Malaria journal",
-    "pubDate": "2026-07-08",
-    "authors": [
-      "Seyoum S",
-      "Esmael M"
-    ],
-    "pmid": "42421019",
-    "doi": "10.1186/s12936-026-06032-6",
-    "why": "BACKGROUND: Malaria remains a major public health concern in Ethiopia, despite the widespread use of insecticide-treated mosquito nets. The goal of this study was to determine the prevalence of malaria, the proportion of Plasmodium species, and the risk factors for disease transmission in the study area. METHODS: A community-based cross-sectional study was conducted from April to May 2023 among 419 participants. Socio-demographic and environmental data..."
-  },
-  {
-    "id": "pubmed-42412205",
-    "title": "Validating a point-of-care test for Toxoplasma gondii infection in southern sea otters (Enhydra lutris nereis).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42412205/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.1,
-    "score": 78,
-    "journal": "Parasitology research",
-    "pubDate": "2026-07-07",
-    "authors": [
-      "Song E",
-      "Sinnott D",
-      "Field CL",
-      "Murray M",
-      "Duignan P",
-      "Miller M"
-    ],
-    "pmid": "42412205",
-    "doi": "10.1007/s00436-026-08725-y",
-    "why": "Toxoplasma gondii is a zoonotic protozoan parasite that infects a high proportion of threatened southern sea otters (Enhydra lutris nereis) and is an important cause of mortality in this host species. Recently, a point-of-care rapid antibody test (POCT) for T. gondii infection was developed for detection of IgG and IgM antibodies in human sera. We aimed to validate the POCT using southern sea otter sera against a gold standard state of infection, based on..."
-  },
-  {
     "id": "pubmed-42345078",
     "title": "Using Unbiased Chemical Proteomics Approaches to Explore the Target Landscape of the Resistance Refractory 7-Azaindole MMV022224 in Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42345078/",
@@ -1065,8 +1114,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 482.1,
-    "score": 88,
+    "ageHours": 506.2,
+    "score": 82,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-06-25",
     "authors": [
@@ -1092,8 +1141,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 650.1,
-    "score": 76,
+    "ageHours": 674.2,
+    "score": 74,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-06-18",
     "authors": [
@@ -1119,8 +1168,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 722.1,
-    "score": 74,
+    "ageHours": 746.2,
+    "score": 72,
     "journal": "Infection and immunity",
     "pubDate": "2026-06-15",
     "authors": [
@@ -1134,32 +1183,5 @@ window.researchItems = [
     "pmid": "42295148",
     "doi": "10.1128/iai.00242-26",
     "why": "Zoonotic infections constitute a major cause of reproductive failure and perinatal mortality in humans and animals. Among the most relevant etiological agents are Listeria monocytogenes, Brucella spp., and Toxoplasma gondii, which, despite distinct biological properties, share the capacity to breach placental defenses, establish intracellular niches, and impair fetal development. This review aims to synthesize current knowledge on the pathological and..."
-  },
-  {
-    "id": "pubmed-42267842",
-    "title": "The inner membrane complex protein, IMC55, is dispensable for intraerythrocytic development of Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267842/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 842.1,
-    "score": 86,
-    "journal": "Microbiology spectrum",
-    "pubDate": "2026-06-10",
-    "authors": [
-      "Vick GW",
-      "Fierro MA",
-      "Castiglione A",
-      "Park L",
-      "Brooks C",
-      "Muralidharan V"
-    ],
-    "pmid": "42267842",
-    "doi": "10.1128/spectrum.03656-25",
-    "why": "UNLABELLED: Plasmodium falciparum, an obligate intracellular Apicomplexan parasite and the causative agent of malaria, must reside and replicate within a host cell during the intraerythrocytic stage. At the end of its replicative cycle, the parasite breaks down two biological membranes using a proteolytic cascade to release invasive daughter cells known as merozoites to continue its asexual expansion. We have previously shown that PfERC is an essential..."
   }
 ];

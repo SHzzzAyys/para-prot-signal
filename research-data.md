@@ -1,18 +1,28 @@
-# PubMed Research Feed — 2026-07-15 02:05:34 +0000
+# PubMed Research Feed — 2026-07-16 02:13:51 +0000
 
-共 **44** 篇文章（Plasmodium 25 · Toxoplasma 14 · Malaria parasite 9）
+共 **45** 篇文章（Toxoplasma 15 · Plasmodium 25 · Malaria parasite 11）
 
 ---
+
+## 2026-07-15
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Serological evidence of Toxoplasma gondii infection in native Dongan chickens intended for human consumption in Hunan province, subtropical China.](https://pubmed.ncbi.nlm.nih.gov/42455455/) | Tropical animal health and production | Toxoplasma | [10.1007/s11250-026-05191-7](https://doi.org/10.1007/s11250-026-05191-7) |
+| 2 | [Identification of two genomic cryptotypes of Plasmodium malariae in Africa.](https://pubmed.ncbi.nlm.nih.gov/42455873/) | PLoS neglected tropical diseases | Plasmodium · Malaria parasite | [10.1371/journal.pntd.0014176](https://doi.org/10.1371/journal.pntd.0014176) |
+| 3 | [Mutations in apicoplast rRNA genes are associated with clindamycin resistance and impair the ability of malaria parasites to infect mosquitoes.](https://pubmed.ncbi.nlm.nih.gov/42455119/) | Antimicrobial agents and chemotherapy | Plasmodium · Malaria parasite | [10.1128/aac.00507-26](https://doi.org/10.1128/aac.00507-26) |
+| 4 | [Antigen-specific type 1 regulatory T cell responses shape immunity and disease tolerance in human malaria.](https://pubmed.ncbi.nlm.nih.gov/42454490/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI208046](https://doi.org/10.1172/JCI208046) |
 
 ## 2026-07-14
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.](https://pubmed.ncbi.nlm.nih.gov/42447146/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0006693](https://doi.org/10.1371/journal.pgph.0006693) |
+| 1 | [Anti-Toxoplasma gondii activity of two novel synthetic compounds based on pyridine, benzimidazole and benzoxazole scaffolds in human maternal-fetal interface models.](https://pubmed.ncbi.nlm.nih.gov/42448064/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108705](https://doi.org/10.1016/j.micpath.2026.108705) |
 | 2 | [Interference of phototherapy with blue LED light on the behaviour of mice infected with Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42447104/) | PloS one | Toxoplasma | [10.1371/journal.pone.0353740](https://doi.org/10.1371/journal.pone.0353740) |
-| 3 | [Bradykinin contributes to vasogenic edema in murine experimental cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42446942/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI202285](https://doi.org/10.1172/JCI202285) |
-| 4 | [Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.](https://pubmed.ncbi.nlm.nih.gov/42446379/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag344](https://doi.org/10.1093/infdis/jiag344) |
-| 5 | [A natural experiment in Kenya reveals durable immunosuppressive effects of early childhood malaria: a longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42444449/) | eLife | Plasmodium | [10.7554/eLife.107820](https://doi.org/10.7554/eLife.107820) |
+| 3 | [Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.](https://pubmed.ncbi.nlm.nih.gov/42447146/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0006693](https://doi.org/10.1371/journal.pgph.0006693) |
+| 4 | [Bradykinin contributes to vasogenic edema in murine experimental cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42446942/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI202285](https://doi.org/10.1172/JCI202285) |
+| 5 | [Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.](https://pubmed.ncbi.nlm.nih.gov/42446379/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag344](https://doi.org/10.1093/infdis/jiag344) |
+| 6 | [A natural experiment in Kenya reveals durable immunosuppressive effects of early childhood malaria: a longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42444449/) | eLife | Plasmodium | [10.7554/eLife.107820](https://doi.org/10.7554/eLife.107820) |
 
 ## 2026-07-13
 
@@ -71,18 +81,10 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Seroprevalence and Risk Factors for Transfusion-transmitted Infections among Blood Donors in Dera Ismail Khan, Pakistan: A Single-Center Cross-sectional Study.](https://pubmed.ncbi.nlm.nih.gov/42414835/) | Journal of epidemiology and global health | Malaria parasite | [10.1007/s44197-026-00601-3](https://doi.org/10.1007/s44197-026-00601-3) |
-| 2 | [Frequent Plasmodium ovale Recurrence in Coastal Tanzania.](https://pubmed.ncbi.nlm.nih.gov/41862423/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Malaria parasite | [10.1093/cid/ciag199](https://doi.org/10.1093/cid/ciag199) |
-| 3 | [Zoonotic endoparasites and Toxoplasma gondii seropositivity in free-roaming cats (Felis catus) from New York City boroughs.](https://pubmed.ncbi.nlm.nih.gov/42418442/) | PloS one | Toxoplasma | [10.1371/journal.pone.0351437](https://doi.org/10.1371/journal.pone.0351437) |
-| 4 | [4-Aminoquinoline derivatives and benzoxaborole-4-aminoquinoline hybrids: synthesis, antiplasmodial evaluation, heme-inhibition and in silico studies.](https://pubmed.ncbi.nlm.nih.gov/42422289/) | RSC advances | Plasmodium | [10.1039/d6ra02824a](https://doi.org/10.1039/d6ra02824a) |
-| 5 | [Evidence of Anopheles stephensi involvement in the transmission of Plasmodium vivax in Djibouti City using highly sensitive sporozoite detection assay.](https://pubmed.ncbi.nlm.nih.gov/42421101/) | Parasites & vectors | Plasmodium | [10.1186/s13071-026-07532-9](https://doi.org/10.1186/s13071-026-07532-9) |
-| 6 | [Prevalence of malaria and associated risk factors in Loka Abaya district, Sidama regional state, Southern Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42421019/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06032-6](https://doi.org/10.1186/s12936-026-06032-6) |
-
-## 2026-07-07
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Validating a point-of-care test for Toxoplasma gondii infection in southern sea otters (Enhydra lutris nereis).](https://pubmed.ncbi.nlm.nih.gov/42412205/) | Parasitology research | Toxoplasma | [10.1007/s00436-026-08725-y](https://doi.org/10.1007/s00436-026-08725-y) |
+| 1 | [A structure-based epitope tagging approach identifies vulnerable sites on the malarial P36-P52 protein complex for antibody-mediated neutralization of Plasmodium sporozoites.](https://pubmed.ncbi.nlm.nih.gov/42418521/) | PLoS pathogens | Malaria parasite | [10.1371/journal.ppat.1014418](https://doi.org/10.1371/journal.ppat.1014418) |
+| 2 | [Seroprevalence and Risk Factors for Transfusion-transmitted Infections among Blood Donors in Dera Ismail Khan, Pakistan: A Single-Center Cross-sectional Study.](https://pubmed.ncbi.nlm.nih.gov/42414835/) | Journal of epidemiology and global health | Malaria parasite | [10.1007/s44197-026-00601-3](https://doi.org/10.1007/s44197-026-00601-3) |
+| 3 | [Frequent Plasmodium ovale Recurrence in Coastal Tanzania.](https://pubmed.ncbi.nlm.nih.gov/41862423/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Malaria parasite | [10.1093/cid/ciag199](https://doi.org/10.1093/cid/ciag199) |
+| 4 | [Zoonotic endoparasites and Toxoplasma gondii seropositivity in free-roaming cats (Felis catus) from New York City boroughs.](https://pubmed.ncbi.nlm.nih.gov/42418442/) | PloS one | Toxoplasma | [10.1371/journal.pone.0351437](https://doi.org/10.1371/journal.pone.0351437) |
 
 ## 2026-06-25
 
@@ -101,9 +103,3 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Fetal and neonatal demise in zoonotic diseases: pathology and pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/42295148/) | Infection and immunity | Toxoplasma | [10.1128/iai.00242-26](https://doi.org/10.1128/iai.00242-26) |
-
-## 2026-06-10
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [The inner membrane complex protein, IMC55, is dispensable for intraerythrocytic development of Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42267842/) | Microbiology spectrum | Malaria parasite | [10.1128/spectrum.03656-25](https://doi.org/10.1128/spectrum.03656-25) |
