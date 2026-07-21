@@ -1,8 +1,14 @@
-# PubMed Research Feed — 2026-07-20 03:32:59 +0000
+# PubMed Research Feed — 2026-07-21 02:22:44 +0000
 
-共 **37** 篇文章（Plasmodium 25 · Toxoplasma 11 · Malaria parasite 8）
+共 **36** 篇文章（Plasmodium 24 · Toxoplasma 10 · Malaria parasite 8）
 
 ---
+
+## 2026-07-19
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Divergent Autophagy Pathways in Plasmodium: Mechanisms, Functions, and Therapeutic Potential.](https://pubmed.ncbi.nlm.nih.gov/42473197/) | Molecular microbiology | Plasmodium | [10.1111/mmi.70096](https://doi.org/10.1111/mmi.70096) |
 
 ## 2026-07-18
 
@@ -16,9 +22,9 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Azithromycin versus azithromycin-pyrimethamine and sulfadiazine-pyrimethamine for the treatment of ocular toxoplasmosis: a retrospective comparative case-series.](https://pubmed.ncbi.nlm.nih.gov/42469436/) | Eye (London, England) | Toxoplasma | [10.1038/s41433-026-04685-w](https://doi.org/10.1038/s41433-026-04685-w) |
-| 2 | [Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42472236/) | Clinical medicine insights. Case reports | Plasmodium | [10.1177/11795476261470653](https://doi.org/10.1177/11795476261470653) |
-| 3 | [Therapeutic efficacy of artemether-lumefantrine plus single low dose primaquine for the treatment of uncomplicated Plasmodium falciparum malaria in a high transmission setting, Western Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42467750/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0335833](https://doi.org/10.1371/journal.pone.0335833) |
-| 4 | [Repurposing the proton pump inhibitor "Rabeprazole sodium" in the treatment of acute experimental murine toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42468661/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108242](https://doi.org/10.1016/j.actatropica.2026.108242) |
+| 2 | [Therapeutic efficacy of artemether-lumefantrine plus single low dose primaquine for the treatment of uncomplicated Plasmodium falciparum malaria in a high transmission setting, Western Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42467750/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0335833](https://doi.org/10.1371/journal.pone.0335833) |
+| 3 | [Repurposing the proton pump inhibitor "Rabeprazole sodium" in the treatment of acute experimental murine toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42468661/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108242](https://doi.org/10.1016/j.actatropica.2026.108242) |
+| 4 | [Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42472236/) | Clinical medicine insights. Case reports | Plasmodium | [10.1177/11795476261470653](https://doi.org/10.1177/11795476261470653) |
 | 5 | [Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.](https://pubmed.ncbi.nlm.nih.gov/42466832/) | Medical and veterinary entomology | Plasmodium · Malaria parasite | [10.1111/mve.70098](https://doi.org/10.1111/mve.70098) |
 | 6 | [Structural dissection of apicomplexan gliding motility.](https://pubmed.ncbi.nlm.nih.gov/42468207/) | Current opinion in structural biology | Toxoplasma | [10.1016/j.sbi.2026.103336](https://doi.org/10.1016/j.sbi.2026.103336) |
 | 7 | [Autoreactive and parasite-specific IgG repertoires in asymptomatic and mild Plasmodium falciparum infection in Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42469879/) | Parasites & vectors | Plasmodium | [10.1186/s13071-026-07508-9](https://doi.org/10.1186/s13071-026-07508-9) |
@@ -64,15 +70,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [[Characterization of immune reconstitution inflammatory syndrome in a Mexican cohort].](https://pubmed.ncbi.nlm.nih.gov/42447272/) | Revista medica del Instituto Mexicano del Seguro Social | Toxoplasma | [10.5281/zenodo.19076187](https://doi.org/10.5281/zenodo.19076187) |
-| 2 | [Identification of a sequence element regulating H3K9 methylation at the ap2-g locus in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42443261/) | Scientific reports | Plasmodium · Malaria parasite | [10.1038/s41598-026-59569-6](https://doi.org/10.1038/s41598-026-59569-6) |
+| 2 | [Identification of a sequence element regulating H3K9 methylation at the ap2-g locus in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42443261/) | Scientific reports | Malaria parasite | [10.1038/s41598-026-59569-6](https://doi.org/10.1038/s41598-026-59569-6) |
 | 3 | [Discovery of novel anti-Toxoplasma gondii agent derived from thiazolidinone-isatin hybrids: synthesis, biological assessment, and computational modeling.](https://pubmed.ncbi.nlm.nih.gov/42444701/) | RSC advances | Toxoplasma | [10.1039/d6ra04647a](https://doi.org/10.1039/d6ra04647a) |
-| 4 | [Helminth-infected Mozambican children with malaria have increased anaemia, cytokines and helminth-specific antibodies.](https://pubmed.ncbi.nlm.nih.gov/42441634/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014485](https://doi.org/10.1371/journal.pntd.0014485) |
-
-## 2026-07-12
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Recent SARS-CoV-2 infections and increased antibody responses to viral antigens are associated with greater autoantibody reactivity.](https://pubmed.ncbi.nlm.nih.gov/42437598/) | Immunology letters | Toxoplasma | [10.1016/j.imlet.2026.107212](https://doi.org/10.1016/j.imlet.2026.107212) |
 
 ## 2026-06-15
 
