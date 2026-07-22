@@ -1,8 +1,23 @@
-# PubMed Research Feed — 2026-07-21 02:22:44 +0000
+# PubMed Research Feed — 2026-07-22 02:21:13 +0000
 
-共 **36** 篇文章（Plasmodium 24 · Toxoplasma 10 · Malaria parasite 8）
+共 **34** 篇文章（Plasmodium 24 · Toxoplasma 9 · Malaria parasite 8）
 
 ---
+
+## 2026-07-21
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [VAMP3 vesicles support host protein recruitment and Plasmodium liver stage development.](https://pubmed.ncbi.nlm.nih.gov/42478859/) | mBio | Plasmodium | [10.1128/mbio.01430-26](https://doi.org/10.1128/mbio.01430-26) |
+
+## 2026-07-20
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].](https://pubmed.ncbi.nlm.nih.gov/42476260/) | Gynecologie, obstetrique, fertilite & senologie | Toxoplasma | [10.1016/j.gofs.2026.07.003](https://doi.org/10.1016/j.gofs.2026.07.003) |
+| 2 | [A Novel Plasmodium berghei Protein, LSMP, Regulates Malaria Liver Stage Maturation.](https://pubmed.ncbi.nlm.nih.gov/42478140/) | Molecular microbiology | Plasmodium · Malaria parasite | [10.1111/mmi.70097](https://doi.org/10.1111/mmi.70097) |
+| 3 | [Lumefantrine quantification on pre-treated filter paper dried blood spots for clinical field trials.](https://pubmed.ncbi.nlm.nih.gov/42477677/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06048-y](https://doi.org/10.1186/s12936-026-06048-y) |
+| 4 | [Validation of a Semi-Quantitative Real-Time PCR Assay for Malaria Diagnosis and Treatment Monitoring.](https://pubmed.ncbi.nlm.nih.gov/42476499/) | The Journal of molecular diagnostics : JMD | Plasmodium | [10.1016/j.jmoldx.2026.06.005](https://doi.org/10.1016/j.jmoldx.2026.06.005) |
 
 ## 2026-07-19
 
@@ -24,9 +39,9 @@
 | 1 | [Azithromycin versus azithromycin-pyrimethamine and sulfadiazine-pyrimethamine for the treatment of ocular toxoplasmosis: a retrospective comparative case-series.](https://pubmed.ncbi.nlm.nih.gov/42469436/) | Eye (London, England) | Toxoplasma | [10.1038/s41433-026-04685-w](https://doi.org/10.1038/s41433-026-04685-w) |
 | 2 | [Therapeutic efficacy of artemether-lumefantrine plus single low dose primaquine for the treatment of uncomplicated Plasmodium falciparum malaria in a high transmission setting, Western Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42467750/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0335833](https://doi.org/10.1371/journal.pone.0335833) |
 | 3 | [Repurposing the proton pump inhibitor "Rabeprazole sodium" in the treatment of acute experimental murine toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42468661/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108242](https://doi.org/10.1016/j.actatropica.2026.108242) |
-| 4 | [Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42472236/) | Clinical medicine insights. Case reports | Plasmodium | [10.1177/11795476261470653](https://doi.org/10.1177/11795476261470653) |
-| 5 | [Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.](https://pubmed.ncbi.nlm.nih.gov/42466832/) | Medical and veterinary entomology | Plasmodium · Malaria parasite | [10.1111/mve.70098](https://doi.org/10.1111/mve.70098) |
-| 6 | [Structural dissection of apicomplexan gliding motility.](https://pubmed.ncbi.nlm.nih.gov/42468207/) | Current opinion in structural biology | Toxoplasma | [10.1016/j.sbi.2026.103336](https://doi.org/10.1016/j.sbi.2026.103336) |
+| 4 | [Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.](https://pubmed.ncbi.nlm.nih.gov/42466832/) | Medical and veterinary entomology | Plasmodium · Malaria parasite | [10.1111/mve.70098](https://doi.org/10.1111/mve.70098) |
+| 5 | [Structural dissection of apicomplexan gliding motility.](https://pubmed.ncbi.nlm.nih.gov/42468207/) | Current opinion in structural biology | Toxoplasma | [10.1016/j.sbi.2026.103336](https://doi.org/10.1016/j.sbi.2026.103336) |
+| 6 | [Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42472236/) | Clinical medicine insights. Case reports | Plasmodium | [10.1177/11795476261470653](https://doi.org/10.1177/11795476261470653) |
 | 7 | [Autoreactive and parasite-specific IgG repertoires in asymptomatic and mild Plasmodium falciparum infection in Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42469879/) | Parasites & vectors | Plasmodium | [10.1186/s13071-026-07508-9](https://doi.org/10.1186/s13071-026-07508-9) |
 | 8 | [Metabolomics reveals potentiated metabolic perturbations induced by antimalarial drug combinations against Plasmodium falciparum in vitro.](https://pubmed.ncbi.nlm.nih.gov/42468680/) | Experimental parasitology | Plasmodium | [10.1016/j.exppara.2026.109171](https://doi.org/10.1016/j.exppara.2026.109171) |
 | 9 | [Mangiferin in combination with primaquine reduces disease progression and transmission potential while alleviating cerebral pathology through suppression of neural cell apoptosis in experimental cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42467294/) | Inflammopharmacology | Plasmodium | [10.1007/s10787-026-02330-2](https://doi.org/10.1007/s10787-026-02330-2) |
@@ -60,18 +75,6 @@
 |---|------|------|------|-----|
 | 1 | [Anti-Toxoplasma gondii activity of two novel synthetic compounds based on pyridine, benzimidazole and benzoxazole scaffolds in human maternal-fetal interface models.](https://pubmed.ncbi.nlm.nih.gov/42448064/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108705](https://doi.org/10.1016/j.micpath.2026.108705) |
 | 2 | [Interference of phototherapy with blue LED light on the behaviour of mice infected with Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42447104/) | PloS one | Toxoplasma | [10.1371/journal.pone.0353740](https://doi.org/10.1371/journal.pone.0353740) |
-| 3 | [Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.](https://pubmed.ncbi.nlm.nih.gov/42447146/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0006693](https://doi.org/10.1371/journal.pgph.0006693) |
-| 4 | [Bradykinin contributes to vasogenic edema in murine experimental cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42446942/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI202285](https://doi.org/10.1172/JCI202285) |
-| 5 | [Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.](https://pubmed.ncbi.nlm.nih.gov/42446379/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag344](https://doi.org/10.1093/infdis/jiag344) |
-| 6 | [A natural experiment in Kenya reveals durable immunosuppressive effects of early childhood malaria: a longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42444449/) | eLife | Plasmodium | [10.7554/eLife.107820](https://doi.org/10.7554/eLife.107820) |
-
-## 2026-07-13
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [[Characterization of immune reconstitution inflammatory syndrome in a Mexican cohort].](https://pubmed.ncbi.nlm.nih.gov/42447272/) | Revista medica del Instituto Mexicano del Seguro Social | Toxoplasma | [10.5281/zenodo.19076187](https://doi.org/10.5281/zenodo.19076187) |
-| 2 | [Identification of a sequence element regulating H3K9 methylation at the ap2-g locus in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42443261/) | Scientific reports | Malaria parasite | [10.1038/s41598-026-59569-6](https://doi.org/10.1038/s41598-026-59569-6) |
-| 3 | [Discovery of novel anti-Toxoplasma gondii agent derived from thiazolidinone-isatin hybrids: synthesis, biological assessment, and computational modeling.](https://pubmed.ncbi.nlm.nih.gov/42444701/) | RSC advances | Toxoplasma | [10.1039/d6ra04647a](https://doi.org/10.1039/d6ra04647a) |
 
 ## 2026-06-15
 

@@ -1,5 +1,134 @@
-window.researchLastUpdated = "2026-07-21 02:22:44 +0000";
+window.researchLastUpdated = "2026-07-22 02:21:13 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42478859",
+    "title": "VAMP3 vesicles support host protein recruitment and Plasmodium liver stage development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478859/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 26.4,
+    "score": 100,
+    "journal": "mBio",
+    "pubDate": "2026-07-21",
+    "authors": [
+      "Chirgwin ME",
+      "Gan C",
+      "Godinez-Macias KP",
+      "Choe K",
+      "Shiau JC",
+      "Calla J"
+    ],
+    "pmid": "42478859",
+    "doi": "10.1128/mbio.01430-26",
+    "why": "UNLABELLED: Plasmodium remodels the host liver cell as an obligatory step in malaria infection. Although several host proteins are recruited to the parasitophorous vacuole membrane (PVM) after invasion, the mechanisms underlying this acquisition remain unknown. Here, we validated the upregulation and recruitment of the host protein CGA during liver stage Plasmodium berghei infection. We then depleted a panel of host trafficking proteins to investigate..."
+  },
+  {
+    "id": "pubmed-42476260",
+    "title": "[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476260/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.4,
+    "score": 100,
+    "journal": "Gynecologie, obstetrique, fertilite & senologie",
+    "pubDate": "2026-07-20",
+    "authors": [
+      "Caudoux J",
+      "Arlicot C",
+      "Becmeur-Lefebvre M",
+      "Langendonck NV",
+      "Perrotin F"
+    ],
+    "pmid": "42476260",
+    "doi": "10.1016/j.gofs.2026.07.003",
+    "why": "PubMed 暂无摘要。"
+  },
+  {
+    "id": "pubmed-42478140",
+    "title": "A Novel Plasmodium berghei Protein, LSMP, Regulates Malaria Liver Stage Maturation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478140/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.4,
+    "score": 100,
+    "journal": "Molecular microbiology",
+    "pubDate": "2026-07-20",
+    "authors": [
+      "Nandi R",
+      "Mishra A",
+      "Ali S",
+      "Mishra S"
+    ],
+    "pmid": "42478140",
+    "doi": "10.1111/mmi.70097",
+    "why": "Malaria parasites undergo extensive replication in hepatocytes before initiating the pathogenic blood stage of infection. Although this clinically silent phase is essential for parasite expansion, the molecular mechanisms regulating late liver stage maturation remain incompletely understood. Here, we characterize a previously unannotated protein (PBANKA_0620800), which we designate liver stage maturation protein (LSMP). LSMP was expressed during schizont..."
+  },
+  {
+    "id": "pubmed-42477677",
+    "title": "Lumefantrine quantification on pre-treated filter paper dried blood spots for clinical field trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477677/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.4,
+    "score": 96,
+    "journal": "Malaria journal",
+    "pubDate": "2026-07-20",
+    "authors": [
+      "Blessborn D",
+      "Kaewkhao N",
+      "Tarning J"
+    ],
+    "pmid": "42477677",
+    "doi": "10.1186/s12936-026-06048-y",
+    "why": "Artemether-lumefantrine is the most widely used antimalarial treatment for uncomplicated Plasmodium falciparum malaria. Malaria predominantly affects populations in rural areas of tropical and subtropical regions. Drug resistance is a growing concern, and monitoring antimalarial efficacy remains crucial for detecting changes in treatment performance and tracking potential resistance trends. In this study, we present an efficient method for collecting..."
+  },
+  {
+    "id": "pubmed-42476499",
+    "title": "Validation of a Semi-Quantitative Real-Time PCR Assay for Malaria Diagnosis and Treatment Monitoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476499/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.4,
+    "score": 94,
+    "journal": "The Journal of molecular diagnostics : JMD",
+    "pubDate": "2026-07-20",
+    "authors": [
+      "Lima A",
+      "Gonzalez-Ferrer S",
+      "Kwon S",
+      "Garner OB",
+      "Yang S"
+    ],
+    "pmid": "42476499",
+    "doi": "10.1016/j.jmoldx.2026.06.005",
+    "why": "Microscopic examination of blood smears is the current gold standard for laboratory confirmation of malaria. However, it is time consuming and lacks sensitivity while requiring highly skilled laboratory professionals. We validated a multiplex real-time PCR test for the detection, speciation, and semi-quantification of Plasmodium species in whole blood. Analytical results showed the assays were highly specific and sensitive with a PCR efficiency of 100.21%..."
+  },
   {
     "id": "pubmed-42473197",
     "title": "Divergent Autophagy Pathways in Plasmodium: Mechanisms, Functions, and Therapeutic Potential.",
@@ -11,8 +140,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.4,
-    "score": 100,
+    "ageHours": 74.4,
+    "score": 92,
     "journal": "Molecular microbiology",
     "pubDate": "2026-07-19",
     "authors": [
@@ -38,8 +167,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.4,
-    "score": 96,
+    "ageHours": 98.4,
+    "score": 88,
     "journal": "Antiviral research",
     "pubDate": "2026-07-18",
     "authors": [
@@ -62,8 +191,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.4,
-    "score": 94,
+    "ageHours": 98.4,
+    "score": 86,
     "journal": "EcoHealth",
     "pubDate": "2026-07-18",
     "authors": [
@@ -84,8 +213,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 100,
+    "ageHours": 122.4,
+    "score": 98,
     "journal": "Eye (London, England)",
     "pubDate": "2026-07-17",
     "authors": [
@@ -111,8 +240,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 100,
+    "ageHours": 122.4,
+    "score": 98,
     "journal": "PloS one",
     "pubDate": "2026-07-17",
     "authors": [
@@ -138,8 +267,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 98,
+    "ageHours": 122.4,
+    "score": 96,
     "journal": "Acta tropica",
     "pubDate": "2026-07-17",
     "authors": [
@@ -154,31 +283,6 @@ window.researchItems = [
     "why": "Toxoplasmosis is a major health concern with serious consequences in immunocompromised patients and pregnant women. The currently available anti-Toxoplasma therapies have significant limitations including toxicity and emerging resistance. Therefore, there is an urgent need for safe and effective alternative drugs. Repurposing of proton pump inhibitors (PPI) represents a promising strategy because of their reported anti parasitic activities. This study..."
   },
   {
-    "id": "pubmed-42472236",
-    "title": "Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42472236/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 98,
-    "journal": "Clinical medicine insights. Case reports",
-    "pubDate": "2026-07-17",
-    "authors": [
-      "Abate AB",
-      "Abera MB",
-      "Abera BB",
-      "Gemeda YT"
-    ],
-    "pmid": "42472236",
-    "doi": "10.1177/11795476261470653",
-    "why": "INTRODUCTION: Splenic complications of Plasmodium falciparum malaria are rare but potentially life-threatening. While splenic rupture is more commonly reported, high-grade splenic injury with associated vascular compromise and infarction is less well-described and may present diagnostic and management challenges. CASE PRESENTATION: A 32-year-old male presented with a three-day history of high-grade fever, chills, and progressive abdominal symptoms..."
-  },
-  {
     "id": "pubmed-42466832",
     "title": "Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42466832/",
@@ -190,8 +294,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 98,
+    "ageHours": 122.4,
+    "score": 96,
     "journal": "Medical and veterinary entomology",
     "pubDate": "2026-07-17",
     "authors": [
@@ -216,8 +320,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 96,
+    "ageHours": 122.4,
+    "score": 94,
     "journal": "Current opinion in structural biology",
     "pubDate": "2026-07-17",
     "authors": [
@@ -227,6 +331,31 @@ window.researchItems = [
     "pmid": "42468207",
     "doi": "10.1016/j.sbi.2026.103336",
     "why": "Malaria, toxoplasmosis, and cryptosporidiosis are caused by apicomplexan parasites, which invade host cells through gliding motility. A fundamental paradox defines this system: how do parasites achieve efficient gliding using the most unstable actin filaments known in eukaryotes? Recent structural advances have begun to resolve this question by revealing spatial mechanisms that compensate for this instability. Cryo-electron microscopy demonstrated how..."
+  },
+  {
+    "id": "pubmed-42472236",
+    "title": "Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472236/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 122.4,
+    "score": 90,
+    "journal": "Clinical medicine insights. Case reports",
+    "pubDate": "2026-07-17",
+    "authors": [
+      "Abate AB",
+      "Abera MB",
+      "Abera BB",
+      "Gemeda YT"
+    ],
+    "pmid": "42472236",
+    "doi": "10.1177/11795476261470653",
+    "why": "INTRODUCTION: Splenic complications of Plasmodium falciparum malaria are rare but potentially life-threatening. While splenic rupture is more commonly reported, high-grade splenic injury with associated vascular compromise and infarction is less well-described and may present diagnostic and management challenges. CASE PRESENTATION: A 32-year-old male presented with a three-day history of high-grade fever, chills, and progressive abdominal symptoms..."
   },
   {
     "id": "pubmed-42469879",
@@ -239,8 +368,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 92,
+    "ageHours": 122.4,
+    "score": 84,
     "journal": "Parasites & vectors",
     "pubDate": "2026-07-17",
     "authors": [
@@ -266,8 +395,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 90,
+    "ageHours": 122.4,
+    "score": 82,
     "journal": "Experimental parasitology",
     "pubDate": "2026-07-17",
     "authors": [
@@ -291,8 +420,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 86,
+    "ageHours": 122.4,
+    "score": 78,
     "journal": "Inflammopharmacology",
     "pubDate": "2026-07-17",
     "authors": [
@@ -318,8 +447,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 82,
+    "ageHours": 122.4,
+    "score": 74,
     "journal": "The American journal of case reports",
     "pubDate": "2026-07-17",
     "authors": [
@@ -345,8 +474,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 80,
+    "ageHours": 122.4,
+    "score": 72,
     "journal": "BMC public health",
     "pubDate": "2026-07-17",
     "authors": [
@@ -372,8 +501,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.4,
-    "score": 76,
+    "ageHours": 122.4,
+    "score": 68,
     "journal": "Scientific reports",
     "pubDate": "2026-07-17",
     "authors": [
@@ -400,8 +529,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.4,
-    "score": 96,
+    "ageHours": 146.4,
+    "score": 94,
     "journal": "Communications biology",
     "pubDate": "2026-07-16",
     "authors": [
@@ -425,8 +554,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.4,
-    "score": 94,
+    "ageHours": 146.4,
+    "score": 92,
     "journal": "Parasitology research",
     "pubDate": "2026-07-16",
     "authors": [
@@ -451,8 +580,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.4,
-    "score": 74,
+    "ageHours": 146.4,
+    "score": 66,
     "journal": "The Lancet. Infectious diseases",
     "pubDate": "2026-07-16",
     "authors": [
@@ -478,8 +607,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.4,
-    "score": 72,
+    "ageHours": 146.4,
+    "score": 64,
     "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
     "pubDate": "2026-07-16",
     "authors": [
@@ -502,8 +631,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 94,
+    "ageHours": 170.4,
+    "score": 92,
     "journal": "BMC microbiology",
     "pubDate": "2026-07-15",
     "authors": [
@@ -529,8 +658,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 92,
+    "ageHours": 170.4,
+    "score": 90,
     "journal": "Tropical animal health and production",
     "pubDate": "2026-07-15",
     "authors": [
@@ -553,8 +682,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 92,
+    "ageHours": 170.4,
+    "score": 90,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-07-15",
     "authors": [
@@ -581,8 +710,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 90,
+    "ageHours": 170.4,
+    "score": 88,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-07-15",
     "authors": [
@@ -606,8 +735,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 70,
+    "ageHours": 170.4,
+    "score": 62,
     "journal": "Infectious agents and cancer",
     "pubDate": "2026-07-15",
     "authors": [
@@ -628,8 +757,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.4,
-    "score": 62,
+    "ageHours": 170.4,
+    "score": 54,
     "journal": "The Journal of clinical investigation",
     "pubDate": "2026-07-15",
     "authors": [
@@ -650,8 +779,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.4,
-    "score": 90,
+    "ageHours": 194.4,
+    "score": 88,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-07-14",
     "authors": [
@@ -677,7 +806,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.4,
+    "ageHours": 194.4,
     "score": 86,
     "journal": "PloS one",
     "pubDate": "2026-07-14",
@@ -694,187 +823,6 @@ window.researchItems = [
     "why": "Toxoplasma gondii is an intracellular protozoan capable of promoting physiological and behavioural changes in hosts. When female mammals acquire T. gondii for the first time during pregnancy, Congenital Toxoplasmosis (CT) can occur, posing a significant risk to the foetus. Due to challenges in diagnosing and treating CT, a new blue LED light therapy (BLLT) was proposed to eliminate parasites during placenta and tissue invasion in mice; however, its..."
   },
   {
-    "id": "pubmed-42447146",
-    "title": "Identifying age-common and age-specific factors of Plasmodium infection in Nigerian children under five: Application of a cluster-aware multistage selection framework to the 2018 Nigeria Demographic and Health Survey.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447146/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.4,
-    "score": 60,
-    "journal": "PLOS global public health",
-    "pubDate": "2026-07-14",
-    "authors": [
-      "Choi W",
-      "Kang Y",
-      "Yeom J"
-    ],
-    "pmid": "42447146",
-    "doi": "10.1371/journal.pgph.0006693",
-    "why": "Despite developmental heterogeneity, children under five are often analyzed as a single group, obscuring age-related differences in Plasmodium infection. Using the 2018 Nigeria Demographic and Health Survey data, we analyzed 2,914 younger children (6-23.9 months) and 5,553 older children (24-59 months) to identify age-common and age-specific factors. We applied a Cluster-aware Multistage Selection (CMS) framework integrating penalized regression..."
-  },
-  {
-    "id": "pubmed-42446942",
-    "title": "Bradykinin contributes to vasogenic edema in murine experimental cerebral malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42446942/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.4,
-    "score": 58,
-    "journal": "The Journal of clinical investigation",
-    "pubDate": "2026-07-14",
-    "authors": [
-      "de Sa Pinheiro AS",
-      "Teixeira DE",
-      "Silva-Aguiar RP",
-      "Shim YJ",
-      "Merkulova AA",
-      "Silbak S"
-    ],
-    "pmid": "42446942",
-    "doi": "10.1172/JCI202285",
-    "why": "Cerebral malaria (CM) from Plasmodium falciparum is a major cause of death in African children. Since bradykinin (BK) is a mediator of vasogenic edema, we hypothesized that it contributes to the pathogenesis of CM in Kenyan children and Plasmodium berghei ANKA (PbA) infected C57BL/6J mice in experimental cerebral malaria (ECM). Cleaved plasma high molecular weight kininogen (cHK) is a marker for BK release. 40% of children with central nervous system..."
-  },
-  {
-    "id": "pubmed-42446379",
-    "title": "Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42446379/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.4,
-    "score": 56,
-    "journal": "The Journal of infectious diseases",
-    "pubDate": "2026-07-14",
-    "authors": [
-      "Ding H",
-      "Lloyd Williams OH",
-      "Saeed M",
-      "Hasang W",
-      "Wines BD",
-      "Lopez-Perez M"
-    ],
-    "pmid": "42446379",
-    "doi": "10.1093/infdis/jiag344",
-    "why": "BACKGROUND: Antibody Fc regions have important roles in clearance of Plasmodium falciparum-infected erythrocytes. One such role is engagement with Fcγ receptors on host leukocytes. In the case of FcγRIIIa and b, this interaction is greatly enhanced when the IgG glycan is afucosylated. METHODS: In this study, we used a fucose-sensitive enzyme-linked immunosorbent assay (FEASI) to assess afucosylation in IgG specific for placental malaria protein VAR2CSA..."
-  },
-  {
-    "id": "pubmed-42444449",
-    "title": "A natural experiment in Kenya reveals durable immunosuppressive effects of early childhood malaria: a longitudinal cohort study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42444449/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 170.4,
-    "score": 54,
-    "journal": "eLife",
-    "pubDate": "2026-07-14",
-    "authors": [
-      "Safari MS",
-      "Makori TO",
-      "Gicheru ET",
-      "Mburu MW",
-      "Nyawa OK",
-      "Shee FM"
-    ],
-    "pmid": "42444449",
-    "doi": "10.7554/eLife.107820",
-    "why": "BACKGROUND: Chronic malaria exposure has been proposed to modulate immune function, but its long-term effects on antibody-mediated responses to unrelated pathogens remain poorly defined. Whether these effects persist beyond periods of active infection and how early-life exposure shapes humoral immunity over time is not well understood. METHODS: We leveraged a natural experiment in coastal Kenya - where two regions (Junju and Ngerenya) diverged sharply in..."
-  },
-  {
-    "id": "pubmed-42447272",
-    "title": "[Characterization of immune reconstitution inflammatory syndrome in a Mexican cohort].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447272/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.4,
-    "score": 88,
-    "journal": "Revista medica del Instituto Mexicano del Seguro Social",
-    "pubDate": "2026-07-13",
-    "authors": [
-      "Palma-Díaz EJ",
-      "Albarrán-Sánchez A",
-      "Noyola-García ME",
-      "Pérez-Pedraza EE"
-    ],
-    "pmid": "42447272",
-    "doi": "10.5281/zenodo.19076187",
-    "why": "BACKGROUND: Immune reconstitution inflammatory syndrome (IRIS) is an exaggerated inflammatory response to previously acquired opportunistic pathogens, causing clinical deterioration in the first months after starting antiretroviral therapy, contributing to morbidity and mortality in people living with HIV (PLHIV). In Mexico, data are limited, but IRIS has been reported in 11.4 - 27% of patients, with Varicella zoster as the most frequently associated..."
-  },
-  {
-    "id": "pubmed-42443261",
-    "title": "Identification of a sequence element regulating H3K9 methylation at the ap2-g locus in Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42443261/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.4,
-    "score": 88,
-    "journal": "Scientific reports",
-    "pubDate": "2026-07-13",
-    "authors": [
-      "Nakashima M",
-      "Iwanaga S",
-      "Mori T"
-    ],
-    "pmid": "42443261",
-    "doi": "10.1038/s41598-026-59569-6",
-    "why": "Plasmodium falciparum, the causative agent of malaria, undergoes a critical cell fate switch during the erythrocytic stage, when a subset of parasites exits asexual replication and differentiates into gametocytes-the forms required for transmission. This conversion is controlled by the transcription factor AP2-G, whose expression is normally repressed by H3K9me3 marked heterochromatin. The mechanism by which this silenced state is abolished has remained..."
-  },
-  {
-    "id": "pubmed-42444701",
-    "title": "Discovery of novel anti-Toxoplasma gondii agent derived from thiazolidinone-isatin hybrids: synthesis, biological assessment, and computational modeling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42444701/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.4,
-    "score": 84,
-    "journal": "RSC advances",
-    "pubDate": "2026-07-13",
-    "authors": [
-      "Sabt A",
-      "Furlan V",
-      "Srour AM",
-      "Chyb M",
-      "Farag H",
-      "Saleh A"
-    ],
-    "pmid": "42444701",
-    "doi": "10.1039/d6ra04647a",
-    "why": "Toxoplasmosis is a globally prevalent parasitic infection that disproportionately impacts immunocompromised individuals and remains a significant public health challenge. The limitations of current standard-of-care therapies, marked by severe adverse effects and an inability to eradicate persistent cysts, necessitate the urgent development of novel, safer, and more efficacious anti-Toxoplasma agents. Employing a rational molecular hybridization strategy..."
-  },
-  {
     "id": "pubmed-42295148",
     "title": "Fetal and neonatal demise in zoonotic diseases: pathology and pathogenesis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42295148/",
@@ -885,8 +833,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 866.4,
-    "score": 82,
+    "ageHours": 890.4,
+    "score": 84,
     "journal": "Infection and immunity",
     "pubDate": "2026-06-15",
     "authors": [
@@ -912,7 +860,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 914.4,
+    "ageHours": 938.4,
     "score": 86,
     "journal": "ACS chemical biology",
     "pubDate": "2026-06-13",
