@@ -1,16 +1,27 @@
-# PubMed Research Feed — 2026-07-24 02:23:32 +0000
+# PubMed Research Feed — 2026-07-25 02:22:13 +0000
 
-共 **36** 篇文章（Toxoplasma 10 · Plasmodium 25 · Malaria parasite 6）
+共 **39** 篇文章（Toxoplasma 12 · Plasmodium 25 · Malaria parasite 6）
 
 ---
+
+## 2026-07-24
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42497226/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014451](https://doi.org/10.1371/journal.ppat.1014451) |
+| 2 | [Plasmodium vivax and Plasmodium falciparum mixed infections in human and mosquito hosts: The impact of multi-species infection on parasite densities and transmission to mosquitoes.](https://pubmed.ncbi.nlm.nih.gov/42497242/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014148](https://doi.org/10.1371/journal.pntd.0014148) |
+| 3 | [Antimalarial cytoskeletal targeting with broad apicomplexan activity.](https://pubmed.ncbi.nlm.nih.gov/42497201/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2608709123](https://doi.org/10.1073/pnas.2608709123) |
+| 4 | [Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.](https://pubmed.ncbi.nlm.nih.gov/42496817/) | EcoHealth | Toxoplasma | [10.1007/s10393-026-01811-8](https://doi.org/10.1007/s10393-026-01811-8) |
+| 5 | [Morphological and molecular analysis of Myxobolus malabaricus n. sp. (Myxosporea: Myxozoa) parasitizing Hoplias malabaricus in Amazon basin.](https://pubmed.ncbi.nlm.nih.gov/42496755/) | Acta parasitologica | Plasmodium | [10.1007/s11686-026-01354-6](https://doi.org/10.1007/s11686-026-01354-6) |
 
 ## 2026-07-23
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Expression of Concern: Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.](https://pubmed.ncbi.nlm.nih.gov/42490552/) | PloS one | Toxoplasma · Plasmodium | [10.1371/journal.pone.0354414](https://doi.org/10.1371/journal.pone.0354414) |
-| 2 | [Chemoselective derivatization of the potent antimalarial fungal metabolite 9-methoxystrobilurin G.](https://pubmed.ncbi.nlm.nih.gov/42490352/) | Organic & biomolecular chemistry | Plasmodium | [10.1039/d6ob00960c](https://doi.org/10.1039/d6ob00960c) |
-| 3 | [Metabolic Acidosis and Uremia as Prognostic Markers in Pediatric Patients with Complicated Plasmodium falciparum Malaria Admitted to a Tertiary Care Center.](https://pubmed.ncbi.nlm.nih.gov/42487289/) | Annals of African medicine | Plasmodium | [10.4103/aam.aam_855_25](https://doi.org/10.4103/aam.aam_855_25) |
+| 1 | [Immunogenicity and Protective Efficacy of a Toxoplasma gondii Glycoprotein-Enriched Fraction in Mice.](https://pubmed.ncbi.nlm.nih.gov/42492874/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108245](https://doi.org/10.1016/j.actatropica.2026.108245) |
+| 2 | [Expression of Concern: Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.](https://pubmed.ncbi.nlm.nih.gov/42490552/) | PloS one | Toxoplasma · Plasmodium | [10.1371/journal.pone.0354414](https://doi.org/10.1371/journal.pone.0354414) |
+| 3 | [Chemoselective derivatization of the potent antimalarial fungal metabolite 9-methoxystrobilurin G.](https://pubmed.ncbi.nlm.nih.gov/42490352/) | Organic & biomolecular chemistry | Plasmodium | [10.1039/d6ob00960c](https://doi.org/10.1039/d6ob00960c) |
+| 4 | [Metabolic Acidosis and Uremia as Prognostic Markers in Pediatric Patients with Complicated Plasmodium falciparum Malaria Admitted to a Tertiary Care Center.](https://pubmed.ncbi.nlm.nih.gov/42487289/) | Annals of African medicine | Plasmodium | [10.4103/aam.aam_855_25](https://doi.org/10.4103/aam.aam_855_25) |
 
 ## 2026-07-22
 
@@ -60,8 +71,8 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Therapeutic efficacy of artemether-lumefantrine plus single low dose primaquine for the treatment of uncomplicated Plasmodium falciparum malaria in a high transmission setting, Western Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42467750/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0335833](https://doi.org/10.1371/journal.pone.0335833) |
-| 2 | [Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.](https://pubmed.ncbi.nlm.nih.gov/42466832/) | Medical and veterinary entomology | Plasmodium · Malaria parasite | [10.1111/mve.70098](https://doi.org/10.1111/mve.70098) |
+| 1 | [Therapeutic efficacy of artemether-lumefantrine plus single low dose primaquine for the treatment of uncomplicated Plasmodium falciparum malaria in a high transmission setting, Western Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42467750/) | PloS one | Malaria parasite | [10.1371/journal.pone.0335833](https://doi.org/10.1371/journal.pone.0335833) |
+| 2 | [Transcriptome profiles of Plasmodium vivax and Anopheles dirus (Diptera: Culicidae) genes in sporozoite stage.](https://pubmed.ncbi.nlm.nih.gov/42466832/) | Medical and veterinary entomology | Malaria parasite | [10.1111/mve.70098](https://doi.org/10.1111/mve.70098) |
 | 3 | [The Landscape of Malaria in a Five-Decade Institution in the State of Amazonas: Historical Trends, Scientific Contributions, and Research Priorities.](https://pubmed.ncbi.nlm.nih.gov/42484259/) | Revista da Sociedade Brasileira de Medicina Tropical | Plasmodium | [10.1590/0037-8682-0563-2025](https://doi.org/10.1590/0037-8682-0563-2025) |
 | 4 | [Azithromycin versus azithromycin-pyrimethamine and sulfadiazine-pyrimethamine for the treatment of ocular toxoplasmosis: a retrospective comparative case-series.](https://pubmed.ncbi.nlm.nih.gov/42469436/) | Eye (London, England) | Toxoplasma | [10.1038/s41433-026-04685-w](https://doi.org/10.1038/s41433-026-04685-w) |
 | 5 | [Repurposing the proton pump inhibitor "Rabeprazole sodium" in the treatment of acute experimental murine toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42468661/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108242](https://doi.org/10.1016/j.actatropica.2026.108242) |
@@ -69,15 +80,12 @@
 | 7 | [Spontaneous Splenic Laceration in Plasmodium falciparum Malaria: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42472236/) | Clinical medicine insights. Case reports | Plasmodium | [10.1177/11795476261470653](https://doi.org/10.1177/11795476261470653) |
 | 8 | [Autoreactive and parasite-specific IgG repertoires in asymptomatic and mild Plasmodium falciparum infection in Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42469879/) | Parasites & vectors | Plasmodium | [10.1186/s13071-026-07508-9](https://doi.org/10.1186/s13071-026-07508-9) |
 | 9 | [Metabolomics reveals potentiated metabolic perturbations induced by antimalarial drug combinations against Plasmodium falciparum in vitro.](https://pubmed.ncbi.nlm.nih.gov/42468680/) | Experimental parasitology | Plasmodium | [10.1016/j.exppara.2026.109171](https://doi.org/10.1016/j.exppara.2026.109171) |
-| 10 | [Mangiferin in combination with primaquine reduces disease progression and transmission potential while alleviating cerebral pathology through suppression of neural cell apoptosis in experimental cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42467294/) | Inflammopharmacology | Plasmodium | [10.1007/s10787-026-02330-2](https://doi.org/10.1007/s10787-026-02330-2) |
-| 11 | [Two Cases of Malaria-Associated Acute Respiratory Distress Syndrome and Severe Pulmonary Complications From Plasmodium falciparum in Tanzania.](https://pubmed.ncbi.nlm.nih.gov/42464474/) | The American journal of case reports | Plasmodium | [10.12659/AJCR.951737](https://doi.org/10.12659/AJCR.951737) |
 
-## 2026-07-16
+## 2026-07-06
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Plasmodium chabaudi malaria parasites adjust liver stage development to synchronise egressing blood stages with host daily rhythms.](https://pubmed.ncbi.nlm.nih.gov/42463916/) | Communications biology | Malaria parasite | [10.1038/s42003-026-10641-x](https://doi.org/10.1038/s42003-026-10641-x) |
-| 2 | [Quinolones as anti-Toxoplasma agents: a comprehensive scoping review of in vitro and in vivo efficacy.](https://pubmed.ncbi.nlm.nih.gov/42458149/) | Parasitology research | Toxoplasma | [10.1007/s00436-026-08724-z](https://doi.org/10.1007/s00436-026-08724-z) |
+| 1 | [Repurposing 6‑Anilinopurine Derivatives That Exhibit PfHDAC1 Inhibition and Antimalarial Activity against Asexual and Sexual Stages of Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42495295/) | ACS omega | Plasmodium | [10.1021/acsomega.5c12744](https://doi.org/10.1021/acsomega.5c12744) |
 
 ## 2026-06-13
 
