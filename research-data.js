@@ -1,9 +1,9 @@
-window.researchLastUpdated = "2026-07-26 02:28:15 +0000";
+window.researchLastUpdated = "2026-07-27 02:35:58 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-42500377",
-    "title": "Seroprevalence of Toxoplasma gondii Among Asymptomatic Children Attending Bugando Medical Centre in Mwanza, Tanzania.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42500377/",
+    "id": "pubmed-42501972",
+    "title": "The relationship between congenital infections and autism spectrum disorder: a systematic review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501972/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -11,21 +11,75 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
+    "ageHours": 50.6,
     "score": 100,
-    "journal": "International journal of pediatrics",
+    "journal": "Jornal de pediatria",
+    "pubDate": "2026-07-25",
+    "authors": [
+      "Jung AW",
+      "Supptitz J",
+      "Hummes PN",
+      "Rodrigues RJK",
+      "Nunes ML"
+    ],
+    "pmid": "42501972",
+    "doi": "10.1016/j.jped.2026.101591",
+    "why": "OBJECTIVE: The aim of this systematic review (SR) is to evaluate the relationship between congenital infections (Toxoplasmosis, Cytomegalovirus, Rubella, Herpes simplex type 1 and 2, HIV, Zika, and Syphilis) and the development of Autism Spectrum Disorder (ASD). DATA SOURCE: The authors seek to identify loopholes in the current knowledge about this content and to understand the role of congenital infections in children's neurodevelopment. After the..."
+  },
+  {
+    "id": "pubmed-42501054",
+    "title": "AP2XI-3 is Critical for the Cell Cycle of Toxoplasma to Progress Through the G1 Phase.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501054/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 50.6,
+    "score": 98,
+    "journal": "Molecular microbiology",
+    "pubDate": "2026-07-25",
+    "authors": [
+      "Fan F",
+      "Yin X",
+      "Liu A",
+      "Xue L",
+      "Chen J",
+      "Xu Y"
+    ],
+    "pmid": "42501054",
+    "doi": "10.1111/mmi.70099",
+    "why": "Toxoplasmosis caused by the Apicomplexan parasite Toxoplasma gondii is a significant health threat to immunocompromised individuals and newborns. This parasite has a complex life cycle that is well controlled to achieve optimal transmission and pathogenesis. Acute phase of the disease is caused by rapid proliferation of tachyzoites, which has a highly coordinated and tightly regulated cell cycle to allow parasite propagation. Tachyzoite cell cycle has..."
+  },
+  {
+    "id": "pubmed-42502673",
+    "title": "Isolation and Characterisation of Phage-Displayed scFv Antibodies Targeting PfHSP70 and PfLDH of Plasmodium falciparum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42502673/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 74.6,
+    "score": 100,
+    "journal": "Biochemistry research international",
     "pubDate": "2026-07-24",
     "authors": [
-      "Msanga DR",
-      "Ottaru S",
-      "Ngoya P",
-      "Masoza T",
-      "Kabyemera R",
-      "Morona D"
+      "Gasa NL",
+      "Zuma LK",
+      "Chiliza TE",
+      "Kwezi L",
+      "Luthuli SD",
+      "Pooe OJ"
     ],
-    "pmid": "42500377",
-    "doi": "10.1155/ijpe/3549120",
-    "why": "BACKGROUND: Toxoplasmosis infection affects at least 30% of the human population globally. Transmission primarily occurs through the ingestion of Toxoplasma gondii oocysts. Various studies have documented the seroprevalence of T. gondii among children with neurological manifestations such as autism, epilepsy, and hydrocephalus; however, data on asymptomatic infants remain limited. Therefore, this study is aimed at determining the seroprevalence of T..."
+    "pmid": "42502673",
+    "doi": "10.1155/bri/2190193",
+    "why": "Plasmodium falciparum is the most virulent human malaria parasite and is responsible for numerous deaths annually. The increasing resistance of P. falciparum to antimalarial drugs necessitates the development of improved diagnostic tools for timely malaria detection. Malaria biomarkers such as PfHSP70 and PfLDH are highly valuable for malaria detection because they are essential for parasite survival and are consistently expressed during infection..."
   },
   {
     "id": "pubmed-42497201",
@@ -39,8 +93,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
-    "score": 100,
+    "ageHours": 74.6,
+    "score": 98,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-07-24",
     "authors": [
@@ -56,9 +110,9 @@ window.researchItems = [
     "why": "Malaria is a devastating disease that resulted in an estimated 610,000 deaths in 2024, the majority being children under the age of five. Here, we use KNX-115 to illustrate multistage antiparasitic activity upon targeting the cytoskeletal enzyme Plasmodium falciparum myosin A (PfMyoA). KNX-115 inhibits purified actin-activated ATPase with a potency in the low nanomolar range and >50-fold selectivity against cardiac, skeletal, and smooth muscle myosins..."
   },
   {
-    "id": "pubmed-42497226",
-    "title": "Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42497226/",
+    "id": "pubmed-42500377",
+    "title": "Seroprevalence of Toxoplasma gondii Among Asymptomatic Children Attending Bugando Medical Centre in Mwanza, Tanzania.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500377/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -66,19 +120,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
-    "score": 98,
-    "journal": "PLoS pathogens",
+    "ageHours": 74.6,
+    "score": 96,
+    "journal": "International journal of pediatrics",
     "pubDate": "2026-07-24",
     "authors": [
-      "Arabiotorre A",
-      "Formanowicz M",
-      "Bankaitis VA",
-      "Grabon A"
+      "Msanga DR",
+      "Ottaru S",
+      "Ngoya P",
+      "Masoza T",
+      "Kabyemera R",
+      "Morona D"
     ],
-    "pmid": "42497226",
-    "doi": "10.1371/journal.ppat.1014451",
-    "why": "Phosphoinositide metabolism defines the foundation of a major signaling pathway that is conserved throughout the eukaryotic kingdom. Although the 4-OH phosphorylated phosphoinositides phosphatidylinositol-4-phosphate (PtdIns4P) and phosphatidylinositol-4,5-bisphosphate are each individually required for the viability of all eukaryotic cells studied thus far, their activities in parasite biology are less well understood. Using intracellular tachyzoites of..."
+    "pmid": "42500377",
+    "doi": "10.1155/ijpe/3549120",
+    "why": "BACKGROUND: Toxoplasmosis infection affects at least 30% of the human population globally. Transmission primarily occurs through the ingestion of Toxoplasma gondii oocysts. Various studies have documented the seroprevalence of T. gondii among children with neurological manifestations such as autism, epilepsy, and hydrocephalus; however, data on asymptomatic infants remain limited. Therefore, this study is aimed at determining the seroprevalence of T..."
   },
   {
     "id": "pubmed-42497242",
@@ -91,8 +147,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
-    "score": 98,
+    "ageHours": 74.6,
+    "score": 96,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-07-24",
     "authors": [
@@ -108,6 +164,31 @@ window.researchItems = [
     "why": "In co-endemic regions, mixed Plasmodium vivax (Pv) and Plasmodium falciparum (Pf) infections are commonly reported. How mixed species infections compare to single species infections in terms of parasite densities and transmission to mosquitoes is poorly understood. Parasitemia, gametocytemia, and mosquito infectivity were evaluated among Pv mono-infections (n = 284), Pf mono-infections (n = 150), and mixed-Pv-Pf infections (n = 77) recruited at four..."
   },
   {
+    "id": "pubmed-42497226",
+    "title": "Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497226/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 74.6,
+    "score": 94,
+    "journal": "PLoS pathogens",
+    "pubDate": "2026-07-24",
+    "authors": [
+      "Arabiotorre A",
+      "Formanowicz M",
+      "Bankaitis VA",
+      "Grabon A"
+    ],
+    "pmid": "42497226",
+    "doi": "10.1371/journal.ppat.1014451",
+    "why": "Phosphoinositide metabolism defines the foundation of a major signaling pathway that is conserved throughout the eukaryotic kingdom. Although the 4-OH phosphorylated phosphoinositides phosphatidylinositol-4-phosphate (PtdIns4P) and phosphatidylinositol-4,5-bisphosphate are each individually required for the viability of all eukaryotic cells studied thus far, their activities in parasite biology are less well understood. Using intracellular tachyzoites of..."
+  },
+  {
     "id": "pubmed-42496817",
     "title": "Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42496817/",
@@ -118,8 +199,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
-    "score": 96,
+    "ageHours": 74.6,
+    "score": 92,
     "journal": "EcoHealth",
     "pubDate": "2026-07-24",
     "authors": [
@@ -145,8 +226,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 50.5,
-    "score": 94,
+    "ageHours": 74.6,
+    "score": 92,
     "journal": "Acta parasitologica",
     "pubDate": "2026-07-24",
     "authors": [
@@ -172,8 +253,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 94,
+    "ageHours": 98.6,
+    "score": 90,
     "journal": "Acta tropica",
     "pubDate": "2026-07-23",
     "authors": [
@@ -200,8 +281,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 92,
+    "ageHours": 98.6,
+    "score": 88,
     "journal": "PloS one",
     "pubDate": "2026-07-23",
     "authors": [
@@ -222,8 +303,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 88,
+    "ageHours": 98.6,
+    "score": 86,
     "journal": "Organic & biomolecular chemistry",
     "pubDate": "2026-07-23",
     "authors": [
@@ -249,8 +330,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 86,
+    "ageHours": 98.6,
+    "score": 84,
     "journal": "Annals of African medicine",
     "pubDate": "2026-07-23",
     "authors": [
@@ -275,8 +356,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 56,
+    "ageHours": 98.6,
+    "score": 58,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-07-23",
     "authors": [
@@ -302,8 +383,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 74.5,
-    "score": 54,
+    "ageHours": 98.6,
+    "score": 56,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-07-23",
     "authors": [
@@ -324,8 +405,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.5,
-    "score": 100,
+    "ageHours": 122.6,
+    "score": 98,
     "journal": "Lancet regional health. Americas",
     "pubDate": "2026-07-22",
     "authors": [
@@ -351,8 +432,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.5,
-    "score": 90,
+    "ageHours": 122.6,
+    "score": 86,
     "journal": "Zoonoses and public health",
     "pubDate": "2026-07-22",
     "authors": [
@@ -374,8 +455,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.5,
-    "score": 84,
+    "ageHours": 122.6,
+    "score": 82,
     "journal": "Bioorganic & medicinal chemistry letters",
     "pubDate": "2026-07-22",
     "authors": [
@@ -401,8 +482,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 98.5,
-    "score": 80,
+    "ageHours": 122.6,
+    "score": 78,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-07-22",
     "authors": [
@@ -429,8 +510,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 98,
+    "ageHours": 146.6,
+    "score": 96,
     "journal": "The Journal of biological chemistry",
     "pubDate": "2026-07-21",
     "authors": [
@@ -455,8 +536,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 88,
+    "ageHours": 146.6,
+    "score": 84,
     "journal": "FASEB bioAdvances",
     "pubDate": "2026-07-21",
     "authors": [
@@ -481,8 +562,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 86,
+    "ageHours": 146.6,
+    "score": 82,
     "journal": "Scientific reports",
     "pubDate": "2026-07-21",
     "authors": [
@@ -508,8 +589,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 84,
+    "ageHours": 146.6,
+    "score": 80,
     "journal": "American journal of ophthalmology",
     "pubDate": "2026-07-21",
     "authors": [
@@ -535,8 +616,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 78,
+    "ageHours": 146.6,
+    "score": 76,
     "journal": "BMC medicine",
     "pubDate": "2026-07-21",
     "authors": [
@@ -562,8 +643,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 76,
+    "ageHours": 146.6,
+    "score": 74,
     "journal": "Trends in parasitology",
     "pubDate": "2026-07-21",
     "authors": [
@@ -586,8 +667,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 72,
+    "ageHours": 146.6,
+    "score": 70,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-07-21",
     "authors": [
@@ -613,8 +694,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 122.5,
-    "score": 70,
+    "ageHours": 146.6,
+    "score": 68,
     "journal": "mBio",
     "pubDate": "2026-07-21",
     "authors": [
@@ -641,8 +722,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.5,
-    "score": 96,
+    "ageHours": 170.6,
+    "score": 94,
     "journal": "Molecular microbiology",
     "pubDate": "2026-07-20",
     "authors": [
@@ -656,32 +737,6 @@ window.researchItems = [
     "why": "Malaria parasites undergo extensive replication in hepatocytes before initiating the pathogenic blood stage of infection. Although this clinically silent phase is essential for parasite expansion, the molecular mechanisms regulating late liver stage maturation remain incompletely understood. Here, we characterize a previously unannotated protein (PBANKA_0620800), which we designate liver stage maturation protein (LSMP). LSMP was expressed during schizont..."
   },
   {
-    "id": "pubmed-42476260",
-    "title": "[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42476260/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 146.5,
-    "score": 82,
-    "journal": "Gynecologie, obstetrique, fertilite & senologie",
-    "pubDate": "2026-07-20",
-    "authors": [
-      "Caudoux J",
-      "Arlicot C",
-      "Becmeur-Lefebvre M",
-      "Langendonck NV",
-      "Perrotin F"
-    ],
-    "pmid": "42476260",
-    "doi": "10.1016/j.gofs.2026.07.003",
-    "why": "PubMed 暂无摘要。"
-  },
-  {
     "id": "pubmed-42484170",
     "title": "Preliminary evaluation of the in vitro biological activities of crude wood extracts of Dinizia excelsa Ducke obtained using methanolic, aqueous, acetonitrile, dichloromethane, chloroform, and hexane solvents.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42484170/",
@@ -692,8 +747,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.5,
-    "score": 82,
+    "ageHours": 170.6,
+    "score": 80,
     "journal": "Anais da Academia Brasileira de Ciencias",
     "pubDate": "2026-07-20",
     "authors": [
@@ -709,6 +764,32 @@ window.researchItems = [
     "why": "This study reports an exploratory in vitro screening of the biological potential of Dinizia excelsa Ducke, an Amazonian species and the only representative of its genus. Six wood extracts were prepared using solvents of different polarities and compared regarding their phytochemical profiles and biological activities. The methanolic extract presented the highest yield, followed by aqueous and acetonitrile extracts, which also contained the largest amounts..."
   },
   {
+    "id": "pubmed-42476260",
+    "title": "[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476260/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 170.6,
+    "score": 78,
+    "journal": "Gynecologie, obstetrique, fertilite & senologie",
+    "pubDate": "2026-07-20",
+    "authors": [
+      "Caudoux J",
+      "Arlicot C",
+      "Becmeur-Lefebvre M",
+      "Langendonck NV",
+      "Perrotin F"
+    ],
+    "pmid": "42476260",
+    "doi": "10.1016/j.gofs.2026.07.003",
+    "why": "PubMed 暂无摘要。"
+  },
+  {
     "id": "pubmed-42477677",
     "title": "Lumefantrine quantification on pre-treated filter paper dried blood spots for clinical field trials.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477677/",
@@ -719,8 +800,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.5,
-    "score": 66,
+    "ageHours": 170.6,
+    "score": 64,
     "journal": "Malaria journal",
     "pubDate": "2026-07-20",
     "authors": [
@@ -743,8 +824,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 146.5,
-    "score": 64,
+    "ageHours": 170.6,
+    "score": 62,
     "journal": "The Journal of molecular diagnostics : JMD",
     "pubDate": "2026-07-20",
     "authors": [
@@ -769,8 +850,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 170.5,
-    "score": 62,
+    "ageHours": 194.6,
+    "score": 60,
     "journal": "Molecular microbiology",
     "pubDate": "2026-07-19",
     "authors": [
@@ -786,52 +867,6 @@ window.researchItems = [
     "why": "Autophagy is a highly conserved degradative and recycling pathway essential for maintaining cellular homeostasis. Although its molecular machinery is well characterized in yeast and mammalian systems, it is less studied in the early-diverging apicomplexan parasite Plasmodium, the causative agent of malaria. Plasmodium possesses a reduced yet functional repertoire of autophagy-related (ATG) proteins, suggesting adaptations of this pathway to..."
   },
   {
-    "id": "pubmed-42471045",
-    "title": "Bridging the vaccine gap: Scientific and technological advances for diseases lacking effective vaccines.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42471045/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.5,
-    "score": 60,
-    "journal": "Antiviral research",
-    "pubDate": "2026-07-18",
-    "authors": [
-      "Ikrar T",
-      "Muchsin W",
-      "Sophian A"
-    ],
-    "pmid": "42471045",
-    "doi": "10.1016/j.antiviral.2026.106487",
-    "why": "Despite remarkable achievements in infectious disease control, more than 20 major pathogens responsible for significant global morbidity and mortality remain without licensed, effective vaccines. This so-called 'vaccine gap' disproportionately burdens low- and middle-income countries (LMICs), exacerbating health inequities and threatening global pandemic preparedness. This review comprehensively examines scientific and technological advances that are..."
-  },
-  {
-    "id": "pubmed-42470607",
-    "title": "Landscape Fragmentation Shapes Zoonotic Malaria Spillover Risk During Deforestation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42470607/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 194.5,
-    "score": 58,
-    "journal": "EcoHealth",
-    "pubDate": "2026-07-18",
-    "authors": [
-      "Jeong J"
-    ],
-    "pmid": "42470607",
-    "doi": "10.1007/s10393-026-01814-5",
-    "why": "Zoonotic malaria caused by Plasmodium knowlesi is an emerging threat in Southeast Asia, where deforestation and habitat fragmentation are reshaping human-wildlife-vector interfaces. While deforestation is known to increase ecological overlap among humans, mosquitoes, and macaques, how changes in host communities and landscape structure jointly influence spillover risk remains unclear. Here, deforestation is represented as edge accumulation using the edge..."
-  },
-  {
     "id": "pubmed-42495295",
     "title": "Repurposing 6‑Anilinopurine Derivatives That Exhibit PfHDAC1 Inhibition and Antimalarial Activity against Asexual and Sexual Stages of Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42495295/",
@@ -842,8 +877,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 482.5,
-    "score": 92,
+    "ageHours": 506.6,
+    "score": 90,
     "journal": "ACS omega",
     "pubDate": "2026-07-06",
     "authors": [
