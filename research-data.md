@@ -1,8 +1,19 @@
-# PubMed Research Feed — 2026-07-27 02:35:58 +0000
+# PubMed Research Feed — 2026-07-28 02:10:25 +0000
 
-共 **34** 篇文章（Toxoplasma 12 · Plasmodium 23 · Malaria parasite 4）
+共 **37** 篇文章（Toxoplasma 13 · Plasmodium 25 · Malaria parasite 6）
 
 ---
+
+## 2026-07-27
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Serological evidence of exposure to Besnoitia besnoiti, Neospora caninum, and Toxoplasma gondii in dairy cows from Costa Rica.](https://pubmed.ncbi.nlm.nih.gov/42507040/) | Tropical animal health and production | Toxoplasma | [10.1007/s11250-026-05258-5](https://doi.org/10.1007/s11250-026-05258-5) |
+| 2 | [Early-evening indoor and outdoor foraging by major malaria vectors in Nchelenge, Zambia.](https://pubmed.ncbi.nlm.nih.gov/42507760/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0005307](https://doi.org/10.1371/journal.pgph.0005307) |
+| 3 | [Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1α axis plays a key role in host resistance to Plasmodium infection.](https://pubmed.ncbi.nlm.nih.gov/42506979/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.97759](https://doi.org/10.7554/eLife.97759) |
+| 4 | [Deciphering chromatin architecture and dynamics in Plasmodium falciparum using the nucDetective pipeline.](https://pubmed.ncbi.nlm.nih.gov/42507729/) | PLoS computational biology | Plasmodium | [10.1371/journal.pcbi.1014557](https://doi.org/10.1371/journal.pcbi.1014557) |
+| 5 | [An abundant merozoite surface protein of Plasmodium falciparum modulates susceptibility to inhibitory antibodies.](https://pubmed.ncbi.nlm.nih.gov/42504823/) | eLife | Plasmodium · Malaria parasite | [10.7554/eLife.107603](https://doi.org/10.7554/eLife.107603) |
+| 6 | [Reconstruction of historical malaria transmission in Senegal using multiplex serocatalytic models.](https://pubmed.ncbi.nlm.nih.gov/42507702/) | PLoS computational biology | Plasmodium | [10.1371/journal.pcbi.1013630](https://doi.org/10.1371/journal.pcbi.1013630) |
 
 ## 2026-07-25
 
@@ -16,11 +27,11 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Isolation and Characterisation of Phage-Displayed scFv Antibodies Targeting PfHSP70 and PfLDH of Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42502673/) | Biochemistry research international | Plasmodium · Malaria parasite | [10.1155/bri/2190193](https://doi.org/10.1155/bri/2190193) |
-| 2 | [Antimalarial cytoskeletal targeting with broad apicomplexan activity.](https://pubmed.ncbi.nlm.nih.gov/42497201/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2608709123](https://doi.org/10.1073/pnas.2608709123) |
-| 3 | [Seroprevalence of Toxoplasma gondii Among Asymptomatic Children Attending Bugando Medical Centre in Mwanza, Tanzania.](https://pubmed.ncbi.nlm.nih.gov/42500377/) | International journal of pediatrics | Toxoplasma | [10.1155/ijpe/3549120](https://doi.org/10.1155/ijpe/3549120) |
-| 4 | [Plasmodium vivax and Plasmodium falciparum mixed infections in human and mosquito hosts: The impact of multi-species infection on parasite densities and transmission to mosquitoes.](https://pubmed.ncbi.nlm.nih.gov/42497242/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014148](https://doi.org/10.1371/journal.pntd.0014148) |
-| 5 | [Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42497226/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014451](https://doi.org/10.1371/journal.ppat.1014451) |
-| 6 | [Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.](https://pubmed.ncbi.nlm.nih.gov/42496817/) | EcoHealth | Toxoplasma | [10.1007/s10393-026-01811-8](https://doi.org/10.1007/s10393-026-01811-8) |
+| 2 | [Seroprevalence of Toxoplasma gondii Among Asymptomatic Children Attending Bugando Medical Centre in Mwanza, Tanzania.](https://pubmed.ncbi.nlm.nih.gov/42500377/) | International journal of pediatrics | Toxoplasma | [10.1155/ijpe/3549120](https://doi.org/10.1155/ijpe/3549120) |
+| 3 | [Antimalarial cytoskeletal targeting with broad apicomplexan activity.](https://pubmed.ncbi.nlm.nih.gov/42497201/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2608709123](https://doi.org/10.1073/pnas.2608709123) |
+| 4 | [Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42497226/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014451](https://doi.org/10.1371/journal.ppat.1014451) |
+| 5 | [Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.](https://pubmed.ncbi.nlm.nih.gov/42496817/) | EcoHealth | Toxoplasma | [10.1007/s10393-026-01811-8](https://doi.org/10.1007/s10393-026-01811-8) |
+| 6 | [Plasmodium vivax and Plasmodium falciparum mixed infections in human and mosquito hosts: The impact of multi-species infection on parasite densities and transmission to mosquitoes.](https://pubmed.ncbi.nlm.nih.gov/42497242/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014148](https://doi.org/10.1371/journal.pntd.0014148) |
 | 7 | [Morphological and molecular analysis of Myxobolus malabaricus n. sp. (Myxosporea: Myxozoa) parasitizing Hoplias malabaricus in Amazon basin.](https://pubmed.ncbi.nlm.nih.gov/42496755/) | Acta parasitologica | Plasmodium | [10.1007/s11686-026-01354-6](https://doi.org/10.1007/s11686-026-01354-6) |
 
 ## 2026-07-23
@@ -31,17 +42,16 @@
 | 2 | [Expression of Concern: Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.](https://pubmed.ncbi.nlm.nih.gov/42490552/) | PloS one | Toxoplasma · Plasmodium | [10.1371/journal.pone.0354414](https://doi.org/10.1371/journal.pone.0354414) |
 | 3 | [Chemoselective derivatization of the potent antimalarial fungal metabolite 9-methoxystrobilurin G.](https://pubmed.ncbi.nlm.nih.gov/42490352/) | Organic & biomolecular chemistry | Plasmodium | [10.1039/d6ob00960c](https://doi.org/10.1039/d6ob00960c) |
 | 4 | [Metabolic Acidosis and Uremia as Prognostic Markers in Pediatric Patients with Complicated Plasmodium falciparum Malaria Admitted to a Tertiary Care Center.](https://pubmed.ncbi.nlm.nih.gov/42487289/) | Annals of African medicine | Plasmodium | [10.4103/aam.aam_855_25](https://doi.org/10.4103/aam.aam_855_25) |
-| 5 | [Challenges in Malaria Diagnosis and Treatment in Kinshasa Province, Democratic Republic of the Congo.](https://pubmed.ncbi.nlm.nih.gov/41999285/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Plasmodium | [10.1093/cid/ciag262](https://doi.org/10.1093/cid/ciag262) |
-| 6 | [Artesunate Treatment of Severe Malaria in Nonendemic Countries: When, Where, How, and What Now?](https://pubmed.ncbi.nlm.nih.gov/41955067/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Plasmodium | [10.1093/cid/ciag140](https://doi.org/10.1093/cid/ciag140) |
 
 ## 2026-07-22
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Health-care provider compliance with a revised Plasmodium vivax radical cure algorithm incorporating tafenoquine and quantitative G6PD testing in the Peruvian Amazon: a prospective observational study.](https://pubmed.ncbi.nlm.nih.gov/42500357/) | Lancet regional health. Americas | Plasmodium | [10.1016/j.lana.2026.101568](https://doi.org/10.1016/j.lana.2026.101568) |
-| 2 | [Worldwide Seroprevalence and Risk Factors of Toxoplasma gondii Exposure Among Students: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42487234/) | Zoonoses and public health | Toxoplasma | [10.1111/zph.70080](https://doi.org/10.1111/zph.70080) |
-| 3 | [Conversion of artemisinin into novel unprotected N-alkylamine-11-azaartemisinins with enhanced antimalarial activity.](https://pubmed.ncbi.nlm.nih.gov/42486375/) | Bioorganic & medicinal chemistry letters | Plasmodium | [10.1016/j.bmcl.2026.130742](https://doi.org/10.1016/j.bmcl.2026.130742) |
-| 4 | [Widespread variants of the highly polymorphic Plasmodium falciparum vaccine candidate antigen MSP2 across Sub-Saharan Africa.](https://pubmed.ncbi.nlm.nih.gov/42484022/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag377](https://doi.org/10.1093/infdis/jiag377) |
+| 1 | [Malaria Coinfections Worldwide: An Umbrella Systematic Review of Prevalence and Epidemiological Patterns.](https://pubmed.ncbi.nlm.nih.gov/42506776/) | Tropical medicine and infectious disease | Plasmodium | [10.3390/tropicalmed11070206](https://doi.org/10.3390/tropicalmed11070206) |
+| 2 | [Health-care provider compliance with a revised Plasmodium vivax radical cure algorithm incorporating tafenoquine and quantitative G6PD testing in the Peruvian Amazon: a prospective observational study.](https://pubmed.ncbi.nlm.nih.gov/42500357/) | Lancet regional health. Americas | Plasmodium | [10.1016/j.lana.2026.101568](https://doi.org/10.1016/j.lana.2026.101568) |
+| 3 | [Worldwide Seroprevalence and Risk Factors of Toxoplasma gondii Exposure Among Students: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42487234/) | Zoonoses and public health | Toxoplasma | [10.1111/zph.70080](https://doi.org/10.1111/zph.70080) |
+| 4 | [Conversion of artemisinin into novel unprotected N-alkylamine-11-azaartemisinins with enhanced antimalarial activity.](https://pubmed.ncbi.nlm.nih.gov/42486375/) | Bioorganic & medicinal chemistry letters | Plasmodium | [10.1016/j.bmcl.2026.130742](https://doi.org/10.1016/j.bmcl.2026.130742) |
+| 5 | [Widespread variants of the highly polymorphic Plasmodium falciparum vaccine candidate antigen MSP2 across Sub-Saharan Africa.](https://pubmed.ncbi.nlm.nih.gov/42484022/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag377](https://doi.org/10.1093/infdis/jiag377) |
 
 ## 2026-07-21
 
@@ -61,16 +71,9 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [A Novel Plasmodium berghei Protein, LSMP, Regulates Malaria Liver Stage Maturation.](https://pubmed.ncbi.nlm.nih.gov/42478140/) | Molecular microbiology | Plasmodium · Malaria parasite | [10.1111/mmi.70097](https://doi.org/10.1111/mmi.70097) |
-| 2 | [Preliminary evaluation of the in vitro biological activities of crude wood extracts of Dinizia excelsa Ducke obtained using methanolic, aqueous, acetonitrile, dichloromethane, chloroform, and hexane solvents.](https://pubmed.ncbi.nlm.nih.gov/42484170/) | Anais da Academia Brasileira de Ciencias | Plasmodium | [10.1590/0001-3765202620250725](https://doi.org/10.1590/0001-3765202620250725) |
-| 3 | [[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].](https://pubmed.ncbi.nlm.nih.gov/42476260/) | Gynecologie, obstetrique, fertilite & senologie | Toxoplasma | [10.1016/j.gofs.2026.07.003](https://doi.org/10.1016/j.gofs.2026.07.003) |
+| 2 | [[Severe Congenital Toxoplasmosis in a Previously Immunized Woman: A Case Report].](https://pubmed.ncbi.nlm.nih.gov/42476260/) | Gynecologie, obstetrique, fertilite & senologie | Toxoplasma | [10.1016/j.gofs.2026.07.003](https://doi.org/10.1016/j.gofs.2026.07.003) |
+| 3 | [Preliminary evaluation of the in vitro biological activities of crude wood extracts of Dinizia excelsa Ducke obtained using methanolic, aqueous, acetonitrile, dichloromethane, chloroform, and hexane solvents.](https://pubmed.ncbi.nlm.nih.gov/42484170/) | Anais da Academia Brasileira de Ciencias | Plasmodium | [10.1590/0001-3765202620250725](https://doi.org/10.1590/0001-3765202620250725) |
 | 4 | [Lumefantrine quantification on pre-treated filter paper dried blood spots for clinical field trials.](https://pubmed.ncbi.nlm.nih.gov/42477677/) | Malaria journal | Plasmodium | [10.1186/s12936-026-06048-y](https://doi.org/10.1186/s12936-026-06048-y) |
-| 5 | [Validation of a Semi-Quantitative Real-Time PCR Assay for Malaria Diagnosis and Treatment Monitoring.](https://pubmed.ncbi.nlm.nih.gov/42476499/) | The Journal of molecular diagnostics : JMD | Plasmodium | [10.1016/j.jmoldx.2026.06.005](https://doi.org/10.1016/j.jmoldx.2026.06.005) |
-
-## 2026-07-19
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Divergent Autophagy Pathways in Plasmodium: Mechanisms, Functions, and Therapeutic Potential.](https://pubmed.ncbi.nlm.nih.gov/42473197/) | Molecular microbiology | Plasmodium | [10.1111/mmi.70096](https://doi.org/10.1111/mmi.70096) |
 
 ## 2026-07-06
 
