@@ -1,18 +1,27 @@
-# PubMed Research Feed — 2026-07-31 02:29:22 +0000
+# PubMed Research Feed — 2026-08-01 02:29:27 +0000
 
-共 **41** 篇文章（Toxoplasma 14 · Plasmodium 23 · Malaria parasite 14）
+共 **43** 篇文章（Toxoplasma 15 · Plasmodium 23 · Malaria parasite 14）
 
 ---
+
+## 2026-07-31
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Pathological, microbiological, and molecular characterization of uterine samples in culled sows from farms with a history of reproductive failure in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42536124/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11435-6](https://doi.org/10.1007/s11259-026-11435-6) |
+| 2 | [Resolution of severe autoimmune hemolytic anemia and thrombocytopenia associated with Plasmodium vivax malaria without corticosteroid therapy: A case report.](https://pubmed.ncbi.nlm.nih.gov/42536532/) | Medicine | Plasmodium | [10.1097/MD.0000000000049968](https://doi.org/10.1097/MD.0000000000049968) |
+| 3 | [TgRON3 Links the Moving Junction to Microneme Secretion and Parasite Motility in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42470170/) | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | Toxoplasma | [10.1096/fj.202600838RR](https://doi.org/10.1096/fj.202600838RR) |
 
 ## 2026-07-30
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Targeting Chronic Cerebral Toxoplasmosis in Immunocompromised Hosts: In Vivo Antiparasitic and Immuno-Apoptotic Effects of Phellandrene Combined with Pyrimethamine.](https://pubmed.ncbi.nlm.nih.gov/42529931/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Toxoplasma | [10.1177/15303667261474977](https://doi.org/10.1177/15303667261474977) |
-| 2 | [An orally available PfPKG inhibitor blocks Plasmodium's infection of the liver.](https://pubmed.ncbi.nlm.nih.gov/42531257/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014322](https://doi.org/10.1371/journal.ppat.1014322) |
-| 3 | [Field evaluation of 3-(N-acetyl-n-butyl) aminopropionic acid ethyl ester - IR3535 as a spatial repellent to control malaria: A Randomised, Before-After-Control-Intervention trial.](https://pubmed.ncbi.nlm.nih.gov/42531228/) | PloS one | Plasmodium | [10.1371/journal.pone.0353351](https://doi.org/10.1371/journal.pone.0353351) |
+| 1 | [An orally available PfPKG inhibitor blocks Plasmodium's infection of the liver.](https://pubmed.ncbi.nlm.nih.gov/42531257/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014322](https://doi.org/10.1371/journal.ppat.1014322) |
+| 2 | [Targeting Chronic Cerebral Toxoplasmosis in Immunocompromised Hosts: In Vivo Antiparasitic and Immuno-Apoptotic Effects of Phellandrene Combined with Pyrimethamine.](https://pubmed.ncbi.nlm.nih.gov/42529931/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Toxoplasma | [10.1177/15303667261474977](https://doi.org/10.1177/15303667261474977) |
+| 3 | [Naturally occurring triterpenoids from plants as potential agents against malaria: a review from 1994 to 2025.](https://pubmed.ncbi.nlm.nih.gov/42532326/) | Phytochemistry | Plasmodium | [10.1016/j.phytochem.2026.115043](https://doi.org/10.1016/j.phytochem.2026.115043) |
 | 4 | [Involvement of CD72 in membranoproliferative glomerulonephritis induced by Plasmodium chabaudi AS infection in NC/Jic mice.](https://pubmed.ncbi.nlm.nih.gov/42528225/) | Experimental animals | Plasmodium · Malaria parasite | [10.1538/expanim.26-0062](https://doi.org/10.1538/expanim.26-0062) |
-| 5 | [Efficacy of artemisinin derivatives and kelch13 mutations in Plasmodium falciparum: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42529832/) | Transactions of the Royal Society of Tropical Medicine and Hygiene | Plasmodium | [10.1093/trstmh/trag086](https://doi.org/10.1093/trstmh/trag086) |
+| 5 | [Field evaluation of 3-(N-acetyl-n-butyl) aminopropionic acid ethyl ester - IR3535 as a spatial repellent to control malaria: A Randomised, Before-After-Control-Intervention trial.](https://pubmed.ncbi.nlm.nih.gov/42531228/) | PloS one | Plasmodium | [10.1371/journal.pone.0353351](https://doi.org/10.1371/journal.pone.0353351) |
+| 6 | [Efficacy of artemisinin derivatives and kelch13 mutations in Plasmodium falciparum: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42529832/) | Transactions of the Royal Society of Tropical Medicine and Hygiene | Plasmodium | [10.1093/trstmh/trag086](https://doi.org/10.1093/trstmh/trag086) |
 
 ## 2026-07-29
 
@@ -63,23 +72,21 @@
 | 1 | [Congenital toxoplasmosis in a newborn of a chronically infected mother.](https://pubmed.ncbi.nlm.nih.gov/42525118/) | Revista do Instituto de Medicina Tropical de Sao Paulo | Toxoplasma | [10.1590/S1678-9946202668047](https://doi.org/10.1590/S1678-9946202668047) |
 | 2 | [Seroprevalence of Toxoplasma gondii Among Asymptomatic Children Attending Bugando Medical Centre in Mwanza, Tanzania.](https://pubmed.ncbi.nlm.nih.gov/42500377/) | International journal of pediatrics | Toxoplasma | [10.1155/ijpe/3549120](https://doi.org/10.1155/ijpe/3549120) |
 | 3 | [Phosphatidylinositol-4-phosphate signaling regulates dense granule biogenesis and maturation in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42497226/) | PLoS pathogens | Toxoplasma | [10.1371/journal.ppat.1014451](https://doi.org/10.1371/journal.ppat.1014451) |
-| 4 | [Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.](https://pubmed.ncbi.nlm.nih.gov/42496817/) | EcoHealth | Toxoplasma | [10.1007/s10393-026-01811-8](https://doi.org/10.1007/s10393-026-01811-8) |
-| 5 | [Isolation and Characterisation of Phage-Displayed scFv Antibodies Targeting PfHSP70 and PfLDH of Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42502673/) | Biochemistry research international | Plasmodium · Malaria parasite | [10.1155/bri/2190193](https://doi.org/10.1155/bri/2190193) |
+| 4 | [Isolation and Characterisation of Phage-Displayed scFv Antibodies Targeting PfHSP70 and PfLDH of Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42502673/) | Biochemistry research international | Malaria parasite | [10.1155/bri/2190193](https://doi.org/10.1155/bri/2190193) |
+| 5 | [Serology and PCR for Apicomplexa and SARS-CoV-2 in feral cats from a Brazilian island.](https://pubmed.ncbi.nlm.nih.gov/42496817/) | EcoHealth | Toxoplasma | [10.1007/s10393-026-01811-8](https://doi.org/10.1007/s10393-026-01811-8) |
 | 6 | [Antimalarial cytoskeletal targeting with broad apicomplexan activity.](https://pubmed.ncbi.nlm.nih.gov/42497201/) | Proceedings of the National Academy of Sciences of the United States of America | Malaria parasite | [10.1073/pnas.2608709123](https://doi.org/10.1073/pnas.2608709123) |
-| 7 | [Plasmodium vivax and Plasmodium falciparum mixed infections in human and mosquito hosts: The impact of multi-species infection on parasite densities and transmission to mosquitoes.](https://pubmed.ncbi.nlm.nih.gov/42497242/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014148](https://doi.org/10.1371/journal.pntd.0014148) |
-
-## 2026-07-23
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Immunogenicity and Protective Efficacy of a Toxoplasma gondii Glycoprotein-Enriched Fraction in Mice.](https://pubmed.ncbi.nlm.nih.gov/42492874/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108245](https://doi.org/10.1016/j.actatropica.2026.108245) |
-| 2 | [Expression of Concern: Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.](https://pubmed.ncbi.nlm.nih.gov/42490552/) | PloS one | Toxoplasma | [10.1371/journal.pone.0354414](https://doi.org/10.1371/journal.pone.0354414) |
 
 ## 2026-07-10
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Cell cycle checkpoint activity in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42429611/) | mSphere | Malaria parasite | [10.1128/msphere.00341-26](https://doi.org/10.1128/msphere.00341-26) |
+
+## 2026-07-06
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Imidazopyridine derivatives as promising anti-Toxoplasma gondii agents: in vitro studies, in vivo testing, and molecular modeling analysis.](https://pubmed.ncbi.nlm.nih.gov/42440757/) | RSC advances | Toxoplasma | [10.1039/d6ra04816a](https://doi.org/10.1039/d6ra04816a) |
 
 ## 2026-06-30
 
