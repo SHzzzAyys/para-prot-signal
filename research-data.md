@@ -1,8 +1,14 @@
-# PubMed Research Feed — 2026-08-03 02:29:35 +0000
+# PubMed Research Feed — 2026-08-04 02:08:57 +0000
 
-共 **63** 篇文章（Toxoplasma 24 · Plasmodium 25 · Malaria parasite 22）
+共 **62** 篇文章（Plasmodium 24 · Toxoplasma 24 · Malaria parasite 22）
 
 ---
+
+## 2026-08-03
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Rhoptry biogenesis in Plasmodium sporozoites is uncoupled from mitosis and forms distinct pairs.](https://pubmed.ncbi.nlm.nih.gov/42545314/) | The Journal of cell biology | Plasmodium | [10.1083/jcb.202602062](https://doi.org/10.1083/jcb.202602062) |
 
 ## 2026-08-01
 
@@ -12,8 +18,8 @@
 | 2 | [In silico identification of selective cyclodecapeptide inhibitors targeting Plasmodium falciparum Grp78 chaperone.](https://pubmed.ncbi.nlm.nih.gov/42541611/) | Journal of computer-aided molecular design | Plasmodium | [10.1007/s10822-026-00907-1](https://doi.org/10.1007/s10822-026-00907-1) |
 | 3 | [Effects of COVID-19 Control Policies on Malaria Surveillance: A Comparative Analysis of North and South Korea.](https://pubmed.ncbi.nlm.nih.gov/42494266/) | Yonsei medical journal | Malaria parasite | [10.3349/ymj.2025.0230](https://doi.org/10.3349/ymj.2025.0230) |
 | 4 | [Identification of Quinoline Tethered Thiadiazole/Thiazole Derivatives as Potent Tyrosinase Inhibitors With Promising Anti-Toxoplasma gondii Agents: Design, Synthesis, and Computational Analysis.](https://pubmed.ncbi.nlm.nih.gov/42311211/) | Drug development research | Toxoplasma | [10.1002/ddr.70334](https://doi.org/10.1002/ddr.70334) |
-| 5 | [Detection of Dengue Virus in Aedes aegypti Mosquitoes, Dubai, United Arab Emirates.](https://pubmed.ncbi.nlm.nih.gov/42521495/) | Emerging infectious diseases | Plasmodium | [10.3201/eid3208.260324](https://doi.org/10.3201/eid3208.260324) |
-| 6 | [Doxycycline, Schizophrenia, and Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42121014/) | The American journal of psychiatry | Toxoplasma | [10.1176/appi.ajp.20251231](https://doi.org/10.1176/appi.ajp.20251231) |
+| 5 | [Doxycycline, Schizophrenia, and Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42121014/) | The American journal of psychiatry | Toxoplasma | [10.1176/appi.ajp.20251231](https://doi.org/10.1176/appi.ajp.20251231) |
+| 6 | [Detection of Dengue Virus in Aedes aegypti Mosquitoes, Dubai, United Arab Emirates.](https://pubmed.ncbi.nlm.nih.gov/42521495/) | Emerging infectious diseases | Plasmodium | [10.3201/eid3208.260324](https://doi.org/10.3201/eid3208.260324) |
 
 ## 2026-07-31
 
@@ -67,8 +73,6 @@
 | 3 | [Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1α axis plays a key role in host resistance to Plasmodium infection.](https://pubmed.ncbi.nlm.nih.gov/42506979/) | eLife | Malaria parasite | [10.7554/eLife.97759](https://doi.org/10.7554/eLife.97759) |
 | 4 | [An abundant merozoite surface protein of Plasmodium falciparum modulates susceptibility to inhibitory antibodies.](https://pubmed.ncbi.nlm.nih.gov/42504823/) | eLife | Malaria parasite | [10.7554/eLife.107603](https://doi.org/10.7554/eLife.107603) |
 | 5 | [Early-evening indoor and outdoor foraging by major malaria vectors in Nchelenge, Zambia.](https://pubmed.ncbi.nlm.nih.gov/42507760/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0005307](https://doi.org/10.1371/journal.pgph.0005307) |
-| 6 | [Deciphering chromatin architecture and dynamics in Plasmodium falciparum using the nucDetective pipeline.](https://pubmed.ncbi.nlm.nih.gov/42507729/) | PLoS computational biology | Plasmodium | [10.1371/journal.pcbi.1014557](https://doi.org/10.1371/journal.pcbi.1014557) |
-| 7 | [Reconstruction of historical malaria transmission in Senegal using multiplex serocatalytic models.](https://pubmed.ncbi.nlm.nih.gov/42507702/) | PLoS computational biology | Plasmodium | [10.1371/journal.pcbi.1013630](https://doi.org/10.1371/journal.pcbi.1013630) |
 
 ## 2026-07-24
 
