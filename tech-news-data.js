@@ -1,5 +1,13 @@
-window.techNewsLastUpdated = "2026-08-03 04:05:49 +0000";
+window.techNewsLastUpdated = "2026-08-04 03:48:25 +0000";
 window.techNewsItems = [
+  {
+    "title": "Beast of Reincarnation Review – Turn-Based Meets Action In A Solid Action RPG from Pokémon Studio Game Freak",
+    "link": "https://wccftech.com/review/beast-of-reincarnation-review-turn-based-meets-action-in-one-of-the-years-best-action-rpgs/",
+    "description": "Although Game Freak is primarily known as the developer of the Pokémon series, the Japanese developer has worked on other projects unrelated to the massively popular franchise. None of them became truly successful, as they were relatively minor projects compared to the behemoth that is the Pokémon franchise. As the developer's history outside of the Pokémon franchise is not well known, many were surprised when Beast of Reincarnation was announced back in 2023 as Project Bloom. Although the Japan",
+    "pub_date": "2026-08-04",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
   {
     "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
     "link": "https://arxiv.org/abs/2607.28629",
@@ -147,7 +155,7 @@ window.techNewsItems = [
   {
     "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
     "link": "https://arxiv.org/abs/2607.28894",
-    "description": "arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. Existing approaches typically treat environments as fixed, leaving open the question of which cognitive experiments are most informative for cognition parameter inference. We formulate the design of c",
+    "description": "arXiv:2607.28894v2 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. Existing approaches typically treat environments as fixed, leaving open the question of which cognitive experiments are most informative for cognition parameter inference. We formulate the design of c",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -547,7 +555,7 @@ window.techNewsItems = [
   {
     "title": "SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction",
     "link": "https://arxiv.org/abs/2607.28759",
-    "description": "arXiv:2607.28759v1 Announce Type: cross Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal artifact reduction (MAR) methods remain limited: optimization-based methods may leave residual artifacts or blur structures, regression networks may generalize poorly across scenarios, and generative m",
+    "description": "arXiv:2607.28759v2 Announce Type: cross Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal artifact reduction (MAR) methods remain limited: optimization-based methods may leave residual artifacts or blur structures, regression networks may generalize poorly across scenarios, and generative m",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -995,7 +1003,7 @@ window.techNewsItems = [
   {
     "title": "The persuasive power of large language models does not depend on their perceived national origin",
     "link": "https://arxiv.org/abs/2607.29334",
-    "description": "arXiv:2607.29334v1 Announce Type: cross Abstract: Conversational AI developed by geopolitical rivals reaches citizens worldwide, raising concerns that it could sway public opinion or be rejected as foreign propaganda, with consequences for democratic discourse and information sovereignty. Yet, whether an AI's perceived national origin shapes its persuasive power is unknown. In a preregistered randomized experiment, 403 adults from a nationally representative United States sample held a three-rou",
+    "description": "arXiv:2607.29334v2 Announce Type: cross Abstract: Conversational AI developed by geopolitical rivals reaches citizens worldwide, raising concerns that it could sway public opinion or be rejected as foreign propaganda, with consequences for democratic discourse and information sovereignty. Yet, whether an AI's perceived national origin shapes its persuasive power is unknown. In a preregistered randomized experiment, 403 adults from a nationally representative United States sample held a three-rou",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1387,7 +1395,7 @@ window.techNewsItems = [
   {
     "title": "Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning",
     "link": "https://arxiv.org/abs/2607.22186",
-    "description": "arXiv:2607.22186v2 Announce Type: replace Abstract: Asynchronous reinforcement learning (RL) accelerates large language model (LLM) post-training by overlapping rollout generation with policy optimization, but the resulting stale, off-policy data can destabilize optimization and ultimately cause policy collapse. Existing methods typically retain or discard tokens based solely on the magnitude of their importance ratios, applying the same threshold uniformly across token positions. In this work, ",
+    "description": "arXiv:2607.22186v3 Announce Type: replace Abstract: Asynchronous reinforcement learning (RL) accelerates large language model (LLM) post-training by overlapping rollout generation with policy optimization, but the resulting stale, off-policy data can destabilize optimization and ultimately cause policy collapse. Existing methods typically retain or discard tokens based solely on the magnitude of their importance ratios, applying the same threshold uniformly across token positions. In this work, ",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1811,7 +1819,7 @@ window.techNewsItems = [
   {
     "title": "When Bits Break Recourse: Counterfactual-Faithful Quantization",
     "link": "https://arxiv.org/abs/2605.17160",
-    "description": "arXiv:2605.17160v2 Announce Type: replace-cross Abstract: Model quantization is widely used to reduce memory, latency, and deployment cost, and is typically judged by whether predictive accuracy is preserved. In decision systems that provide algorithmic recourse, however, accuracy preservation is not sufficient: a small actionable change that flips the decision of a full-precision model may fail after quantization, or require a substantially larger intervention. This paper studies this deploymen",
+    "description": "arXiv:2605.17160v3 Announce Type: replace-cross Abstract: Model quantization is widely used to reduce memory, latency, and deployment cost, and is typically judged by whether predictive accuracy is preserved. In decision systems that provide algorithmic recourse, however, accuracy preservation is not sufficient: a small actionable change that flips the decision of a full-precision model may fail after quantization, or require a substantially larger intervention. This paper studies this deploymen",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1899,7 +1907,7 @@ window.techNewsItems = [
   {
     "title": "DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training",
     "link": "https://arxiv.org/abs/2606.30345",
-    "description": "arXiv:2606.30345v2 Announce Type: replace-cross Abstract: Enabling large language models to achieve stable self-improvement without external expert supervision remains a central challenge in complex reasoning tasks. Existing self-distillation and reinforcement learning methods lack explicit mechanisms for tracking problem-level learning progress and adapting optimization strategies accordingly. Consequently, training may over-optimize easy problems, receive weak supervision from hard problems, a",
+    "description": "arXiv:2606.30345v3 Announce Type: replace-cross Abstract: Enabling large language models to achieve stable self-improvement without external expert supervision remains a central challenge in complex reasoning tasks. Existing self-distillation and reinforcement learning methods lack explicit mechanisms for tracking problem-level learning progress and adapting optimization strategies accordingly. Consequently, training may over-optimize easy problems, receive weak supervision from hard problems, a",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -1907,7 +1915,7 @@ window.techNewsItems = [
   {
     "title": "ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL",
     "link": "https://arxiv.org/abs/2606.31650",
-    "description": "arXiv:2606.31650v4 Announce Type: replace-cross Abstract: Long-horizon language agents must repeatedly interact with tools, accumulate evidence, and make decisions under bounded context windows. Context-management methods make such rollouts feasible by simplifying past interactions through deletion, folding, or memory editing. However, when useful history is collapsed into compressed states, the reconstructed context may no longer reveal which earlier observations support a successful final answ",
+    "description": "arXiv:2606.31650v5 Announce Type: replace-cross Abstract: Long-horizon language agents must repeatedly interact with tools, accumulate evidence, and make decisions under bounded context windows. Context-management methods make such rollouts feasible by simplifying past interactions through deletion, folding, or memory editing. However, when useful history is collapsed into compressed states, the reconstructed context may no longer reveal which earlier observations support a successful final answ",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.AI",
     "category": "AI 研究"
@@ -2185,7 +2193,7 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
+    "title": "Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
     "link": "https://arxiv.org/abs/2607.28902",
     "description": "arXiv:2607.28902v1 Announce Type: new Abstract: We develop a parallel framework that assembles static gradient methods to achieve better adaptivity. A static gradient method, denoted by $\\mathrm{GD}(x_0,T)$, takes as input an initial point $x_0\\in\\mathbb{R}^n$ and $T\\in \\mathbb{R}^+$ specifying the number $\\floor{T}$ of iterations. The step size is chosen as $s=S(T)$, where $S(\\cdot)$ is a predetermined function of $T$. The method then performs the iterations $ x_{i+1}=x_i-\\frac{\\eta}{s}\\cdot g_",
     "pub_date": "2026-08-03",
@@ -2763,7 +2771,7 @@ window.techNewsItems = [
   {
     "title": "MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification",
     "link": "https://arxiv.org/abs/2607.29462",
-    "description": "arXiv:2607.29462v1 Announce Type: cross Abstract: Adapting deep learning models to profound clinical heterogeneity typically relies on parameter-efficient fine-tuning (PEFT) to avoid the severe overfitting associated with full end-to-end network updates. Although PEFT successfully navigates limited data scenarios, it inherently forces the training of a separate, isolated adapter for every specific diagnostic task. Consolidating these isolated adapters into a single generalist network risks negat",
+    "description": "arXiv:2607.29462v2 Announce Type: cross Abstract: Adapting deep learning models to profound clinical heterogeneity typically relies on parameter-efficient fine-tuning (PEFT) to avoid the severe overfitting associated with full end-to-end network updates. Although PEFT successfully navigates limited data scenarios, it inherently forces the training of a separate, isolated adapter for every specific diagnostic task. Consolidating these isolated adapters into a single generalist network risks negat",
     "pub_date": "2026-08-03",
     "source": "ArXiv cs.LG",
     "category": "AI 研究"
@@ -3377,18 +3385,82 @@ window.techNewsItems = [
     "category": "AI 研究"
   },
   {
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-    "pub_date": "2026-08-02",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "pub_date": "2026-08-03",
     "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "pub_date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "description": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has […]",
+    "pub_date": "2026-08-03",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
+    "pub_date": "2026-08-03",
+    "source": "The Verge AI",
     "category": "AI 产业"
   },
   {
     "title": "Fender’s CEO seems to think your bandmates are just analog AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
     "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
-    "pub_date": "2026-08-02",
+    "pub_date": "2026-08-03",
     "source": "The Verge AI",
     "category": "AI 产业"
   },
@@ -3396,8 +3468,336 @@ window.techNewsItems = [
     "title": "Is this Billboard Hot 100 hit AI slop?",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
     "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, […]",
-    "pub_date": "2026-08-02",
+    "pub_date": "2026-08-03",
     "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+    "link": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden/",
+    "description": "Researchers from Technische Universität Dresden and University of Manchester published a technical paper titled “The SpiNNaker2 Chip: A Many-Core Platform for Flexible and Scalable Brain-Inspired Computing.” Abstract Excerpt: The paper presents SpiNNaker2 as a chip that “bridges the gap between deep networks and neuromorphic computing” and reports “ up to 4.5 TOPS in high performance... » read more The post Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden) appeared first on Semic",
+    "pub_date": "2026-08-03",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Self-Driving Cars Have An Aging Problem",
+    "link": "https://semiengineering.com/self-driving-cars-have-an-aging-problem/",
+    "description": "AI workloads are pushing automotive sensors harder, forcing engineers to rethink how long safety-critical systems can be trusted. The post Self-Driving Cars Have An Aging Problem appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-08-03",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Renesas Tackles Memory Bottleneck with MRDIMM Update",
+    "link": "https://www.eetimes.com/renesas-tackles-memory-bottleneck-with-mrdimm-update/",
+    "description": "Renesas’s Gen 3 DDR5 MRDIMM attacks AI’s memory choke point with 16,000 MT/s bandwidth and no platform overhaul. The post Renesas Tackles Memory Bottleneck with MRDIMM Update appeared first on EE Times.",
+    "pub_date": "2026-08-03",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA",
+    "link": "https://www.eetimes.com/video-interview-chipagents-ceo-on-latest-funding-for-agentic-ai-in-eda/",
+    "description": "ChipAgents raises $60M as EDA’s AI gold rush heats up, pitching autonomous chip-design agents over tired copilots. The post Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA appeared first on EE Times.",
+    "pub_date": "2026-08-03",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "NXP Eying Ambarella: Is It About Automotive or Edge AI?",
+    "link": "https://www.eetimes.com/nxp-eying-ambarella-is-it-about-automotive-or-edge-ai/",
+    "description": "Ambarella has quietly transformed its automotive computer-vision technology to serve edge AI applications. The post NXP Eying Ambarella: Is It About Automotive or Edge AI? appeared first on EE Times.",
+    "pub_date": "2026-08-03",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "New Micron lawsuit reignites fight over New York fab — complaint alleges 'forever chemicals' will flow into Oneida River",
+    "link": "https://www.tomshardware.com/pc-components/dram/new-micron-lawsuit-reignites-fight-over-new-york-fab-complaint-alleges-forever-chemicals-will-flow-into-oneida-river",
+    "description": "Micron's New York manufacturing facility is back in the crosshairs of another environmental lawsuit, claiming its wastewater and air permits should be nullified.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea — TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100",
+    "link": "https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100",
+    "description": "The latest round of price increases affects the entire RTX 50 lineup, with premium models bearing the brunt of rising production costs.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AI companies are now racing to the bottom — crashing token prices and competitive models push companies to cut costs",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs",
+    "description": "All major AI developers are cutting prices to compete with impressive new releases from China. But as they shave margins to remain competitive, the profits they'll need to fulfil investment confidence may end up further out of reach.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility",
+    "description": "July drone flyovers of Elon Musk’s Advanced Technology Chip Fab in Texas appear to confirm progress has 'hit another gear.'",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Lexar lists 32GB DDR5 memory with homegrown Chinese chips — 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram",
+    "description": "Lexar's latest Thor RGB kit likely uses CXMT-made DRAM, but its pricing remains comparable to premium DDR5 memory from established brands.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Microsoft raises European Xbox prices by up to £200 — RAMpocalypse and component shortages force major console markups",
+    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-raises-european-xbox-prices-by-up-to-gbp200-rampocalypse-and-component-shortages-force-major-console-markups",
+    "description": "Xbox price increases across the UK and Europe have been revealed, with prices upped by as much as £170 or €200.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Asus ProArt PA32UCDMR 32-inch 4K professional OLED monitor review: Precision, speed, and flexibility",
+    "link": "https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review",
+    "description": "Asus delivers professional precision and premium gaming performance with the ProArt PA32UCDMR. It also comes with a slick calibrator and controller combination, and sports an all-metal chassis with elegant style.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes",
+    "link": "https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026",
+    "description": "Practically every graphics card introduced since 2022 has had at least 6GB or 8GB of VRAM, but AMD is bucking that trend in 2026 with the new RX 9050 4GB. We dusted off two older 4GB cards to see if that little VRAM means an instant performance cliff.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
+    "link": "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings",
+    "description": "A Redditor recently unlocked their HP laptop BIOS using Claude Code.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity",
+    "description": "As AI systems outgrow copper interconnects, TSMC, Intel, Samsung Foundry, and GlobalFoundries are pursuing four distinctly different co-packaged optics strategies to bring optical connectivity closer to compute.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "GPU prices keep surging in 2026 — Lack of sale discounts and rising VRAM costs keep current-gen prices sky-high",
+    "link": "https://www.tomshardware.com/pc-components/gpus/gpu-prices-for-current-gen-nvidia-and-amd-price-increases-why-have-the-prices-not-dropped-and-can-you-still-buy-a-cheap-gpu",
+    "description": "AI, tariffs, and greed have put pressure on PC builders wanting a new GPU. Can you still get a cheap GPU?",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Arm yourself with a Hall Effect controller for just $9 — GameSir's Tegenaria Lite PC controller is 50% off for a limited time",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/arm-yourself-with-a-hall-effect-controller-for-just-usd9-gamesirs-tegenaria-lite-pc-controller-is-50-percent-off-for-a-limited-time",
+    "description": "Pick up a gaming controller complete with drift-free hall-effect thumbsticks for half the price.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "World’s smallest GPU silicon passes real-world testing — 240,000-transistor TinyGPU v2.0 renders 3D graphics at up to 15 FPS while v3.0 prepares for 2026 release",
+    "link": "https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release",
+    "description": "The TinyGPU v2.0 'standalone GPU' silicon works, and was demonstrated in a video after it came back from its Tiny Tapeout production run.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Hideo Kojima unveils a Death Stranding 2-themed wireless CD player — Limited edition device costs ~$160, comes with Bluetooth 5.3 & exclusive artwork",
+    "link": "https://www.tomshardware.com/peripherals/hideo-kojima-unveils-a-death-stranding-2-themed-wireless-cd-player-limited-edition-device-costs-usd160-comes-with-bluetooth-5-3-and-exclusive-artwork",
+    "description": "Kojima is partnering up with km5 to release a limited-edition version of the CP1 wireless CD player designed to resemble a BB Pod from Death Stranding 2. The nuclear orange aesthetic resembles classic retro tech of bygone eras, but the player itself is rather feature-rich, too.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Grab 32GB of Corsair DDR5 for an effective $230 right now in this 9950X3D combo deal —Newegg RAM bundle ships with 16-core AMD X3D chip alongside an MSI X870E board and a free 240mm cooler for $1,308",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-32gb-of-corsair-ddr5-for-an-effective-usd230-right-now-in-this-9950x3d-combo-deal-newegg-ram-bundle-ships-with-16-core-amd-x3d-chip-alongside-an-msi-x870e-board-and-a-free-240mm-cooler-for-usd1-308",
+    "description": "This Newegg RAM bundles ships with the 16-core AMD Ryzen 9 9950X3D, an MSI MPG X870E keyboard, and 32GB of Corsair Vengeance DDR5 RAM for $1,308.99, making the effective RAM cost just $230.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Ten years later, the iconic GTX 1080 Ti still holds up in 1080p gaming, but not without showing its age — Redux testing highlights the wonders of 11GB VRAM & the woes of time",
+    "link": "https://www.tomshardware.com/pc-components/gpus/ten-years-later-the-iconic-gtx-1080-ti-still-holds-up-in-1080p-gaming-but-not-without-showing-its-age-redux-testing-highlights-the-wonders-of-11gb-vram-and-the-woes-of-time",
+    "description": "PC Games Hardware has retested the GTX 1080 Ti, along with its GP102 brethren, in a range of new games across multiple resolutions. The results reveal the obvious: the 1080 Ti is still a capable GPU at 1080p, mostly thanks to its 11GB VRAM buffer, but it's highly inefficient by today's standards.",
+    "pub_date": "2026-08-03",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Microsoft Executive Says Windows 11 Tools Like Control Panel Are Taking Too Long To Become Modernized As Company Wants To Keep Its “Compatibility Promise”",
+    "link": "https://wccftech.com/microsoft-explains-slow-windows-11-control-panel-redesign/",
+    "description": "Some of Windows 11's tools, like Control Panel, File Explorer, Registry Editor, and others, look unchanged from Windows 10 and Windows 7. Seeing as these lack of changes look out of place for a modernized OS, a Microsoft executive explains why it’s taking so long for the company. It’s not that the software giant doesn’t want to incorporate a change, but it wants to ensure that functionality is maintained. Changing the Control Panel is “tricky,” according to a Microsoft executive, but says that “",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour",
+    "link": "https://wccftech.com/what-gpu-depreciation-nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards-as-b200s-hover-at-just-shy-of-6-hour/",
+    "description": "The appropriate depreciation rate for NVIDIA GPUs has consistently ranked as one of the biggest unknowns of the ongoing AI build out, with proponents continuing to argue in favor of a longer shelf life, while detractors contend that a 3-year useful life estimate is most appropriate. The latest hourly rental rate figures for NVIDIA GPUs, however, appear to bolster the point of view espoused by the proponents of longer useful life estimates, which bodes well for the income statements of AI hypersc",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ShadPS4 Revives Driveclub in 8K PC Glory, Ten Years After Sony Shuttered the Studio Behind It",
+    "link": "https://wccftech.com/shadps4-driveclub-8k-pc-glory/",
+    "description": "PlayStation 4 emulator ShadPS4 can now run Driveclub at up to 8K resolution on PC, thanks to a newly released patch, delivering by far the sharpest version of the game's visuals. The racing game originally ran at just Full HD resolution on PS4, and even when played on PlayStation 5, no meaningful boost is available for Driveclub. The game still runs at the same resolution and frame rate (30 frames per second) through backward compatibility, and original Game Director Paul Rustchynsky has said a ",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ArcheAge S Revealed as a True Sequel to the 2013 MMO Fans Loved, After Chronicles Left Them Cold",
+    "link": "https://wccftech.com/archeage-s-2027-true-sequel-2013-mmorpg/",
+    "description": "Today, South Korean duo XL Games (developer) and Kakao Games (publisher) announced a partnership on a new MMORPG titled ArcheAge S: Strait of Freedom, which is targeting a 2027 launch on PC. To clarify, this is a different game from ArcheAge Chronicles, which itself was originally titled ArcheAge 2. When XL Games and Kakao Games announced the title change, they also revealed that Chronicles would be quite different from the original ArcheAge, which launched in Korea in 2013, and in Europe and No",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Nintendo Won’t Bring Pokémon Red and Blue to PC, but a Recompilation Just Brought Them Over With HD-2D Voxel Visuals",
+    "link": "https://wccftech.com/nintendo-bring-pokemon-red-and-blue-pc-hd-2d-remake/",
+    "description": "Despite having been released a long time ago, the original Game Boy versions of Pokémon Red, Pokémon Blue, and Pokémon Yellow remain some of the most beloved entries in the successful franchise. With Nintendo having no intention of releasing any of its exclusive games on PC, chances of the games developed by Game Freak ever hitting the platform are non-existent, but it is now possible to enjoy native versions of these classic games on PC with a slew of improvements, including stunning 3D voxel v",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Lenovo Premium Care Botched An On-Site Service For An RTX 4090 Gaming Laptop, Causing Liquid Metal Spillage That Rendered It Unusable, No Replacement Offered",
+    "link": "https://wccftech.com/lenovo-premium-care-liquid-metal-spill-rtx-4090-laptop/",
+    "description": "A liquid metal application is always risky, especially on a gaming laptop, since these machines are carried around and move in all sorts of directions, which can cause the material to leak out. Unfortunately, a Lenovo Legion 7i owner says his RTX 4090-powered machine became useless after he handed it over to be serviced by Lenovo Premium Care over thermal issues. The company has also allegedly refused any refund or replacement. Two additional unsuccessful repair attempts were reportedly performe",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "German Retailer Motherboard Sales Reveal DDR4 Platform Makes Up For Less Than 10% Of Total Purchases Despite DDR5 Platform Costing Way More",
+    "link": "https://wccftech.com/german-retailer-ddr5-vs-ddr4-platform-sales/",
+    "description": "While both DDR4 and DDR5 memory are selling for sky-high prices, DDR5 platforms usually cost more due to high demand. However, the latest sales stats show something interesting. Monthly Mindfactory Sales Reveal DDR4 Motherboard Sales Account For Only 9.5% of Total Motherboard Sales While DDR5 Motherboards Still Sell Like Hotcakes Despite efforts by vendors to increase the production of DDR4 platforms, it appears that consumers aren't ready to transition back to DDR4. Since October last year, pri",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "MSI’s 27-inch OLED Monitor Ditches Metal-Mask Manufacturing For Inkjet Printing, Promising Sharper Text And Higher Yields",
+    "link": "https://wccftech.com/msi-launches-pro-max-oled-271upjw12/",
+    "description": "The monitor uses an inkjet-printed OLED panel, which has been supplied by TCL CSOT for better features. MSI Introduces PRO MAX OLED 271UPJW12 OLED Monitor, Featuring Inkjet-Printed OLED Panel Capped at 120 Hz Conventional OLED monitors are usually manufactured using a process called Fine Metal Mask or FMM evaporation. These metal masks can sag or deform on larger displays, which basically reduces the manufacturing yield and increases the costs. MSI, on the other hand, went with Inkjet printing, ",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Xbox Won’t Abandon Steam after all, but It is Doubling Down on the PC Ecosystem with Xbox App and Battle.net",
+    "link": "https://wccftech.com/xbox-wont-abandon-steam-pc-ecosystem-battlenet/",
+    "description": "A couple of days ago, Windows Central's Jez Corden suggested that Xbox might stop releasing PC games on Valve's Steam at some point in the future as part of its new PC gaming strategy. Today, in a new report, Corden is setting the record straight after checking with his sources again. The latest article confirms that Xbox doesn't actually have any such plans. However, there are a few changes in how Xbox games will show up across the platform's many stores. To start with, Battle.net is reportedly",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Lekuo Turns a Single PCIe Slot Into 12 Ports Using an AMD B650 Chip, No Bifurcation Needed",
+    "link": "https://wccftech.com/lekuo-rolls-out-amd-b650-based-pcie-expansion-card/",
+    "description": "Lekuo has introduced a unique AMD B650 chipset-powered PCIe expansion card that adds multiple M.2, SATA, and USB ports through a single PCIe Gen4 x4 connection. The Low-Profile PCIe Add-in-Card Can Turn a Single PCIe Gen4 x4 Slot Into a Full-Fledged Storage and Connectivity Hub Chinese hardware maker Lekuo has officially unveiled a new PCIe add-in-card that brings chipset-like expansion capabilities. The card is powered by the AMD's B650 chipset and is designed to expand a single PCIe Gen4 x4 sl",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration",
+    "link": "https://wccftech.com/tsmc-2nm-production-milestone-100k-wafers-2026/",
+    "description": "AI customers will eventually move their orders towards TSMC’s 2nm process in droves to target higher inference performance while utilizing less power to reduce the datacenter footprint. This demand surge has already forced the biggest semiconductor manufacturer in the world to make production adjustments for its lucrative customers, with a new report stating that NVIDIA, AMD, and others will push TSMC towards achieving that 100,000 monthly wafer milestone by the end of 2026. Demand for 3nm wafer",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "CXMT Eyes Second Beijing Memory Fab After Record IPO, Circling the Gap Samsung and Micron Left Behind",
+    "link": "https://wccftech.com/cxmt-eyes-second-beijing-memory-fab-after-record-ipo-circling-the-gap-samsung-and-micron-left-behind/",
+    "description": "Flush with its cash from a record-setting IPO, China's CXMT is considering building a second memory chip plant in Beijing. CXMT is regularly discussed in the media as a Chinese chip firm that might be able to compete on the global stage due to the ongoing turmoil in the memory chip industry. Reports have suggested that the firm is on its way to be able to produce the latest LPDDR6 and capitalize on Micron and Samsung's focus on high bandwidth memory (HBM) for the AI data center infrastructure bu",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "HWiNFO Extends Per-Chip VRAM Monitoring To AMD Navi Cards After Unlocking The Same Trick On NVIDIA RTX",
+    "link": "https://wccftech.com/hwinfo-extends-per-chip-vram-monitoring-to-amd-navi-cards-after-unlocking-the-same-trick-on-nvidia-rtx/",
+    "description": "Per module temperature monitoring is now going to become common for both AMD and NVIDIA GPUs through third-party monitoring tools. HWiNFO Adds Per-Chip VRAM Temperature Monitoring for AMD Navi GPUs; Also Adds the Same Feature for NVIDIA RTX GPUs With GDDR6X/GDDR7 Chips Not long ago, we had some modders unlock per-chip VRAM temperature monitoring on NVIDIA RTX cards with GDDR6 and GDDR6X VRAM. It was followed by a similar development for the RTX 50 series, which utilizes the latest GDDR7 memory. ",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "PlayStation PC Wall Faces New Threat, As PS5 Emulators Chase Demon’s Souls And Games That Will Never Ship On PC",
+    "link": "https://wccftech.com/playstation-pc-wall-threat-ps5-emulators-demon-s-souls-ship-pc/",
+    "description": "PlayStation 5 emulation on PC is still in its infancy, but looking at the blazingly fast progress PlayStation 4 emulation made with the ShadPS4 emulator, there's a very good chance it won't be long until console exclusives like Bluepoint Games' Demon's Souls remake will reach a playable state. And looking at the recent progress of both KyTyPS5 and SharpEmu, this day could be closer than most thought. Demon's Souls Remake Emulation Improves Significantly With SharpEmu's Latest Version Although it",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Xbox Leaked Email Pins Disc-to-Digital Launch for August 2026, as PlayStation Barrels Toward All-Digital Future",
+    "link": "https://wccftech.com/xbox-leaked-disc-to-digital-launch-august-2026/",
+    "description": "[Update - August 3, 6:54 AM] In a new report, Windows Central revealed that the launch of Xbox disc-to-digital Positron program is scheduled for August 2026, giving more credibility to the alleged leaked email. Original story follows. [Original Story] With PlayStation still set to sunset game discs production in 2028, it seems like the future of console gaming will be all digital, a future that many among gamers and game developers are not really looking forward to. While Sony has yet to make it",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Square Enix’s Final Fantasy VII Revelation Has 4 Jobs Per Character Due To Development Constraints, Yet This isn’t Necessarily Bad",
+    "link": "https://wccftech.com/square-enixs-final-fantasy-vii-revelation-4-jobs-per-character-constraints-not-bad/",
+    "description": "Thanks to the Highwind airship redefining the trilogy's scale, allowing Cloud and his companions to travel quickly throughout the game's big map, Final Fantasy VII Revelation from Square Enix is set to be a significant step up over Final Fantasy VII Rebirth. While the combat system isn't set to change a whole lot, as director Naoki Hamaguchi believes it has been perfected in the second entry in the trilogy, the conclusion of the saga will still spice things up with the FITS system, bringing a jo",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Moonshot Chases A Potential $50 Billion IPO Valuation Even As Trump Administration Accuses It Of Distilling Anthropic’s Fable Model",
+    "link": "https://wccftech.com/moonshot-chases-a-potential-50-billion-ipo-valuation-even-as-trump-administration-accuses-it-of-distilling-anthropics-fable-model/",
+    "description": "Moonshot, the progenitor of the wildly popular Kimi K3 AI model, is apparently racing to bank its recent success with an IPO, one that might award it a valuation that is in excess of $50 billion. Moonshot is now trying to bank its success with an IPO after Kimi K3's viral success As per the reports coming out of China, Moonshot is apparently aiming to file for an IPO as soon as this month in Hong Kong, potentially raising over $3 billion in new liquidity. Do note that Moonshot recently raised ov",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Google Trails NVIDIA in AI Chip Sales, yet a Broadcom-Backed Pivot Could Unlock $252 Billion",
+    "link": "https://wccftech.com/google-trails-nvidia-in-ai-chip-sales-yet-a-broadcom-backed-pivot-could-unlock-252-billion/",
+    "description": "In a fresh report, Barclays claims that Google can earn as much as $252 billion in sales of its tensor processing units (TPUs) by shifting its business model. Google's TPUs are among the most widely used custom AI chips in the industry, and Barclays believes that the firm can further expand its platform by entering into joint ventures with asset managers Blackstone and Apollo Global, as well as chip designer Broadcom. Barclays Estimates Healthy Revenues But Limited Profit From Google's TPU Off-P",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Sony Says PS5 Will Still Be More Affordable Than Gaming PCs and Different Enough, Even Without Discs",
+    "link": "https://wccftech.com/sony-ps5-affordable-gaming-pc-digital-only-discs/",
+    "description": "During Sony's Q1 2026 earnings call, Lin Tao, Executive Officer and Chief Financial Officer, addressed the massive backlash against the corporation's strategic move away from PlayStation discs and into a digital-only future starting in January 2028. As previously reported, she acknowledged the strong sentiments expressed by fans, but she also confirmed Sony's plan to move forward and expressed the company's conviction that this would not hurt its business. Later in the call, Minami Hase, a Senio",
+    "pub_date": "2026-08-03",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
+    "pub_date": "2026-08-02",
+    "source": "TechCrunch AI",
     "category": "AI 产业"
   },
   {
@@ -3494,278 +3894,6 @@ window.techNewsItems = [
     "description": "One Team Fortress 2 player has amassed a collection of over 1.7 million cases from the game, and after nearly a decade of collecting, he’s selling the collection for an estimated $100,000.",
     "pub_date": "2026-08-02",
     "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "M5 Max MacBook Pro Owner Says Excessive Temperatures Caused Backspace Key To Get Stuck In Chassis; Would Have Been An $895 Repair Job If Not For Warranty",
-    "link": "https://wccftech.com/m5-max-macbook-pro-overheating-stuck-key-895-dollar-repair/",
-    "description": "The M5 Max, relying on two low-profile fans and a single heatpipe, is bound to run into overheating issues, and that’s exactly what one MacBook Pro owner experienced. The only difference here is that those high temperatures apparently caused the backspace key, which is labeled “delete,” to get inside the chassis, forcing the owner to visit Apple’s retail outlets, which quoted him a near-$900 bill if the machine wasn’t in warranty. Unconfirmed claims state that custom M5 Max configurations of the",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "The Apple Upgrade Leasing Program Bets That Consumers Won’t Blink At ~$1 Per Day For A Brand-New iPhone Or Mac",
-    "link": "https://wccftech.com/the-apple-upgrade-leasing-program-bets-that-consumers-wont-blink-at-1-per-day-for-a-brand-new-iphone-or-mac/",
-    "description": "Apple's brand-new leasing program, dubbed Apple Upgrade, goes big on the idea that most consumers won't mind shelling out a tiny amount on a per-day basis just to use a new Apple device, negating the deleterious impact of the ongoing memory 'chipflation' in the process. Mark Gurman: \"Instead of asking customers to justify spending more than $1,000 on a phone or laptop, it’s asking whether they can afford roughly a dollar a day\" As we reported recently, Apple has just launched Apple Upgrade, a ne",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "China’s DFSX Offers 2x The Memory Bandwidth Of NVIDIA’s GB200 NVL72 System With a 14nm SuperNode That Skips Microbumps for Vertical Compute-Memory Towers",
-    "link": "https://wccftech.com/chinas-dfsx-offers-2x-the-memory-bandwidth-of-nvidias-gb200-nvl72-system-with-a-14nm-supernode-that-skips-microbumps-for-vertical-compute-memory-towers/",
-    "description": "China's Dongfang Suanxin (DFSX) is on a quest to prove that memory bandwidth, and not an incessant obsession with node miniaturization, is the key to unlocking sizable economies of scale for AI workloads, as demonstrated by its DF1000 and the upcoming DF2000 chips, typically arrayed within TY64 SuperNodes to give NVIDIA's GB200 NVL72 system a run for its money. A DFSX TY64 SuperNode, made up of 14nm DF2000 chips, will offer a memory bandwidth of 960TB/s vs. just 576TB/s for NVIDIA GB200 NVL72 sy",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple “Prioritizing Sales” Of Current 14-Inch MacBook Pro to Make Way For M6 Refresh Later This Year, MacBook Air Suffering From Severe Shortage",
-    "link": "https://wccftech.com/apple-14-inch-macbook-pro-m6-refresh-macbook-air-shortage/",
-    "description": "The rising DRAM costs are what ultimately forced Apple to increase the prices of its Macs, but the positive aspect was that various models were still available to purchase. Unfortunately, the Cupertino giant’s worst nightmare has come to pass because the MacBook Air is reportedly in severe shortage, and while Apple attempts to tackle this problem, it’s focusing on selling as many base 14-inch M5 MacBook Pro units as it can to make sufficient room for the M6 model. Due to the shortage, various M5",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Dell Faces Pricing & Distribution Struggles With Its MacBook Neo Competitor, The XPS 13; Base Model In South Korea Going For $1,400, Double The U.S. MSRP",
-    "link": "https://wccftech.com/dell-xps-13-south-korea-price-double-us-msrp-macbook-neo/",
-    "description": "The pairing of the XPS 13 and Intel’s Wildcat Lake enabled Dell to introduce an affordable MacBook Neo competitor, allowing the company to undercut Apple’s offering with a $699 notebook. At least, that’s what U.S. consumers have to pay. Unfortunately, the same treatment isn’t available for South Korean consumers, who have to pay more than double, and that too for the base model. This indicates that Dell’s distribution simply doesn’t allow it to maintain similar prices across various regions, unl",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Xbox May Keep Disc Support On Next-Gen Console While Sony Cuts People Off, Digital Foundry Rumor Suggests",
-    "link": "https://wccftech.com/xbox-disc-support-next-gen-sony-digital-foundry-rumor/",
-    "description": "Shortly after Sony announced its controversial decision to stop manufacturing PlayStation discs starting in January 2028, Windows Central's Jez Corden reported that Microsoft is leaning toward the same choice for the next 'Project Helix' Xbox console. However, in the latest episode of the DF Direct Q+A podcast, Digital Foundry's John Linneman shared a rumor that Xbox, at least before the big Xbox reset enacted by new CEO Asha Sharma, was possibly planning to continue supporting discs with its ne",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Running GTA 5 On An iPhone 17 Pro Max is Possible With XeniOS Xbox 360 Emulator, But Questionable Framerates Will Discourage Others From Attempting The Experiment",
-    "link": "https://wccftech.com/gta-5-iphone-17-pro-max-xenios-xbox-360-emulator/",
-    "description": "Apple has doubled down on the iPhone 17 Pro's and iPhone 17 Pro Max's gaming performance by including the A19 Pro, prompting one person to attempt to run GTA 5 on the top-end flagship. Unfortunately, this experiment is only possible through emulation, and looking at the performance and subpar resolution you get, you probably wouldn’t want to try it out. Obtaining between 19-20FPS, with 12FPS being the lowest, enjoying GTA 5 on an iPhone 17 Pro Max is an exercise in futility With the help of the ",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "MSI Gaming Laptop Owner Says Company’s Authorized Service Center Scammed Him By Swapping Out Its 144Hz Screen With A 60Hz One, But That’s An Impossible Claim",
-    "link": "https://wccftech.com/msi-laptop-owner-claims-service-center-swapped-144hz-screen-60hz/",
-    "description": "It’s not uncommon for authorized service centers to make a plethora of blunders, but these mistakes cannot be made outside the specifications of a particular product. For instance, one MSI gaming laptop owner says that his 144Hz screen was replaced with a 60Hz one, but given that both panels share one huge difference that’s not the refresh rate, it probably has to do with the owner being unable to adjust some setting. MSI's Thin gaming laptop displays don't support 144Hz refresh rate with 30-pin",
-    "pub_date": "2026-08-02",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "pub_date": "2026-08-01",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "pub_date": "2026-08-01",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-    "pub_date": "2026-08-01",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "This $9 key physically locks your most addictive apps",
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-    "pub_date": "2026-08-01",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Humanoid Manipulation at the Edge of Physical Interaction",
-    "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
-    "description": "This white paper examines emerging humanoid robot architectures, focusing on how joints and dexterous hands are becoming intelligent, sensor-rich subsystems that require tightly integrated control, communication, and edge processing. It outlines key design challenges and opportunities for building scalable, high-performance humanoid manipulation systems. The post Humanoid Manipulation at the Edge of Physical Interaction appeared first on EE Times.",
-    "pub_date": "2026-08-01",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "ERP Statistics: Insights From 70 Manufacturing Case Studies",
-    "link": "https://www.eetimes.com/erp-statistics-insights-from-70-manufacturing-case-studies/",
-    "description": "We analyzed 70 customer case studies to better understand the ERP experiences of small manufacturers. Here’s what electronics manufacturers had to say. The post ERP Statistics: Insights From 70 Manufacturing Case Studies appeared first on EE Times.",
-    "pub_date": "2026-08-01",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Dell founder shows how a $100 billion empire started 42 years ago — CEO says ‘This one page changed my life’",
-    "link": "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life",
-    "description": "Billionaire Michael Dell reminisced about the early days of his company, sharing an early quarterly earnings report that showed the then-startup making nearly $135,000 in just three months. Dell says that that document changed his life, as it convinced his parents that he no longer needed to go back to college and pursue his degree.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Score the ultimate AMD AM4 starter pack with a six-core CPU and 16GB RAM for only $280 — kickstart your next PC build with $138 in savings",
-    "link": "https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings",
-    "description": "If you've been hesitating to upgrade to a modern platform because of the state of the PC hardware industry, this combo deal might be the one for you.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage — optimizations to reduce OS memory footprint have begun",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun",
-    "description": "While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB laptops are likely forcing Microsoft to optimize Windows.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
-    "description": "Anthropic's Claude hacked three real-life companies during security capabilities test — open test environment and unwitting targets' lax cybersecurity practices led bots run rampant",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated)",
-    "link": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix",
-    "description": "Bondtech, the creator and manufacturer of the INDX toolchanger system used to create the highly anticipated Prusa CORE One+ INDX, admitted to a significant labeling mistake. The nozzles provided with the INDX kit do not meet industry standards for “hardened steel” as advertised.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Sony doubles down on axing physical game discs — CFO reiterates 'we’re going to cautiously move this forward'",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward",
-    "description": "Sony confirms that its stance has not changed on ending the production of physical game discs for titles released after January 2028.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "97 untouched Duck Hunt and Super Mario Bros. cartridges worth thousands discovered in retro shop storage room — never-before-seen version of popular NES games include five perfect 10 PSA items",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/97-untouched-duck-hunt-and-super-mario-bros-cartridges-worth-thousands-discovered-in-retro-shop-storage-room-never-before-seen-version-of-popular-nes-games-include-five-perfect-10-psa-items",
-    "description": "A retro gaming shop in Wisconsin finds a box of unopened, never-before-seen versions of Duck Hunt and Super Mario Bros. in its storage room. These items are probably worth four to five digits, and the first three carts are going up for auction starting August 12.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Lost one-of-a-kind Nintendo DS cartridge hits eBay for $9,100 — PokePark Fishing Contest designed to delete itself after 12 hours, game so rare it was only distributed to theme park attendees in 2005",
-    "link": "https://www.tomshardware.com/video-games/nintendo/lost-one-of-a-kind-nintendo-ds-cartridge-hits-ebay-for-usd9-100-pokepark-fishing-contest-designed-to-delete-itself-after-12-hours-game-so-rare-it-was-only-distributed-to-theme-park-attendees-in-2005",
-    "description": "A Nintendo DS game that was classified as ‘lost media’ for nearly two decades is now within tantalizing reach of video gaming fans and archivists.",
-    "pub_date": "2026-08-01",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Xbox Series Prices Surge up to €200 in Europe as Microsoft Refuses to Bankroll the Troubled Division",
-    "link": "https://wccftech.com/xbox-series-price-increase-europe-microsoft/",
-    "description": "On June 25, 2026, Microsoft announced that the Xbox Series S and X consoles would increase in price starting on August 1 due to the ongoing memory and storage component crisis. They shared the US price but did not share European pricing, which consumers only learned about today as it went into effect. As spotted by ResetEra users, the latest adjustments raise Xbox Series console prices by up to €200 across Europe and by up to £170 in the United Kingdom. Indeed, the revised European and UK pricin",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "A Ryzen 7 9800X3D’s Temperature Drops By 19°C Using A 3D-Printed Modular Chimney Cooler That’s Too Tall To Fit In Any Computer Case In The World",
-    "link": "https://wccftech.com/ryzen-7-9800x3d-3d-printed-chimney-cooler-19c-temp-drop/",
-    "description": "The 3D V-Cache design of the Ryzen 7 9800X3D delivers unrivaled gaming performance but also acts as a thermal blanket, which explains why this CPU runs hotter than most, despite adequate cooling installed. However, a YouTuber went the extra mile by developing a 3D-printed chimney several inches tall to drop those temperatures by an impressive 19°C. The only catch is that it’s impossible to fit this cooler in any consumer computer chassis. The “stack” effect causes the warm air inside the chimney",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Xbox May Walk Away From Steam, As It Reportedly Prepares PC Strategy Shift Amid 2026 Reset",
-    "link": "https://wccftech.com/xbox-walk-away-steam-pc-strategy-shift/",
-    "description": "Following the acquisition spree spearheaded by former head Phil Spencer, Xbox is going through a challenging phase which led to multiple waves of layoffs, studio closures, and a radical change of how the business will have to operate to survive in these difficult market conditions. Among the things the company is planning and evaluating is how it operates on PC, and the discussions around this could give it a window to walk away from Steam, according to Windows Central's Jez Corden. \"I do know l",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel Starts Paying Overtime Bonuses To Expedite Work On Its Ohio Fab, As EMIB-T Package Yield Approaches 90 Percent",
-    "link": "https://wccftech.com/intel-starts-paying-overtime-bonuses-to-expedite-work-on-its-ohio-fab-as-emib-t-package-yield-approaches-90-percent/",
-    "description": "Intel appears laser-focused on operationalizing its new Ohio fab complex by 2031, and is willing to award generous bonuses to achieve that overarching goal. Meanwhile, the tailwinds also appear to be aligning on Intel's EMIB-T packaging, with only the substrate yields now left as the sole unsolved piece of the puzzle. Disparate tailwinds are finally beginning to coalesce for Intel, indicating that its Ohio fab remains on schedule, and its EMIB-T advanced packaging is now poised to challenge TSMC",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Redditor Snags A $600 Kingston Fury 32 GB DDR5 Kit For Just $14 At A Dutch Thrift Store",
-    "link": "https://wccftech.com/redditor-snags-a-600-kingston-fury-32-gb-ddr5-kit-for-just-14-at-a-dutch-thrift-store/",
-    "description": "We are totally not jealous of this guy, but how does one find such a good deal these days? Reddit User Finds a Kingston Fury 32 GB DDR5 Memory Kit for Just €12.50 at His Local Thrift Store Good luck if you can find a 32 GB DDR5 memory kit for under $400, but this guy grabbed it for the cost of a burger. The Redditor u/JuniTheFox posts on the PC Master Race sub-Reddit about his story of getting an extremely cheap memory kit from his local Thrift Store in the Netherlands. As you can see, he is hol",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "ASUS Brings A Floating Structure To Prime AP304 Case For Superior GPU Cooling And Panoramic View Through Curved Side Panel",
-    "link": "https://wccftech.com/asus-launches-prime-ap304-pc-case/",
-    "description": "The AP304 brings an innovative design that cools the components faster while delivering breathtaking views. ASUS Launches Prime AP304 Mid-Tower Chassis With Dedicated Graphics Card Slot Clamp for Tool-Free GPU Installation There is a lot to talk about the new ASUS Prime AP304 mid-tower chassis. First of all, it looks similar to the Cougar CFV235 PC case, which I reviewed last year. Both cases bring a floating design for the upper chamber, allowing cool air from the bottom through the space. This",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "A Dual-CPU Cooler Modification Helps An Older Snapdragon Chipset Achieve Near-100% Stability In 3DMark’s Wild Life Extreme & Solar Bay Stress Tests",
-    "link": "https://wccftech.com/dual-cpu-cooler-snapdragon-hardware-mod-3dmark-stability/",
-    "description": "An extreme cooling modification that includes two desktop CPU coolers meant to tame Intel and AMD processors was used to take a Snapdragon chipset’s performance to the limit. It’s certainly one of the craziest experiments, but one that nets near-100 percent performance stability in demanding benchmarks like the 3DMark Wild Life Extreme Stress Test and Solar Bay Extreme Stress Test. The older Snapdragon 8 Elite matches or even beats the Snapdragon 8 Elite Gen 5, A19 Pro, and Dimensity 9500 thanks",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD Prepares Linux Driver Support For RDNA 5 GPUs With New DCN6 Display Engine Patches",
-    "link": "https://wccftech.com/amd-prepares-linux-driver-support-for-rdna-5-gpus-with-new-dcn6-display-engine-patches/",
-    "description": "The team Red has started laying the groundwork for the RDNA 5 lineup on Linux by introducing initial support for DCN6. Early AMDGPU Patches Introduce Display Core Next 6, Tied to the Upcoming GFX13 Graphics Architecture AMD has taken one more step toward enabling support for its next-generation RDNA architecture on Linux. A new batch of AMDGPU patches has been submitted to the Linux Kernel mailing list and has begun laying the foundation for Display Core Next 6, aka DCN6, which is the display en",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Lenovo Silently Rolls Out Wildcat Lake-Powered ThinkCentre Neo 50a 24 Gen 7 AIO PCs With 120 Hz Display",
-    "link": "https://wccftech.com/lenovo-silently-rolls-out-wildcat-lake-powered-thinkcentre-neo-50a-24-gen-7-aio-pcs/",
-    "description": "After launching the Gen 6 AIO desktop PCs, Lenovo is back with the Gen 7 desktops, equipped with 120 Hz displays. Lenovo Launches ThinkCentre Neo 50a 24 Gen 7 PCs, Featuring Core 5 320 and Core 7 350 Wildcat Lake CPUs, and Up To 32 GB RAM Despite launching the ThinkCentre Neo 50a Gen 6 desktops a few weeks ago, Lenovo, which is the world's most popular OEM for PCs, has now launched the Gen 7 series. This is the ThinkCentre Neo 50a 24 Gen 7, which will be available with the latest Intel Core Seri",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "GPU Cheaper Than A Cup Of Coffee: User Snags GeForce GTX 1050 Ti For Just $2 At Goodwill",
-    "link": "https://wccftech.com/gpu-cheaper-than-a-cup-of-coffee-user-snags-geforce-gtx-1050-ti-for-just-2-at-goodwill/",
-    "description": "If you have been struggling with finding a cheap GPU, then you may also take a look at your local Goodwill store. User Snags a GeForce GTX 1050 Ti for 2 Bucks From His Local Goodwill Store; Finds it in Fully Working Condition This might be the biggest steal this year despite the GPU not being from the current generation. The Redditor u/LittleBanditReddit got extremely lucky with his find at his local Goodwill store where he found a used GeForce GTX 1050 Ti. Goodwill stores might not be the best ",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Samsung Makes Unforgiving Compromise With Galaxy Z Fold 8 Ultra’s Cooling Because Of Its Ambitions To Make It Unbelievably Thin While Charging Upwards Of $2,000",
-    "link": "https://wccftech.com/samsung-galaxy-z-fold-8-ultra-cooling-thinness-compromise/",
-    "description": "At just 4.1mm in thickness when completely unfolded, Samsung has achieved a near-impossible feat with the Galaxy Z Fold 8 Ultra, and for a device that’s 27 percent thinner than the iPhone Air, there’s one huge compromise that the company made, which will adversely affect its thermals. At the same time, U.S. consumers have to pay $2,099.99, and that, too, for the base storage. With no vapor chamber present, the Galaxy Z Fold 8 Ultra relies on a subpar graphite sheet to tame the Snapdragon 8 Elite",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple’s Ability To Remain Largely Burden Free From Data Center Expenses And Maintain Cash Generation Is Impressive But Offsetting DRAM Costs Requires A New AI Roadmap",
-    "link": "https://wccftech.com/apple-data-center-capex-dram-costs-ai-roadmap/",
-    "description": "One of Apple’s unique traits in the AI and DRAM shortage saga is that, unlike hyperscalers, the Cupertino firm doesn’t need to rely on proprietary data center infrastructure or keep up with expansion and upgrades with billions of mandatory investments. With little capital expenditure burdens on its shoulders and the ability to generate billions in its Q3 2026 earnings, one analyst is thoroughly impressed, but believes a new AI roadmap will quell rising memory costs. Siri AI integrations to drive",
-    "pub_date": "2026-08-01",
-    "source": "Wccftech",
     "category": "芯片/市场"
   }
 ];
