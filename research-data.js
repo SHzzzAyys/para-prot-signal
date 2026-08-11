@@ -1,5 +1,134 @@
-window.researchLastUpdated = "2026-08-10 01:24:28 +0000";
+window.researchLastUpdated = "2026-08-11 01:22:26 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42573574",
+    "title": "Seroprevalence Study of Toxoplasma gondii Infection in Psychiatric and Neurological Disorders.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573574/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.4,
+    "score": 100,
+    "journal": "Annals of African medicine",
+    "pubDate": "2026-08-10",
+    "authors": [
+      "Maheshwari S",
+      "Maheshwari S",
+      "Dhamija RK",
+      "Garg S",
+      "Kushwaha S",
+      "Singh M"
+    ],
+    "pmid": "42573574",
+    "doi": "10.4103/aam.aam_76_26",
+    "why": "INTRODUCTION: Toxoplasma gondii infects one-third of the global human population and invades and chronically persists in the central nervous system of the infected host. Chronic infection in the brain correlates with changes in the neuronal architecture and behavior. To the best of our knowledge, the association between T. gondii and neurological and psychiatric disorders has not been studied in the Indian population. Therefore, this study was conducted..."
+  },
+  {
+    "id": "pubmed-42574721",
+    "title": "A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42574721/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.4,
+    "score": 100,
+    "journal": "Annals of medicine",
+    "pubDate": "2026-08-10",
+    "authors": [
+      "Liu Y",
+      "Zhu Y",
+      "Luo G"
+    ],
+    "pmid": "42574721",
+    "doi": "10.1080/07853890.2026.2710922",
+    "why": "BACKGROUND: The ABO blood group system is one of the most clinically significant human blood group systems and is closely associated with pathogenesis, progression, and prognosis of numerous diseases. This narrative review synthesizes recent epidemiological evidence and explores potential mechanisms linking ABO to cardiovascular diseases, malignancies, diabetes, Plasmodium falciparum malaria, COVID‑19, and rheumatic diseases. METHODS: We searched PubMed..."
+  },
+  {
+    "id": "pubmed-42572489",
+    "title": "Toxoplasma gondii GRA16 enhances the inhibitory effects of standard DNA-damaging chemotherapeutics in liver, pancreatic, and colorectal cancer cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572489/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.4,
+    "score": 98,
+    "journal": "Parasites, hosts and diseases",
+    "pubDate": "2026-08-10",
+    "authors": [
+      "Seo SH",
+      "Lee JE",
+      "Cho EJ",
+      "Shin EH"
+    ],
+    "pmid": "42572489",
+    "doi": "10.3347/PHD.26019",
+    "why": "Dense granule protein 16 (GRA16), an effector protein from Toxoplasma gondii, has been reported to enhance antitumor responses in several malignancies. However, whether GRA16 can enhance the inhibitory effects of standard anticancer drugs across diverse cancer types remains unclear. Gemcitabine, oxaliplatin, and irinotecan continue to play a key role in clinical oncology; however, their efficacy is limited by persistent tumor survival-promoting pathways..."
+  },
+  {
+    "id": "pubmed-42574464",
+    "title": "Quantitative polymerase chain reaction from malaria rapid diagnostic tests to detect Borrelia crocidurae in Mali.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42574464/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.4,
+    "score": 98,
+    "journal": "PLoS neglected tropical diseases",
+    "pubDate": "2026-08-10",
+    "authors": [
+      "Dembélé P",
+      "Diarra AZ",
+      "Gaye PM",
+      "Agokeng Dongmo AJ",
+      "Bing L",
+      "Thera MA"
+    ],
+    "pmid": "42574464",
+    "doi": "10.1371/journal.pntd.0014033",
+    "why": "BACKGROUND: Tick-borne relapsing fever (TBRF) is caused by Borrelia species transmitted to humans by soft ticks of the genus Ornithodoros. Very little is currently known about the morbidity of this disease in Mali, despite the risk of human co-infection with malaria. The lack of appropriate diagnostic services or technical expertise to differentiate suspected malaria from other causes of febrile illness of unknown origin means that this tick-borne disease..."
+  },
+  {
+    "id": "pubmed-42573592",
+    "title": "Coinfection of Two Endemics - Scrub Typhus and Malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573592/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.4,
+    "score": 96,
+    "journal": "Annals of African medicine",
+    "pubDate": "2026-08-10",
+    "authors": [
+      "Vikhe VB",
+      "Chakraborty A",
+      "Desai I",
+      "Pranavi K",
+      "Khaire P"
+    ],
+    "pmid": "42573592",
+    "doi": "10.4103/aam.aam_278_26",
+    "why": "Malaria and scrub typhus are both significant causes of acute febrile illness in the Indian subcontinent. Due to their overlapping clinical manifestations, it can be a challenge to distinguish between the two. Coinfection, although rarely seen, may lead to greater disease severity and adverse clinical outcomes. Here, we report a rare occurrence of malaria and scrub typhus coinfection and its presentation."
+  },
   {
     "id": "pubmed-42570799",
     "title": "Identification of vulnerable antimalarial targets using conditional loss of function mutants.",
@@ -12,7 +141,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.4,
+    "ageHours": 73.4,
     "score": 100,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-08-08",
@@ -39,8 +168,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.4,
-    "score": 100,
+    "ageHours": 97.4,
+    "score": 96,
     "journal": "Virulence",
     "pubDate": "2026-08-07",
     "authors": [
@@ -66,8 +195,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.4,
-    "score": 96,
+    "ageHours": 97.4,
+    "score": 86,
     "journal": "Nature communications",
     "pubDate": "2026-08-07",
     "authors": [
@@ -93,8 +222,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.4,
-    "score": 92,
+    "ageHours": 97.4,
+    "score": 82,
     "journal": "The Journal of experimental medicine",
     "pubDate": "2026-08-07",
     "authors": [
@@ -121,7 +250,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
+    "ageHours": 121.4,
     "score": 98,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-06",
@@ -148,7 +277,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
+    "ageHours": 121.4,
     "score": 96,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-06",
@@ -158,29 +287,6 @@ window.researchItems = [
     "pmid": "42561927",
     "doi": "10.4269/ajtmh.26-0442",
     "why": "PubMed 暂无摘要。"
-  },
-  {
-    "id": "pubmed-42566706",
-    "title": "Malaria rapid diagnostic tests: performance, pitfalls, and progress.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42566706/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 94,
-    "journal": "Current opinion in infectious diseases",
-    "pubDate": "2026-08-06",
-    "authors": [
-      "Steinhardt LC",
-      "Hwang J"
-    ],
-    "pmid": "42566706",
-    "doi": "10.1097/QCO.0000000000001228",
-    "why": "PURPOSE OF REVIEW: Malaria rapid diagnostic tests (RDTs) have revolutionized malaria diagnosis in endemic settings. RDTs are simple to use and accurate for clinical cases, although sensitivity is reduced at parasite densities below 200 parasites/μl. However, increasing prevalence of hrp2/3 gene deletions in certain areas threaten utility of histidine-rich protein 2 (HRP2)-based RDTs, and lingering HRP2 antigenemia can generate false-positive results after..."
   },
   {
     "id": "pubmed-42560985",
@@ -194,7 +300,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
+    "ageHours": 121.4,
     "score": 94,
     "journal": "PloS one",
     "pubDate": "2026-08-06",
@@ -211,6 +317,29 @@ window.researchItems = [
     "why": "BACKGROUND: In post-elimination malaria settings, monitoring asymptomatic low-density infections following Artemisinin-based Combination Therapy (ACT) is critical for interrupting occult transmission and alerting to drug resistance. Real-time quantitative PCR (qPCR) is central to molecular surveillance, yet its sensitivity depends on extracted DNA quality. This study evaluated three DNA extraction methods to provide a basis for optimizing laboratory..."
   },
   {
+    "id": "pubmed-42566706",
+    "title": "Malaria rapid diagnostic tests: performance, pitfalls, and progress.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566706/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 121.4,
+    "score": 84,
+    "journal": "Current opinion in infectious diseases",
+    "pubDate": "2026-08-06",
+    "authors": [
+      "Steinhardt LC",
+      "Hwang J"
+    ],
+    "pmid": "42566706",
+    "doi": "10.1097/QCO.0000000000001228",
+    "why": "PURPOSE OF REVIEW: Malaria rapid diagnostic tests (RDTs) have revolutionized malaria diagnosis in endemic settings. RDTs are simple to use and accurate for clinical cases, although sensitivity is reduced at parasite densities below 200 parasites/μl. However, increasing prevalence of hrp2/3 gene deletions in certain areas threaten utility of histidine-rich protein 2 (HRP2)-based RDTs, and lingering HRP2 antigenemia can generate false-positive results after..."
+  },
+  {
     "id": "pubmed-42563162",
     "title": "Artemisinin resistance and Nigeria's malaria burden: urgent policy imperatives from the WHO World Malaria Report 2025!",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42563162/",
@@ -221,8 +350,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 90,
+    "ageHours": 121.4,
+    "score": 80,
     "journal": "International journal for equity in health",
     "pubDate": "2026-08-06",
     "authors": [
@@ -248,8 +377,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 88,
+    "ageHours": 121.4,
+    "score": 78,
     "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
     "pubDate": "2026-08-06",
     "authors": [
@@ -275,8 +404,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 86,
+    "ageHours": 121.4,
+    "score": 76,
     "journal": "Travel medicine and infectious disease",
     "pubDate": "2026-08-06",
     "authors": [
@@ -302,8 +431,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 84,
+    "ageHours": 121.4,
+    "score": 74,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-06",
     "authors": [
@@ -326,8 +455,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 80,
+    "ageHours": 121.4,
+    "score": 70,
     "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
     "pubDate": "2026-08-06",
     "authors": [
@@ -353,8 +482,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.4,
-    "score": 76,
+    "ageHours": 121.4,
+    "score": 66,
     "journal": "Infection and immunity",
     "pubDate": "2026-08-06",
     "authors": [
@@ -380,8 +509,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 96,
+    "ageHours": 145.4,
+    "score": 92,
     "journal": "Scientific reports",
     "pubDate": "2026-08-05",
     "authors": [
@@ -397,6 +526,33 @@ window.researchItems = [
     "why": "Toxoplasmosis, a zoonotic infection caused by the protozoan Toxoplasma gondii, remains a significant global health concern, with seroprevalence exceeding 60% in specific regions. Given the limitations of current therapies for chronic stages, this study investigated the therapeutic efficacy of Moringa oleifera (MO) extract and MO-loaded copper-based metal-organic frameworks (MO@L-AA-Cu) in a murine model. Sixty-five female Swiss albino mice were utilized..."
   },
   {
+    "id": "pubmed-42555573",
+    "title": "Comparative evaluation of four immunoassays for Plasmodium vivax serological detection using recombinant PvMSP1-42 antigen.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555573/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.4,
+    "score": 92,
+    "journal": "PLoS neglected tropical diseases",
+    "pubDate": "2026-08-05",
+    "authors": [
+      "Xu J",
+      "Yu T",
+      "Zhao Z",
+      "Liu Y",
+      "Li Y",
+      "Zhang N"
+    ],
+    "pmid": "42555573",
+    "doi": "10.1371/journal.pntd.0014570",
+    "why": "BACKGROUND: Serological surveillance is a vital component in the control and elimination of Plasmodium vivax, particularly during low-transmission or elimination phases. Immunoassays are core tools for malaria serological surveillance. Among them, protein arrays, dot blot, enzyme-linked immunosorbent assay (ELISA), and Western blot are widely used, each with distinct diagnostic and operational characteristics. METHODS: We evaluated a recombinant..."
+  },
+  {
     "id": "pubmed-42555664",
     "title": "TREM2 plays a critical role in innate immune defense against acute Toxoplasma gondii infection by promoting macrophage antimicrobial activities.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42555664/",
@@ -407,8 +563,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 94,
+    "ageHours": 145.4,
+    "score": 90,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-05",
     "authors": [
@@ -434,8 +590,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 92,
+    "ageHours": 145.4,
+    "score": 88,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-05",
     "authors": [
@@ -448,34 +604,6 @@ window.researchItems = [
     "why": "In essence, the parasitophorous vacuole (PV) of Toxoplasma is a \"Do-It-Yourself\" renovation project led by the parasite after invasion of a guest house (the host cell) to install itself surreptitiously in a private and custom-built room, reinforced by drywall (the PV membrane). The function of the PV membrane (PVM) is to keep away the host security guards (immune response, lysosomes) from the parasite while allowing necessary and controlled access to host..."
   },
   {
-    "id": "pubmed-42555573",
-    "title": "Comparative evaluation of four immunoassays for Plasmodium vivax serological detection using recombinant PvMSP1-42 antigen.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42555573/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 92,
-    "journal": "PLoS neglected tropical diseases",
-    "pubDate": "2026-08-05",
-    "authors": [
-      "Xu J",
-      "Yu T",
-      "Zhao Z",
-      "Liu Y",
-      "Li Y",
-      "Zhang N"
-    ],
-    "pmid": "42555573",
-    "doi": "10.1371/journal.pntd.0014570",
-    "why": "BACKGROUND: Serological surveillance is a vital component in the control and elimination of Plasmodium vivax, particularly during low-transmission or elimination phases. Immunoassays are core tools for malaria serological surveillance. Among them, protein arrays, dot blot, enzyme-linked immunosorbent assay (ELISA), and Western blot are widely used, each with distinct diagnostic and operational characteristics. METHODS: We evaluated a recombinant..."
-  },
-  {
     "id": "pubmed-42554470",
     "title": "Short linear motifs-underexplored players driving Toxoplasma gondii infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42554470/",
@@ -486,8 +614,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 90,
+    "ageHours": 145.4,
+    "score": 86,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-08-05",
     "authors": [
@@ -513,7 +641,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
+    "ageHours": 145.4,
     "score": 84,
     "journal": "The Biochemical journal",
     "pubDate": "2026-08-05",
@@ -530,57 +658,6 @@ window.researchItems = [
     "why": "Malaria is caused by Plasmodium parasites, and its clinical symptoms are a result of parasite invasion of red blood cells and the subsequent cycles of replication and proliferation. In human populations, Plasmodium vivax is responsible for the most widely distributed recurring malaria infections whereas Plasmodium falciparum inflicts the most mortality and morbidity. One well-characterized family of adhesins involved in red blood cell invasion is the..."
   },
   {
-    "id": "pubmed-42557356",
-    "title": "Genomic surveillance reveals co-occurrence of Plasmodium falciparum drug resistance variants across diverse transmission settings in Ethiopia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42557356/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 74,
-    "journal": "Nature microbiology",
-    "pubDate": "2026-08-05",
-    "authors": [
-      "Letebo A",
-      "Vanheer LN",
-      "Engdaw M",
-      "Ejigu LA",
-      "Hailu Alemayehu D",
-      "Deressa JD"
-    ],
-    "pmid": "42557356",
-    "doi": "10.1038/s41564-026-02420-5",
-    "why": "The emergence of antimalarial drug resistance threatens malaria control and elimination efforts in Africa. Ethiopia, once a success story in case reduction, is now experiencing a resurgence. Here we examine key drug resistance genes (Pfmdr1, Pfcrt, Pfk13, Pfdhfr and Pfdhps) and mitochondrial genomes from 605 Plasmodium falciparum isolates collected across 15 districts in Ethiopia with varying transmission intensity and Plasmodium vivax co-endemicity..."
-  },
-  {
-    "id": "pubmed-42556607",
-    "title": "Artificial Intelligence based identification of druggability of essential hypothetical proteins in Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42556607/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 72,
-    "journal": "Experimental parasitology",
-    "pubDate": "2026-08-05",
-    "authors": [
-      "Ray M",
-      "Dash SR",
-      "Mahapatra RK"
-    ],
-    "pmid": "42556607",
-    "doi": "10.1016/j.exppara.2026.109182",
-    "why": "Malaria, caused by Plasmodium falciparum is a deadly disease and remains a global health concern. With the emergence of resistance to artemisinin; it is pivotal to identify potential therapeutic drug targets against malaria. This study employs the use of machine learning and computational approaches to predict the druggable protein among the ∼1000 essential hypothetical genes of P. falciparum. While traditional target prioritization strategies rely on..."
-  },
-  {
     "id": "pubmed-42191345",
     "title": "Malaria Parasite Genomics: Decentralization, Diversification, and Development Goals.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42191345/",
@@ -591,7 +668,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
+    "ageHours": 145.4,
     "score": 72,
     "journal": "Cold Spring Harbor perspectives in medicine",
     "pubDate": "2026-08-05",
@@ -606,28 +683,6 @@ window.researchItems = [
     "why": "The practice of malaria parasite genomics has evolved due to changing technology, expanded capacity, shifting funding, and broader applications. What began as a descriptive, discovery-focused field has grown into a global system for routine surveillance that informs public health decisions. This shift is supported by wider access to sequencing and new, cost-effective targeted sequencing methods. These changes, however, introduce new needs for..."
   },
   {
-    "id": "pubmed-42556495",
-    "title": "Infectious Diseases Targeting the Adrenal Glands: A Review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42556495/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 70,
-    "journal": "The American journal of medicine",
-    "pubDate": "2026-08-05",
-    "authors": [
-      "Murray HW"
-    ],
-    "pmid": "42556495",
-    "doi": "10.1016/j.amjmed.2026.07.022",
-    "why": "100 years ago in the U.S., tuberculosis was the most common cause of primary adrenal insufficiency (AI) (Addison's disease). Autoimmune adrenalitis is now responsible for 80-90% of AI in this country and Europe; nevertheless today, in the U.S. and certainly abroad, diverse infections can involve the adrenals in both the immunocompetent and immunocompromised and potentially produce AI. Such infections range widely: bacterial (e.g., Mycobacterium..."
-  },
-  {
     "id": "pubmed-42033324",
     "title": "Insights into the factors contributing to artemisinin resistance in Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42033324/",
@@ -638,7 +693,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
+    "ageHours": 145.4,
     "score": 70,
     "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
     "pubDate": "2026-08-05",
@@ -654,33 +709,6 @@ window.researchItems = [
     "why": "Artemisinin (ART)-based combination therapies are instrumental in reducing the burden of malaria worldwide. However, the emergence of ART resistance (ARTR) threatens the elimination of malaria. Understanding the mechanisms regulating ARTR is essential for developing effective strategies to prevent malaria. While various mutations in the Plasmodium falciparum Kelch13 gene, particularly in the propeller domain, are linked to ARTR, data from in vitro and..."
   },
   {
-    "id": "pubmed-42556438",
-    "title": "Comprehensive evaluation of chloroquine-resin complexes: functional, biopharmaceutical and antimalarial performance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42556438/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 68,
-    "journal": "International journal of pharmaceutics",
-    "pubDate": "2026-08-05",
-    "authors": [
-      "Pádua TA",
-      "Passos MXV",
-      "Mascarenhas ED",
-      "M M Costa TE",
-      "Silveira GPE",
-      "Pinto DP"
-    ],
-    "pmid": "42556438",
-    "doi": "10.1016/j.ijpharm.2026.127272",
-    "why": "Malaria remains a major global health burden, especially in children under the age of five. Pediatric treatment often requires tablet fragmentation for its dose adjustment according to body weight, which intensifies bitterness and may reduce treatment adherence. Complexation of bitter-tasting drugs with ion-exchange resins for taste masking is a promising strategy to improve palatability. Here, we evaluated whether a chloroquine-resin complex (CLQ-R)..."
-  },
-  {
     "id": "pubmed-41774540",
     "title": "Compound effector genes suppress malaria parasite infections in gene-drive population modification strains of the African malaria mosquitoes, Anopheles gambiae and Anopheles coluzzii.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41774540/",
@@ -691,8 +719,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 68,
+    "ageHours": 145.4,
+    "score": 66,
     "journal": "G3 (Bethesda, Md.)",
     "pubDate": "2026-08-05",
     "authors": [
@@ -708,6 +736,33 @@ window.researchItems = [
     "why": "Malaria remains a major global health burden and is caused by protozoan parasites in the genus Plasmodium. Parasites are transmitted to humans during blood feeding by anopheline mosquitoes, and members of the Anopheles gambiae species complex are important vectors in sub-Saharan Africa. Gene-drive technologies offer promising options for disease control by enabling the spread of genetic traits through mosquito populations that block parasite transmission..."
   },
   {
+    "id": "pubmed-42557356",
+    "title": "Genomic surveillance reveals co-occurrence of Plasmodium falciparum drug resistance variants across diverse transmission settings in Ethiopia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42557356/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.4,
+    "score": 64,
+    "journal": "Nature microbiology",
+    "pubDate": "2026-08-05",
+    "authors": [
+      "Letebo A",
+      "Vanheer LN",
+      "Engdaw M",
+      "Ejigu LA",
+      "Hailu Alemayehu D",
+      "Deressa JD"
+    ],
+    "pmid": "42557356",
+    "doi": "10.1038/s41564-026-02420-5",
+    "why": "The emergence of antimalarial drug resistance threatens malaria control and elimination efforts in Africa. Ethiopia, once a success story in case reduction, is now experiencing a resurgence. Here we examine key drug resistance genes (Pfmdr1, Pfcrt, Pfk13, Pfdhfr and Pfdhps) and mitochondrial genomes from 605 Plasmodium falciparum isolates collected across 15 districts in Ethiopia with varying transmission intensity and Plasmodium vivax co-endemicity..."
+  },
+  {
     "id": "pubmed-41159566",
     "title": "The nanosd integral gene drive enables population modification of the malaria vector Anopheles gambiae.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41159566/",
@@ -718,8 +773,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.4,
-    "score": 66,
+    "ageHours": 145.4,
+    "score": 64,
     "journal": "G3 (Bethesda, Md.)",
     "pubDate": "2026-08-05",
     "authors": [
@@ -735,6 +790,79 @@ window.researchItems = [
     "why": "The modification of mosquito populations at scale through CRISPR-Cas9-mediated homing gene drives is a promising route for malaria vector control. Integral gene drives (IGDs) are designed to utilize the regulatory sequences of endogenous genes to reduce the size of the modification required for nuclease and effector expression. In this study, we describe the creation and characterization of the nanosd integral gene drive, which targets and is inserted..."
   },
   {
+    "id": "pubmed-42556607",
+    "title": "Artificial Intelligence based identification of druggability of essential hypothetical proteins in Plasmodium falciparum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556607/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.4,
+    "score": 62,
+    "journal": "Experimental parasitology",
+    "pubDate": "2026-08-05",
+    "authors": [
+      "Ray M",
+      "Dash SR",
+      "Mahapatra RK"
+    ],
+    "pmid": "42556607",
+    "doi": "10.1016/j.exppara.2026.109182",
+    "why": "Malaria, caused by Plasmodium falciparum is a deadly disease and remains a global health concern. With the emergence of resistance to artemisinin; it is pivotal to identify potential therapeutic drug targets against malaria. This study employs the use of machine learning and computational approaches to predict the druggable protein among the ∼1000 essential hypothetical genes of P. falciparum. While traditional target prioritization strategies rely on..."
+  },
+  {
+    "id": "pubmed-42556495",
+    "title": "Infectious Diseases Targeting the Adrenal Glands: A Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556495/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.4,
+    "score": 60,
+    "journal": "The American journal of medicine",
+    "pubDate": "2026-08-05",
+    "authors": [
+      "Murray HW"
+    ],
+    "pmid": "42556495",
+    "doi": "10.1016/j.amjmed.2026.07.022",
+    "why": "100 years ago in the U.S., tuberculosis was the most common cause of primary adrenal insufficiency (AI) (Addison's disease). Autoimmune adrenalitis is now responsible for 80-90% of AI in this country and Europe; nevertheless today, in the U.S. and certainly abroad, diverse infections can involve the adrenals in both the immunocompetent and immunocompromised and potentially produce AI. Such infections range widely: bacterial (e.g., Mycobacterium..."
+  },
+  {
+    "id": "pubmed-42556438",
+    "title": "Comprehensive evaluation of chloroquine-resin complexes: functional, biopharmaceutical and antimalarial performance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556438/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.4,
+    "score": 58,
+    "journal": "International journal of pharmaceutics",
+    "pubDate": "2026-08-05",
+    "authors": [
+      "Pádua TA",
+      "Passos MXV",
+      "Mascarenhas ED",
+      "M M Costa TE",
+      "Silveira GPE",
+      "Pinto DP"
+    ],
+    "pmid": "42556438",
+    "doi": "10.1016/j.ijpharm.2026.127272",
+    "why": "Malaria remains a major global health burden, especially in children under the age of five. Pediatric treatment often requires tablet fragmentation for its dose adjustment according to body weight, which intensifies bitterness and may reduce treatment adherence. Complexation of bitter-tasting drugs with ion-exchange resins for taste masking is a promising strategy to improve palatability. Here, we evaluated whether a chloroquine-resin complex (CLQ-R)..."
+  },
+  {
     "id": "pubmed-42550877",
     "title": "Does Toxoplasma gondii infection have a causal impact on human psychopathology? A Mendelian randomization analysis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42550877/",
@@ -745,8 +873,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.4,
-    "score": 98,
+    "ageHours": 169.4,
+    "score": 94,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-04",
     "authors": [
@@ -760,18 +888,44 @@ window.researchItems = [
     "why": "Toxoplasma gondii (T. gondii) is a prevalent zoonotic parasite that has been implicated in influencing human psychiatric disorders and risk-taking behaviors. Using genome-wide association study (GWAS) data, we selected 25 and 76 single-nucleotide polymorphisms as instrumental variables for anti-T. gondii IgG seropositivity and anti-T. gondii IgG levels, respectively, and conducted two-sample Mendelian randomization (MR) analyses across 18 GWAS datasets to..."
   },
   {
+    "id": "pubmed-42551453",
+    "title": "Clinical, molecular, and in vitro evidence of artemisinin partial resistance in Ethiopian Plasmodium falciparum: a prospective, multisite, surveillance study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551453/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 169.4,
+    "score": 92,
+    "journal": "The Lancet. Infectious diseases",
+    "pubDate": "2026-08-04",
+    "authors": [
+      "Chala B",
+      "Platon L",
+      "Tibiri YNG",
+      "Strubel PE",
+      "Thiebaut L",
+      "Wade A"
+    ],
+    "pmid": "42551453",
+    "doi": "10.1016/S1473-3099(26)00301-4",
+    "why": "BACKGROUND: Artemisinin partial resistance (ART-R) has been confirmed in four sub-Saharan African countries since 2020, but evidence from Ethiopia is limited to molecular surveys without phenotypic confirmation. We aimed to determine whether ART-R met WHO criteria in Ethiopian Plasmodium falciparum populations during 2024-25, integrating day-3 parasite positivity after artemether-lumefantrine treatment, Pfkelch13 genotyping, and the ring-stage survival..."
+  },
+  {
     "id": "pubmed-42546906",
     "title": "Why not now? Targeting Plasmodium falciparum histone methyltransferases for next-generation antimalarial strategies.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42546906/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.4,
+    "ageHours": 169.4,
     "score": 90,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-08-04",
@@ -795,8 +949,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.4,
-    "score": 64,
+    "ageHours": 169.4,
+    "score": 54,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-04",
     "authors": [
@@ -812,9 +966,9 @@ window.researchItems = [
     "why": "Accurate identification of Plasmodium species is essential for appropriate malaria management, particularly in cases of Plasmodium vivax (P. vivax), in which relapse prevention requires radical cure. A diagnostically challenging case of late-onset malaria in a Swedish woman presenting with tertian fever 5 months after travel to Indonesia is described. Although loop-mediated isothermal amplification repeatedly indicated Plasmodium infection, routine..."
   },
   {
-    "id": "pubmed-42551453",
-    "title": "Clinical, molecular, and in vitro evidence of artemisinin partial resistance in Ethiopian Plasmodium falciparum: a prospective, multisite, surveillance study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551453/",
+    "id": "pubmed-42551106",
+    "title": "Antiphasic Arctangent-Arccotangent (AAA) probes: A kinetically orthogonal design for single-tube, real-time, and low-crosstalk multiplex LAMP.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551106/",
     "source": "PubMed",
     "tag": "Plasmodium",
     "topics": [
@@ -822,48 +976,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.4,
-    "score": 58,
-    "journal": "The Lancet. Infectious diseases",
-    "pubDate": "2026-08-04",
+    "ageHours": 193.4,
+    "score": 90,
+    "journal": "Biosensors & bioelectronics",
+    "pubDate": "2026-08-03",
     "authors": [
-      "Chala B",
-      "Platon L",
-      "Tibiri YNG",
-      "Strubel PE",
-      "Thiebaut L",
-      "Wade A"
+      "Zhu Y",
+      "Xu X",
+      "Huang M",
+      "Chen Y",
+      "Si C",
+      "Liu J"
     ],
-    "pmid": "42551453",
-    "doi": "10.1016/S1473-3099(26)00301-4",
-    "why": "BACKGROUND: Artemisinin partial resistance (ART-R) has been confirmed in four sub-Saharan African countries since 2020, but evidence from Ethiopia is limited to molecular surveys without phenotypic confirmation. We aimed to determine whether ART-R met WHO criteria in Ethiopian Plasmodium falciparum populations during 2024-25, integrating day-3 parasite positivity after artemether-lumefantrine treatment, Pfkelch13 genotyping, and the ring-stage survival..."
-  },
-  {
-    "id": "pubmed-42550035",
-    "title": "Sero-epidemiological and functional evaluation of IgG specific for a cysteine protease inhibitor of Plasmodium falciparum, falstatin.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42550035/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 145.4,
-    "score": 54,
-    "journal": "Infection and immunity",
-    "pubDate": "2026-08-04",
-    "authors": [
-      "Bhardwaj J",
-      "Gaskin EL",
-      "Holla P",
-      "De Los Santos O",
-      "Doumbo S",
-      "Kayentao K"
-    ],
-    "pmid": "42550035",
-    "doi": "10.1128/iai.00202-26",
-    "why": "Recently approved malaria pre-erythrocytic vaccines are important public health tools for the reduction of malaria morbidity and mortality. However, these vaccines have shown reduced protection in some of the most vulnerable age groups, require multiple dosing, and have the potential for parasite escape. These limitations have motivated the development of vaccines targeting multiple stages of the parasite life cycle. To ensure a robust pipeline..."
+    "pmid": "42551106",
+    "doi": "10.1016/j.bios.2026.119092",
+    "why": "The rapid and discriminative detection of multiple pathogens is crucial for effective disease control, yet remains a significant challenge for point-of-care testing (POCT). Herein, we report a novel probe design strategy-Antiphasic Arctangent-Arccotangent (AAA) probes-for kinetically orthogonal, low-crosstalk multiplex detection in a single closed tube via loop-mediated isothermal amplification (LAMP). The AAA probe system comprises two kinetically..."
   },
   {
     "id": "pubmed-42556269",
@@ -876,8 +1003,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.4,
-    "score": 66,
+    "ageHours": 193.4,
+    "score": 56,
     "journal": "Bioorganic chemistry",
     "pubDate": "2026-08-03",
     "authors": [
@@ -900,8 +1027,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.4,
-    "score": 62,
+    "ageHours": 193.4,
+    "score": 52,
     "journal": "European journal of medicinal chemistry",
     "pubDate": "2026-08-03",
     "authors": [
@@ -915,33 +1042,6 @@ window.researchItems = [
     "why": "One of the deadliest illnesses to spread around the world is malaria, which is caused by different strains of Plasmodium. Effective antimalarial drugs have been developed using a variety of N-heterocyclic moieties. Among these, the 4-aminoquinoline scaffold is crucial for antimalarial activity, not merely because it has been widely used. 4-Aminoquinoline's low toxicity, high tolerance, and quick absorption upon addition have made it a significant..."
   },
   {
-    "id": "pubmed-42551106",
-    "title": "Antiphasic Arctangent-Arccotangent (AAA) probes: A kinetically orthogonal design for single-tube, real-time, and low-crosstalk multiplex LAMP.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551106/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 169.4,
-    "score": 56,
-    "journal": "Biosensors & bioelectronics",
-    "pubDate": "2026-08-03",
-    "authors": [
-      "Zhu Y",
-      "Xu X",
-      "Huang M",
-      "Chen Y",
-      "Si C",
-      "Liu J"
-    ],
-    "pmid": "42551106",
-    "doi": "10.1016/j.bios.2026.119092",
-    "why": "The rapid and discriminative detection of multiple pathogens is crucial for effective disease control, yet remains a significant challenge for point-of-care testing (POCT). Herein, we report a novel probe design strategy-Antiphasic Arctangent-Arccotangent (AAA) probes-for kinetically orthogonal, low-crosstalk multiplex detection in a single closed tube via loop-mediated isothermal amplification (LAMP). The AAA probe system comprises two kinetically..."
-  },
-  {
     "id": "pubmed-42569042",
     "title": "Structure-Activity Relationship Study of Antimalarial Asparagine-Derived Proteasome Inhibitors.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42569042/",
@@ -952,8 +1052,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 481.4,
-    "score": 98,
+    "ageHours": 505.4,
+    "score": 88,
     "journal": "ACS omega",
     "pubDate": "2026-07-21",
     "authors": [
@@ -979,7 +1079,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 625.4,
+    "ageHours": 649.4,
     "score": 88,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-07-15",
@@ -1004,7 +1104,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 937.4,
+    "ageHours": 961.4,
     "score": 86,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-07-02",
@@ -1031,7 +1131,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 961.4,
+    "ageHours": 985.4,
     "score": 82,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-07-01",
@@ -1058,7 +1158,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1153.4,
+    "ageHours": 1177.4,
     "score": 78,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-06-23",
@@ -1085,8 +1185,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1177.4,
-    "score": 88,
+    "ageHours": 1201.4,
+    "score": 84,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-06-22",
     "authors": [
@@ -1111,7 +1211,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1177.4,
+    "ageHours": 1201.4,
     "score": 80,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-06-22",
@@ -1138,7 +1238,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1273.4,
+    "ageHours": 1297.4,
     "score": 76,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-06-18",
@@ -1164,7 +1264,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1345.4,
+    "ageHours": 1369.4,
     "score": 74,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-06-15",
@@ -1179,5 +1279,32 @@ window.researchItems = [
     "pmid": "42294652",
     "doi": "10.1128/aac.00361-26",
     "why": "The emergence and spread of drug resistance threaten malaria control in Uganda. This study reports new data on key polymorphisms associated with antimalarial drug sensitivity at 32 malaria reference centers in Uganda in 2023 and 2024. Ten thousand thirty samples were collected from patients aged >6 months presenting with uncomplicated falciparum malaria and sequenced using the MAD4HatTeR panel and Illumina platforms; of these, 8,518 passed quality control..."
+  },
+  {
+    "id": "pubmed-41990923",
+    "title": "Differential synergistic antimalarial effects of an A. annua extract on artemisinin via host pharmacokinetic modulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41990923/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 2833.4,
+    "score": 68,
+    "journal": "Journal of ethnopharmacology",
+    "pubDate": "2026-04-15",
+    "authors": [
+      "Xu K",
+      "Xie Y",
+      "Liu T",
+      "Du S",
+      "Liu H",
+      "Xing J"
+    ],
+    "pmid": "41990923",
+    "doi": "10.1016/j.jep.2026.121688",
+    "why": "ETHNOPHARMACOLOGICAL RELEVANCE: The traditional antimalarial herb A. annua L. is not recommended for the treatment of malaria, due to the risk of subtherapeutic dose of artemisinin (ART). However, whole A. annua plant was reported to provide adequate ART exposure in healthy host. AIM OF THE STUDY: To investigate whether and how A. annua L. enhanced ART potency based on the pharmacodynamic (PD)-pharmacokinetic (PK)-metabolic study of ART in both Plasmodium..."
   }
 ];
