@@ -1,5 +1,107 @@
-window.researchLastUpdated = "2026-08-15 01:01:03 +0000";
+window.researchLastUpdated = "2026-08-16 01:04:43 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42600837",
+    "title": "Polyamine stress response in schizophrenia: A translational framework beyond monoamine-centered models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600837/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 100,
+    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "pubDate": "2026-08-14",
+    "authors": [
+      "Uzbay T"
+    ],
+    "pmid": "42600837",
+    "doi": "10.1016/j.pnpbp.2026.111894",
+    "why": "Schizophrenia treatment still relies mainly on dopamine-targeting antipsychotics, yet unmet needs remain in negative symptoms, cognition, and real-world functioning. Here, we propose the Polyamine Stress Response (PSR) as a systems-level program initiated by stress-driven resetting of intracellular polyamine pools, with downstream consequences for oxidative load, glial responses, membrane dynamics, and circuit stability. We further position PSR as a..."
+  },
+  {
+    "id": "pubmed-42600912",
+    "title": "Widespread PCR-generated chimeras confound Plasmodium species identification and zoonotic malaria surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600912/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 100,
+    "journal": "International journal for parasitology",
+    "pubDate": "2026-08-14",
+    "authors": [
+      "Sharp PM",
+      "Culleton RL",
+      "Hahn BH"
+    ],
+    "pmid": "42600912",
+    "doi": "10.1016/j.ijpara.2026.104943",
+    "why": "The polymerase chain reaction (PCR) is widely used to amplify malaria parasite DNA to diagnose Plasmodium infections, but can generate artefactual chimeric sequences through template switching. Here, we examine the occurrence and consequences of PCR-generated chimeras in studies of malaria parasites from humans, macaques and mosquitoes, and highlight two major sources of errors. First, in samples containing mixed-species infections, PCR can produce..."
+  },
+  {
+    "id": "pubmed-42600969",
+    "title": "Genetic Structure and Phylogeographic analysis of six Anopheles (Diptera: Culicidae) mosquito species Using the Mitochondrial COI Gene Marker in the Northern districts of Tamil Nadu, India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600969/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 100,
+    "journal": "Acta tropica",
+    "pubDate": "2026-08-14",
+    "authors": [
+      "Rajendran D",
+      "Vinayagam S",
+      "Sekar K",
+      "Bhowmick IP",
+      "Kaur H",
+      "Sattu K"
+    ],
+    "pmid": "42600969",
+    "doi": "10.1016/j.actatropica.2026.108281",
+    "why": "Species of Anopheles serve as the primary vectors of human malaria parasites worldwide. Accurate species identification is critical for the design and implementation of effective vector control strategies, particularly in regions where cryptic species complexes complicate surveillance and management. In this study, we examined the genetic diversity and phylogenetic relationships of six Anopheles species-An. annularis, An. pallidus, An. jamesi, An..."
+  },
+  {
+    "id": "pubmed-42600824",
+    "title": "Parasitophorous vacuole membranes of Toxoplasma gondii and Plasmodium falciparum lack the lipid asymmetry characteristic of host cell plasma membranes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600824/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 98,
+    "journal": "Biochimica et biophysica acta. Biomembranes",
+    "pubDate": "2026-08-14",
+    "authors": [
+      "Konishi R",
+      "Nakashima Y",
+      "Masatani T",
+      "Asada M",
+      "Hassan H",
+      "Fukuda K"
+    ],
+    "pmid": "42600824",
+    "doi": "10.1016/j.bbamem.2026.184567",
+    "why": "Apicomplexan parasites, including Toxoplasma gondii and Plasmodium falciparum, reside within a specialized compartment known as the parasitophorous vacuole (PV) during their intracellular life cycle. The PV membrane (PVM), which derives from the host plasma membrane upon invasion, serves as a selective barrier that permits nutrient acquisition while shielding the parasite from host defense mechanisms. Although the protein composition of the PVM has been..."
+  },
   {
     "id": "pubmed-42599396",
     "title": "Development of Semisynthetic Blasticidin S Analogs with Potent and Fast-Killing Antimalarial Activity.",
@@ -11,8 +113,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 25.0,
-    "score": 100,
+    "ageHours": 49.1,
+    "score": 96,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-08-14",
     "authors": [
@@ -38,8 +140,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 25.0,
-    "score": 90,
+    "ageHours": 49.1,
+    "score": 86,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-08-14",
     "authors": [
@@ -65,8 +167,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 25.0,
-    "score": 84,
+    "ageHours": 49.1,
+    "score": 80,
     "journal": "ChemMedChem",
     "pubDate": "2026-08-14",
     "authors": [
@@ -92,8 +194,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 100,
+    "ageHours": 73.1,
+    "score": 96,
     "journal": "Current opinion in structural biology",
     "pubDate": "2026-08-13",
     "authors": [
@@ -117,8 +219,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 100,
+    "ageHours": 73.1,
+    "score": 96,
     "journal": "Infectious diseases of poverty",
     "pubDate": "2026-08-13",
     "authors": [
@@ -145,8 +247,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 98,
+    "ageHours": 73.1,
+    "score": 94,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-08-13",
     "authors": [
@@ -173,8 +275,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 96,
+    "ageHours": 73.1,
+    "score": 92,
     "journal": "Molecular microbiology",
     "pubDate": "2026-08-13",
     "authors": [
@@ -200,8 +302,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 92,
+    "ageHours": 73.1,
+    "score": 88,
     "journal": "Science (New York, N.Y.)",
     "pubDate": "2026-08-13",
     "authors": [
@@ -223,8 +325,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 90,
+    "ageHours": 73.1,
+    "score": 86,
     "journal": "Science (New York, N.Y.)",
     "pubDate": "2026-08-13",
     "authors": [
@@ -250,8 +352,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 98,
+    "ageHours": 97.1,
+    "score": 94,
     "journal": "Acta tropica",
     "pubDate": "2026-08-12",
     "authors": [
@@ -277,8 +379,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 96,
+    "ageHours": 97.1,
+    "score": 92,
     "journal": "The Journal of biological chemistry",
     "pubDate": "2026-08-12",
     "authors": [
@@ -301,8 +403,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 94,
+    "ageHours": 97.1,
+    "score": 90,
     "journal": "The Biochemical journal",
     "pubDate": "2026-08-12",
     "authors": [
@@ -328,8 +430,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 82,
+    "ageHours": 97.1,
+    "score": 78,
     "journal": "Scientific reports",
     "pubDate": "2026-08-12",
     "authors": [
@@ -355,8 +457,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 80,
+    "ageHours": 97.1,
+    "score": 76,
     "journal": "Trends in parasitology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -379,8 +481,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 78,
+    "ageHours": 97.1,
+    "score": 74,
     "journal": "Bioorganic & medicinal chemistry letters",
     "pubDate": "2026-08-12",
     "authors": [
@@ -406,8 +508,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 76,
+    "ageHours": 97.1,
+    "score": 72,
     "journal": "Annual review of microbiology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -430,8 +532,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 74,
+    "ageHours": 97.1,
+    "score": 70,
     "journal": "PLOS global public health",
     "pubDate": "2026-08-12",
     "authors": [
@@ -457,8 +559,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 70,
+    "ageHours": 97.1,
+    "score": 66,
     "journal": "Parasitology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -480,8 +582,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 92,
+    "ageHours": 121.1,
+    "score": 88,
     "journal": "Cell",
     "pubDate": "2026-08-11",
     "authors": [
@@ -507,8 +609,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 82,
+    "ageHours": 121.1,
+    "score": 80,
     "journal": "Jornal de pediatria",
     "pubDate": "2026-08-11",
     "authors": [
@@ -533,8 +635,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 68,
+    "ageHours": 121.1,
+    "score": 64,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-08-11",
     "authors": [
@@ -560,8 +662,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 66,
+    "ageHours": 121.1,
+    "score": 62,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-08-11",
     "authors": [
@@ -587,8 +689,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 64,
+    "ageHours": 121.1,
+    "score": 60,
     "journal": "Parasitology",
     "pubDate": "2026-08-11",
     "authors": [
@@ -614,8 +716,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 94,
+    "ageHours": 145.1,
+    "score": 90,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-08-10",
     "authors": [
@@ -641,8 +743,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 90,
+    "ageHours": 145.1,
+    "score": 86,
     "journal": "Parasitology international",
     "pubDate": "2026-08-10",
     "authors": [
@@ -668,8 +770,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 88,
+    "ageHours": 145.1,
+    "score": 84,
     "journal": "Annals of African medicine",
     "pubDate": "2026-08-10",
     "authors": [
@@ -695,8 +797,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 86,
+    "ageHours": 145.1,
+    "score": 82,
     "journal": "Parasites, hosts and diseases",
     "pubDate": "2026-08-10",
     "authors": [
@@ -720,8 +822,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 72,
+    "ageHours": 145.1,
+    "score": 68,
     "journal": "Case reports in medicine",
     "pubDate": "2026-08-10",
     "authors": [
@@ -744,8 +846,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 62,
+    "ageHours": 145.1,
+    "score": 58,
     "journal": "Trends in parasitology",
     "pubDate": "2026-08-10",
     "authors": [
@@ -768,8 +870,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 60,
+    "ageHours": 145.1,
+    "score": 56,
     "journal": "RNA (New York, N.Y.)",
     "pubDate": "2026-08-10",
     "authors": [
@@ -793,8 +895,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 58,
+    "ageHours": 145.1,
+    "score": 54,
     "journal": "BMJ open",
     "pubDate": "2026-08-10",
     "authors": [
@@ -820,8 +922,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 56,
+    "ageHours": 145.1,
+    "score": 52,
     "journal": "Annals of medicine",
     "pubDate": "2026-08-10",
     "authors": [
@@ -834,86 +936,6 @@ window.researchItems = [
     "why": "BACKGROUND: The ABO blood group system is one of the most clinically significant human blood group systems and is closely associated with pathogenesis, progression, and prognosis of numerous diseases. This narrative review synthesizes recent epidemiological evidence and explores potential mechanisms linking ABO to cardiovascular diseases, malignancies, diabetes, Plasmodium falciparum malaria, COVID‑19, and rheumatic diseases. METHODS: We searched PubMed..."
   },
   {
-    "id": "pubmed-42574464",
-    "title": "Quantitative polymerase chain reaction from malaria rapid diagnostic tests to detect Borrelia crocidurae in Mali.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42574464/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 54,
-    "journal": "PLoS neglected tropical diseases",
-    "pubDate": "2026-08-10",
-    "authors": [
-      "Dembélé P",
-      "Diarra AZ",
-      "Gaye PM",
-      "Agokeng Dongmo AJ",
-      "Bing L",
-      "Thera MA"
-    ],
-    "pmid": "42574464",
-    "doi": "10.1371/journal.pntd.0014033",
-    "why": "BACKGROUND: Tick-borne relapsing fever (TBRF) is caused by Borrelia species transmitted to humans by soft ticks of the genus Ornithodoros. Very little is currently known about the morbidity of this disease in Mali, despite the risk of human co-infection with malaria. The lack of appropriate diagnostic services or technical expertise to differentiate suspected malaria from other causes of febrile illness of unknown origin means that this tick-borne disease..."
-  },
-  {
-    "id": "pubmed-42573592",
-    "title": "Coinfection of Two Endemics - Scrub Typhus and Malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573592/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 52,
-    "journal": "Annals of African medicine",
-    "pubDate": "2026-08-10",
-    "authors": [
-      "Vikhe VB",
-      "Chakraborty A",
-      "Desai I",
-      "Pranavi K",
-      "Khaire P"
-    ],
-    "pmid": "42573592",
-    "doi": "10.4103/aam.aam_278_26",
-    "why": "Malaria and scrub typhus are both significant causes of acute febrile illness in the Indian subcontinent. Due to their overlapping clinical manifestations, it can be a challenge to distinguish between the two. Coinfection, although rarely seen, may lead to greater disease severity and adverse clinical outcomes. Here, we report a rare occurrence of malaria and scrub typhus coinfection and its presentation."
-  },
-  {
-    "id": "pubmed-42565651",
-    "title": "Live-attenuated Toxoplasma gondii RHΔddx6 mutant establishes comprehensive immunity against acute, chronic, and congenital toxoplasmosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42565651/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 193.0,
-    "score": 84,
-    "journal": "Virulence",
-    "pubDate": "2026-08-07",
-    "authors": [
-      "Yang Z",
-      "Wang J",
-      "Wu J",
-      "Fan Y",
-      "Ying T",
-      "Zhang H"
-    ],
-    "pmid": "42565651",
-    "doi": "10.1080/21505594.2026.2713823",
-    "why": "Toxoplasma gondii is an obligate intracellular parasite causing severe disease in immunocompromised individuals and congenitally infected infants. Despite decades of research, no licensed human vaccine exists. This study evaluates a novel live-attenuated vaccine candidate based on depletion of DDX6, a conserved DEAD-box RNA helicase involved in post-transcriptional gene regulation. A Δddx6 strain was generated in the type I virulent RH strain using..."
-  },
-  {
     "id": "pubmed-42597946",
     "title": "Identification of a Novel 1,3,4-Thiadiazole-Based Scaffold as a Plasmepsin V Inhibitor.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42597946/",
@@ -924,8 +946,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 385.0,
-    "score": 98,
+    "ageHours": 409.1,
+    "score": 94,
     "journal": "ACS omega",
     "pubDate": "2026-07-30",
     "authors": [
@@ -951,8 +973,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 601.0,
-    "score": 92,
+    "ageHours": 625.1,
+    "score": 88,
     "journal": "mBio",
     "pubDate": "2026-07-21",
     "authors": [
@@ -978,8 +1000,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 793.0,
-    "score": 80,
+    "ageHours": 817.1,
+    "score": 78,
     "journal": "RSC advances",
     "pubDate": "2026-07-13",
     "authors": [
@@ -1005,8 +1027,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1561.0,
-    "score": 78,
+    "ageHours": 1585.1,
+    "score": 76,
     "journal": "Vaccine",
     "pubDate": "2026-06-11",
     "authors": [
@@ -1030,8 +1052,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2929.0,
-    "score": 88,
+    "ageHours": 2953.1,
+    "score": 84,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-04-15",
     "authors": [
