@@ -1,5 +1,106 @@
-window.researchLastUpdated = "2026-08-17 01:02:18 +0000";
+window.researchLastUpdated = "2026-08-18 01:00:13 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42606941",
+    "title": "Photopenic PET in toxoplasmosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606941/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.0,
+    "score": 100,
+    "journal": "QJM : monthly journal of the Association of Physicians",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Gupta N",
+      "Malapure SS",
+      "Varma M",
+      "Tirlangi PK"
+    ],
+    "pmid": "42606941",
+    "doi": "10.1093/qjmed/hcag214",
+    "why": "PubMed 暂无摘要。"
+  },
+  {
+    "id": "pubmed-42606671",
+    "title": "Delayed diagnosis of Plasmodium vivax malaria and associated factors among Thai patients and patients from neighboring countries at the Hospital for Tropical Diseases, Bangkok, Thailand.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606671/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.0,
+    "score": 100,
+    "journal": "Infection",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Charoensakulchai S",
+      "Tangpukdee N",
+      "Wilairatana P",
+      "Krudsood S",
+      "Chancharoenthana W",
+      "Muangnoicharoen S"
+    ],
+    "pmid": "42606671",
+    "doi": "10.1007/s15010-026-02930-8",
+    "why": "PURPOSE: Plasmodium vivax is the predominant malaria species in Southeast Asia, yet diagnosis may be delayed in non-endemic urban settings where clinicians encounter malaria infrequently. This study described patient characteristics and identified factors associated with delayed diagnosis of P. vivax malaria at the Hospital for Tropical Diseases (HTD), Bangkok, Thailand. METHODS: A retrospective study was conducted among patients admitted with P. vivax..."
+  },
+  {
+    "id": "pubmed-42606125",
+    "title": "Monoclonal antibody CIS43LS sets the bar for long-acting malaria protection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606125/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.0,
+    "score": 98,
+    "journal": "The Journal of clinical investigation",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Sullivan DJ"
+    ],
+    "pmid": "42606125",
+    "doi": "10.1172/JCI209790",
+    "why": "Monoclonal antibodies (mAbs) targeting Plasmodium falciparum epitopes aim to address gaps in malaria prevention, with potential to profoundly impact high-risk populations. In this issue of the JCI, Tran et al. performed pharmacokinetic and pharmacodynamic analyses on the mAb CIS43LS, which targets a unique conserved hinge region on the sporozoite protein CSP and previously demonstrated a high level of durable protection in controlled human malaria..."
+  },
+  {
+    "id": "pubmed-42604975",
+    "title": "Malaria Transmission Via Needle Stick Injury: A Case Report and Systematic Review of the Literature.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604975/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 25.0,
+    "score": 96,
+    "journal": "The Pediatric infectious disease journal",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Malek M",
+      "Rothensteiner M",
+      "Rumelhart F",
+      "Ulrich P",
+      "Heimbach-Weber Y",
+      "Baier-Grabner S"
+    ],
+    "pmid": "42604975",
+    "doi": "10.1097/INF.0000000000005376",
+    "why": "We present the case of an 11-year-old boy with severe Plasmodium falciparum malaria, whose attending doctor sustained a needle stick injury (NSI) during phlebotomy. We also report the findings of a systematic literature review of papers describing malaria transmission to healthcare professionals via sharps injuries or blood spillage. In total, we identified 22 case reports published in peer-reviewed journals over the last 55 years, comprising 15..."
+  },
   {
     "id": "pubmed-42603787",
     "title": "Correction: Nephrolithiasis associated with sulfadiazine therapy in an infant with congenital toxoplasmosis: a case report.",
@@ -11,8 +112,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 100,
+    "ageHours": 73.0,
+    "score": 98,
     "journal": "BMC pediatrics",
     "pubDate": "2026-08-15",
     "authors": [
@@ -34,8 +135,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.0,
-    "score": 100,
+    "ageHours": 73.0,
+    "score": 94,
     "journal": "Developmental and comparative immunology",
     "pubDate": "2026-08-15",
     "authors": [
@@ -61,7 +162,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
+    "ageHours": 97.0,
     "score": 100,
     "journal": "Acta tropica",
     "pubDate": "2026-08-14",
@@ -78,28 +179,6 @@ window.researchItems = [
     "why": "Species of Anopheles serve as the primary vectors of human malaria parasites worldwide. Accurate species identification is critical for the design and implementation of effective vector control strategies, particularly in regions where cryptic species complexes complicate surveillance and management. In this study, we examined the genetic diversity and phylogenetic relationships of six Anopheles species-An. annularis, An. pallidus, An. jamesi, An..."
   },
   {
-    "id": "pubmed-42600837",
-    "title": "Polyamine stress response in schizophrenia: A translational framework beyond monoamine-centered models.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42600837/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 98,
-    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
-    "pubDate": "2026-08-14",
-    "authors": [
-      "Uzbay T"
-    ],
-    "pmid": "42600837",
-    "doi": "10.1016/j.pnpbp.2026.111894",
-    "why": "Schizophrenia treatment still relies mainly on dopamine-targeting antipsychotics, yet unmet needs remain in negative symptoms, cognition, and real-world functioning. Here, we propose the Polyamine Stress Response (PSR) as a systems-level program initiated by stress-driven resetting of intracellular polyamine pools, with downstream consequences for oxidative load, glial responses, membrane dynamics, and circuit stability. We further position PSR as a..."
-  },
-  {
     "id": "pubmed-42600912",
     "title": "Widespread PCR-generated chimeras confound Plasmodium species identification and zoonotic malaria surveillance.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42600912/",
@@ -111,7 +190,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
+    "ageHours": 97.0,
     "score": 98,
     "journal": "International journal for parasitology",
     "pubDate": "2026-08-14",
@@ -125,6 +204,28 @@ window.researchItems = [
     "why": "The polymerase chain reaction (PCR) is widely used to amplify malaria parasite DNA to diagnose Plasmodium infections, but can generate artefactual chimeric sequences through template switching. Here, we examine the occurrence and consequences of PCR-generated chimeras in studies of malaria parasites from humans, macaques and mosquitoes, and highlight two major sources of errors. First, in samples containing mixed-species infections, PCR can produce..."
   },
   {
+    "id": "pubmed-42600837",
+    "title": "Polyamine stress response in schizophrenia: A translational framework beyond monoamine-centered models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600837/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 97.0,
+    "score": 96,
+    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "pubDate": "2026-08-14",
+    "authors": [
+      "Uzbay T"
+    ],
+    "pmid": "42600837",
+    "doi": "10.1016/j.pnpbp.2026.111894",
+    "why": "Schizophrenia treatment still relies mainly on dopamine-targeting antipsychotics, yet unmet needs remain in negative symptoms, cognition, and real-world functioning. Here, we propose the Polyamine Stress Response (PSR) as a systems-level program initiated by stress-driven resetting of intracellular polyamine pools, with downstream consequences for oxidative load, glial responses, membrane dynamics, and circuit stability. We further position PSR as a..."
+  },
+  {
     "id": "pubmed-42600824",
     "title": "Parasitophorous vacuole membranes of Toxoplasma gondii and Plasmodium falciparum lack the lipid asymmetry characteristic of host cell plasma membranes.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42600824/",
@@ -136,8 +237,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 96,
+    "ageHours": 97.0,
+    "score": 94,
     "journal": "Biochimica et biophysica acta. Biomembranes",
     "pubDate": "2026-08-14",
     "authors": [
@@ -163,8 +264,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 94,
+    "ageHours": 97.0,
+    "score": 88,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-08-14",
     "authors": [
@@ -190,7 +291,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
+    "ageHours": 97.0,
     "score": 86,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-08-14",
@@ -217,8 +318,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.0,
-    "score": 78,
+    "ageHours": 97.0,
+    "score": 72,
     "journal": "ChemMedChem",
     "pubDate": "2026-08-14",
     "authors": [
@@ -244,7 +345,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
+    "ageHours": 121.0,
     "score": 96,
     "journal": "Infectious diseases of poverty",
     "pubDate": "2026-08-13",
@@ -261,31 +362,6 @@ window.researchItems = [
     "why": "BACKGROUND: Emerging Plasmodium falciparum resistance to artemisinin derivatives, mediated principally by mutations in the Pfkelch13 propeller domain, is reshaping the antimalarial therapeutic landscape across sub-Saharan Africa and the Greater Mekong subregion. Concurrently, whole-plant Artemisia annua herbal tea has re-emerged in malaria-endemic settings, prompting renewed scrutiny of its phytochemical matrix and its clinical performance relative to..."
   },
   {
-    "id": "pubmed-42594593",
-    "title": "Recent advances in cryoelectron tomography and applications to parasitology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594593/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma",
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 94,
-    "journal": "Current opinion in structural biology",
-    "pubDate": "2026-08-13",
-    "authors": [
-      "Coudray N",
-      "Ekiert DC",
-      "Bhabha G"
-    ],
-    "pmid": "42594593",
-    "doi": "10.1016/j.sbi.2026.103357",
-    "why": "Cryo-electron tomography (cryo-ET) has emerged as a transformative technique for visualizing the native ultrastructure of eukaryotic parasites, from proteins to cellular architecture. Recent technical advances in sample preparation, data collection, and computational analysis have enabled unprecedented insights into structural cell biology of medically important pathogens including Toxoplasma gondii, Plasmodium falciparum, Trypanosoma brucei and..."
-  },
-  {
     "id": "pubmed-42594155",
     "title": "Human mobility and the dispersal of malaria parasite lineages in the main transmission hotspot of Brazil.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42594155/",
@@ -297,7 +373,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
+    "ageHours": 121.0,
     "score": 94,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-08-13",
@@ -314,6 +390,31 @@ window.researchItems = [
     "why": "BACKGROUND: Despite continued control efforts, malaria due to Plasmodium vivax and P. falciparum remains endemic across the Amazon Basin. Here, we sought to understand how malaria parasites spread between sources and sinks within the upper Juruá Valley region of northwestern Brazil, the country's main residual transmission hotspot, to inform more effective control and elimination strategies. METHODS: We combined the analysis of nearly 70,000 case..."
   },
   {
+    "id": "pubmed-42594593",
+    "title": "Recent advances in cryoelectron tomography and applications to parasitology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42594593/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 121.0,
+    "score": 92,
+    "journal": "Current opinion in structural biology",
+    "pubDate": "2026-08-13",
+    "authors": [
+      "Coudray N",
+      "Ekiert DC",
+      "Bhabha G"
+    ],
+    "pmid": "42594593",
+    "doi": "10.1016/j.sbi.2026.103357",
+    "why": "Cryo-electron tomography (cryo-ET) has emerged as a transformative technique for visualizing the native ultrastructure of eukaryotic parasites, from proteins to cellular architecture. Recent technical advances in sample preparation, data collection, and computational analysis have enabled unprecedented insights into structural cell biology of medically important pathogens including Toxoplasma gondii, Plasmodium falciparum, Trypanosoma brucei and..."
+  },
+  {
     "id": "pubmed-42591034",
     "title": "Characterization of Sec14 Domain-Containing Proteins in the Malaria Parasite Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42591034/",
@@ -325,7 +426,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
+    "ageHours": 121.0,
     "score": 92,
     "journal": "Molecular microbiology",
     "pubDate": "2026-08-13",
@@ -352,8 +453,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 86,
+    "ageHours": 121.0,
+    "score": 80,
     "journal": "Science (New York, N.Y.)",
     "pubDate": "2026-08-13",
     "authors": [
@@ -375,8 +476,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.0,
-    "score": 84,
+    "ageHours": 121.0,
+    "score": 78,
     "journal": "Science (New York, N.Y.)",
     "pubDate": "2026-08-13",
     "authors": [
@@ -402,8 +503,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 92,
+    "ageHours": 145.0,
+    "score": 90,
     "journal": "Acta tropica",
     "pubDate": "2026-08-12",
     "authors": [
@@ -429,8 +530,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 90,
+    "ageHours": 145.0,
+    "score": 88,
     "journal": "The Journal of biological chemistry",
     "pubDate": "2026-08-12",
     "authors": [
@@ -453,8 +554,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 88,
+    "ageHours": 145.0,
+    "score": 86,
     "journal": "The Biochemical journal",
     "pubDate": "2026-08-12",
     "authors": [
@@ -480,8 +581,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 76,
+    "ageHours": 145.0,
+    "score": 70,
     "journal": "Scientific reports",
     "pubDate": "2026-08-12",
     "authors": [
@@ -507,8 +608,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 74,
+    "ageHours": 145.0,
+    "score": 68,
     "journal": "Trends in parasitology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -531,8 +632,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 72,
+    "ageHours": 145.0,
+    "score": 66,
     "journal": "Bioorganic & medicinal chemistry letters",
     "pubDate": "2026-08-12",
     "authors": [
@@ -558,8 +659,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 70,
+    "ageHours": 145.0,
+    "score": 64,
     "journal": "Annual review of microbiology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -582,8 +683,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 68,
+    "ageHours": 145.0,
+    "score": 62,
     "journal": "PLOS global public health",
     "pubDate": "2026-08-12",
     "authors": [
@@ -609,8 +710,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.0,
-    "score": 64,
+    "ageHours": 145.0,
+    "score": 58,
     "journal": "Parasitology",
     "pubDate": "2026-08-12",
     "authors": [
@@ -632,8 +733,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.0,
-    "score": 86,
+    "ageHours": 169.0,
+    "score": 84,
     "journal": "Cell",
     "pubDate": "2026-08-11",
     "authors": [
@@ -659,8 +760,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.0,
-    "score": 78,
+    "ageHours": 169.0,
+    "score": 76,
     "journal": "Jornal de pediatria",
     "pubDate": "2026-08-11",
     "authors": [
@@ -685,8 +786,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.0,
-    "score": 62,
+    "ageHours": 169.0,
+    "score": 56,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-08-11",
     "authors": [
@@ -712,8 +813,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.0,
-    "score": 60,
+    "ageHours": 169.0,
+    "score": 54,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-08-11",
     "authors": [
@@ -739,8 +840,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.0,
-    "score": 58,
+    "ageHours": 169.0,
+    "score": 52,
     "journal": "Parasitology",
     "pubDate": "2026-08-11",
     "authors": [
@@ -766,7 +867,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.0,
+    "ageHours": 193.0,
     "score": 90,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-08-10",
@@ -793,8 +894,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 84,
+    "ageHours": 193.0,
+    "score": 82,
     "journal": "Parasitology international",
     "pubDate": "2026-08-10",
     "authors": [
@@ -820,8 +921,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 82,
+    "ageHours": 193.0,
+    "score": 80,
     "journal": "Annals of African medicine",
     "pubDate": "2026-08-10",
     "authors": [
@@ -847,8 +948,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 80,
+    "ageHours": 193.0,
+    "score": 78,
     "journal": "Parasites, hosts and diseases",
     "pubDate": "2026-08-10",
     "authors": [
@@ -872,8 +973,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 66,
+    "ageHours": 193.0,
+    "score": 60,
     "journal": "Case reports in medicine",
     "pubDate": "2026-08-10",
     "authors": [
@@ -886,82 +987,6 @@ window.researchItems = [
     "why": "Collapsing glomerulopathy is a severe form of focal segmental glomerulosclerosis (FSGS) that can occur as a primary or secondary condition, often in the context of infections such as HIV. Multiple myeloma can cause kidney injury through mechanisms such as cast nephropathy, while malaria-associated kidney injury is most often due to acute tubular necrosis. We present the case of a 47-year-old male of African descent with well-controlled HIV infection who..."
   },
   {
-    "id": "pubmed-42575791",
-    "title": "Evidence for the multistage malaria vaccine gamble.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575791/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 56,
-    "journal": "Trends in parasitology",
-    "pubDate": "2026-08-10",
-    "authors": [
-      "Joyner CJ",
-      "Vivas AR",
-      "Cheng WT"
-    ],
-    "pmid": "42575791",
-    "doi": "10.1016/j.pt.2026.07.014",
-    "why": "New vaccines to reduce disease and mortality caused by Plasmodium falciparum malaria are urgently needed. Most vaccines target a single life-cycle stage and confer modest protection. Kirtley et al. test whether multistage immunity can improve protection and provide some of the first evidence that 'multistage' vaccines should be pursued."
-  },
-  {
-    "id": "pubmed-42575702",
-    "title": "Sense-Antisense RNA duplexes mediate stress-responsive translational control in Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575702/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 54,
-    "journal": "RNA (New York, N.Y.)",
-    "pubDate": "2026-08-10",
-    "authors": [
-      "Malhotra R",
-      "Pandit K",
-      "Malhotra P",
-      "Karmodiya K"
-    ],
-    "pmid": "42575702",
-    "doi": "10.1261/rna.081149.126",
-    "why": "Plasmodium falciparum, the primary cause of human malaria, relies on tightly coordinated gene-expression programs to adapt to host-derived stress despite possessing a limited repertoire of canonical transcription factors. Antisense long noncoding RNAs have emerged as important regulators of parasite biology, including virulence gene regulation and sexual commitment; however, their prevalence, origin, and broader functional significance remain poorly..."
-  },
-  {
-    "id": "pubmed-42575554",
-    "title": "Dissemination of trial results to study participants in Cambodia, Ethiopia and Pakistan: a qualitative study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575554/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 169.0,
-    "score": 52,
-    "journal": "BMJ open",
-    "pubDate": "2026-08-10",
-    "authors": [
-      "Cassidy-Seyoum SA",
-      "Adhikari B",
-      "Mwaura M",
-      "Khan A",
-      "Zaidi SE",
-      "Azizullah Z"
-    ],
-    "pmid": "42575554",
-    "doi": "10.1136/bmjopen-2026-119698",
-    "why": "OBJECTIVES: Dissemination of study results to research participants is an ethical imperative, yet it is rarely implemented in resource-limited settings partly due to a lack of clear guidance. The purpose of this study was to evaluate and explore dissemination activities that were conducted as part of a multi-site clinical trial of Plasmodium vivax treatment options, informing future dissemination strategies in similar resource-limited settings. DESIGN..."
-  },
-  {
     "id": "pubmed-42597946",
     "title": "Identification of a Novel 1,3,4-Thiadiazole-Based Scaffold as a Plasmepsin V Inhibitor.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42597946/",
@@ -972,8 +997,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 433.0,
-    "score": 92,
+    "ageHours": 457.0,
+    "score": 86,
     "journal": "ACS omega",
     "pubDate": "2026-07-30",
     "authors": [
@@ -999,7 +1024,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 649.0,
+    "ageHours": 673.0,
     "score": 88,
     "journal": "mBio",
     "pubDate": "2026-07-21",
@@ -1026,8 +1051,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 841.0,
-    "score": 76,
+    "ageHours": 865.0,
+    "score": 74,
     "journal": "RSC advances",
     "pubDate": "2026-07-13",
     "authors": [
@@ -1053,8 +1078,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1609.0,
-    "score": 74,
+    "ageHours": 1633.0,
+    "score": 72,
     "journal": "Vaccine",
     "pubDate": "2026-06-11",
     "authors": [
@@ -1078,7 +1103,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2977.0,
+    "ageHours": 3001.0,
     "score": 84,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-04-15",

@@ -1,8 +1,17 @@
-# PubMed Research Feed — 2026-08-17 01:02:18 +0000
+# PubMed Research Feed — 2026-08-18 01:00:13 +0000
 
-共 **42** 篇文章（Toxoplasma 14 · Plasmodium 25 · Malaria parasite 9）
+共 **43** 篇文章（Toxoplasma 15 · Plasmodium 25 · Malaria parasite 9）
 
 ---
+
+## 2026-08-17
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Photopenic PET in toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42606941/) | QJM : monthly journal of the Association of Physicians | Toxoplasma | [10.1093/qjmed/hcag214](https://doi.org/10.1093/qjmed/hcag214) |
+| 2 | [Delayed diagnosis of Plasmodium vivax malaria and associated factors among Thai patients and patients from neighboring countries at the Hospital for Tropical Diseases, Bangkok, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42606671/) | Infection | Plasmodium | [10.1007/s15010-026-02930-8](https://doi.org/10.1007/s15010-026-02930-8) |
+| 3 | [Monoclonal antibody CIS43LS sets the bar for long-acting malaria protection.](https://pubmed.ncbi.nlm.nih.gov/42606125/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI209790](https://doi.org/10.1172/JCI209790) |
+| 4 | [Malaria Transmission Via Needle Stick Injury: A Case Report and Systematic Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/42604975/) | The Pediatric infectious disease journal | Plasmodium | [10.1097/INF.0000000000005376](https://doi.org/10.1097/INF.0000000000005376) |
 
 ## 2026-08-15
 
@@ -16,8 +25,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Genetic Structure and Phylogeographic analysis of six Anopheles (Diptera: Culicidae) mosquito species Using the Mitochondrial COI Gene Marker in the Northern districts of Tamil Nadu, India.](https://pubmed.ncbi.nlm.nih.gov/42600969/) | Acta tropica | Malaria parasite | [10.1016/j.actatropica.2026.108281](https://doi.org/10.1016/j.actatropica.2026.108281) |
-| 2 | [Polyamine stress response in schizophrenia: A translational framework beyond monoamine-centered models.](https://pubmed.ncbi.nlm.nih.gov/42600837/) | Progress in neuro-psychopharmacology & biological psychiatry | Toxoplasma | [10.1016/j.pnpbp.2026.111894](https://doi.org/10.1016/j.pnpbp.2026.111894) |
-| 3 | [Widespread PCR-generated chimeras confound Plasmodium species identification and zoonotic malaria surveillance.](https://pubmed.ncbi.nlm.nih.gov/42600912/) | International journal for parasitology | Plasmodium · Malaria parasite | [10.1016/j.ijpara.2026.104943](https://doi.org/10.1016/j.ijpara.2026.104943) |
+| 2 | [Widespread PCR-generated chimeras confound Plasmodium species identification and zoonotic malaria surveillance.](https://pubmed.ncbi.nlm.nih.gov/42600912/) | International journal for parasitology | Plasmodium · Malaria parasite | [10.1016/j.ijpara.2026.104943](https://doi.org/10.1016/j.ijpara.2026.104943) |
+| 3 | [Polyamine stress response in schizophrenia: A translational framework beyond monoamine-centered models.](https://pubmed.ncbi.nlm.nih.gov/42600837/) | Progress in neuro-psychopharmacology & biological psychiatry | Toxoplasma | [10.1016/j.pnpbp.2026.111894](https://doi.org/10.1016/j.pnpbp.2026.111894) |
 | 4 | [Parasitophorous vacuole membranes of Toxoplasma gondii and Plasmodium falciparum lack the lipid asymmetry characteristic of host cell plasma membranes.](https://pubmed.ncbi.nlm.nih.gov/42600824/) | Biochimica et biophysica acta. Biomembranes | Toxoplasma · Plasmodium | [10.1016/j.bbamem.2026.184567](https://doi.org/10.1016/j.bbamem.2026.184567) |
 | 5 | [Development of Semisynthetic Blasticidin S Analogs with Potent and Fast-Killing Antimalarial Activity.](https://pubmed.ncbi.nlm.nih.gov/42599396/) | ACS infectious diseases | Plasmodium | [10.1021/acsinfecdis.6c00362](https://doi.org/10.1021/acsinfecdis.6c00362) |
 | 6 | [2-Amino-3,4-Dihydroquinazolines Exhibit Potent Antimalarial Activity by Targeting Plasmepsin X.](https://pubmed.ncbi.nlm.nih.gov/42424440/) | ACS infectious diseases | Malaria parasite | [10.1021/acsinfecdis.6c00258](https://doi.org/10.1021/acsinfecdis.6c00258) |
@@ -28,8 +37,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Phytochemical synergy in artemisia annua herbal tea against malaria: a systematic review of its efficacy and safety in the context of emerging Pfkelch13 resistance.](https://pubmed.ncbi.nlm.nih.gov/42596018/) | Infectious diseases of poverty | Plasmodium · Malaria parasite | [10.1186/s40249-026-01486-x](https://doi.org/10.1186/s40249-026-01486-x) |
-| 2 | [Recent advances in cryoelectron tomography and applications to parasitology.](https://pubmed.ncbi.nlm.nih.gov/42594593/) | Current opinion in structural biology | Toxoplasma · Plasmodium | [10.1016/j.sbi.2026.103357](https://doi.org/10.1016/j.sbi.2026.103357) |
-| 3 | [Human mobility and the dispersal of malaria parasite lineages in the main transmission hotspot of Brazil.](https://pubmed.ncbi.nlm.nih.gov/42594155/) | The Journal of infectious diseases | Plasmodium · Malaria parasite | [10.1093/infdis/jiag425](https://doi.org/10.1093/infdis/jiag425) |
+| 2 | [Human mobility and the dispersal of malaria parasite lineages in the main transmission hotspot of Brazil.](https://pubmed.ncbi.nlm.nih.gov/42594155/) | The Journal of infectious diseases | Plasmodium · Malaria parasite | [10.1093/infdis/jiag425](https://doi.org/10.1093/infdis/jiag425) |
+| 3 | [Recent advances in cryoelectron tomography and applications to parasitology.](https://pubmed.ncbi.nlm.nih.gov/42594593/) | Current opinion in structural biology | Toxoplasma · Plasmodium | [10.1016/j.sbi.2026.103357](https://doi.org/10.1016/j.sbi.2026.103357) |
 | 4 | [Characterization of Sec14 Domain-Containing Proteins in the Malaria Parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42591034/) | Molecular microbiology | Plasmodium · Malaria parasite | [10.1111/mmi.70107](https://doi.org/10.1111/mmi.70107) |
 | 5 | [A boost for chemical vaccination against malaria.](https://pubmed.ncbi.nlm.nih.gov/42594217/) | Science (New York, N.Y.) | Plasmodium | [10.1126/science.aek0196](https://doi.org/10.1126/science.aek0196) |
 | 6 | [Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria.](https://pubmed.ncbi.nlm.nih.gov/42594189/) | Science (New York, N.Y.) | Plasmodium | [10.1126/science.aea7605](https://doi.org/10.1126/science.aea7605) |
@@ -67,9 +76,6 @@
 | 3 | [Seroprevalence Study of Toxoplasma gondii Infection in Psychiatric and Neurological Disorders.](https://pubmed.ncbi.nlm.nih.gov/42573574/) | Annals of African medicine | Toxoplasma | [10.4103/aam.aam_76_26](https://doi.org/10.4103/aam.aam_76_26) |
 | 4 | [Toxoplasma gondii GRA16 enhances the inhibitory effects of standard DNA-damaging chemotherapeutics in liver, pancreatic, and colorectal cancer cells.](https://pubmed.ncbi.nlm.nih.gov/42572489/) | Parasites, hosts and diseases | Toxoplasma | [10.3347/PHD.26019](https://doi.org/10.3347/PHD.26019) |
 | 5 | [Collapsing Glomerulopathy in a Patient With Malaria and Multiple Myeloma: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42582444/) | Case reports in medicine | Plasmodium | [10.1155/carm/9149610](https://doi.org/10.1155/carm/9149610) |
-| 6 | [Evidence for the multistage malaria vaccine gamble.](https://pubmed.ncbi.nlm.nih.gov/42575791/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.07.014](https://doi.org/10.1016/j.pt.2026.07.014) |
-| 7 | [Sense-Antisense RNA duplexes mediate stress-responsive translational control in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42575702/) | RNA (New York, N.Y.) | Plasmodium | [10.1261/rna.081149.126](https://doi.org/10.1261/rna.081149.126) |
-| 8 | [Dissemination of trial results to study participants in Cambodia, Ethiopia and Pakistan: a qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42575554/) | BMJ open | Plasmodium | [10.1136/bmjopen-2026-119698](https://doi.org/10.1136/bmjopen-2026-119698) |
 
 ## 2026-07-30
 
