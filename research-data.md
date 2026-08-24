@@ -1,8 +1,15 @@
-# PubMed Research Feed — 2026-08-23 01:06:08 +0000
+# PubMed Research Feed — 2026-08-24 01:03:40 +0000
 
-共 **31** 篇文章（Plasmodium 24 · Malaria parasite 7 · Toxoplasma 6）
+共 **33** 篇文章（Plasmodium 24 · Toxoplasma 8 · Malaria parasite 7）
 
 ---
+
+## 2026-08-22
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [The promise of monoclonal antibody interventions in malaria: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42632421/) | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | Plasmodium | [10.1016/j.cmi.2026.08.023](https://doi.org/10.1016/j.cmi.2026.08.023) |
+| 2 | [Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.](https://pubmed.ncbi.nlm.nih.gov/42632587/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108294](https://doi.org/10.1016/j.actatropica.2026.108294) |
 
 ## 2026-08-21
 
@@ -36,32 +43,32 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.](https://pubmed.ncbi.nlm.nih.gov/42608556/) | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | Toxoplasma | [10.1007/s00011-026-02344-0](https://doi.org/10.1007/s00011-026-02344-0) |
+| 1 | [Seroprevalence of toxoplasmosis, rubella, cytomegalovirus, herpes simplex, and syphilis infections among pregnant women and infants in Malaysia: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42633421/) | PeerJ | Toxoplasma | [10.7717/peerj.21632](https://doi.org/10.7717/peerj.21632) |
 | 2 | [The malaria parasite Plasmodium falciparum Vps15 is a Phosphatidylinositol 3-kinase interactor important for host-cell cytosol delivery to the food vacuole and apicoplast and mitochondrion dynamics.](https://pubmed.ncbi.nlm.nih.gov/42611934/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014526](https://doi.org/10.1371/journal.ppat.1014526) |
-| 3 | [Integrated molecular docking, toxicity prediction, and molecular dynamics simulations studies to identify potential antimalarial candidates targeting enoyl-acyl carrier protein reductase enzyme.](https://pubmed.ncbi.nlm.nih.gov/42614364/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00637-0](https://doi.org/10.1007/s40203-026-00637-0) |
-| 4 | [Pan-African hybridization of PfSPZ increases antigenic diversity and replicative capacity for malaria vaccine design.](https://pubmed.ncbi.nlm.nih.gov/42611549/) | JCI insight | Plasmodium | [10.1172/jci.insight.207272](https://doi.org/10.1172/jci.insight.207272) |
+| 3 | [Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.](https://pubmed.ncbi.nlm.nih.gov/42608556/) | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | Toxoplasma | [10.1007/s00011-026-02344-0](https://doi.org/10.1007/s00011-026-02344-0) |
+| 4 | [Integrated molecular docking, toxicity prediction, and molecular dynamics simulations studies to identify potential antimalarial candidates targeting enoyl-acyl carrier protein reductase enzyme.](https://pubmed.ncbi.nlm.nih.gov/42614364/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00637-0](https://doi.org/10.1007/s40203-026-00637-0) |
+| 5 | [Pan-African hybridization of PfSPZ increases antigenic diversity and replicative capacity for malaria vaccine design.](https://pubmed.ncbi.nlm.nih.gov/42611549/) | JCI insight | Plasmodium | [10.1172/jci.insight.207272](https://doi.org/10.1172/jci.insight.207272) |
 
 ## 2026-08-17
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Fatal cerebral toxoplasmosis in a patient with multiple sclerosis treated with natalizumab.](https://pubmed.ncbi.nlm.nih.gov/42608816/) | Multiple sclerosis (Houndmills, Basingstoke, England) | Toxoplasma | [10.1177/13524585261477217](https://doi.org/10.1177/13524585261477217) |
-| 2 | [Quantification of Parasite Load in Macrophage Cells and Spleen Tissue of Infected Mice in Acute Toxoplasmosis Following Treatment with Rosuvastatin-Loaded Chitosan Nanoparticles Using Real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42607938/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108781](https://doi.org/10.1016/j.micpath.2026.108781) |
-| 3 | [Photopenic PET in toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42606941/) | QJM : monthly journal of the Association of Physicians | Toxoplasma | [10.1093/qjmed/hcag214](https://doi.org/10.1093/qjmed/hcag214) |
-| 4 | [Emergence and spread of Plasmodium falciparum PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42608602/) | Nature medicine | Plasmodium · Malaria parasite | [10.1038/s41591-026-04590-5](https://doi.org/10.1038/s41591-026-04590-5) |
-| 5 | [Protein landscape of the chromatin domains in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42607679/) | Cell host & microbe | Plasmodium · Malaria parasite | [10.1016/j.chom.2026.07.016](https://doi.org/10.1016/j.chom.2026.07.016) |
+| 2 | [Emergence and spread of Plasmodium falciparum PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42608602/) | Nature medicine | Plasmodium · Malaria parasite | [10.1038/s41591-026-04590-5](https://doi.org/10.1038/s41591-026-04590-5) |
+| 3 | [Quantification of Parasite Load in Macrophage Cells and Spleen Tissue of Infected Mice in Acute Toxoplasmosis Following Treatment with Rosuvastatin-Loaded Chitosan Nanoparticles Using Real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42607938/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108781](https://doi.org/10.1016/j.micpath.2026.108781) |
+| 4 | [Protein landscape of the chromatin domains in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42607679/) | Cell host & microbe | Plasmodium · Malaria parasite | [10.1016/j.chom.2026.07.016](https://doi.org/10.1016/j.chom.2026.07.016) |
+| 5 | [Photopenic PET in toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42606941/) | QJM : monthly journal of the Association of Physicians | Toxoplasma | [10.1093/qjmed/hcag214](https://doi.org/10.1093/qjmed/hcag214) |
 | 6 | [Vitamin B1-catalyzed green synthesis and antiplasmodial evaluation of 2-amino-7-hydroxy-4-aryl-4H-chromene-3-carbonitrile derivatives: computational insights into putative PfNDH2 targeting.](https://pubmed.ncbi.nlm.nih.gov/42610053/) | RSC advances | Plasmodium | [10.1039/d6ra05079d](https://doi.org/10.1039/d6ra05079d) |
 | 7 | [Potential Targets of Naturally Acquired Plasmodium vivax Transmission - Reducing Antibodies.](https://pubmed.ncbi.nlm.nih.gov/42607960/) | The Journal of infection | Plasmodium | [10.1016/j.jinf.2026.106833](https://doi.org/10.1016/j.jinf.2026.106833) |
 | 8 | [Delayed diagnosis of Plasmodium vivax malaria and associated factors among Thai patients and patients from neighboring countries at the Hospital for Tropical Diseases, Bangkok, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42606671/) | Infection | Plasmodium | [10.1007/s15010-026-02930-8](https://doi.org/10.1007/s15010-026-02930-8) |
 | 9 | [Monoclonal antibody CIS43LS sets the bar for long-acting malaria protection.](https://pubmed.ncbi.nlm.nih.gov/42606125/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI209790](https://doi.org/10.1172/JCI209790) |
 | 10 | [Malaria Transmission Via Needle Stick Injury: A Case Report and Systematic Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/42604975/) | The Pediatric infectious disease journal | Plasmodium | [10.1097/INF.0000000000005376](https://doi.org/10.1097/INF.0000000000005376) |
 
-## 2026-08-15
+## 2026-08-16
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Correction: Nephrolithiasis associated with sulfadiazine therapy in an infant with congenital toxoplasmosis: a case report.](https://pubmed.ncbi.nlm.nih.gov/42603787/) | BMC pediatrics | Toxoplasma | [10.1186/s12887-026-07541-8](https://doi.org/10.1186/s12887-026-07541-8) |
-| 2 | [Experimental validation of a computationally designed mosquito midgut SGU protein-based epitope vaccine against malaria.](https://pubmed.ncbi.nlm.nih.gov/42603668/) | Developmental and comparative immunology | Plasmodium | [10.1016/j.dci.2026.105712](https://doi.org/10.1016/j.dci.2026.105712) |
+| 1 | [Urban wildlife as a reservoir of zoonotic pathogens: A multi-pathogen qPCR survey from a Central European City.](https://pubmed.ncbi.nlm.nih.gov/42632371/) | Veterinary microbiology | Toxoplasma | [10.1016/j.vetmic.2026.111194](https://doi.org/10.1016/j.vetmic.2026.111194) |
 
 ## 2026-08-05
 

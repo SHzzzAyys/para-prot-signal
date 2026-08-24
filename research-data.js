@@ -1,5 +1,59 @@
-window.researchLastUpdated = "2026-08-23 01:06:08 +0000";
+window.researchLastUpdated = "2026-08-24 01:03:40 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42632421",
+    "title": "The promise of monoclonal antibody interventions in malaria: A narrative review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632421/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 100,
+    "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+    "pubDate": "2026-08-22",
+    "authors": [
+      "Rashid MA",
+      "Tumbo AM",
+      "Hassan OZ",
+      "Ngonyani M",
+      "Mpina M",
+      "Tearish H"
+    ],
+    "pmid": "42632421",
+    "doi": "10.1016/j.cmi.2026.08.023",
+    "why": "BACKGROUND: Malaria remains a leading cause of morbidity and mortality globally, particularly in sub-Saharan Africa. Despite repeated exposure and vaccine deployment, sterile immunity against malaria rarely develops. Advances in malaria immunology over the past decades have revealed complex host-parasite interactions that shape clinical outcomes and inform new therapeutic strategies. OBJECTIVES: This narrative review aims to highlight the emerging role of..."
+  },
+  {
+    "id": "pubmed-42632587",
+    "title": "Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632587/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 49.1,
+    "score": 98,
+    "journal": "Acta tropica",
+    "pubDate": "2026-08-22",
+    "authors": [
+      "Dutra-Rêgo F",
+      "Madureira ACC",
+      "Rodrigues PHC",
+      "Isnard AP",
+      "Parreiras PM",
+      "Pereira FB"
+    ],
+    "pmid": "42632587",
+    "doi": "10.1016/j.actatropica.2026.108294",
+    "why": "Peri-urban forest fragments used for ecotourism concentrate interactions among wildlife, domestic animals, and humans, creating conditions that favour pathogen transmission through environmental, vector-borne, and trophic pathways. In these landscapes, synanthropic small mammals may act as integrative indicators of pathogen exposure because they interact with wildlife, domestic animals, and human-modified environments. This study conducted multi-pathogen..."
+  },
   {
     "id": "pubmed-42629988",
     "title": "Plasmodium Actin-Like Proteins 3 and 5a Are Required for Subsequent Steps of Mosquito Infection.",
@@ -12,7 +66,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.1,
+    "ageHours": 73.1,
     "score": 100,
     "journal": "Molecular microbiology",
     "pubDate": "2026-08-21",
@@ -40,7 +94,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.1,
+    "ageHours": 73.1,
     "score": 98,
     "journal": "Medicine",
     "pubDate": "2026-08-21",
@@ -63,8 +117,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.1,
-    "score": 96,
+    "ageHours": 73.1,
+    "score": 94,
     "journal": "Biochimica et biophysica acta. Proteins and proteomics",
     "pubDate": "2026-08-21",
     "authors": [
@@ -89,8 +143,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 49.1,
-    "score": 94,
+    "ageHours": 73.1,
+    "score": 92,
     "journal": "Genetics",
     "pubDate": "2026-08-21",
     "authors": [
@@ -116,8 +170,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.1,
-    "score": 90,
+    "ageHours": 97.1,
+    "score": 88,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-20",
     "authors": [
@@ -143,8 +197,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.1,
-    "score": 88,
+    "ageHours": 97.1,
+    "score": 86,
     "journal": "PLOS global public health",
     "pubDate": "2026-08-20",
     "authors": [
@@ -170,8 +224,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.1,
-    "score": 86,
+    "ageHours": 97.1,
+    "score": 84,
     "journal": "eLife",
     "pubDate": "2026-08-20",
     "authors": [
@@ -196,8 +250,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 73.1,
-    "score": 80,
+    "ageHours": 97.1,
+    "score": 78,
     "journal": "The New England journal of medicine",
     "pubDate": "2026-08-20",
     "authors": [
@@ -219,8 +273,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.1,
-    "score": 100,
+    "ageHours": 121.1,
+    "score": 94,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-08-19",
     "authors": [
@@ -247,7 +301,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.1,
+    "ageHours": 121.1,
     "score": 94,
     "journal": "Malaria journal",
     "pubDate": "2026-08-19",
@@ -274,8 +328,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.1,
-    "score": 84,
+    "ageHours": 121.1,
+    "score": 82,
     "journal": "Journal of the American Chemical Society",
     "pubDate": "2026-08-19",
     "authors": [
@@ -301,8 +355,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.1,
-    "score": 82,
+    "ageHours": 121.1,
+    "score": 80,
     "journal": "The Journal of infection",
     "pubDate": "2026-08-19",
     "authors": [
@@ -328,8 +382,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 97.1,
-    "score": 78,
+    "ageHours": 121.1,
+    "score": 76,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-08-19",
     "authors": [
@@ -345,9 +399,9 @@ window.researchItems = [
     "why": "BACKGROUND: Artemisinin-based combination therapies (ACTs) are recommended for treatment of uncomplicated Plasmodium falciparum malaria; artemether-lumefantrine (AL) is the only ACT available in the United States. Reports of AL treatment failure among international travelers raise concerns about the continued adequacy of the standard 3-day AL regimen for travelers. METHODS: We reviewed US malaria surveillance data, clinical consultation records, and..."
   },
   {
-    "id": "pubmed-42608556",
-    "title": "Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608556/",
+    "id": "pubmed-42633421",
+    "title": "Seroprevalence of toxoplasmosis, rubella, cytomegalovirus, herpes simplex, and syphilis infections among pregnant women and infants in Malaysia: a systematic review and meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633421/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -355,21 +409,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.1,
-    "score": 96,
-    "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+    "ageHours": 145.1,
+    "score": 100,
+    "journal": "PeerJ",
     "pubDate": "2026-08-18",
     "authors": [
-      "Wang S",
-      "Huo L",
-      "Zou Y",
-      "Yang R",
-      "Wang X",
-      "Zhang H"
+      "Elmi AH",
+      "Irekeola AA",
+      "Afolabi HA",
+      "Hajissa K",
+      "Wada Y",
+      "Yean Yean C"
     ],
-    "pmid": "42608556",
-    "doi": "10.1007/s00011-026-02344-0",
-    "why": "OBJECTIVE AND DESIGN: Toxoplasma gondii (T. gondii) infection disrupts pregnancy by modulating decidual natural killer (dNK) cells function. This study investigates how T. gondii regulates CD59 expression in dNK cells and its impact on pregnancy outcomes. MATERIAL OR SUBJECTS: T. gondii-infected wild-type (WT) C57BL/6 and cd59a-/- pregnant mice, as well as human primary dNK cells, were used. TREATMENT: The pregnant mice were challenged intraperitoneally..."
+    "pmid": "42633421",
+    "doi": "10.7717/peerj.21632",
+    "why": "BACKGROUND: Toxoplasmosis, rubella, cytomegalovirus, herpes simplex, and syphilis (TORCH) infections in infants and pregnant women are a cause for concern. However, the true prevalence of the infections among these populations in Malaysia is unknown. METHODOLOGY: This study represents the first systematic review and meta-analysis to assess the seroprevalence of TORCH agents in pregnant women and infants in Malaysia. Data from scientific articles published..."
   },
   {
     "id": "pubmed-42611934",
@@ -383,7 +437,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.1,
+    "ageHours": 145.1,
     "score": 92,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-18",
@@ -400,6 +454,33 @@ window.researchItems = [
     "why": "The malaria parasite Plasmodium falciparum is an obligate intracellular organism that spends an important part of its lifecycle inside human erythrocytes. The endocytosis of host-cell cytosol and its delivery to a lysosome-like organelle called the food vacuole are critical for the parasite's survival and proliferation. Recent work has started to identify some of the molecular players involved in this pathway, but much remains to be discovered. Evidence..."
   },
   {
+    "id": "pubmed-42608556",
+    "title": "Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42608556/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 145.1,
+    "score": 90,
+    "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+    "pubDate": "2026-08-18",
+    "authors": [
+      "Wang S",
+      "Huo L",
+      "Zou Y",
+      "Yang R",
+      "Wang X",
+      "Zhang H"
+    ],
+    "pmid": "42608556",
+    "doi": "10.1007/s00011-026-02344-0",
+    "why": "OBJECTIVE AND DESIGN: Toxoplasma gondii (T. gondii) infection disrupts pregnancy by modulating decidual natural killer (dNK) cells function. This study investigates how T. gondii regulates CD59 expression in dNK cells and its impact on pregnancy outcomes. MATERIAL OR SUBJECTS: T. gondii-infected wild-type (WT) C57BL/6 and cd59a-/- pregnant mice, as well as human primary dNK cells, were used. TREATMENT: The pregnant mice were challenged intraperitoneally..."
+  },
+  {
     "id": "pubmed-42614364",
     "title": "Integrated molecular docking, toxicity prediction, and molecular dynamics simulations studies to identify potential antimalarial candidates targeting enoyl-acyl carrier protein reductase enzyme.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42614364/",
@@ -410,8 +491,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.1,
-    "score": 76,
+    "ageHours": 145.1,
+    "score": 74,
     "journal": "In silico pharmacology",
     "pubDate": "2026-08-18",
     "authors": [
@@ -437,8 +518,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 121.1,
-    "score": 72,
+    "ageHours": 145.1,
+    "score": 70,
     "journal": "JCI insight",
     "pubDate": "2026-08-18",
     "authors": [
@@ -464,8 +545,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 98,
+    "ageHours": 169.1,
+    "score": 92,
     "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
     "pubDate": "2026-08-17",
     "authors": [
@@ -481,57 +562,6 @@ window.researchItems = [
     "why": "Natalizumab is a highly effective therapy but may impair central nervous system (CNS) immune surveillance, leading to rare opportunistic infections. We report a fatal case of cerebral toxoplasmosis under natalizumab. A 61-year-old man with stable multiple sclerosis (MS) developed acute hemiparesis on natalizumab therapy. Magnetic resonance imaging (MRI) showed multiple ring-enhancing lesions. Brain biopsy and polymerase chain reaction (PCR) confirmed..."
   },
   {
-    "id": "pubmed-42607938",
-    "title": "Quantification of Parasite Load in Macrophage Cells and Spleen Tissue of Infected Mice in Acute Toxoplasmosis Following Treatment with Rosuvastatin-Loaded Chitosan Nanoparticles Using Real-time PCR.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42607938/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 94,
-    "journal": "Microbial pathogenesis",
-    "pubDate": "2026-08-17",
-    "authors": [
-      "Norouzi M",
-      "Seyyed Tabaei SJ",
-      "Niyyati M",
-      "Ghorbani-Bidkorpeh F",
-      "Behniafar H"
-    ],
-    "pmid": "42607938",
-    "doi": "10.1016/j.micpath.2026.108781",
-    "why": "Statins, especially Rosuvastatin, effectively block the early stages of isoprenoid biosynthesis in the parasite and human hosts. The aim of the present study was to evaluate the efficacy of Rosuvastatin-loaded Chitosan nanoparticles (CH-NP-ROS) in potentially enhancing Rosuvastatin's bioavailability and anti-Toxoplasma activity compared to standard Rosuvastatin in T. gondii RH strain-infected murine macrophage cells and in reducing parasite burden in the..."
-  },
-  {
-    "id": "pubmed-42606941",
-    "title": "Photopenic PET in toxoplasmosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42606941/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 92,
-    "journal": "QJM : monthly journal of the Association of Physicians",
-    "pubDate": "2026-08-17",
-    "authors": [
-      "Gupta N",
-      "Malapure SS",
-      "Varma M",
-      "Tirlangi PK"
-    ],
-    "pmid": "42606941",
-    "doi": "10.1093/qjmed/hcag214",
-    "why": "PubMed 暂无摘要。"
-  },
-  {
     "id": "pubmed-42608602",
     "title": "Emergence and spread of Plasmodium falciparum PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42608602/",
@@ -543,7 +573,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
+    "ageHours": 169.1,
     "score": 90,
     "journal": "Nature medicine",
     "pubDate": "2026-08-17",
@@ -560,6 +590,32 @@ window.researchItems = [
     "why": "Artemisinin-based combination therapies are the cornerstone of malaria treatment and control. In Africa, artemether-lumefantrine is the most widely used first-line artemisinin-based combination therapy, but its efficacy in Uganda is increasingly threatened by the emergence of artemisinin partial resistance and reduced lumefantrine susceptibility. To identify loci contributing to this decreased susceptibility, here we assessed signatures of selection in..."
   },
   {
+    "id": "pubmed-42607938",
+    "title": "Quantification of Parasite Load in Macrophage Cells and Spleen Tissue of Infected Mice in Acute Toxoplasmosis Following Treatment with Rosuvastatin-Loaded Chitosan Nanoparticles Using Real-time PCR.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42607938/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 169.1,
+    "score": 88,
+    "journal": "Microbial pathogenesis",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Norouzi M",
+      "Seyyed Tabaei SJ",
+      "Niyyati M",
+      "Ghorbani-Bidkorpeh F",
+      "Behniafar H"
+    ],
+    "pmid": "42607938",
+    "doi": "10.1016/j.micpath.2026.108781",
+    "why": "Statins, especially Rosuvastatin, effectively block the early stages of isoprenoid biosynthesis in the parasite and human hosts. The aim of the present study was to evaluate the efficacy of Rosuvastatin-loaded Chitosan nanoparticles (CH-NP-ROS) in potentially enhancing Rosuvastatin's bioavailability and anti-Toxoplasma activity compared to standard Rosuvastatin in T. gondii RH strain-infected murine macrophage cells and in reducing parasite burden in the..."
+  },
+  {
     "id": "pubmed-42607679",
     "title": "Protein landscape of the chromatin domains in the malaria parasite Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42607679/",
@@ -571,7 +627,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
+    "ageHours": 169.1,
     "score": 88,
     "journal": "Cell host & microbe",
     "pubDate": "2026-08-17",
@@ -588,6 +644,31 @@ window.researchItems = [
     "why": "Epigenetic regulation is essential for development and adaptation across eukaryotes. However, a comprehensive overview of the molecular framework of chromatin-mediated regulation, particularly in non-model organisms, is lacking. Here, we present a systematic proteomic characterization of the chromatin domains in P. falciparum, an ancient human pathogen with a unique genome composition and epigenetic blueprint. We adapted and employed three..."
   },
   {
+    "id": "pubmed-42606941",
+    "title": "Photopenic PET in toxoplasmosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606941/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 169.1,
+    "score": 86,
+    "journal": "QJM : monthly journal of the Association of Physicians",
+    "pubDate": "2026-08-17",
+    "authors": [
+      "Gupta N",
+      "Malapure SS",
+      "Varma M",
+      "Tirlangi PK"
+    ],
+    "pmid": "42606941",
+    "doi": "10.1093/qjmed/hcag214",
+    "why": "PubMed 暂无摘要。"
+  },
+  {
     "id": "pubmed-42610053",
     "title": "Vitamin B1-catalyzed green synthesis and antiplasmodial evaluation of 2-amino-7-hydroxy-4-aryl-4H-chromene-3-carbonitrile derivatives: computational insights into putative PfNDH2 targeting.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42610053/",
@@ -598,8 +679,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 70,
+    "ageHours": 169.1,
+    "score": 68,
     "journal": "RSC advances",
     "pubDate": "2026-08-17",
     "authors": [
@@ -625,8 +706,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 66,
+    "ageHours": 169.1,
+    "score": 64,
     "journal": "The Journal of infection",
     "pubDate": "2026-08-17",
     "authors": [
@@ -652,8 +733,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 62,
+    "ageHours": 169.1,
+    "score": 60,
     "journal": "Infection",
     "pubDate": "2026-08-17",
     "authors": [
@@ -679,8 +760,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 60,
+    "ageHours": 169.1,
+    "score": 58,
     "journal": "The Journal of clinical investigation",
     "pubDate": "2026-08-17",
     "authors": [
@@ -701,8 +782,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 145.1,
-    "score": 58,
+    "ageHours": 169.1,
+    "score": 56,
     "journal": "The Pediatric infectious disease journal",
     "pubDate": "2026-08-17",
     "authors": [
@@ -718,9 +799,9 @@ window.researchItems = [
     "why": "We present the case of an 11-year-old boy with severe Plasmodium falciparum malaria, whose attending doctor sustained a needle stick injury (NSI) during phlebotomy. We also report the findings of a systematic literature review of papers describing malaria transmission to healthcare professionals via sharps injuries or blood spillage. In total, we identified 22 case reports published in peer-reviewed journals over the last 55 years, comprising 15..."
   },
   {
-    "id": "pubmed-42603787",
-    "title": "Correction: Nephrolithiasis associated with sulfadiazine therapy in an infant with congenital toxoplasmosis: a case report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603787/",
+    "id": "pubmed-42632371",
+    "title": "Urban wildlife as a reservoir of zoonotic pathogens: A multi-pathogen qPCR survey from a Central European City.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632371/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -729,43 +810,20 @@ window.researchItems = [
     "type": "PubMed",
     "editor": "NCBI",
     "ageHours": 193.1,
-    "score": 90,
-    "journal": "BMC pediatrics",
-    "pubDate": "2026-08-15",
+    "score": 96,
+    "journal": "Veterinary microbiology",
+    "pubDate": "2026-08-16",
     "authors": [
-      "Nie Y",
-      "Wen Y"
+      "Dziedzinska R",
+      "Vasickova P",
+      "Kralik P",
+      "Zeman T",
+      "Šerý O",
+      "Kamler J"
     ],
-    "pmid": "42603787",
-    "doi": "10.1186/s12887-026-07541-8",
-    "why": "PubMed 暂无摘要。"
-  },
-  {
-    "id": "pubmed-42603668",
-    "title": "Experimental validation of a computationally designed mosquito midgut SGU protein-based epitope vaccine against malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603668/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 193.1,
-    "score": 56,
-    "journal": "Developmental and comparative immunology",
-    "pubDate": "2026-08-15",
-    "authors": [
-      "Singh H",
-      "Dahiya N",
-      "Kirar M",
-      "Yadav M",
-      "Janjoter S",
-      "Sehrawat N"
-    ],
-    "pmid": "42603668",
-    "doi": "10.1016/j.dci.2026.105712",
-    "why": "Malaria, a vector-borne disease caused by Plasmodium and transmitted by Anopheles mosquitoes, remains a major health burden in tropical regions. During blood feeding, the mosquito midgut plays a key role in blood digestion and parasite development, where immune responses against the parasite occur. This study employed a stepwise immunoinformatics approach to design a conserved multiepitope vaccine based on the midgut-specific SGU protein of Anopheles. B..."
+    "pmid": "42632371",
+    "doi": "10.1016/j.vetmic.2026.111194",
+    "why": "Urbanization alters wildlife communities and creates epidemiological bridges between wild, domestic, and synanthropic hosts. Data on multiple pathogen taxa circulating simultaneously in urban mammals in Central Europe remain limited. Between July 2023 and July 2025, 240 wild mammals (native and invasive) were collected in the urban and peri-urban district of Brno, Czech Republic. Intestinal content, tongue, lymph nodes and other organs were examined using..."
   },
   {
     "id": "pubmed-42626496",
@@ -778,7 +836,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 433.1,
+    "ageHours": 457.1,
     "score": 96,
     "journal": "ACS omega",
     "pubDate": "2026-08-05",
@@ -805,7 +863,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1249.1,
+    "ageHours": 1273.1,
     "score": 54,
     "journal": "The Journal of clinical investigation",
     "pubDate": "2026-07-02",
