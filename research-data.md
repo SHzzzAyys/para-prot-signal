@@ -1,15 +1,37 @@
-# PubMed Research Feed — 2026-08-25 01:03:00 +0000
+# PubMed Research Feed — 2026-08-26 01:04:47 +0000
 
-共 **32** 篇文章（Plasmodium 24 · Toxoplasma 7 · Malaria parasite 7）
+共 **28** 篇文章（Plasmodium 20 · Malaria parasite 7 · Toxoplasma 7）
 
 ---
+
+## 2026-08-25
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [The long and winding road: On the endoplasmic reticulum of Plasmodium and implications for pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/42640941/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014539](https://doi.org/10.1371/journal.ppat.1014539) |
+| 2 | [Plasmodium thiamine pyrophosphokinase is essential for sporozoite formation and activation of an antiplasmodial thiamine analogue.](https://pubmed.ncbi.nlm.nih.gov/42640797/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium | [10.1073/pnas.2534594123](https://doi.org/10.1073/pnas.2534594123) |
+
+## 2026-08-24
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Chronic Toxoplasma gondii infection and its influence on semen analysis in rats: controlled experimental animal study.](https://pubmed.ncbi.nlm.nih.gov/42637859/) | Scientific reports | Toxoplasma | [10.1038/s41598-026-62773-z](https://doi.org/10.1038/s41598-026-62773-z) |
+| 2 | [A divergent mitochondrial cytochrome c in malaria parasites with an anomalously low redox potential.](https://pubmed.ncbi.nlm.nih.gov/42636980/) | Journal of molecular biology | Plasmodium · Malaria parasite | [10.1016/j.jmb.2026.169996](https://doi.org/10.1016/j.jmb.2026.169996) |
+| 3 | [Evaluation of induction conditions for multi-antigen chimeric TgAGS/BsT protein from Toxoplasma gondii in Escherichia coli BL 21 Star during batch cultivation.](https://pubmed.ncbi.nlm.nih.gov/42637169/) | Protein expression and purification | Toxoplasma | [10.1016/j.pep.2026.106995](https://doi.org/10.1016/j.pep.2026.106995) |
+| 4 | [Severe Plasmodium falciparum Malaria with Marked ADAMTS13 Reduction and Secondary Microangiopathic Features: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
+
+## 2026-08-23
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Decoding neurodevelopment risks of exposures to intoxication, infection, and trauma during pregnancy.](https://pubmed.ncbi.nlm.nih.gov/42638908/) | Pregnancy (Hoboken, N.J.) | Toxoplasma | [10.1002/pmf2.70434](https://doi.org/10.1002/pmf2.70434) |
 
 ## 2026-08-22
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [The promise of monoclonal antibody interventions in malaria: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42632421/) | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | Plasmodium | [10.1016/j.cmi.2026.08.023](https://doi.org/10.1016/j.cmi.2026.08.023) |
-| 2 | [Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.](https://pubmed.ncbi.nlm.nih.gov/42632587/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108294](https://doi.org/10.1016/j.actatropica.2026.108294) |
+| 1 | [Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.](https://pubmed.ncbi.nlm.nih.gov/42632587/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108294](https://doi.org/10.1016/j.actatropica.2026.108294) |
+| 2 | [The promise of monoclonal antibody interventions in malaria: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42632421/) | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | Plasmodium | [10.1016/j.cmi.2026.08.023](https://doi.org/10.1016/j.cmi.2026.08.023) |
 
 ## 2026-08-21
 
@@ -49,29 +71,8 @@
 | 4 | [Integrated molecular docking, toxicity prediction, and molecular dynamics simulations studies to identify potential antimalarial candidates targeting enoyl-acyl carrier protein reductase enzyme.](https://pubmed.ncbi.nlm.nih.gov/42614364/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00637-0](https://doi.org/10.1007/s40203-026-00637-0) |
 | 5 | [Pan-African hybridization of PfSPZ increases antigenic diversity and replicative capacity for malaria vaccine design.](https://pubmed.ncbi.nlm.nih.gov/42611549/) | JCI insight | Plasmodium | [10.1172/jci.insight.207272](https://doi.org/10.1172/jci.insight.207272) |
 
-## 2026-08-17
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Fatal cerebral toxoplasmosis in a patient with multiple sclerosis treated with natalizumab.](https://pubmed.ncbi.nlm.nih.gov/42608816/) | Multiple sclerosis (Houndmills, Basingstoke, England) | Toxoplasma | [10.1177/13524585261477217](https://doi.org/10.1177/13524585261477217) |
-| 2 | [Quantification of parasite load in macrophage cells and spleen tissue of infected mice in acute toxoplasmosis following treatment with rosuvastatin-loaded chitosan nanoparticles using real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42607938/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108781](https://doi.org/10.1016/j.micpath.2026.108781) |
-| 3 | [Emergence and spread of Plasmodium falciparum PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42608602/) | Nature medicine | Plasmodium · Malaria parasite | [10.1038/s41591-026-04590-5](https://doi.org/10.1038/s41591-026-04590-5) |
-| 4 | [Photopenic PET in toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42606941/) | QJM : monthly journal of the Association of Physicians | Toxoplasma | [10.1093/qjmed/hcag214](https://doi.org/10.1093/qjmed/hcag214) |
-| 5 | [Protein landscape of the chromatin domains in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42607679/) | Cell host & microbe | Plasmodium · Malaria parasite | [10.1016/j.chom.2026.07.016](https://doi.org/10.1016/j.chom.2026.07.016) |
-| 6 | [Vitamin B1-catalyzed green synthesis and antiplasmodial evaluation of 2-amino-7-hydroxy-4-aryl-4H-chromene-3-carbonitrile derivatives: computational insights into putative PfNDH2 targeting.](https://pubmed.ncbi.nlm.nih.gov/42610053/) | RSC advances | Plasmodium | [10.1039/d6ra05079d](https://doi.org/10.1039/d6ra05079d) |
-| 7 | [Potential Targets of Naturally Acquired Plasmodium vivax Transmission - Reducing Antibodies.](https://pubmed.ncbi.nlm.nih.gov/42607960/) | The Journal of infection | Plasmodium | [10.1016/j.jinf.2026.106833](https://doi.org/10.1016/j.jinf.2026.106833) |
-| 8 | [Delayed diagnosis of Plasmodium vivax malaria and associated factors among Thai patients and patients from neighboring countries at the Hospital for Tropical Diseases, Bangkok, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42606671/) | Infection | Plasmodium | [10.1007/s15010-026-02930-8](https://doi.org/10.1007/s15010-026-02930-8) |
-| 9 | [Monoclonal antibody CIS43LS sets the bar for long-acting malaria protection.](https://pubmed.ncbi.nlm.nih.gov/42606125/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI209790](https://doi.org/10.1172/JCI209790) |
-| 10 | [Malaria Transmission Via Needle Stick Injury: A Case Report and Systematic Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/42604975/) | The Pediatric infectious disease journal | Plasmodium | [10.1097/INF.0000000000005376](https://doi.org/10.1097/INF.0000000000005376) |
-
 ## 2026-08-05
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [AI-Driven Workflow for Automated Colorimetric Isothermal Amplification for Robust Pathogen Detection on Portable Devices.](https://pubmed.ncbi.nlm.nih.gov/42626496/) | ACS omega | Malaria parasite | [10.1021/acsomega.5c12299](https://doi.org/10.1021/acsomega.5c12299) |
-
-## 2026-07-02
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Pharmacokinetics and pharmacodynamics of a long-acting monoclonal antibody against malaria in African adults.](https://pubmed.ncbi.nlm.nih.gov/42407014/) | The Journal of clinical investigation | Plasmodium | [10.1172/JCI207559](https://doi.org/10.1172/JCI207559) |
