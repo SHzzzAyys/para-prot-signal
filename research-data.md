@@ -1,22 +1,29 @@
-# PubMed Research Feed — 2026-08-26 01:04:47 +0000
+# PubMed Research Feed — 2026-08-27 07:05:42 +0000
 
-共 **28** 篇文章（Plasmodium 20 · Malaria parasite 7 · Toxoplasma 7）
+共 **19** 篇文章（Plasmodium 14 · Toxoplasma 5 · Malaria parasite 4）
 
 ---
+
+## 2026-08-26
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Erratum for Pires et al., "Plasmodium falciparum leucine-rich repeat 5 disruption alters the transcription progression during asexual and sexual stage development".](https://pubmed.ncbi.nlm.nih.gov/42644621/) | mSphere | Plasmodium | [10.1128/msphere.00592-26](https://doi.org/10.1128/msphere.00592-26) |
 
 ## 2026-08-25
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [The long and winding road: On the endoplasmic reticulum of Plasmodium and implications for pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/42640941/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014539](https://doi.org/10.1371/journal.ppat.1014539) |
-| 2 | [Plasmodium thiamine pyrophosphokinase is essential for sporozoite formation and activation of an antiplasmodial thiamine analogue.](https://pubmed.ncbi.nlm.nih.gov/42640797/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium | [10.1073/pnas.2534594123](https://doi.org/10.1073/pnas.2534594123) |
+| 1 | [PLGA nanocarriers of total Toxoplasma gondii tachyzoite antigen promote dendritic cell activation.](https://pubmed.ncbi.nlm.nih.gov/42641967/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108805](https://doi.org/10.1016/j.micpath.2026.108805) |
+| 2 | [The long and winding road: On the endoplasmic reticulum of Plasmodium and implications for pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/42640941/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014539](https://doi.org/10.1371/journal.ppat.1014539) |
+| 3 | [Plasmodium thiamine pyrophosphokinase is essential for sporozoite formation and activation of an antiplasmodial thiamine analogue.](https://pubmed.ncbi.nlm.nih.gov/42640797/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium | [10.1073/pnas.2534594123](https://doi.org/10.1073/pnas.2534594123) |
 
 ## 2026-08-24
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Chronic Toxoplasma gondii infection and its influence on semen analysis in rats: controlled experimental animal study.](https://pubmed.ncbi.nlm.nih.gov/42637859/) | Scientific reports | Toxoplasma | [10.1038/s41598-026-62773-z](https://doi.org/10.1038/s41598-026-62773-z) |
-| 2 | [A divergent mitochondrial cytochrome c in malaria parasites with an anomalously low redox potential.](https://pubmed.ncbi.nlm.nih.gov/42636980/) | Journal of molecular biology | Plasmodium · Malaria parasite | [10.1016/j.jmb.2026.169996](https://doi.org/10.1016/j.jmb.2026.169996) |
+| 1 | [A divergent mitochondrial cytochrome c in malaria parasites with an anomalously low redox potential.](https://pubmed.ncbi.nlm.nih.gov/42636980/) | Journal of molecular biology | Plasmodium · Malaria parasite | [10.1016/j.jmb.2026.169996](https://doi.org/10.1016/j.jmb.2026.169996) |
+| 2 | [Chronic Toxoplasma gondii infection and its influence on semen analysis in rats: controlled experimental animal study.](https://pubmed.ncbi.nlm.nih.gov/42637859/) | Scientific reports | Toxoplasma | [10.1038/s41598-026-62773-z](https://doi.org/10.1038/s41598-026-62773-z) |
 | 3 | [Evaluation of induction conditions for multi-antigen chimeric TgAGS/BsT protein from Toxoplasma gondii in Escherichia coli BL 21 Star during batch cultivation.](https://pubmed.ncbi.nlm.nih.gov/42637169/) | Protein expression and purification | Toxoplasma | [10.1016/j.pep.2026.106995](https://doi.org/10.1016/j.pep.2026.106995) |
 | 4 | [Severe Plasmodium falciparum Malaria with Marked ADAMTS13 Reduction and Secondary Microangiopathic Features: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
 
@@ -50,29 +57,3 @@
 | 2 | [A single dose of azithromycin versus placebo for malaria in infants: A cluster-randomized trial.](https://pubmed.ncbi.nlm.nih.gov/42623398/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0006518](https://doi.org/10.1371/journal.pgph.0006518) |
 | 3 | [Heterogeneity of use, access, and retention of insecticide-treated nets: Implications for subnational tailoring to maximise malaria control.](https://pubmed.ncbi.nlm.nih.gov/42623257/) | eLife | Plasmodium | [10.7554/eLife.108745](https://doi.org/10.7554/eLife.108745) |
 | 4 | [Severe Plasmodium falciparum Malaria.](https://pubmed.ncbi.nlm.nih.gov/42617117/) | The New England journal of medicine | Plasmodium | [10.1056/NEJMicm2603855](https://doi.org/10.1056/NEJMicm2603855) |
-
-## 2026-08-19
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [The establishment of a universal blocking ELISA for echinococcosis using immunoglobulin against a new conserved linear B-cell epitope.](https://pubmed.ncbi.nlm.nih.gov/42615648/) | Microbiology spectrum | Toxoplasma | [10.1128/spectrum.03933-25](https://doi.org/10.1128/spectrum.03933-25) |
-| 2 | [Ex vivo susceptibility to dihydroartemisinin in Plasmodium falciparum patient isolates from Eastern Rwanda, 2025.](https://pubmed.ncbi.nlm.nih.gov/42625205/) | Malaria journal | Plasmodium · Malaria parasite | [10.1186/s12936-026-06107-4](https://doi.org/10.1186/s12936-026-06107-4) |
-| 3 | [Discovery of Sphaeriaurantins as Rapid-Acting Antiplasmodials with Dual Activity in Blood and Liver Stages.](https://pubmed.ncbi.nlm.nih.gov/42619137/) | Journal of the American Chemical Society | Plasmodium | [10.1021/jacs.6c11333](https://doi.org/10.1021/jacs.6c11333) |
-| 4 | [Association of asymptomatic Plasmodium falciparum infections and its treatment with short-term cognitive performance in school-aged children: a prospective cohort study in western Kenya.](https://pubmed.ncbi.nlm.nih.gov/42617751/) | The Journal of infection | Plasmodium | [10.1016/j.jinf.2026.106831](https://doi.org/10.1016/j.jinf.2026.106831) |
-| 5 | [Extending the Duration of Artemether-Lumefantrine Treatment for Uncomplicated Plasmodium falciparum Malaria: Updated US Centers for Disease Control and Prevention Guidance Based on Review of Surveillance, Consultations, and Published Data.](https://pubmed.ncbi.nlm.nih.gov/42616037/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Plasmodium | [10.1093/cid/ciag456](https://doi.org/10.1093/cid/ciag456) |
-
-## 2026-08-18
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Seroprevalence of toxoplasmosis, rubella, cytomegalovirus, herpes simplex, and syphilis infections among pregnant women and infants in Malaysia: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42633421/) | PeerJ | Toxoplasma | [10.7717/peerj.21632](https://doi.org/10.7717/peerj.21632) |
-| 2 | [Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.](https://pubmed.ncbi.nlm.nih.gov/42608556/) | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | Toxoplasma | [10.1007/s00011-026-02344-0](https://doi.org/10.1007/s00011-026-02344-0) |
-| 3 | [The malaria parasite Plasmodium falciparum Vps15 is a Phosphatidylinositol 3-kinase interactor important for host-cell cytosol delivery to the food vacuole and apicoplast and mitochondrion dynamics.](https://pubmed.ncbi.nlm.nih.gov/42611934/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014526](https://doi.org/10.1371/journal.ppat.1014526) |
-| 4 | [Integrated molecular docking, toxicity prediction, and molecular dynamics simulations studies to identify potential antimalarial candidates targeting enoyl-acyl carrier protein reductase enzyme.](https://pubmed.ncbi.nlm.nih.gov/42614364/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00637-0](https://doi.org/10.1007/s40203-026-00637-0) |
-| 5 | [Pan-African hybridization of PfSPZ increases antigenic diversity and replicative capacity for malaria vaccine design.](https://pubmed.ncbi.nlm.nih.gov/42611549/) | JCI insight | Plasmodium | [10.1172/jci.insight.207272](https://doi.org/10.1172/jci.insight.207272) |
-
-## 2026-08-05
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [AI-Driven Workflow for Automated Colorimetric Isothermal Amplification for Robust Pathogen Detection on Portable Devices.](https://pubmed.ncbi.nlm.nih.gov/42626496/) | ACS omega | Malaria parasite | [10.1021/acsomega.5c12299](https://doi.org/10.1021/acsomega.5c12299) |
