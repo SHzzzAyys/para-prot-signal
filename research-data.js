@@ -1,5 +1,32 @@
-window.researchLastUpdated = "2026-08-27 07:05:42 +0000";
+window.researchLastUpdated = "2026-08-28 08:53:18 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42657143",
+    "title": "Molecular Diagnosis and Quantification of Bovine Abortion Caused by Toxoplasma gondii in the Tropical Climate of Brazil.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42657143/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 56.9,
+    "score": 100,
+    "journal": "Veterinary medicine international",
+    "pubDate": "2026-08-26",
+    "authors": [
+      "Costa MTDS",
+      "Ribeiro M",
+      "Pescador CA",
+      "Bernardes ML",
+      "Dutra V",
+      "Calvache TGP"
+    ],
+    "pmid": "42657143",
+    "doi": "10.1155/vmi/4914633",
+    "why": "Toxoplasma gondii is an obligate intracellular parasite, considered a zoonotic agent, and one of the main causes of foodborne diseases in humans. It is also responsible for infectious abortion and congenital defects in ruminants and human fetuses. While abortion in small ruminants due to T. gondii is well documented in the literature, bovine abortion is rare. In this article, we investigate the occurrence of T. gondii-induced abortion in cattle, providing..."
+  },
   {
     "id": "pubmed-42644621",
     "title": "Erratum for Pires et al., \"Plasmodium falciparum leucine-rich repeat 5 disruption alters the transcription progression during asexual and sexual stage development\".",
@@ -11,7 +38,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 31.1,
+    "ageHours": 56.9,
     "score": 100,
     "journal": "mSphere",
     "pubDate": "2026-08-26",
@@ -28,9 +55,9 @@ window.researchItems = [
     "why": "PubMed 暂无摘要。"
   },
   {
-    "id": "pubmed-42641967",
-    "title": "PLGA nanocarriers of total Toxoplasma gondii tachyzoite antigen promote dendritic cell activation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42641967/",
+    "id": "pubmed-42655880",
+    "title": "The Etiological Spectrum of Uveitis in the United States: A Systematic Review and Meta-Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42655880/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -38,21 +65,48 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 55.1,
-    "score": 100,
-    "journal": "Microbial pathogenesis",
-    "pubDate": "2026-08-25",
+    "ageHours": 56.9,
+    "score": 98,
+    "journal": "Seminars in ophthalmology",
+    "pubDate": "2026-08-26",
     "authors": [
-      "Brito C",
-      "Granja A",
-      "Nunes C",
-      "Correia A",
-      "Borges M",
-      "Reis S"
+      "Liba T",
+      "Olami A",
+      "Cabir Y",
+      "Sommer A",
+      "Gorenshtein A",
+      "Mekiten O"
     ],
-    "pmid": "42641967",
-    "doi": "10.1016/j.micpath.2026.108805",
-    "why": "Toxoplasma gondii is an intracellular parasite that causes toxoplasmosis, which can have significant health impacts, particularly in immunocompromised individuals. The total extract from T. gondii contains multiple antigens that are promising vaccine candidates. Thus, the present research aimed to optimise PLGA nanoparticles loaded with total T. gondii tachyzoite antigen through an empirical, stepwise approach. The nanocarriers were designed to target the..."
+    "pmid": "42655880",
+    "doi": "10.1080/08820538.2026.2721691",
+    "why": "PURPOSE: To characterize the etiologic distribution of uveitis in the United States through a systematic review and meta-analysis. METHODS: A systematic search of PubMed, Scopus, PubMed Central, and Web of Science identified U.S.-based cohort and cross-sectional studies reporting uveitis etiology. Random-effects meta-analyses pooled proportional estimates. Study quality was assessed using Newcastle-Ottawa-based tools. Included studies spanned 1987-2023..."
+  },
+  {
+    "id": "pubmed-42649224",
+    "title": "Dual apical methyltransferases orchestrate motility initiation in apicomplexan parasites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42649224/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 56.9,
+    "score": 96,
+    "journal": "Nature communications",
+    "pubDate": "2026-08-26",
+    "authors": [
+      "Qin P",
+      "Kumar T",
+      "Koczy O",
+      "Li W",
+      "Forne I",
+      "Mattei S"
+    ],
+    "pmid": "42649224",
+    "doi": "10.1038/s41467-026-77078-y",
+    "why": "Apicomplexan parasites such as Toxoplasma gondii initiate motility through rapid, spatially confined cytoskeletal activation at their apical end. While calcium-, lipid-, and kinase-based signalling pathways have been partially elucidated, how these cues are translated into mechanical force remains unclear. Here, we uncover a dual methyltransferase mechanism that orchestrates this process. We characterise TgPCKMT, a PreConoidal ring-associated lysine (K)..."
   },
   {
     "id": "pubmed-42640941",
@@ -66,7 +120,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 55.1,
+    "ageHours": 80.9,
     "score": 100,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-25",
@@ -90,7 +144,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 55.1,
+    "ageHours": 80.9,
     "score": 96,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-08-25",
@@ -107,6 +161,33 @@ window.researchItems = [
     "why": "Oxythiamine, a thiamine analogue, inhibits Plasmodium falciparum proliferation by acting as an antimetabolite of vitamin B1. To elucidate in more detail its underlying mechanism of action, in vitro drug pressure was employed to generate oxythiamine-resistant P. falciparum lines. Whole-genome sequencing revealed that resistance was conferred by a single-point mutation in the thiamine pyrophosphokinase (TPK) gene. The mutated TPK has reduced activity..."
   },
   {
+    "id": "pubmed-42641967",
+    "title": "PLGA nanocarriers of total Toxoplasma gondii tachyzoite antigen promote dendritic cell activation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42641967/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 80.9,
+    "score": 94,
+    "journal": "Microbial pathogenesis",
+    "pubDate": "2026-08-25",
+    "authors": [
+      "Brito C",
+      "Granja A",
+      "Nunes C",
+      "Correia A",
+      "Borges M",
+      "Reis S"
+    ],
+    "pmid": "42641967",
+    "doi": "10.1016/j.micpath.2026.108805",
+    "why": "Toxoplasma gondii is an intracellular parasite that causes toxoplasmosis, which can have significant health impacts, particularly in immunocompromised individuals. The total extract from T. gondii contains multiple antigens that are promising vaccine candidates. Thus, the present research aimed to optimise PLGA nanoparticles loaded with total T. gondii tachyzoite antigen through an empirical, stepwise approach. The nanocarriers were designed to target the..."
+  },
+  {
     "id": "pubmed-42636980",
     "title": "A divergent mitochondrial cytochrome c in malaria parasites with an anomalously low redox potential.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42636980/",
@@ -118,7 +199,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 79.1,
+    "ageHours": 104.9,
     "score": 98,
     "journal": "Journal of molecular biology",
     "pubDate": "2026-08-24",
@@ -135,6 +216,32 @@ window.researchItems = [
     "why": "Eukaryotic cytochrome (cyt) c is a highly conserved mitochondrial protein central to cellular respiration, featuring a covalently attached heme with hexacoordinate iron whose redox potential is tuned by axial His/Met ligands and surrounding residues to support electron transport chain (ETC) function. We have identified a previously unrecognized lineage of eukaryotic cyt c homologs in Apicomplexa, a phylum of intracellular pathogens that includes..."
   },
   {
+    "id": "pubmed-42636958",
+    "title": "Severe Plasmodium falciparum Malaria with Marked ADAMTS13 Reduction and Secondary Microangiopathic Features: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42636958/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 104.9,
+    "score": 92,
+    "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+    "pubDate": "2026-08-24",
+    "authors": [
+      "Huang M",
+      "Jia X",
+      "Wang X",
+      "Hu L",
+      "Chen L"
+    ],
+    "pmid": "42636958",
+    "doi": "10.1016/j.jiac.2026.103056",
+    "why": "OBJECTIVE: To report a case of severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic manifestations resembling TTP, highlighting the diagnostic challenge of distinguishing malaria-associated microangiopathic changes from primary TTP-spectrum disorders. METHODS: The patient's clinical features, laboratory data, peripheral blood smear findings, ADAMTS13 activity, treatment, outcomes,and relevant literature were..."
+  },
+  {
     "id": "pubmed-42637859",
     "title": "Chronic Toxoplasma gondii infection and its influence on semen analysis in rats: controlled experimental animal study.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42637859/",
@@ -145,8 +252,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 79.1,
-    "score": 96,
+    "ageHours": 104.9,
+    "score": 90,
     "journal": "Scientific reports",
     "pubDate": "2026-08-24",
     "authors": [
@@ -172,8 +279,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 79.1,
-    "score": 94,
+    "ageHours": 104.9,
+    "score": 88,
     "journal": "Protein expression and purification",
     "pubDate": "2026-08-24",
     "authors": [
@@ -189,32 +296,6 @@ window.researchItems = [
     "why": "The present study evaluated the induction conditions (inducer type and concentration) for the expression of the multi-antigenic chimeric protein TgAGS/BsT from Toxoplasma gondii in Escherichia coli BL21 Star during batch submerged cultivation. With a molecular mass of about 18.6 kDa, the chimeric TgAGS/BsT protein has potential use in a diagnostic kit and as a vaccine candidate for toxoplasmosis. Batch cultures were performed at 37°C and induced by the..."
   },
   {
-    "id": "pubmed-42636958",
-    "title": "Severe Plasmodium falciparum Malaria with Marked ADAMTS13 Reduction and Secondary Microangiopathic Features: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42636958/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 79.1,
-    "score": 92,
-    "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
-    "pubDate": "2026-08-24",
-    "authors": [
-      "Huang M",
-      "Jia X",
-      "Wang X",
-      "Hu L",
-      "Chen L"
-    ],
-    "pmid": "42636958",
-    "doi": "10.1016/j.jiac.2026.103056",
-    "why": "OBJECTIVE: To report a case of severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic manifestations resembling TTP, highlighting the diagnostic challenge of distinguishing malaria-associated microangiopathic changes from primary TTP-spectrum disorders. METHODS: The patient's clinical features, laboratory data, peripheral blood smear findings, ADAMTS13 activity, treatment, outcomes,and relevant literature were..."
-  },
-  {
     "id": "pubmed-42638908",
     "title": "Decoding neurodevelopment risks of exposures to intoxication, infection, and trauma during pregnancy.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42638908/",
@@ -225,8 +306,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 103.1,
-    "score": 98,
+    "ageHours": 128.9,
+    "score": 92,
     "journal": "Pregnancy (Hoboken, N.J.)",
     "pubDate": "2026-08-23",
     "authors": [
@@ -242,33 +323,6 @@ window.researchItems = [
     "why": "The maternal environment plays a pivotal role in fetal neurodevelopment, but adverse conditions during pregnancy may disrupt key developmental processes. Conditions such as intoxication, infection, or trauma during pregnancy have been associated with impaired fetal oxygenation, altered immune signaling, and disrupted placental function, which may contribute to long-term neurodevelopmental alterations. This review examines evidence suggesting how prenatal..."
   },
   {
-    "id": "pubmed-42632587",
-    "title": "Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42632587/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 127.1,
-    "score": 92,
-    "journal": "Acta tropica",
-    "pubDate": "2026-08-22",
-    "authors": [
-      "Dutra-Rêgo F",
-      "Madureira ACC",
-      "Rodrigues PHC",
-      "Isnard AP",
-      "Parreiras PM",
-      "Pereira FB"
-    ],
-    "pmid": "42632587",
-    "doi": "10.1016/j.actatropica.2026.108294",
-    "why": "Peri-urban forest fragments used for ecotourism concentrate interactions among wildlife, domestic animals, and humans, creating conditions that favour pathogen transmission through environmental, vector-borne, and trophic pathways. In these landscapes, synanthropic small mammals may act as integrative indicators of pathogen exposure because they interact with wildlife, domestic animals, and human-modified environments. This study conducted multi-pathogen..."
-  },
-  {
     "id": "pubmed-42632421",
     "title": "The promise of monoclonal antibody interventions in malaria: A narrative review.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42632421/",
@@ -279,7 +333,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 127.1,
+    "ageHours": 152.9,
     "score": 90,
     "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
     "pubDate": "2026-08-22",
@@ -296,6 +350,33 @@ window.researchItems = [
     "why": "BACKGROUND: Malaria remains a leading cause of morbidity and mortality globally, particularly in sub-Saharan Africa. Despite repeated exposure and vaccine deployment, sterile immunity against malaria rarely develops. Advances in malaria immunology over the past decades have revealed complex host-parasite interactions that shape clinical outcomes and inform new therapeutic strategies. OBJECTIVES: This narrative review aims to highlight the emerging role of..."
   },
   {
+    "id": "pubmed-42632587",
+    "title": "Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632587/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 152.9,
+    "score": 86,
+    "journal": "Acta tropica",
+    "pubDate": "2026-08-22",
+    "authors": [
+      "Dutra-Rêgo F",
+      "Madureira ACC",
+      "Rodrigues PHC",
+      "Isnard AP",
+      "Parreiras PM",
+      "Pereira FB"
+    ],
+    "pmid": "42632587",
+    "doi": "10.1016/j.actatropica.2026.108294",
+    "why": "Peri-urban forest fragments used for ecotourism concentrate interactions among wildlife, domestic animals, and humans, creating conditions that favour pathogen transmission through environmental, vector-borne, and trophic pathways. In these landscapes, synanthropic small mammals may act as integrative indicators of pathogen exposure because they interact with wildlife, domestic animals, and human-modified environments. This study conducted multi-pathogen..."
+  },
+  {
     "id": "pubmed-42629988",
     "title": "Plasmodium Actin-Like Proteins 3 and 5a Are Required for Subsequent Steps of Mosquito Infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42629988/",
@@ -307,7 +388,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 151.1,
+    "ageHours": 176.9,
     "score": 96,
     "journal": "Molecular microbiology",
     "pubDate": "2026-08-21",
@@ -335,7 +416,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 151.1,
+    "ageHours": 176.9,
     "score": 94,
     "journal": "Medicine",
     "pubDate": "2026-08-21",
@@ -358,7 +439,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 151.1,
+    "ageHours": 176.9,
     "score": 84,
     "journal": "Biochimica et biophysica acta. Proteins and proteomics",
     "pubDate": "2026-08-21",
@@ -384,7 +465,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 151.1,
+    "ageHours": 176.9,
     "score": 82,
     "journal": "Genetics",
     "pubDate": "2026-08-21",
@@ -399,108 +480,5 @@ window.researchItems = [
     "pmid": "42625514",
     "doi": "10.1093/genetics/iyag221",
     "why": "Malaria remains a significant global health challenge with an estimated 282 million cases reported in 2024. CRISPR/Cas9-based gene-drive systems have emerged as promising tools to block Plasmodium transmission by mosquito vectors. The TP13 drive system targets the Anopheles gambiae cardinal (Agcd) gene and carries two engineered monoclonal antibodies to achieve rapid population modification to prevent parasite transmission. Previous cage trials..."
-  },
-  {
-    "id": "pubmed-42623424",
-    "title": "Fecal microbiota transplantation alleviates adverse pregnancy outcomes and intestinal injury in experimental malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42623424/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 175.1,
-    "score": 80,
-    "journal": "PLoS pathogens",
-    "pubDate": "2026-08-20",
-    "authors": [
-      "Han S",
-      "Wan J",
-      "Dai R",
-      "Kong W",
-      "Xu Z",
-      "Zhang Y"
-    ],
-    "pmid": "42623424",
-    "doi": "10.1371/journal.ppat.1014459",
-    "why": "Malaria in pregnancy remains a major global health concern, contributing significantly to maternal and offspring morbidity and mortality. While gut microbiota dysregulation has been implicated in pregnancy complications and malaria pathogenesis, its functional role and the underlying mechanisms within the gut-placenta axis during placental malaria remain poorly understood. In pregnant mice, Plasmodium berghei ANKA infection disrupted the gut-placenta..."
-  },
-  {
-    "id": "pubmed-42623398",
-    "title": "A single dose of azithromycin versus placebo for malaria in infants: A cluster-randomized trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42623398/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 175.1,
-    "score": 78,
-    "journal": "PLOS global public health",
-    "pubDate": "2026-08-20",
-    "authors": [
-      "Ihamuotila R",
-      "Juma J",
-      "Haidara F",
-      "Samaké O",
-      "Luoma J",
-      "Adubra L"
-    ],
-    "pmid": "42623398",
-    "doi": "10.1371/journal.pgph.0006518",
-    "why": "Azithromycin mass drug administration (MDA) has been shown to promote child survival in high mortality settings. Azithromycin has antimalarial effects, and one possible mechanism behind mortality reduction with azithromycin may be reduction in malaria. We aimed to test the effect of a single dose of azithromycin on malaria prevalence and parasite load in infants. This malaria substudy was part of a large double-blinded cluster-randomized clinical trial in..."
-  },
-  {
-    "id": "pubmed-42623257",
-    "title": "Heterogeneity of use, access, and retention of insecticide-treated nets: Implications for subnational tailoring to maximise malaria control.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42623257/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 175.1,
-    "score": 76,
-    "journal": "eLife",
-    "pubDate": "2026-08-20",
-    "authors": [
-      "Glover AC",
-      "Koenker H",
-      "Niang EHA",
-      "Kolaczinski K",
-      "Churcher TS"
-    ],
-    "pmid": "42623257",
-    "doi": "10.7554/eLife.108745",
-    "why": "BACKGROUND: While insecticide-treated nets (ITNs) are highly impactful and cost-effective for malaria control, they are primarily distributed through three-yearly mass campaigns yet are typically retained for shorter periods. It is unclear whether disease control could be best improved with more efficacious ITNs and/or increased distribution frequency. There are increased calls to optimise resources through subnational tailoring of interventions, though..."
-  },
-  {
-    "id": "pubmed-42617117",
-    "title": "Severe Plasmodium falciparum Malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42617117/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 175.1,
-    "score": 74,
-    "journal": "The New England journal of medicine",
-    "pubDate": "2026-08-20",
-    "authors": [
-      "Van Pee EK",
-      "Van Laethem J"
-    ],
-    "pmid": "42617117",
-    "doi": "10.1056/NEJMicm2603855",
-    "why": "PubMed 暂无摘要。"
   }
 ];
