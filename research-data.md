@@ -1,8 +1,14 @@
-# PubMed Research Feed — 2026-08-29 05:28:42 +0000
+# PubMed Research Feed — 2026-08-30 03:25:59 +0000
 
-共 **21** 篇文章（Toxoplasma 10 · Plasmodium 11 · Malaria parasite 4）
+共 **22** 篇文章（Plasmodium 12 · Toxoplasma 10 · Malaria parasite 4）
 
 ---
+
+## 2026-08-29
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Exploiting ER proteostasis in malaria: protein disulphide isomerases as selective antimalarial targets.](https://pubmed.ncbi.nlm.nih.gov/42667181/) | Expert opinion on therapeutic targets | Plasmodium | [10.1080/14728222.2026.2723486](https://doi.org/10.1080/14728222.2026.2723486) |
 
 ## 2026-08-28
 
@@ -16,8 +22,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) | Virulence | Plasmodium · Malaria parasite | [10.1080/21505594.2026.2711530](https://doi.org/10.1080/21505594.2026.2711530) |
-| 2 | [India's hidden malaria parasitome and zoonotic challenges to elimination.](https://pubmed.ncbi.nlm.nih.gov/42660776/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.08.003](https://doi.org/10.1016/j.pt.2026.08.003) |
-| 3 | [Serology Confirms Near-Absence of Malaria Transmission in Timor-Leste.](https://pubmed.ncbi.nlm.nih.gov/42660106/) | The American journal of tropical medicine and hygiene | Plasmodium · Malaria parasite | [10.4269/ajtmh.25-0700](https://doi.org/10.4269/ajtmh.25-0700) |
+| 2 | [Serology Confirms Near-Absence of Malaria Transmission in Timor-Leste.](https://pubmed.ncbi.nlm.nih.gov/42660106/) | The American journal of tropical medicine and hygiene | Plasmodium · Malaria parasite | [10.4269/ajtmh.25-0700](https://doi.org/10.4269/ajtmh.25-0700) |
+| 3 | [India's hidden malaria parasitome and zoonotic challenges to elimination.](https://pubmed.ncbi.nlm.nih.gov/42660776/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.08.003](https://doi.org/10.1016/j.pt.2026.08.003) |
 | 4 | [Association of Parasite Biomass with Disease Severity in Plasmodium vivax and Plasmodium falciparum Malaria Infections.](https://pubmed.ncbi.nlm.nih.gov/42660109/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0106](https://doi.org/10.4269/ajtmh.26-0106) |
 | 5 | [Gravidity-dependent protection against placental malaria is associated with enhanced natural killer cell-mediated antibody-dependent cellular activation: a nested cohort study.](https://pubmed.ncbi.nlm.nih.gov/42660020/) | EBioMedicine | Plasmodium | [10.1016/j.ebiom.2026.106446](https://doi.org/10.1016/j.ebiom.2026.106446) |
 
