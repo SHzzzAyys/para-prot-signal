@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-08-30 03:25:59 +0000
+# PubMed Research Feed — 2026-08-31 03:23:31 +0000
 
-共 **22** 篇文章（Plasmodium 12 · Toxoplasma 10 · Malaria parasite 4）
+共 **22** 篇文章（Plasmodium 13 · Toxoplasma 9 · Malaria parasite 4）
 
 ---
 
@@ -8,14 +8,16 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Exploiting ER proteostasis in malaria: protein disulphide isomerases as selective antimalarial targets.](https://pubmed.ncbi.nlm.nih.gov/42667181/) | Expert opinion on therapeutic targets | Plasmodium | [10.1080/14728222.2026.2723486](https://doi.org/10.1080/14728222.2026.2723486) |
+| 1 | [MiR-122 regulates liver tolerance.](https://pubmed.ncbi.nlm.nih.gov/42667984/) | JHEP reports : innovation in hepatology | Plasmodium | [10.1016/j.jhepr.2026.102020](https://doi.org/10.1016/j.jhepr.2026.102020) |
+| 2 | [Exploiting ER proteostasis in malaria: protein disulphide isomerases as selective antimalarial targets.](https://pubmed.ncbi.nlm.nih.gov/42667181/) | Expert opinion on therapeutic targets | Plasmodium | [10.1080/14728222.2026.2723486](https://doi.org/10.1080/14728222.2026.2723486) |
 
 ## 2026-08-28
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [A suite of eight Toxoplasma gondii effectors cooperates to activate the non-canonical NF-κB pathway.](https://pubmed.ncbi.nlm.nih.gov/42663465/) | mBio | Toxoplasma | [10.1128/mbio.01652-26](https://doi.org/10.1128/mbio.01652-26) |
-| 2 | [Severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic features: A case report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
+| 2 | [De Novo Molecular Design and Bioactivity Prediction of Novel Hexahydroquinolines as Plasmodium falciparum Calcium-Dependent Protein Kinase 4 (CDPK4) Inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42668839/) | Bioinformatics and biology insights | Plasmodium | [10.1177/11779322261483607](https://doi.org/10.1177/11779322261483607) |
+| 3 | [Severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic features: A case report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
 
 ## 2026-08-27
 
@@ -58,10 +60,3 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Decoding neurodevelopment risks of exposures to intoxication, infection, and trauma during pregnancy.](https://pubmed.ncbi.nlm.nih.gov/42638908/) | Pregnancy (Hoboken, N.J.) | Toxoplasma | [10.1002/pmf2.70434](https://doi.org/10.1002/pmf2.70434) |
-
-## 2026-08-22
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Synanthropic mammals as sentinels of multi-pathogen circulation at a wildlife-urban interface.](https://pubmed.ncbi.nlm.nih.gov/42632587/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108294](https://doi.org/10.1016/j.actatropica.2026.108294) |
-| 2 | [The promise of monoclonal antibody interventions in malaria: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42632421/) | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | Plasmodium | [10.1016/j.cmi.2026.08.023](https://doi.org/10.1016/j.cmi.2026.08.023) |
