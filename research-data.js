@@ -1,5 +1,57 @@
-window.researchLastUpdated = "2026-08-31 03:23:31 +0000";
+window.researchLastUpdated = "2026-09-01 03:24:11 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42671244",
+    "title": "Uracil-DNA Glycosylase-Enhanced Loop-Mediated Isothermal Amplification Assays for Detection of Zoonotic Malaria Plasmodium Parasites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42671244/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.4,
+    "score": 100,
+    "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "pubDate": "2026-08-31",
+    "authors": [
+      "Lai MY",
+      "Abdullah ML",
+      "Lau YL"
+    ],
+    "pmid": "42671244",
+    "doi": "10.1177/15303667261484456",
+    "why": "BACKGROUND: Zoonotic malaria caused by simian Plasmodium species presents increasing diagnostic challenges in endemic regions. METHOD: This study developed and evaluated malachite green-based loop-mediated isothermal amplification (MG-LAMP) assays for detecting five zoonotic malaria parasites (P. knowlesi, P. cynomolgi, P. inui, P. coatneyi, and P. fieldi). The assays enable rapid visual detection through a colorimetric change without requiring..."
+  },
+  {
+    "id": "pubmed-42669354",
+    "title": "Recombinant Toxoplasma gondii expressing FIPV spike protein S1 subunit: A proof-of-concept approach against toxoplasmosis and feline infectious peritonitis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669354/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.4,
+    "score": 100,
+    "journal": "Acta tropica",
+    "pubDate": "2026-08-30",
+    "authors": [
+      "Xie F",
+      "Jiang X",
+      "Yang Y",
+      "Xie Y",
+      "Zhao C",
+      "Suo J"
+    ],
+    "pmid": "42669354",
+    "doi": "10.1016/j.actatropica.2026.108297",
+    "why": "Feline infectious peritonitis virus (FIPV) is a lethal feline pathogen with no widely effective prophylactic vaccine available. To address this unmet need, we explored the feasibility of using Toxoplasma gondii (whose definitive host is felids) as a live delivery platform to develop a bivalent vector vaccine. We generated a transgenic T. gondii strain engineered to express and secrete the FIPV spike protein S1 subunit into the parasitophorous vacuole..."
+  },
   {
     "id": "pubmed-42667984",
     "title": "MiR-122 regulates liver tolerance.",
@@ -11,8 +63,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.4,
-    "score": 98,
+    "ageHours": 75.4,
+    "score": 94,
     "journal": "JHEP reports : innovation in hepatology",
     "pubDate": "2026-08-29",
     "authors": [
@@ -38,8 +90,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.4,
-    "score": 96,
+    "ageHours": 75.4,
+    "score": 92,
     "journal": "Expert opinion on therapeutic targets",
     "pubDate": "2026-08-29",
     "authors": [
@@ -62,8 +114,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.4,
-    "score": 100,
+    "ageHours": 99.4,
+    "score": 98,
     "journal": "mBio",
     "pubDate": "2026-08-28",
     "authors": [
@@ -78,6 +130,34 @@ window.researchItems = [
     "why": "UNLABELLED: As a master of host-cell reprogramming, Toxoplasma gondii (T. gondii) tachyzoites manipulate diverse signaling networks to establish a niche permissive for long-term infection. While the parasite's subversion of canonical NF-κB signaling (p65/p50) is well established, how infection impacts the non-canonical NF-κB pathway has been largely unexplored. Here, we report that T. gondii infection induces nuclear accumulation of the non-canonical..."
   },
   {
+    "id": "pubmed-42669655",
+    "title": "Short report: surveillance of hrp2/hrp3 deletions in Plasmodium falciparum within Haiti, 2021-2023, using RDTs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669655/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.4,
+    "score": 98,
+    "journal": "Malaria journal",
+    "pubDate": "2026-08-28",
+    "authors": [
+      "Matulis GA",
+      "Smith HP",
+      "Katich RS",
+      "Kour N",
+      "Delp KL",
+      "Douglas CE"
+    ],
+    "pmid": "42669655",
+    "doi": "10.1186/s12936-026-06108-3",
+    "why": "BACKGROUND: Malaria continues to be endemic within Haiti, despite numerous strategies to reduce its incidence. In 2012, malaria surveillance in clinical settings shifted away from microscopy to HRP2 based Rapid Diagnostic Tests (RDTs) as the primary form of screening. While this approach removes obstacles and delays associated with seeking skilled microscopy, the global emergence of malaria parasites containing HRP deletions has raised concerns of..."
+  },
+  {
     "id": "pubmed-42668839",
     "title": "De Novo Molecular Design and Bioactivity Prediction of Novel Hexahydroquinolines as Plasmodium falciparum Calcium-Dependent Protein Kinase 4 (CDPK4) Inhibitors.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42668839/",
@@ -88,8 +168,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.4,
-    "score": 100,
+    "ageHours": 99.4,
+    "score": 96,
     "journal": "Bioinformatics and biology insights",
     "pubDate": "2026-08-28",
     "authors": [
@@ -115,8 +195,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.4,
-    "score": 76,
+    "ageHours": 99.4,
+    "score": 72,
     "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
     "pubDate": "2026-08-28",
     "authors": [
@@ -142,8 +222,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.4,
-    "score": 100,
+    "ageHours": 123.4,
+    "score": 96,
     "journal": "Virulence",
     "pubDate": "2026-08-27",
     "authors": [
@@ -167,8 +247,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.4,
-    "score": 98,
+    "ageHours": 123.4,
+    "score": 94,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-27",
     "authors": [
@@ -194,8 +274,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.4,
-    "score": 92,
+    "ageHours": 123.4,
+    "score": 88,
     "journal": "Trends in parasitology",
     "pubDate": "2026-08-27",
     "authors": [
@@ -217,8 +297,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.4,
-    "score": 90,
+    "ageHours": 123.4,
+    "score": 86,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-27",
     "authors": [
@@ -244,8 +324,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.4,
-    "score": 86,
+    "ageHours": 123.4,
+    "score": 82,
     "journal": "EBioMedicine",
     "pubDate": "2026-08-27",
     "authors": [
@@ -271,8 +351,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.4,
-    "score": 98,
+    "ageHours": 147.4,
+    "score": 96,
     "journal": "Health science reports",
     "pubDate": "2026-08-26",
     "authors": [
@@ -298,8 +378,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.4,
-    "score": 96,
+    "ageHours": 147.4,
+    "score": 94,
     "journal": "Veterinary medicine international",
     "pubDate": "2026-08-26",
     "authors": [
@@ -325,8 +405,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.4,
-    "score": 94,
+    "ageHours": 147.4,
+    "score": 92,
     "journal": "Seminars in ophthalmology",
     "pubDate": "2026-08-26",
     "authors": [
@@ -352,8 +432,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.4,
-    "score": 92,
+    "ageHours": 147.4,
+    "score": 90,
     "journal": "Nature communications",
     "pubDate": "2026-08-26",
     "authors": [
@@ -379,8 +459,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.4,
-    "score": 84,
+    "ageHours": 147.4,
+    "score": 80,
     "journal": "mSphere",
     "pubDate": "2026-08-26",
     "authors": [
@@ -407,8 +487,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.4,
-    "score": 96,
+    "ageHours": 171.4,
+    "score": 92,
     "journal": "PLoS pathogens",
     "pubDate": "2026-08-25",
     "authors": [
@@ -431,8 +511,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.4,
-    "score": 90,
+    "ageHours": 171.4,
+    "score": 88,
     "journal": "Microbial pathogenesis",
     "pubDate": "2026-08-25",
     "authors": [
@@ -458,8 +538,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.4,
-    "score": 80,
+    "ageHours": 171.4,
+    "score": 76,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-08-25",
     "authors": [
@@ -486,8 +566,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.4,
-    "score": 94,
+    "ageHours": 195.4,
+    "score": 90,
     "journal": "Journal of molecular biology",
     "pubDate": "2026-08-24",
     "authors": [
@@ -513,7 +593,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.4,
+    "ageHours": 195.4,
     "score": 86,
     "journal": "Scientific reports",
     "pubDate": "2026-08-24",
@@ -540,7 +620,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.4,
+    "ageHours": 195.4,
     "score": 84,
     "journal": "Protein expression and purification",
     "pubDate": "2026-08-24",
@@ -555,32 +635,5 @@ window.researchItems = [
     "pmid": "42637169",
     "doi": "10.1016/j.pep.2026.106995",
     "why": "The present study evaluated the induction conditions (inducer type and concentration) for the expression of the multi-antigenic chimeric protein TgAGS/BsT from Toxoplasma gondii in Escherichia coli BL21 Star during batch submerged cultivation. With a molecular mass of about 18.6 kDa, the chimeric TgAGS/BsT protein has potential use in a diagnostic kit and as a vaccine candidate for toxoplasmosis. Batch cultures were performed at 37°C and induced by the..."
-  },
-  {
-    "id": "pubmed-42638908",
-    "title": "Decoding neurodevelopment risks of exposures to intoxication, infection, and trauma during pregnancy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42638908/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.4,
-    "score": 88,
-    "journal": "Pregnancy (Hoboken, N.J.)",
-    "pubDate": "2026-08-23",
-    "authors": [
-      "Lujan BE",
-      "Giordano KR",
-      "Gonzalez-Ricon RJ",
-      "Giblin OC",
-      "Manriquez M",
-      "Qiu S"
-    ],
-    "pmid": "42638908",
-    "doi": "10.1002/pmf2.70434",
-    "why": "The maternal environment plays a pivotal role in fetal neurodevelopment, but adverse conditions during pregnancy may disrupt key developmental processes. Conditions such as intoxication, infection, or trauma during pregnancy have been associated with impaired fetal oxygenation, altered immune signaling, and disrupted placental function, which may contribute to long-term neurodevelopmental alterations. This review examines evidence suggesting how prenatal..."
   }
 ];

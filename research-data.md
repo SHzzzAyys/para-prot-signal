@@ -1,8 +1,20 @@
-# PubMed Research Feed — 2026-08-31 03:23:31 +0000
+# PubMed Research Feed — 2026-09-01 03:24:11 +0000
 
-共 **22** 篇文章（Plasmodium 13 · Toxoplasma 9 · Malaria parasite 4）
+共 **24** 篇文章（Plasmodium 15 · Malaria parasite 6 · Toxoplasma 9）
 
 ---
+
+## 2026-08-31
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Uracil-DNA Glycosylase-Enhanced Loop-Mediated Isothermal Amplification Assays for Detection of Zoonotic Malaria Plasmodium Parasites.](https://pubmed.ncbi.nlm.nih.gov/42671244/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Plasmodium · Malaria parasite | [10.1177/15303667261484456](https://doi.org/10.1177/15303667261484456) |
+
+## 2026-08-30
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Recombinant Toxoplasma gondii expressing FIPV spike protein S1 subunit: A proof-of-concept approach against toxoplasmosis and feline infectious peritonitis.](https://pubmed.ncbi.nlm.nih.gov/42669354/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108297](https://doi.org/10.1016/j.actatropica.2026.108297) |
 
 ## 2026-08-29
 
@@ -16,8 +28,9 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [A suite of eight Toxoplasma gondii effectors cooperates to activate the non-canonical NF-κB pathway.](https://pubmed.ncbi.nlm.nih.gov/42663465/) | mBio | Toxoplasma | [10.1128/mbio.01652-26](https://doi.org/10.1128/mbio.01652-26) |
-| 2 | [De Novo Molecular Design and Bioactivity Prediction of Novel Hexahydroquinolines as Plasmodium falciparum Calcium-Dependent Protein Kinase 4 (CDPK4) Inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42668839/) | Bioinformatics and biology insights | Plasmodium | [10.1177/11779322261483607](https://doi.org/10.1177/11779322261483607) |
-| 3 | [Severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic features: A case report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
+| 2 | [Short report: surveillance of hrp2/hrp3 deletions in Plasmodium falciparum within Haiti, 2021-2023, using RDTs.](https://pubmed.ncbi.nlm.nih.gov/42669655/) | Malaria journal | Plasmodium · Malaria parasite | [10.1186/s12936-026-06108-3](https://doi.org/10.1186/s12936-026-06108-3) |
+| 3 | [De Novo Molecular Design and Bioactivity Prediction of Novel Hexahydroquinolines as Plasmodium falciparum Calcium-Dependent Protein Kinase 4 (CDPK4) Inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42668839/) | Bioinformatics and biology insights | Plasmodium | [10.1177/11779322261483607](https://doi.org/10.1177/11779322261483607) |
+| 4 | [Severe Plasmodium falciparum malaria with marked ADAMTS13 reduction and secondary microangiopathic features: A case report.](https://pubmed.ncbi.nlm.nih.gov/42636958/) | Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy | Plasmodium | [10.1016/j.jiac.2026.103056](https://doi.org/10.1016/j.jiac.2026.103056) |
 
 ## 2026-08-27
 
@@ -54,9 +67,3 @@
 | 1 | [A divergent mitochondrial cytochrome c in malaria parasites with an anomalously low redox potential.](https://pubmed.ncbi.nlm.nih.gov/42636980/) | Journal of molecular biology | Plasmodium · Malaria parasite | [10.1016/j.jmb.2026.169996](https://doi.org/10.1016/j.jmb.2026.169996) |
 | 2 | [Chronic Toxoplasma gondii infection and its influence on semen analysis in rats: controlled experimental animal study.](https://pubmed.ncbi.nlm.nih.gov/42637859/) | Scientific reports | Toxoplasma | [10.1038/s41598-026-62773-z](https://doi.org/10.1038/s41598-026-62773-z) |
 | 3 | [Evaluation of induction conditions for multi-antigen chimeric TgAGS/BsT protein from Toxoplasma gondii in Escherichia coli BL 21 Star during batch cultivation.](https://pubmed.ncbi.nlm.nih.gov/42637169/) | Protein expression and purification | Toxoplasma | [10.1016/j.pep.2026.106995](https://doi.org/10.1016/j.pep.2026.106995) |
-
-## 2026-08-23
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Decoding neurodevelopment risks of exposures to intoxication, infection, and trauma during pregnancy.](https://pubmed.ncbi.nlm.nih.gov/42638908/) | Pregnancy (Hoboken, N.J.) | Toxoplasma | [10.1002/pmf2.70434](https://doi.org/10.1002/pmf2.70434) |
