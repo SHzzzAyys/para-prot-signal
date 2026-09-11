@@ -1,17 +1,27 @@
-# PubMed Research Feed — 2026-09-10 02:55:38 +0000
+# PubMed Research Feed — 2026-09-11 02:50:30 +0000
 
-共 **41** 篇文章（Plasmodium 25 · Malaria parasite 12 · Toxoplasma 10）
+共 **35** 篇文章（Plasmodium 25 · Malaria parasite 11 · Toxoplasma 5）
 
 ---
+
+## 2026-09-10
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Evaluation of HLA-G and Hematobiochemical levels and their association with malaria and miscarriage among pregnant women: A Ghanaian case-control study.](https://pubmed.ncbi.nlm.nih.gov/42721139/) | PloS one | Plasmodium | [10.1371/journal.pone.0355847](https://doi.org/10.1371/journal.pone.0355847) |
+| 2 | [In Vivo Efficacy and Biochemical Target Engagement of a Chromene-Based Inhibitor of Trypanosoma cruzi Lysyl-tRNA Synthetase.](https://pubmed.ncbi.nlm.nih.gov/42720462/) | Journal of medicinal chemistry | Plasmodium | [10.1021/acs.jmedchem.6c00764](https://doi.org/10.1021/acs.jmedchem.6c00764) |
 
 ## 2026-09-09
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Rare Hematopoietic Stem Cells resilient to infection-induced stress sense yet withstand inflammation.](https://pubmed.ncbi.nlm.nih.gov/42715162/) | Blood | Plasmodium | [10.1182/blood.2025032368](https://doi.org/10.1182/blood.2025032368) |
-| 2 | [Functional validation of the Plasmodium falciparum K13 C580Y mutation in recently collected Ethiopian isolates.](https://pubmed.ncbi.nlm.nih.gov/42714387/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00495-26](https://doi.org/10.1128/aac.00495-26) |
-| 3 | [In vitro pharmacodynamics of the antimalarial drug cabamiquine.](https://pubmed.ncbi.nlm.nih.gov/42714380/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00802-26](https://doi.org/10.1128/aac.00802-26) |
-| 4 | [Plasmodium falciparum Parasites With Histidine-Rich Protein 2 (pfhrp2) and pfhrp3 Gene Deletions in Frontier Endemic Regions of Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42714149/) | Tropical medicine & international health : TM & IH | Plasmodium | [10.1111/tmi.70221](https://doi.org/10.1111/tmi.70221) |
+| 1 | [Molecular DNA enrichment methods for parasite genomic sequencing in clinical samples: a systematic review.](https://pubmed.ncbi.nlm.nih.gov/42716367/) | Experimental parasitology | Plasmodium | [10.1016/j.exppara.2026.109200](https://doi.org/10.1016/j.exppara.2026.109200) |
+| 2 | [Global Proteomic Profiling of Cerebral Malaria-Infected Erythrocytes Reveals a specific PfEMP1 Expression Pattern.](https://pubmed.ncbi.nlm.nih.gov/42716185/) | Molecular & cellular proteomics : MCP | Plasmodium | [10.1016/j.mcpro.2026.101659](https://doi.org/10.1016/j.mcpro.2026.101659) |
+| 3 | [Capitalizing on an Invasive Species: Micurane Sesquiterpenoids from Micrococca mercurialis with Stage-Specific Antiplasmodial Activity.](https://pubmed.ncbi.nlm.nih.gov/42715961/) | Journal of agricultural and food chemistry | Plasmodium | [10.1021/acs.jafc.6c06163](https://doi.org/10.1021/acs.jafc.6c06163) |
+| 4 | [Rare Hematopoietic Stem Cells resilient to infection-induced stress sense yet withstand inflammation.](https://pubmed.ncbi.nlm.nih.gov/42715162/) | Blood | Plasmodium | [10.1182/blood.2025032368](https://doi.org/10.1182/blood.2025032368) |
+| 5 | [Functional validation of the Plasmodium falciparum K13 C580Y mutation in recently collected Ethiopian isolates.](https://pubmed.ncbi.nlm.nih.gov/42714387/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00495-26](https://doi.org/10.1128/aac.00495-26) |
+| 6 | [In vitro pharmacodynamics of the antimalarial drug cabamiquine.](https://pubmed.ncbi.nlm.nih.gov/42714380/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00802-26](https://doi.org/10.1128/aac.00802-26) |
+| 7 | [Plasmodium falciparum Parasites With Histidine-Rich Protein 2 (pfhrp2) and pfhrp3 Gene Deletions in Frontier Endemic Regions of Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42714149/) | Tropical medicine & international health : TM & IH | Plasmodium | [10.1111/tmi.70221](https://doi.org/10.1111/tmi.70221) |
 
 ## 2026-09-08
 
@@ -55,35 +65,18 @@
 | 2 | [Non-genetic red blood cell variability can modulate hemoglobin consumption by intracellular Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42695679/) | mSystems | Plasmodium · Malaria parasite | [10.1128/msystems.00554-26](https://doi.org/10.1128/msystems.00554-26) |
 | 3 | [Pseudo-Reticulocytosis in Severe Plasmodium falciparum Malaria: A Sysmex XN-9100 Scattergram Pitfall.](https://pubmed.ncbi.nlm.nih.gov/42698048/) | International journal of laboratory hematology | Plasmodium | [10.1111/ijlh.70249](https://doi.org/10.1111/ijlh.70249) |
 | 4 | [Correction for Grünebast et al., "Degradation of ribosomal RNA during Plasmodium falciparum gametocytogenesis".](https://pubmed.ncbi.nlm.nih.gov/42695692/) | mBio | Plasmodium | [10.1128/mbio.01098-26](https://doi.org/10.1128/mbio.01098-26) |
-| 5 | [Antibodies targeting blood stage antigens of Plasmodium falciparum are associated with resistance to malaria infection and disease.](https://pubmed.ncbi.nlm.nih.gov/42695673/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Plasmodium | [10.1093/cid/ciag544](https://doi.org/10.1093/cid/ciag544) |
 
 ## 2026-09-03
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Spatio-temporal trends of the prevalence of Plasmodium falciparum antimalarial drug resistance markers across sub-Saharan Africa from 2010 to 2024: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42698082/) | BMC infectious diseases | Plasmodium · Malaria parasite | [10.1186/s12879-026-14233-2](https://doi.org/10.1186/s12879-026-14233-2) |
-| 2 | [New insights on Plasmodium gene expression from direct RNA sequencing.](https://pubmed.ncbi.nlm.nih.gov/42692913/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.08.006](https://doi.org/10.1016/j.pt.2026.08.006) |
-
-## 2026-09-02
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Knowledge, Attitudes, and Practices Toward Toxoplasmosis Among Veterinary and Human Health Professionals in Central Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42688929/) | Veterinary medicine international | Toxoplasma | [10.1155/vmi/4281345](https://doi.org/10.1155/vmi/4281345) |
-| 2 | [Acute Respiratory Failure due to Pulmonary Toxoplasmosis in an Immunocompetent Patient: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42688919/) | Case reports in critical care | Toxoplasma | [10.1155/crcc/7875906](https://doi.org/10.1155/crcc/7875906) |
-| 3 | [Evidence and Consensus Based Imaging Guidelines in Ocular Toxoplasmosis. Multimodal imaging in Uveitis (MUV) Taskforce Report 14.](https://pubmed.ncbi.nlm.nih.gov/42685929/) | Ophthalmology. Retina | Toxoplasma | [10.1016/j.oret.2026.08.026](https://doi.org/10.1016/j.oret.2026.08.026) |
-| 4 | [Gastro-intestinal parasites of camels (Camelus dromedarius) - a review.](https://pubmed.ncbi.nlm.nih.gov/42684585/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11473-0](https://doi.org/10.1007/s11259-026-11473-0) |
-| 5 | [Atypical p38 kinase signaling and pathological impact on human health.](https://pubmed.ncbi.nlm.nih.gov/42621771/) | The Biochemical journal | Toxoplasma | [10.1042/BCJ20250269](https://doi.org/10.1042/BCJ20250269) |
-| 6 | [Persistence of Plasmodium falciparum DNA detection after antimalarial treatment and the implication of gametocytes: a prospective cohort study in a non-endemic setting.](https://pubmed.ncbi.nlm.nih.gov/42684939/) | Microbiology spectrum | Plasmodium | [10.1128/spectrum.02312-26](https://doi.org/10.1128/spectrum.02312-26) |
-| 7 | [Host range of Microsporidia MB in aquatic macrofauna inhabiting Anopheles breeding sites.](https://pubmed.ncbi.nlm.nih.gov/42684921/) | Microbiology spectrum | Plasmodium | [10.1128/spectrum.00679-26](https://doi.org/10.1128/spectrum.00679-26) |
-| 8 | [New thinking for the next generation of antimalarials.](https://pubmed.ncbi.nlm.nih.gov/42680902/) | EMBO molecular medicine | Plasmodium | [10.1038/s44321-026-00515-4](https://doi.org/10.1038/s44321-026-00515-4) |
 
 ## 2026-08-06
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Changing Species Dynamics and Species-Specific Associations Observed between Anopheles and Plasmodium Genera in Diebougou Health District, Southwest Burkina Faso.](https://pubmed.ncbi.nlm.nih.gov/42561928/) | The American journal of tropical medicine and hygiene | Malaria parasite | [10.4269/ajtmh.25-0745](https://doi.org/10.4269/ajtmh.25-0745) |
-| 2 | [A Complex Story of Multi-Species Vector-Malaria Parasite Interactions and Seasonality in Burkina Faso.](https://pubmed.ncbi.nlm.nih.gov/42561927/) | The American journal of tropical medicine and hygiene | Malaria parasite | [10.4269/ajtmh.26-0442](https://doi.org/10.4269/ajtmh.26-0442) |
-| 3 | [Early enhanced control of Plasmodium yoelii infection in IL-10-deficient mice is independent of IFN-γ, IL-12, and the humoral response.](https://pubmed.ncbi.nlm.nih.gov/42560308/) | Infection and immunity | Malaria parasite | [10.1128/iai.00196-26](https://doi.org/10.1128/iai.00196-26) |
+| 1 | [Early enhanced control of Plasmodium yoelii infection in IL-10-deficient mice is independent of IFN-γ, IL-12, and the humoral response.](https://pubmed.ncbi.nlm.nih.gov/42560308/) | Infection and immunity | Malaria parasite | [10.1128/iai.00196-26](https://doi.org/10.1128/iai.00196-26) |
 
 ## 2026-08-05
 
@@ -108,6 +101,12 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Dual transcriptomic analysis of Toxoplasma gondii infection in a human PBMC ex vivo model.](https://pubmed.ncbi.nlm.nih.gov/42322816/) | Biochemical and biophysical research communications | Toxoplasma | [10.1016/j.bbrc.2026.154171](https://doi.org/10.1016/j.bbrc.2026.154171) |
+
+## 2026-06-17
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Plasmodium vivax malaria in India: microbiological barriers to diagnosis, treatment, and elimination.](https://pubmed.ncbi.nlm.nih.gov/42307231/) | Clinical microbiology reviews | Malaria parasite | [10.1128/cmr.00025-26](https://doi.org/10.1128/cmr.00025-26) |
 
 ## 2026-04-19
 
