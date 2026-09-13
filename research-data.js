@@ -1,9 +1,9 @@
-window.researchLastUpdated = "2026-09-12 02:58:16 +0000";
+window.researchLastUpdated = "2026-09-13 02:58:06 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-42726488",
-    "title": "Toxoplasma gondii infection disrupts secondary bile acid transformation in feline gut microbiota.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726488/",
+    "id": "pubmed-42727873",
+    "title": "Under-recognized yet Clinically Relevant: A Hospital-based Study of Toxoplasma gondii Seropositivity in Bihar, India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727873/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -11,21 +11,76 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.0,
+    "ageHours": 51.0,
     "score": 100,
-    "journal": "Applied and environmental microbiology",
+    "journal": "Acta tropica",
     "pubDate": "2026-09-11",
     "authors": [
-      "Tang L-Y",
-      "Zhang H",
-      "Zhao J-X",
-      "Gao Y-Q",
-      "Zhang X",
-      "Xie S-C"
+      "Sinha D",
+      "Anand G",
+      "Kokkayil P",
+      "Kumar A",
+      "Priyadarshi K",
+      "Thakuria B"
     ],
-    "pmid": "42726488",
-    "doi": "10.1128/aem.00674-26",
-    "why": "UNLABELLED: Bile acid (BA) transformation relies on gut microbiota and is vulnerable to Toxoplasma gondii infection, yet feline microbial BA-transforming capacity upon toxoplasmosis remains unclear. Here, we constructed a catalog of 2,474 nonredundant feline gut microbial genomes and integrated serum metabolomic data to verify BA transformation alterations. The results revealed that the feline gut microbiome harbored widespread genetic potential for BA..."
+    "pmid": "42727873",
+    "doi": "10.1016/j.actatropica.2026.108321",
+    "why": "Toxoplasma gondii is a globally prevalent protozoan parasite with marked regional variation in seroprevalence and clinical expression, yet data from eastern India, particularly Bihar, remain scarce. This retrospective cross-sectional study evaluated the serological positivity among clinically suspected patients and clinical spectrum of toxoplasmosis in Bihar using laboratory and clinical data from a tertiary-care centre in Patna between September 2021 and..."
+  },
+  {
+    "id": "pubmed-42727755",
+    "title": "Stage-specific expression and localization of ETRAMP4 during gametocyte development in the malaria parasite Plasmodium falciparum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727755/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.0,
+    "score": 100,
+    "journal": "Parasitology international",
+    "pubDate": "2026-09-11",
+    "authors": [
+      "Iriko H",
+      "Omoda A",
+      "Aoi H",
+      "Tachibana M",
+      "Ishino T",
+      "Otsuki H"
+    ],
+    "pmid": "42727755",
+    "doi": "10.1016/j.parint.2026.103390",
+    "why": "The early transcribed membrane protein 4 (ETRAMP4) is one of 14 predicted members of the ETRAMP family in the malaria parasite Plasmodium. All characterized ETRAMP proteins localize to the parasitophorous vacuole membrane (PVM) and associated membranous structures during the early stages of parasite infection of erythrocytes; and are thought to participate in host-parasite material transport, which is critical for parasite development. In this study, we..."
+  },
+  {
+    "id": "pubmed-42727743",
+    "title": "Oregano essential oil alone and in combination with biogenic silver nanoparticles exhibits anti-Toxoplasma gondii activity in human trophoblastic cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727743/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.0,
+    "score": 98,
+    "journal": "Microbial pathogenesis",
+    "pubDate": "2026-09-11",
+    "authors": [
+      "Suzuki SM",
+      "Lima RF",
+      "Dos Santos-Destro YM",
+      "Barbosa Tonzar AB",
+      "Nunes AP",
+      "Lazarin-Bidoia D"
+    ],
+    "pmid": "42727743",
+    "doi": "10.1016/j.micpath.2026.108828",
+    "why": "INTRODUCTION: Toxoplasmosis, caused by Toxoplasma gondii, is a globally significant zoonosis, particularly severe in immunocompromised individuals and in ocular and congenital infections. Conventional treatment with pyrimethamine and sulfadiazine is limited by its toxicity, highlighting the need for safer and more effective alternatives. In this context, oregano essential oil (Origanum vulgare L., OEO) and biogenic silver nanoparticles (AgNp-Bio) have..."
   },
   {
     "id": "pubmed-42725972",
@@ -39,8 +94,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 27.0,
-    "score": 100,
+    "ageHours": 51.0,
+    "score": 98,
     "journal": "ACS infectious diseases",
     "pubDate": "2026-09-11",
     "authors": [
@@ -56,9 +111,9 @@ window.researchItems = [
     "why": "Plasmepsin V is an essential aspartyl protease that cleaves the Plasmodium export element in proteins targeted for export from Plasmodium parasites into the host red blood cell. Substrate-mimicking peptidomimetics have been developed that potently inhibit plasmepsin V but show modest parasite activity. To advance these inhibitors, we optimized their potency by introducing a 2-chloro aryl group at P2 and an N-terminal sulfonamide that yielded WM960, which..."
   },
   {
-    "id": "pubmed-42723283",
-    "title": "Organization of Myosin H in the Apical Complex of Toxoplasma gondii Revealed by 3D Single-Molecule Super-Resolution Microscopy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42723283/",
+    "id": "pubmed-42726488",
+    "title": "Toxoplasma gondii infection disrupts secondary bile acid transformation in feline gut microbiota.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726488/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -67,19 +122,20 @@ window.researchItems = [
     "type": "PubMed",
     "editor": "NCBI",
     "ageHours": 51.0,
-    "score": 98,
-    "journal": "Biophysical journal",
-    "pubDate": "2026-09-10",
+    "score": 96,
+    "journal": "Applied and environmental microbiology",
+    "pubDate": "2026-09-11",
     "authors": [
-      "Balaji A",
-      "Zarko LS",
-      "Barentine AES",
-      "Boothroyd JC",
-      "Moerner WE"
+      "Tang L-Y",
+      "Zhang H",
+      "Zhao J-X",
+      "Gao Y-Q",
+      "Zhang X",
+      "Xie S-C"
     ],
-    "pmid": "42723283",
-    "doi": "10.1016/j.bpj.2026.09.012",
-    "why": "Toxoplasma gondii is a single-celled eukaryotic parasite with prolific invasion capability. The parasite uses an apical complex comprised of proteinaceous structures and secretory organelles to efficiently enter host cells. As a result, the apical complex remains a vital structure of interest, with many studies dedicated to understanding its protein organization. One such protein is the motor Myosin H (MyoH), which is indispensable for parasite motility..."
+    "pmid": "42726488",
+    "doi": "10.1128/aem.00674-26",
+    "why": "UNLABELLED: Bile acid (BA) transformation relies on gut microbiota and is vulnerable to Toxoplasma gondii infection, yet feline microbial BA-transforming capacity upon toxoplasmosis remains unclear. Here, we constructed a catalog of 2,474 nonredundant feline gut microbial genomes and integrated serum metabolomic data to verify BA transformation alterations. The results revealed that the feline gut microbiome harbored widespread genetic potential for BA..."
   },
   {
     "id": "pubmed-42723150",
@@ -92,8 +148,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 98,
+    "ageHours": 75.0,
+    "score": 96,
     "journal": "American journal of hematology",
     "pubDate": "2026-09-10",
     "authors": [
@@ -109,6 +165,32 @@ window.researchItems = [
     "why": "In chronic Plasmodium vivax (Pv) infection, the spleen accounts for over 98% of total-body parasite biomass. Whether splenic tropism also occurs in acute infection and how the spleen influences pathogenesis have not been systematically explored. In Papua, Indonesia, we compared clinical and hematology data in 24 spleen-intact and 25 previously splenectomized patients with acute uncomplicated vivax malaria. Plasma levels of Pv lactate dehydrogenase (PvLDH)..."
   },
   {
+    "id": "pubmed-42723283",
+    "title": "Organization of Myosin H in the Apical Complex of Toxoplasma gondii Revealed by 3D Single-Molecule Super-Resolution Microscopy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723283/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.0,
+    "score": 94,
+    "journal": "Biophysical journal",
+    "pubDate": "2026-09-10",
+    "authors": [
+      "Balaji A",
+      "Zarko LS",
+      "Barentine AES",
+      "Boothroyd JC",
+      "Moerner WE"
+    ],
+    "pmid": "42723283",
+    "doi": "10.1016/j.bpj.2026.09.012",
+    "why": "Toxoplasma gondii is a single-celled eukaryotic parasite with prolific invasion capability. The parasite uses an apical complex comprised of proteinaceous structures and secretory organelles to efficiently enter host cells. As a result, the apical complex remains a vital structure of interest, with many studies dedicated to understanding its protein organization. One such protein is the motor Myosin H (MyoH), which is indispensable for parasite motility..."
+  },
+  {
     "id": "pubmed-42723100",
     "title": "Plasmodium falciparum sporozoite loads in Anopheles gambiae s.l. across agro-ecological zones of Benin: a cross-sectional field study.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42723100/",
@@ -119,8 +201,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 96,
+    "ageHours": 75.0,
+    "score": 94,
     "journal": "Tropical medicine and health",
     "pubDate": "2026-09-10",
     "authors": [
@@ -146,8 +228,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 94,
+    "ageHours": 75.0,
+    "score": 92,
     "journal": "PloS one",
     "pubDate": "2026-09-10",
     "authors": [
@@ -173,8 +255,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 92,
+    "ageHours": 75.0,
+    "score": 90,
     "journal": "Journal of medicinal chemistry",
     "pubDate": "2026-09-10",
     "authors": [
@@ -200,8 +282,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 96,
+    "ageHours": 99.0,
+    "score": 92,
     "journal": "Veterinary parasitology",
     "pubDate": "2026-09-09",
     "authors": [
@@ -227,8 +309,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 90,
+    "ageHours": 99.0,
+    "score": 88,
     "journal": "Experimental parasitology",
     "pubDate": "2026-09-09",
     "authors": [
@@ -254,8 +336,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 88,
+    "ageHours": 99.0,
+    "score": 86,
     "journal": "Molecular & cellular proteomics : MCP",
     "pubDate": "2026-09-09",
     "authors": [
@@ -281,8 +363,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 86,
+    "ageHours": 99.0,
+    "score": 84,
     "journal": "Journal of agricultural and food chemistry",
     "pubDate": "2026-09-09",
     "authors": [
@@ -308,8 +390,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 84,
+    "ageHours": 99.0,
+    "score": 82,
     "journal": "Blood",
     "pubDate": "2026-09-09",
     "authors": [
@@ -335,8 +417,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 82,
+    "ageHours": 99.0,
+    "score": 80,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-09-09",
     "authors": [
@@ -362,8 +444,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 80,
+    "ageHours": 99.0,
+    "score": 78,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-09-09",
     "authors": [
@@ -389,8 +471,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 78,
+    "ageHours": 99.0,
+    "score": 76,
     "journal": "Tropical medicine & international health : TM & IH",
     "pubDate": "2026-09-09",
     "authors": [
@@ -417,8 +499,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 98,
+    "ageHours": 123.0,
+    "score": 96,
     "journal": "PLoS pathogens",
     "pubDate": "2026-09-08",
     "authors": [
@@ -445,8 +527,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 96,
+    "ageHours": 123.0,
+    "score": 94,
     "journal": "PLoS pathogens",
     "pubDate": "2026-09-08",
     "authors": [
@@ -469,8 +551,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 92,
+    "ageHours": 123.0,
+    "score": 88,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-09-08",
     "authors": [
@@ -496,8 +578,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 90,
+    "ageHours": 123.0,
+    "score": 86,
     "journal": "Turkiye parazitolojii dergisi",
     "pubDate": "2026-09-08",
     "authors": [
@@ -520,8 +602,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 76,
+    "ageHours": 123.0,
+    "score": 74,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-09-08",
     "authors": [
@@ -547,8 +629,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 74,
+    "ageHours": 123.0,
+    "score": 72,
     "journal": "PLoS pathogens",
     "pubDate": "2026-09-08",
     "authors": [
@@ -574,8 +656,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 68,
+    "ageHours": 123.0,
+    "score": 66,
     "journal": "Molecular biology reports",
     "pubDate": "2026-09-08",
     "authors": [
@@ -586,33 +668,6 @@ window.researchItems = [
     "pmid": "42709283",
     "doi": "10.1007/s11033-026-12676-z",
     "why": "BACKGROUND: The eukaryotic signal recognition particle (SRP) consists of six proteins and one SRP RNA. This ribonucleoprotein complex assembles inside the nucleus. Nucleocytoplasmic transport is an essential process for the biogenesis of signal recognition particles (SRPs) as well as for the survival of a cell. There are studies on cells that indicate the import receptor is responsible for import of SRP proteins into nucleus, but there is a lack of..."
-  },
-  {
-    "id": "pubmed-42711694",
-    "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42711694/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 94,
-    "journal": "BMC veterinary research",
-    "pubDate": "2026-09-07",
-    "authors": [
-      "Elmahallawy EK",
-      "Abdo W",
-      "Cano-Terriza D",
-      "Gareh A",
-      "Elsheikh HEM",
-      "AlGabbani Q"
-    ],
-    "pmid": "42711694",
-    "doi": "10.1186/s12917-026-05699-y",
-    "why": "BACKGROUND: Toxoplasma gondii (T. gondii) is a globally prevalent protozoan parasite affecting warm-blooded species, including humans. In Egypt, serological surveys have been conducted in several livestock; however, studies on species such as buffalo and pigs remain scarce. This study aimed to provide updated insights into the seroprevalence of T. gondii in a cohort of 548 domestic animals, comprising 288 water buffaloes (Bubalus bubalis), sampled from..."
   },
   {
     "id": "pubmed-42704743",
@@ -626,7 +681,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
+    "ageHours": 147.0,
     "score": 92,
     "journal": "Emerging microbes & infections",
     "pubDate": "2026-09-07",
@@ -643,6 +698,33 @@ window.researchItems = [
     "why": "Fundamental aspects of the biology of the third most prevalent human malaria species Plasmodium malariae, including the basis for its capacity to establish chronic, low-density infections associated with debilitating quartan fevers, remain poorly characterized, hampering control efforts. Here, we combined ex- vivo flowcytometric profiling of P. malariae isolates with infection studies in a recently developed humanised mouse model. We demonstrate a..."
   },
   {
+    "id": "pubmed-42711694",
+    "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711694/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 147.0,
+    "score": 90,
+    "journal": "BMC veterinary research",
+    "pubDate": "2026-09-07",
+    "authors": [
+      "Elmahallawy EK",
+      "Abdo W",
+      "Cano-Terriza D",
+      "Gareh A",
+      "Elsheikh HEM",
+      "AlGabbani Q"
+    ],
+    "pmid": "42711694",
+    "doi": "10.1186/s12917-026-05699-y",
+    "why": "BACKGROUND: Toxoplasma gondii (T. gondii) is a globally prevalent protozoan parasite affecting warm-blooded species, including humans. In Egypt, serological surveys have been conducted in several livestock; however, studies on species such as buffalo and pigs remain scarce. This study aimed to provide updated insights into the seroprevalence of T. gondii in a cohort of 548 domestic animals, comprising 288 water buffaloes (Bubalus bubalis), sampled from..."
+  },
+  {
     "id": "pubmed-42704138",
     "title": "The Road toward a Trojan Horse Malaria Vaccine: Chemical Augmentation of Live Sporozoites without Affecting Their Viability.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42704138/",
@@ -654,7 +736,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
+    "ageHours": 147.0,
     "score": 90,
     "journal": "Molecular pharmaceutics",
     "pubDate": "2026-09-07",
@@ -681,8 +763,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.0,
-    "score": 66,
+    "ageHours": 171.0,
+    "score": 64,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-09-06",
     "authors": [
@@ -703,7 +785,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.0,
+    "ageHours": 171.0,
     "score": 58,
     "journal": "Natural product research",
     "pubDate": "2026-09-06",
@@ -730,7 +812,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.0,
+    "ageHours": 171.0,
     "score": 56,
     "journal": "Parasitology international",
     "pubDate": "2026-09-06",
@@ -747,6 +829,30 @@ window.researchItems = [
     "why": "Description of a new species of Myxobolus parasitizing the freshwater fish Rhamdia quelen, in the municipality of Cachoeira do Arari, Marajó Island, Pará, Brazil. Thirty specimens were analyzed, with 60% exhibiting rounded or ovoid, whitish plasmodia containing mature myxospores, scattered across the palate and the lower lip of the hosts. These myxospores measured 13.9 ± 0.3 μm in length and 9.9 ± 0.3 μm in width, in valvar view. Two pear-shaped polar..."
   },
   {
+    "id": "pubmed-42667181",
+    "title": "Exploiting ER proteostasis in malaria: protein disulphide isomerases as selective antimalarial targets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667181/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 171.0,
+    "score": 52,
+    "journal": "Expert opinion on therapeutic targets",
+    "pubDate": "2026-09-06",
+    "authors": [
+      "Odugbemi AI",
+      "Mthembu W",
+      "Zininga T"
+    ],
+    "pmid": "42667181",
+    "doi": "10.1080/14728222.2026.2723486",
+    "why": "INTRODUCTION: The emergence of partial resistance to artemisinin-based therapies has intensified the search for antimalarial targets beyond classical kinases and proteases. Protein disulfide isomerases (PDIs) have emerged as attractive candidates due to their roles in endoplasmic reticulum (ER) oxidative folding, redox homeostasis, and survival under proteotoxic stress. Several Plasmodium falciparum PDI family members are essential during asexual blood..."
+  },
+  {
     "id": "pubmed-42700822",
     "title": "Protective immunity to clinical malaria is modified by the genetic diversity of P. falciparum antigens.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42700822/",
@@ -757,7 +863,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.0,
+    "ageHours": 195.0,
     "score": 54,
     "journal": "The Journal of infection",
     "pubDate": "2026-09-05",
@@ -774,84 +880,6 @@ window.researchItems = [
     "why": "Prioritising malaria vaccine targets requires understanding immunity to genetically and structurally diverse parasite antigens, influencing antibody measurements and durability. We measured total IgG levels to 25 Plasmodium falciparum antigens and assessed their association with protection and antigen features. Antibodies were quantified in two longitudinal cohorts of Papua New Guinean children (5-14 years; n=647) experiencing high or moderate..."
   },
   {
-    "id": "pubmed-42706285",
-    "title": "Multiple local PfDHFR I164L haplotype expansions drive Plasmodium falciparum antifolate resistance in Uganda.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706285/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 94,
-    "journal": "Nature communications",
-    "pubDate": "2026-09-04",
-    "authors": [
-      "Asua V",
-      "Niaré K",
-      "Garg S",
-      "Legac J",
-      "Tukwasibwe S",
-      "Katairo T"
-    ],
-    "pmid": "42706285",
-    "doi": "10.1038/s41467-026-76826-4",
-    "why": "Mutations in the Plasmodium falciparum genes, pfdhfr and pfdhps, drive antifolate resistance and threaten malaria control in regions where sulfadoxine-pyrimethamine (SP) is the primary chemoprevention strategy. The spatial patterns and evolutionary dynamics of these mutations in high-transmission settings remain incompletely understood. Here we genotyped 11 resistance-associated mutations in pfdhfr and pfdhps in 4,725 P. falciparum isolates collected from..."
-  },
-  {
-    "id": "pubmed-42695679",
-    "title": "Non-genetic red blood cell variability can modulate hemoglobin consumption by intracellular Plasmodium falciparum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42695679/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 88,
-    "journal": "mSystems",
-    "pubDate": "2026-09-04",
-    "authors": [
-      "Perko JR",
-      "Singh A",
-      "Lopez SI",
-      "Estrada A",
-      "Singh S",
-      "Moser JM"
-    ],
-    "pmid": "42695679",
-    "doi": "10.1128/msystems.00554-26",
-    "why": "Natural, non-genetic variation among host cells can shape infection outcomes, yet its role in intracellular parasite dynamics remains poorly understood. Here, we show that variability in hemoglobin (Hb) content among individual red blood cells (RBCs) modulates nutrient consumption by Plasmodium falciparum, the most lethal malaria parasite. Using label-free quantitative-phase imaging (QPI), we measured cytosolic Hb in thousands of uninfected and infected..."
-  },
-  {
-    "id": "pubmed-42698048",
-    "title": "Pseudo-Reticulocytosis in Severe Plasmodium falciparum Malaria: A Sysmex XN-9100 Scattergram Pitfall.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42698048/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 52,
-    "journal": "International journal of laboratory hematology",
-    "pubDate": "2026-09-04",
-    "authors": [
-      "Abri BA",
-      "Bakri MA"
-    ],
-    "pmid": "42698048",
-    "doi": "10.1111/ijlh.70249",
-    "why": "PubMed 暂无摘要。"
-  },
-  {
     "id": "pubmed-42560308",
     "title": "Early enhanced control of Plasmodium yoelii infection in IL-10-deficient mice is independent of IFN-γ, IL-12, and the humoral response.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42560308/",
@@ -862,8 +890,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 891.0,
-    "score": 86,
+    "ageHours": 915.0,
+    "score": 88,
     "journal": "Infection and immunity",
     "pubDate": "2026-08-06",
     "authors": [
@@ -889,8 +917,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 915.0,
-    "score": 84,
+    "ageHours": 939.0,
+    "score": 86,
     "journal": "International journal of pharmaceutics",
     "pubDate": "2026-08-05",
     "authors": [
@@ -916,8 +944,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 939.0,
-    "score": 82,
+    "ageHours": 963.0,
+    "score": 84,
     "journal": "Infection and immunity",
     "pubDate": "2026-08-04",
     "authors": [
@@ -943,8 +971,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 2091.0,
-    "score": 80,
+    "ageHours": 2115.0,
+    "score": 82,
     "journal": "Clinical microbiology reviews",
     "pubDate": "2026-06-17",
     "authors": [
@@ -967,8 +995,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 3507.0,
-    "score": 88,
+    "ageHours": 3531.0,
+    "score": 84,
     "journal": "European journal of medicinal chemistry",
     "pubDate": "2026-04-19",
     "authors": [
