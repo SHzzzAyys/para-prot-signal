@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-09-13 02:58:06 +0000
+# PubMed Research Feed — 2026-09-14 03:12:19 +0000
 
-共 **38** 篇文章（Toxoplasma 9 · Plasmodium 25 · Malaria parasite 10）
+共 **38** 篇文章（Plasmodium 25 · Malaria parasite 9 · Toxoplasma 10）
 
 ---
 
@@ -8,21 +8,23 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Under-recognized yet Clinically Relevant: A Hospital-based Study of Toxoplasma gondii Seropositivity in Bihar, India.](https://pubmed.ncbi.nlm.nih.gov/42727873/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108321](https://doi.org/10.1016/j.actatropica.2026.108321) |
+| 1 | [Antiplasmodial Activity of Methylangolensate From Entandrophragma angolense (Welw.) C.DC. Stem Bark: An In Vitro and In Silico Approach.](https://pubmed.ncbi.nlm.nih.gov/42729578/) | Journal of tropical medicine | Plasmodium | [10.1155/jotm/7224187](https://doi.org/10.1155/jotm/7224187) |
 | 2 | [Stage-specific expression and localization of ETRAMP4 during gametocyte development in the malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42727755/) | Parasitology international | Plasmodium · Malaria parasite | [10.1016/j.parint.2026.103390](https://doi.org/10.1016/j.parint.2026.103390) |
-| 3 | [Oregano essential oil alone and in combination with biogenic silver nanoparticles exhibits anti-Toxoplasma gondii activity in human trophoblastic cells.](https://pubmed.ncbi.nlm.nih.gov/42727743/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108828](https://doi.org/10.1016/j.micpath.2026.108828) |
-| 4 | [Activity Refinement and Property Assessment of Peptidomimetics with Potent Antimalarial Activity That Target Plasmepsin V.](https://pubmed.ncbi.nlm.nih.gov/42725972/) | ACS infectious diseases | Plasmodium · Malaria parasite | [10.1021/acsinfecdis.6c00314](https://doi.org/10.1021/acsinfecdis.6c00314) |
-| 5 | [Toxoplasma gondii infection disrupts secondary bile acid transformation in feline gut microbiota.](https://pubmed.ncbi.nlm.nih.gov/42726488/) | Applied and environmental microbiology | Toxoplasma | [10.1128/aem.00674-26](https://doi.org/10.1128/aem.00674-26) |
+| 3 | [Activity Refinement and Property Assessment of Peptidomimetics with Potent Antimalarial Activity That Target Plasmepsin V.](https://pubmed.ncbi.nlm.nih.gov/42725972/) | ACS infectious diseases | Plasmodium · Malaria parasite | [10.1021/acsinfecdis.6c00314](https://doi.org/10.1021/acsinfecdis.6c00314) |
+| 4 | [Under-recognized yet Clinically Relevant: A Hospital-based Study of Toxoplasma gondii Seropositivity in Bihar, India.](https://pubmed.ncbi.nlm.nih.gov/42727873/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108321](https://doi.org/10.1016/j.actatropica.2026.108321) |
+| 5 | [Oregano essential oil alone and in combination with biogenic silver nanoparticles exhibits anti-Toxoplasma gondii activity in human trophoblastic cells.](https://pubmed.ncbi.nlm.nih.gov/42727743/) | Microbial pathogenesis | Toxoplasma | [10.1016/j.micpath.2026.108828](https://doi.org/10.1016/j.micpath.2026.108828) |
+| 6 | [Toxoplasma gondii infection disrupts secondary bile acid transformation in feline gut microbiota.](https://pubmed.ncbi.nlm.nih.gov/42726488/) | Applied and environmental microbiology | Toxoplasma | [10.1128/aem.00674-26](https://doi.org/10.1128/aem.00674-26) |
 
 ## 2026-09-10
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Splenic Tropism and Spleen-Modulated Systemic Inflammation in Acute Plasmodium vivax Malaria.](https://pubmed.ncbi.nlm.nih.gov/42723150/) | American journal of hematology | Plasmodium | [10.1002/ajh.70498](https://doi.org/10.1002/ajh.70498) |
-| 2 | [Organization of Myosin H in the Apical Complex of Toxoplasma gondii Revealed by 3D Single-Molecule Super-Resolution Microscopy.](https://pubmed.ncbi.nlm.nih.gov/42723283/) | Biophysical journal | Toxoplasma | [10.1016/j.bpj.2026.09.012](https://doi.org/10.1016/j.bpj.2026.09.012) |
+| 1 | [Interkingdom remodeling of the intestinal bacteriome and virome during Toxoplasma gondii infection in rats.](https://pubmed.ncbi.nlm.nih.gov/42731191/) | Veterinary parasitology | Toxoplasma | [10.1016/j.vetpar.2026.110925](https://doi.org/10.1016/j.vetpar.2026.110925) |
+| 2 | [Splenic Tropism and Spleen-Modulated Systemic Inflammation in Acute Plasmodium vivax Malaria.](https://pubmed.ncbi.nlm.nih.gov/42723150/) | American journal of hematology | Plasmodium | [10.1002/ajh.70498](https://doi.org/10.1002/ajh.70498) |
 | 3 | [Plasmodium falciparum sporozoite loads in Anopheles gambiae s.l. across agro-ecological zones of Benin: a cross-sectional field study.](https://pubmed.ncbi.nlm.nih.gov/42723100/) | Tropical medicine and health | Plasmodium | [10.1186/s41182-026-01072-9](https://doi.org/10.1186/s41182-026-01072-9) |
-| 4 | [Evaluation of HLA-G and Hematobiochemical levels and their association with malaria and miscarriage among pregnant women: A Ghanaian case-control study.](https://pubmed.ncbi.nlm.nih.gov/42721139/) | PloS one | Plasmodium | [10.1371/journal.pone.0355847](https://doi.org/10.1371/journal.pone.0355847) |
-| 5 | [In Vivo Efficacy and Biochemical Target Engagement of a Chromene-Based Inhibitor of Trypanosoma cruzi Lysyl-tRNA Synthetase.](https://pubmed.ncbi.nlm.nih.gov/42720462/) | Journal of medicinal chemistry | Plasmodium | [10.1021/acs.jmedchem.6c00764](https://doi.org/10.1021/acs.jmedchem.6c00764) |
+| 4 | [Organization of Myosin H in the Apical Complex of Toxoplasma gondii Revealed by 3D Single-Molecule Super-Resolution Microscopy.](https://pubmed.ncbi.nlm.nih.gov/42723283/) | Biophysical journal | Toxoplasma | [10.1016/j.bpj.2026.09.012](https://doi.org/10.1016/j.bpj.2026.09.012) |
+| 5 | [Evaluation of HLA-G and Hematobiochemical levels and their association with malaria and miscarriage among pregnant women: A Ghanaian case-control study.](https://pubmed.ncbi.nlm.nih.gov/42721139/) | PloS one | Plasmodium | [10.1371/journal.pone.0355847](https://doi.org/10.1371/journal.pone.0355847) |
+| 6 | [In Vivo Efficacy and Biochemical Target Engagement of a Chromene-Based Inhibitor of Trypanosoma cruzi Lysyl-tRNA Synthetase.](https://pubmed.ncbi.nlm.nih.gov/42720462/) | Journal of medicinal chemistry | Plasmodium | [10.1021/acs.jmedchem.6c00764](https://doi.org/10.1021/acs.jmedchem.6c00764) |
 
 ## 2026-09-09
 
@@ -53,9 +55,10 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Tropism of Plasmodium malariae for young red blood cells and the bone marrow.](https://pubmed.ncbi.nlm.nih.gov/42704743/) | Emerging microbes & infections | Plasmodium · Malaria parasite | [10.1080/22221751.2026.2731507](https://doi.org/10.1080/22221751.2026.2731507) |
-| 2 | [Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.](https://pubmed.ncbi.nlm.nih.gov/42711694/) | BMC veterinary research | Toxoplasma | [10.1186/s12917-026-05699-y](https://doi.org/10.1186/s12917-026-05699-y) |
+| 1 | [Serologic Investigation of Leptospira spp., Sarcocystis neurona, and Toxoplasma gondii in Guadalupe Fur Seals (Arctocephalus townsendi) from Guadalupe Island, Mexico.](https://pubmed.ncbi.nlm.nih.gov/42730531/) | Journal of wildlife diseases | Toxoplasma | [10.7589/JWD-D-25-00167](https://doi.org/10.7589/JWD-D-25-00167) |
+| 2 | [Tropism of Plasmodium malariae for young red blood cells and the bone marrow.](https://pubmed.ncbi.nlm.nih.gov/42704743/) | Emerging microbes & infections | Plasmodium · Malaria parasite | [10.1080/22221751.2026.2731507](https://doi.org/10.1080/22221751.2026.2731507) |
 | 3 | [The Road toward a Trojan Horse Malaria Vaccine: Chemical Augmentation of Live Sporozoites without Affecting Their Viability.](https://pubmed.ncbi.nlm.nih.gov/42704138/) | Molecular pharmaceutics | Plasmodium · Malaria parasite | [10.1021/acs.molpharmaceut.6c00575](https://doi.org/10.1021/acs.molpharmaceut.6c00575) |
+| 4 | [Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.](https://pubmed.ncbi.nlm.nih.gov/42711694/) | BMC veterinary research | Toxoplasma | [10.1186/s12917-026-05699-y](https://doi.org/10.1186/s12917-026-05699-y) |
 
 ## 2026-09-06
 
@@ -66,23 +69,11 @@
 | 3 | [Description of a new species of Myxobolus infecting Rhamdia quelen (Actinopterygii: Siluriformes), on the island of Marajó, Brazil.](https://pubmed.ncbi.nlm.nih.gov/42700956/) | Parasitology international | Plasmodium | [10.1016/j.parint.2026.103380](https://doi.org/10.1016/j.parint.2026.103380) |
 | 4 | [Exploiting ER proteostasis in malaria: protein disulphide isomerases as selective antimalarial targets.](https://pubmed.ncbi.nlm.nih.gov/42667181/) | Expert opinion on therapeutic targets | Plasmodium | [10.1080/14728222.2026.2723486](https://doi.org/10.1080/14728222.2026.2723486) |
 
-## 2026-09-05
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Protective immunity to clinical malaria is modified by the genetic diversity of P. falciparum antigens.](https://pubmed.ncbi.nlm.nih.gov/42700822/) | The Journal of infection | Plasmodium | [10.1016/j.jinf.2026.106845](https://doi.org/10.1016/j.jinf.2026.106845) |
-
 ## 2026-08-06
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Early enhanced control of Plasmodium yoelii infection in IL-10-deficient mice is independent of IFN-γ, IL-12, and the humoral response.](https://pubmed.ncbi.nlm.nih.gov/42560308/) | Infection and immunity | Malaria parasite | [10.1128/iai.00196-26](https://doi.org/10.1128/iai.00196-26) |
-
-## 2026-08-05
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Comprehensive evaluation of chloroquine-resin complexes: functional, biopharmaceutical and antimalarial performance.](https://pubmed.ncbi.nlm.nih.gov/42556438/) | International journal of pharmaceutics | Malaria parasite | [10.1016/j.ijpharm.2026.127272](https://doi.org/10.1016/j.ijpharm.2026.127272) |
 
 ## 2026-08-04
 
@@ -95,9 +86,3 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Plasmodium vivax malaria in India: microbiological barriers to diagnosis, treatment, and elimination.](https://pubmed.ncbi.nlm.nih.gov/42307231/) | Clinical microbiology reviews | Malaria parasite | [10.1128/cmr.00025-26](https://doi.org/10.1128/cmr.00025-26) |
-
-## 2026-04-19
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Repurpose antimalarials to target Toxoplasma gondii dihydrofolate reductase thymidylate synthase.](https://pubmed.ncbi.nlm.nih.gov/42060965/) | European journal of medicinal chemistry | Toxoplasma | [10.1016/j.ejmech.2026.118863](https://doi.org/10.1016/j.ejmech.2026.118863) |
