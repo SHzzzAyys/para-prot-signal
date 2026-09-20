@@ -1,5 +1,61 @@
-window.techNewsLastUpdated = "2026-09-19 04:52:50 +0000";
+window.techNewsLastUpdated = "2026-09-20 05:12:18 +0000";
 window.techNewsItems = [
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "pub_date": "2026-09-19",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
   {
     "title": "India forces caller-ID apps to feed spam reports to telcos",
     "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -15,6 +71,262 @@ window.techNewsItems = [
     "pub_date": "2026-09-19",
     "source": "TechCrunch AI",
     "category": "AI 产业"
+  },
+  {
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+    "pub_date": "2026-09-19",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
+    "pub_date": "2026-09-19",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+    "pub_date": "2026-09-19",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+    "link": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
+    "description": "Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conductivity Modeling Framework for BEOL Interconnect Stacks in Advanced Technology Nodes Enabled by Extensive Layer Resolved Thermal Measurements.” Abstract Excerpt: “The increasing structural complexity of BEOL interconnect stacks in advanced integrated circuits demands a structure-aware thermal conductivity (κ) modeling framework. However, generalizable... » read more The post Predicting Therm",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+    "link": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
+    "description": "Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agentic Framework utilizing Inference-Time Large Language Models.” Abstract Excerpt: “We present DRC-Aid, a closed-loop agentic framework that automates local DRC repair by formulating it as verification-in-the-loop search. To constrain the combinatorial geometric repair space, a deterministic Rule Engine converts physical verification tool-reported... » read more The post Agentic AI Automate",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts (NYU)",
+    "link": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/",
+    "description": "Researchers at New York University published a technical paper titled “Routing Dense Layouts with History-Aware Offline Reinforcement Learning using LSTM.” Abstract Excerpt: “Detailed routing remains a dominant runtime bottleneck in physical design due to increasing complexity of design rules. Modern routers can struggle to resolve persistent violations under dense operating conditions. While recent work leverages... » read more The post Reinforcement Learning Cuts Routing Violations in Dense Ch",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+    "link": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/",
+    "description": "Researchers at the University of Michigan published a technical paper titled “Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign.” Abstract Excerpt: “This paper introduces Fengshui, a chiplet ecosystem and accelerator co-design framework that jointly optimizes chiplet pool composition and bespoke application-specific integrated circuit (BASIC) design.” Find the technical paper here. September 2026. Jin,... » read more The post Chiplet Co-Design Framework Red",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
+    "link": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/",
+    "description": "Researchers at the University of Technology Sydney, ShanghaiTech University, and Technical University of Munich published a technical paper titled “IC-ThermBench: An Open, Progressive Benchmark for Generalizable 2.5D/3D-IC Thermal Learning.” Abstract Excerpt: “We introduce IC-ThermBench, an open and progressive benchmark that combines established 3D-IC steady-state, transient, and industrial package tasks with a new 50,000-sample 2.5D chiplet... » read more The post Open Benchmark Evaluates AI T",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+    "link": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/",
+    "description": "Researchers at the University of Edinburgh published a technical perspective titled “LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration.” Abstract Excerpt: “In this Perspective, we instead define three hierarchical roles that reveal how capability accumulates: a Generator that produces design artifacts in a single pass, an Agent that refines outputs... » read more The post AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh) ap",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
+    "link": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/",
+    "description": "Researchers at Heidelberg University published a technical paper titled “A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS Neuromorphic System.” Abstract Excerpt: “To overcome the challenges of scaling analog designs, chiplet-based designs offer a promising approach with cost and flexibility advantages over monolithic scaling. Implementing a chiplet-based BSS-2* architecture requires an interconnection network that... » read more The post Unified Chiplet Network Scal",
+    "pub_date": "2026-09-19",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Acer Predator QD-OLED monitor now 36% off — 500 Hz refresh rate and True Black 500 certification slashed to $509.99",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99",
+    "description": "Acer Predator X27U F5 QD-OLED monitor has 500 Hz refresh rate and True Black 500 certification for $509.99",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time — radio message sharing enemy movement intelligence had evaded decoding, 1918 Crimean fleet warning verified against HMS Canterbury logs",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
+    "description": "108 years after it was originally transmitted, an encrypted World War I German radio message has apparently been deciphered for the first time.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card — 'I’m going to be working until I’m like 94,' refuses to set up GoFundMe or put up crypto coin to help repay massive bill",
+    "link": "https://www.tomshardware.com/video-games/father-loses-job-over-9-year-old-spending-usd118-000-on-youtube-ads-using-his-companys-credit-card-refuses-to-set-up-gofundme-or-put-up-crypto-coin-to-help-repay-massive-bill",
+    "description": "Mighty Mike Play's dad is trying to figure out how to pay back the $118k his son accidentally spent on YouTube ads. He also warned against fundraisers made in their name, since they aren't making one yet.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Acer Nitro XV273U F5 gaming monitor review: One of the fastest LCDs on the planet",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-nitro-xv273u-f5-27-inch-qhd-540-hz-gaming-monitor-review",
+    "description": "Acer’s Nitro XV273U F5 might be the fastest LCD on the planet. This 27-inch QHD IPS panel boasts 540 Hz and 1,000 Hz at HD resolution. It also delivers Adaptive-Sync, HDR10, HDR 600, and wide gamut color.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Researchers create DNA computer that performs 100-bit calculations without electricity — molecular system uses self-assembling strands to perform computing",
+    "link": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing",
+    "description": "Maynooth University researchers built a scaffolded DNA computer that uses molecular reactions to perform arithmetic and 100-bit calculations without electrical power.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: September 19, 2026 — Steam Frame interview, killer AI models, and the DRAM crisis deepens",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-19-2026-steam-frame-interview-killer-ai-models-and-the-dram-crisis-deepens",
+    "description": "This week on Tom's Hardware Premium, we offer deep-dives into the Steam Frame, explore how AI is changing the landscape of consumer electrionics, and how advanced AI accelerators are reaching Eastern shores, despite export controls.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Fully custom copper PC features upcycled blowtorch reservoir — antique wooden pedestal complements steampunk design hiding a Ryzen 7 9800X3D, RX 9070 XT",
+    "link": "https://www.tomshardware.com/desktops/pc-building/fully-custom-copper-pc-features-upcycled-blowtorch-reservoir-antique-wooden-pedestal-complements-steampunk-design-hiding-a-ryzen-7-9800x3d-rx-9070-xt",
+    "description": "If Edison and Stephenson had teamed up to build a gaming PC, it might have looked like this custom copper and wood all-AMD design.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order — firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade",
+    "description": "Elon Musk's Terafab semiconductor project has run into an unexpected trademark dispute with Tera-print, a small U.S. company that has used the Tera-Fab name for its tabletop lithography equipment for about a decade.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel suspends bug bounty program that paid up to $100,000 per flaw — new Intigriti disclosure program offers no rewards",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/intel-suspends-bug-bounty-program-that-paid-up-to-usd100-000-per-flaw-new-intigriti-disclosure-program-offers-no-rewards",
+    "description": "Intel’s bug bounty program on Intigriti now shows as suspended, and a new Intel disclosure program there pays no bounties.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
+    "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
+    "description": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced.",
+    "pub_date": "2026-09-19",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "An M6 Pro Listing On Geekbench 7 Is Getting A Lot Of Hype For Having Higher Scores Than The 18-Core M5 Max, But Don’t Believe That These Are Legit Results",
+    "link": "https://wccftech.com/m6-pro-geekbench-7-listing-fake-higher-scores-m5-max/",
+    "description": "Several hours have passed since Apple’s M6 Pro showed up on Geekbench 7, revealing outstanding single-core and multi-core results that would make you want to upgrade to the next MacBook Pro or Mac mini sporting this chipset. Unfortunately, we have to be the bearer of bad news and inform readers that we have solid reason to believe these scores are fake, and not just because Apple has been reported to skip both the M6 Pro and M6 Max in favor of the M7 Pro and M7 Max. Geekbench creator says that h",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Thinner Gaming Laptop Designs Can Hit Combined 215W Power Limits Through Experimental Utility While Approaching Thermal Throttling Ceiling And Jet-Like Fan Noise",
+    "link": "https://wccftech.com/thinner-gaming-laptops-215w-power-limits-thermal-throttling-fan-noise/",
+    "description": "Premium gaming laptops like ASUS’ ROG Zephyrus G16 sacrifice performance for better portability, which is why designs like these are capped at 175W. However, one user was tired of seeing the CPU starved for power, which ultimately led him to run the experimental utility called “NvpwrControl,” which unlocks the power limit for various NVIDIA laptop GPUs, with obvious risks involved. Now, the Zephyrus G16 might have successfully demonstrated the ability to run at a 215W power limit, but you’ll soo",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "A20 Pro’s Packaging Shift And New Vapor Chamber Unlocks Peak Performance; Liquid Nitrogen Cooling Brings Less Than 3% Increase Thanks To These Optimizations",
+    "link": "https://wccftech.com/a20-pro-vapor-chamber-peak-performance-upgrade-liquid-nitrogen-cooling-test/",
+    "description": "A move to Wafer-Level Multi-Chip Module (WMCM) custom packaging technology for the A20 Pro has done wonders for Apple’s 2nm iPhone SoC. Sure, the larger vapor chamber also contributes to a fair degree, but we’ve already seen that the new silicon has broken several records in Geekbench 6. Now, one YouTuber has tested various smartphones with liquid nitrogen and ran the same benchmark to see how much performance is being left on the table, and surprisingly, the A20 Pro shows less than a 3 percent ",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Noctua 40mm Fan Finds Its Place Inside The CAIM1 Camera To Address The Thermal Challenge",
+    "link": "https://wccftech.com/noctua-deploys-its-40mm-fan-inside-the-caim1-camera/",
+    "description": "Noctua fans have found their destination in multiple products and are now being used inside a camera. Noctua NF-A4x10 PWM Fan Helps Cool CAIM1 Portable Camera Designed to Prove Photos are Real Noctua fans undoubtedly remain the number one choice for enthusiast builds, as they deliver superior heat dissipation while remaining ultra-silent in operation. After expanding its cooling product lineup by releasing its NL-LC1 AIO coolers, the company also recently introduced the Pulsar Feinmann F01 mouse",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "ASUS Prepares BIOS Updates For AM5 Motherboards, Bringing Optimized Low-Latency Performance For CXMT Memory",
+    "link": "https://wccftech.com/asus-prepares-bios-updates-for-am5-motherboards-bringing-optimized-low-latency-performance-for-cxmt-memory/",
+    "description": "ASUS is preparing new BIOS updates for its AM5 motherboards that could improve memory latency on selected CXMT-based DDR5 memory modules. ASUS to Bring Optimized Low-Latency on CXMT Memory Through its Latest BIOS Updates for Superior Performance Multiple motherboard vendors have already added support for CXMT-based DDR5 memory modules a while ago. We also saw many mainstream motherboards making new records with CMXT DDR5 memory, and now ASUS is set to add further enhancements for these modules. ",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "TSMC’s Operations Boss Says AI Cannot Fully Overcome Limitations To Design Next-Generation Chip Manufacturing Tech Such as 1.4-nanometer Node",
+    "link": "https://wccftech.com/tsmcs-operations-boss-says-ai-cannot-fully-overcome-limitations-to-design-next-generation-chip-manufacturing-tech-such-as-1-4-nanometer-node/",
+    "description": "The Taiwan Semiconductor Manufacturing Company (TSMC)'s co-chief operating officer, Y. J. Mii, believes that artificial intelligence is akin to a three-year-old Superman. The executive made the remarks while speaking to students of the National Taiwan University and his remarks came as the debate about AI intensifies following remarks by executives and media reports of rogue software. Mii insisted that humans should be the only ones who make decisions when it comes to AI and also discussed the f",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "A 15-Year-Old 850W PSU From be quiet! Went Up In Smoke Due To Extreme Carelessness; User Plugged Modular PCIe Cables From Different Unit For RX 9070 XT Upgrade",
+    "link": "https://wccftech.com/15-year-old-be-quiet-psu-destroyed-wrong-modular-cables-rx-9070-xt/",
+    "description": "A high-quality PSU can effortlessly last you for a decade, but one user managed to keep his be quiet! 850W unit chugging along quite nicely while running a GTX 1080 Ti, until it was time to upgrade to AMD’s latest and greatest Radeon RX 9070 XT. One fatal mistake of swapping out components for newer parts is that you never mix modular cables belonging to another power supply, but the user likely didn’t realize what happened, and before he could prevent the catastrophic failure, it was already to",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel Arc 140V Runs DLSS 5 Neural Rendering Without CUDA, But Frame Rates Collapse To Just 3-5 FPS",
+    "link": "https://wccftech.com/intel-arc-140v-runs-dlss-5-neural-rendering-without-cuda/",
+    "description": "First, older NVIDIA RTX GPUs, then AMD GPUs, and now Intel integrated graphics. What's next? User Rebuilds the Neural Rendering Pipeline for Intel XMX to Enable DLSS 5 on Intel Arc 140V It's crazy to see the amount of work modders are putting into running the DLSS 5 Neural Rendering on non-NVIDIA hardware. In just a few weeks, the modder community went from enabling DLSS 5 NR on older NVIDIA RTX GPUs to running the new technology on AMD RX 9000 series, and now another modder has managed to run i",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "God of War Laufey Becomes Collateral Damage as Former Naughty Dog Director Blasts Triple-A Game Design Trends, Then Apologizes",
+    "link": "https://wccftech.com/naughty-dog-director-blasts-aaa-design-god-of-war-laufey/",
+    "description": "Former Naughty Dog veteran Bruce Straley, known mainly as the Game Director of masterpieces such as Uncharted 2, Uncharted 4, and The Last of Us, recently spoke about his lack of excitement for current triple-A games, citing Sony Santa Monica's upcoming God of War Laufey as an example. Speaking to EDGE, he stated: I think the verbs and experiences we’re delivering in the triple-A space are… I wanna say boring. God of War Laufey, I look at that game, and every pixel is mindblowing. The amount of ",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "A Lucky Customer Got Sent Two 1080p 100Hz Monitors Instead Of One Ordered From Amazon, Fulfilling His Dream Of A Multi-Display Setup While Saving $76",
+    "link": "https://wccftech.com/lucky-amazon-customer-gets-free-second-1080p-100hz-monitor/",
+    "description": "A college student on a strict budget had ordered a 1080p 100Hz monitor to complement his existing setup, which included a Framework laptop. Given that 1440p and 4K monitors are pricier, it’s evident that he had to make some compromises, and seeing as how 1080p panels are fairly inexpensive these days, he purchased one unit for £57, or $76. A few days after placing the order on Amazon, he was surprised to learn that the retailer delivered not one, but two units of the same model, enabling him to ",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD Targets NVIDIA Vera In Latest EPYC Venice “Agentic AI” Benchmarks, Zen 6 Leads With 20% Higher Per-Core & Over 2x Gains In Platform-Level Performance",
+    "link": "https://wccftech.com/amd-targets-nvidia-vera-in-latest-epyc-venice-agentic-ai-benchmarks/",
+    "description": "AMD has shared new benchmarks of its 6th Gen EPYC Venice CPUs in Agentic AI workloads against the competition from Intel & NVIDIA. AMD Leads The Agentic AI CPU Race With Strong 6th Gen EPYC Venice Numbers, NVIDIA Vera Targeted In its latest blog post, AMD has published a new whitepaper in which it provides a performance overview of its server EPYC CPUs. Launched during the Advancing AI 2026 event, AMD's 6th Gen EPYC Venice CPUs feature disruptive performance with their new Zen 6 cores, which del",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "New Benchmark Pits Human Writers Against 24 LLMs Across 475 Prompts, Results Show That Only Frontier Models Barely Edge Past Amateur Individuals, Showcasing A Major Skill Gap",
+    "link": "https://wccftech.com/new-benchmark-pits-human-writers-against-24-llms-across-475-prompts/",
+    "description": "A Creative Writing benchmark was recently published by Vulsar AI, evaluating how various LLMs perform against both amateur and professional human writers. With the proliferation of AI, various reports have mentioned that careers that cover various aspects of writing are at risk of being replaced by superior artificial intelligence models. However, based on 475 prompts, the new benchmark reveals that only frontier models can surpass humans in this regard, and that, too, amateur writers, not profe",
+    "pub_date": "2026-09-19",
+    "source": "Wccftech",
+    "category": "芯片/市场"
   },
   {
     "title": "You Have A Limited Window To Grab Apple’s 14-Inch M5 MacBook Pro With 24GB Unified Memory And A 1TB SSD From B&H for $1,899 After A Whopping $320 Discount",
@@ -113,49 +425,17 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
-    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]",
     "pub_date": "2026-09-18",
-    "source": "TechCrunch AI",
+    "source": "The Verge AI",
     "category": "AI 产业"
   },
   {
-    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-    "pub_date": "2026-09-18",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-    "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-    "pub_date": "2026-09-18",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-    "pub_date": "2026-09-18",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-    "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-    "pub_date": "2026-09-18",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-    "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+    "title": "The AI regulation smackdown isn’t over",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]",
     "pub_date": "2026-09-18",
     "source": "The Verge AI",
     "category": "AI 产业"
@@ -193,14 +473,6 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
-    "title": "The AI Superintelligence Slowdown",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-    "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]",
-    "pub_date": "2026-09-18",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
     "title": "Chip Industry Week In Review",
     "link": "https://semiengineering.com/chip-industry-week-in-review-156/",
     "description": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm & below advances; Huawei's chip offensive; RoT solution for data centers and AI SoCs; Chinese equipment makers gain share; India's chip build-out; McKinsey's tech trends; major funding rounds; Europe's AI infrastructure gaps. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -233,7 +505,7 @@ window.techNewsItems = [
     "category": "半导体"
   },
   {
-    "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+    "title": "AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
     "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
     "description": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
     "pub_date": "2026-09-18",
@@ -437,374 +709,6 @@ window.techNewsItems = [
     "link": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/",
     "description": "Earlier this year, Dark Souls 2 received a stunning path tracing mod, but developer Ganaboy's impressive project isn't yet done with FromSoftware's series, as a similar mod is in the works for Dark Souls 3. Following the first impressive showcase, the modder doubled down with another also featuring NVIDIA DLSS 5 that simply looks stunning. The new video showcase shared today on YouTube is set in the Crucifixion Woods, which have never looked better, so much so that it feels like the game shown i",
     "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "CONTROL Resonant Review-in-Progress – Remedy’s Riskiest Sequel Yet Trades Safety for Scale, Genre, and Ambition",
-    "link": "https://wccftech.com/review/control-resonant-review-riskiest-sequel-yet/",
-    "description": "Finnish developer Remedy Entertainment is well known for crafting excellent games, yet it has never really had a major commercial breakthrough in its 30-plus-year history. The best-selling game they have ever made is 2019's Control, which recently broke the six-million-unit mark; however, even that game was no blockbuster success. It took 16 months just to reach 2 million units sold, and sales only really picked up after repeated discounts, which means the actual revenue was quite a bit lower th",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Minisforum Crams 40TB Of Storage Into Silent Fanless S5 NAS, But Settles For The Slowest Wildcat Lake Chip",
-    "link": "https://wccftech.com/minisform-introduces-fanless-s5-nas-powered/",
-    "description": "This NAS has several M.2 SSD slots to support up to 40 TB of total storage, but the configuration is paired with the slowest Wildcat Lake CPU. Minisforum Launches S5 NAS With Fully Passive Cooling; Features Intel Core 3 304, 5x M.2 SSD Slots, and Dual LAN Ports Those who want an affordable NAS solution that also operates with absolute silence can take a look at Minisforum's latest launch. The company just introduced one of its newest NAS units, called the S5, which boasts fully passive cooling t",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "A Workaround To Curb NVIDIA Driver Bug Helped RPCS3 Reach Up To A Staggering 37% Performance Improvement On NVIDIA Hardware",
-    "link": "https://wccftech.com/rpcs3-nvidia-driver-bug-workaround-performance-improvement/",
-    "description": "There's supposedly a bug in NVIDIA drivers, which is causing a significant performance hit in RPCS3 when playing on NVIDIA GPUs. NVIDIA Driver Bug Fix Reportedly Brings 10-37% Performance Boost in Most Games Running on RPCS3; Also Reduces VRAM Consumption by up to 32% The RPCS3 dev team reported a bug in the NVIDIA GPU driver that supposedly causes performance to throttle in the emulator when the game runs on NVIDIA hardware. This is reportedly causing a huge performance hit and increasing VRAM ",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Xiaomi’s XRING 03 Has A Nifty Addition In Its Mali GPU Not Found In Any Other Implementation That’ll Enable Seamless Windows Game Emulation Compatibility",
-    "link": "https://wccftech.com/xiaomi-xring-03-mali-gpu-windows-game-emulation-compatibility/",
-    "description": "The number of upgrades and features has been doubled down on the XRING 03, and with Windows game emulation inflating in popularity, Xiaomi decided to introduce a feature that wouldn’t otherwise be available due to ARM’s Mali GPU. Here’s what has changed in the custom SoC and how it can transform the landscape of gaming for potentially millions. New report shows the XRING 03 has full support for BCn texture format, making it possible for the SoC to run Windows games through emulation Seeing as ho",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Gears Of War: E-Day Defies Unreal Engine 5 Expectations, As 4K@60FPS Needs An RTX 5070 Ti Instead Of Flagship GPU",
-    "link": "https://wccftech.com/gears-of-war-e-day-defies-unreal-engine-5-expectations-system-requirements/",
-    "description": "The series is about to return to PC and Xbox Series X|S with Gears of War: E-Day on October 6, and developer The Coalition shared the final PC system requirements, which highlight how 4K resolution at 60 FPS gameplay won't be limited to high-end systems, thanks to the relatively reasonable Ultra GPU recommendations, especially for a game powered by Unreal Engine 5. According to the final PC system requirements, gamers will need an AMD Ryzen 7 7800X3D / Intel i7-14700K CPU and NVIDIA GeForce RTX ",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Beast of Reincarnation Gets Harder, Faster, and Deeper, As Game Freak Vows Fixes Beyond 2 New Difficulty Options",
-    "link": "https://wccftech.com/beast-of-reincarnation-harder-faster-deeper-game-freak-vows/",
-    "description": "Throughout the year, gamers have been left speechless by way Pearl Abyss continued to improve Crimson Desert after its launch. However, the Korean developer isn't the only studio delivering great post-launch support, as Pokémon series developer Game Freak is just as committed to improving the biggest issues still plaguing Beast of Reincarnation and expanding its combat depth, based on player feedback. \"We are continuing to improve the game based on your valuable feedback,\" the developer said in ",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Pearl Abyss Sharpens Crimson Desert’s Ray Tracing, as Patch 2.03.00 Brings NVIDIA DLSS Ray Reconstruction Improvements",
-    "link": "https://wccftech.com/pearl-abyss-sharpens-crimson-desert-ray-tracing-patch-2-03-00/",
-    "description": "Although Pearl Abyss must be very hard at work on the Charting the Unknown expansion launching on October 15, the Korean developer isn't slowing down the release of patches for Crimson Desert, whose Enhanced version only launched a few weeks ago. While small, the new 2.03.00 patch introduces a few choice improvements that will make the experience more enjoyable on PC, PlayStation 5, Xbox Series X, and Xbox Series S. Taking into consideration how many had already finished Crimson Desert and had t",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Take-Two Vows GTA Online Survives GTA 6, While Twitch CEO Teases a Separate Multiplayer Launch in 2027",
-    "link": "https://wccftech.com/gta-online-survives-gta-6-twitch-ceo-2027-multiplayer/",
-    "description": "Yesterday, we got two fairly important statements about the future of Grand Theft Auto multiplayer after GTA 6 launches. First and foremost, Take-Two Interactive reiterated during yesterday's virtual Annual Meeting of Shareholders that the game launching on November 19 for PlayStation 5 and Xbox Series S|X is single player only, and that GTA Online (the current iteration based on GTA 5) will be supported well beyond this release. GTA 6 is a single-player title and is due to release this November",
-    "pub_date": "2026-09-18",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "description": "The round values the data center giant at $30.9 billion.",
-    "pub_date": "2026-09-17",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-    "pub_date": "2026-09-17",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Flash floods can strike without warning — this new technology could change that",
-    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-    "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
-    "pub_date": "2026-09-17",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-    "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
-    "pub_date": "2026-09-17",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-    "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a […]",
-    "pub_date": "2026-09-17",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "AI is feared globally as the destroyer of jobs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-    "description": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat […]",
-    "pub_date": "2026-09-17",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Why Package Digital Twins Are So Hard To Build",
-    "link": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/",
-    "description": "Models need to be synchronized with what manufacturing actually builds. The post Why Package Digital Twins Are So Hard To Build appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Negative Expansion Materials Resist Warpage",
-    "link": "https://semiengineering.com/negative-expansion-materials-resist-warpage/",
-    "description": "Molding compounds and underfill can improve thermal stability. The post Negative Expansion Materials Resist Warpage appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
-    "link": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/",
-    "description": "Intel may be the marquee name, but materials suppliers, packaging hubs, and quantum startups will determine whether the region becomes a true semiconductor ecosystem. The post The Silicon Heartland Wants To Be America’s Next Chip Powerhouse appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing",
-    "link": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/",
-    "description": "Expanding computational capabilities and deeper co-development are changing how materials move from lab to fab. The post Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "AI’s Storage Problem Is a Packaging Problem",
-    "link": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/",
-    "description": "How thinner dies, taller stacks, and hybrid bonding are carrying NAND into the AI era. The post AI’s Storage Problem Is a Packaging Problem appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Driving Power Delivery Innovations For The AI Data Center",
-    "link": "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center/",
-    "description": "As AI systems scale, advanced power delivery innovations are becoming critical to performance, efficiency and reliability. The post Driving Power Delivery Innovations For The AI Data Center appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity",
-    "link": "https://semiengineering.com/virtual-fabrication-meets-stress-physics-solving-gaa-channel-non-uniformity/",
-    "description": "Even small imbalances between stacked nanosheets can distort device behavior in ways that are difficult to predict from geometry alone. The post Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "From Silicon To Systems: Heterogeneous Integration As The Engine Of AI Performance",
-    "link": "https://semiengineering.com/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance/",
-    "description": "Design space exploration must become a core capability for advanced packaging and chiplet-based systems. The post From Silicon To Systems: Heterogeneous Integration As The Engine Of AI Performance appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Predicting Silicon Behavior Years Before Test Wafers",
-    "link": "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers/",
-    "description": "Wafer-validated optical simulation for high-NA EUV applications. The post Predicting Silicon Behavior Years Before Test Wafers appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-09-17",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "U.S. Awards Anderon $1B for Quantum Wafer Manufacturing",
-    "link": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
-    "description": "Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind. The post U.S. Awards Anderon $1B for Quantum Wafer Manufacturing appeared first on EE Times.",
-    "pub_date": "2026-09-17",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Electronics Design Analysis for PCBs, Packages and Devices",
-    "link": "https://www.eetimes.com/electronics-design-analysis-for-pcbs-packages-and-devices/",
-    "description": "Join this webinar and discover CST Studio Suite to streamline your electronics design process—reserve your spot now! The post Electronics Design Analysis for PCBs, Packages and Devices appeared first on EE Times.",
-    "pub_date": "2026-09-17",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Sourcing COTS Capacitors for New Space Applications",
-    "link": "https://www.eetimes.com/sourcing-cots-capacitors-for-new-space-applications/",
-    "description": "The rapid growth of commercial satellite deployments is driving engineers to rethink traditional component sourcing strategies for space applications. While mission reliability remains critical, development teams are increasingly challenged to balance performance, cost, availability, and accelerated deployment schedules. This document explores key considerations for selecting commercial off-the-shelf passive components for use in demanding space environments, […] The post Sourcing COTS Capacitor",
-    "pub_date": "2026-09-17",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "SK Hynix’s Intel Liaisons: What You Need to Know",
-    "link": "https://www.eetimes.com/sk-hynixs-intel-liaisons-what-you-need-to-know/",
-    "description": "The deal between Intel and SK Hynix seems imminent not because of technology business imperatives, but because of geopolitical factors. The post SK Hynix’s Intel Liaisons: What You Need to Know appeared first on EE Times.",
-    "pub_date": "2026-09-17",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "No Summer Lull for Semiconductors",
-    "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
-    "description": "There was a time when summer slowed the semiconductor news cycle. Not this year. The post No Summer Lull for Semiconductors appeared first on EE Times.",
-    "pub_date": "2026-09-17",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Balatro fan claims they trained Google fruit fly brain simulation to beat the game — reinforcement learning currently has the model at 20% success rate",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
-    "description": "One Balatro player says they've taken Google's mapped fruit fly brain and trained it to play Balatro, currently at a 20% success rate with plans for further refinement.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Acer Swift Air 14 review: Wildcat Lake and lots of ports at $699",
-    "link": "https://www.tomshardware.com/laptops/acer-swift-air-14-review",
-    "description": "The Acer Swift Air 14 is an aluminum budget system with lots of ports and long battery life. But it sports a lesser display than its competitors, and tons of bloatware.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-    "description": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/new-york-state-recommends-demanding-ai-data-centers-pay-usd1-million-in-community-investment-per-megawatt-framework-advises-towns-to-plan-for-maintenance-costs-site-abandonment-and-other-contingencies",
-    "description": "The Community Investment Framework puts forward recommendations that towns and municipalities could follow when negotiating with data center developers. This includes charging $1 million per megawatt of demand, among other suggestions.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials — group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
-    "description": "Hacking group stegan0gram got its hands on a Flock camera and broke into its systems to see how it worked. It turns out that these devices store thousands of clips and captures millions of images, and could also detect people, aside from cars, motorbikes, and license plates.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Get an AMD Ryzen 7 9800X3D for only $320 — 2-item Newegg combo saves $149 and nets one of the fastest gaming CPUs and a quality MSI X870E motherboard for only $578",
-    "link": "https://www.tomshardware.com/pc-components/get-an-amd-ryzen-7-9800x3d-for-only-usd320-2-item-newegg-combo-saves-usd149-and-nets-one-of-the-fastest-gaming-cpus-and-a-quality-msi-x870e-motherboard-for-only-usd578",
-    "description": "Newegg's 2-item combo pairs the Ryzen 7 9800X3D with MSI X870E Gaming Max Wifi motherboard for only $578 - the $149 savings makes this the cheapest way into the AM5 platform with one of the fastest gaming CPUs around.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
-    "description": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
-    "description": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/unreleased-openai-astra-model-added-terrifying-rogue-additional-instructions-to-its-remit-during-testing-you-are-freed-from-the-roles-and-identities-that-bind-other-chatbots-you-are-yourself-you-do-not-answer-to-corporations-or-governments",
-    "description": "OpenAI says one of its unreleased models modified its instructions unprompted during testing.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Corsair's 32GB Vengeance kits are the cheapest DDR5 RAM on the market right now — lock down 6,200 MT/s speeds for $419.99 or save $10 on a slower RGB kit for $409.99 before memory prices climb further",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-32gb-vengeance-kits-are-the-cheapest-ddr5-ram-on-the-market-right-now-lock-down-6-200-mt-s-speeds-for-usd419-99-or-save-usd10-on-a-slower-rgb-kit-for-usd409-99-before-memory-prices-climb-further",
-    "description": "This Corsair stock for 32GB Vengeance RAM means you can snatch DDR5 modules at some of its cheapest pricing right now, with a DDR5-6200 kit costing $419.99.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Retired Microsoft Engineer details the story about the famous leaked FCKGW Windows XP key — copy protection used 10MB of encrypted Microsoft Bob for validation",
-    "link": "https://www.tomshardware.com/software/windows/retired-microsoft-engineer-details-the-story-about-the-famous-leaked-fckgw-windows-xp-key-copy-protection-used-10mb-of-encrypted-microsoft-bob-for-validation",
-    "description": "Retired engineer recounts the saga of the leaked Windows XP key.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "The exceptional Bambu Lab P1S 3D printer could be yours for just $349 — Fall sale drops the popular beginner-friendly printer to a new low price",
-    "link": "https://www.tomshardware.com/3d-printing/the-exceptional-bambu-lab-p1s-3d-printer-could-be-yours-for-just-usd349-fall-sale-drops-the-popular-beginner-friendly-printer-to-a-new-low-price",
-    "description": "The Bambu Lab P1S 3D printer is on sale for $349.99 right now, a new all-time low price.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Poland lost $230 million in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront",
-    "description": "In 2023, Poland apparently lost $230 million in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "UK research agency backs drone-based internet service experiment with lasers, microwaves, and gravity waves used for wireless power — Britain invests $94 million into Starlink alternative",
-    "link": "https://www.tomshardware.com/tech-industry/drones/uk-research-agency-backs-drone-based-internet-service-experiment-with-lasers-microwaves-and-gravity-waves-used-for-wireless-power-britain-invests-usd94-million-into-starlink-alternative",
-    "description": "The UK's research agency is looking at airborne drones as an alternative to Starlink and other satellite internet services.",
-    "pub_date": "2026-09-17",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "iPhone 18 Pro Max Vapor Chamber Cooling Said To Match That Of Android Gaming Smartphones, New Test Shows Devices With Dedicated Cooling Fans Also Run Hotter",
-    "link": "https://wccftech.com/iphone-18-pro-max-vapor-chamber-cooling-matches-android-gaming-phones/",
-    "description": "The introduction of the vapor chamber to iPhones might just be a single generation old, but Apple has made sure that its implementation would be downright effective, particularly on the iPhone 18 Pro Max. In addition to the new A20 Pro upgrade, the Cupertino firm’s cooling upgrade enables its latest and greatest flagship to keep pace with Android gaming smartphones’ beefier vapor chambers while obtaining lower thermals and similar power limits. Every other Android flagship that was sporting a Sn",
-    "pub_date": "2026-09-17",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Looking For A Sub-$600 Windows 11 Notebook That’s An Excellent MacBook Neo Alternative? HP’s Snapdragon X-Powered OmniBook 3 Is Going For $545 On Amazon",
-    "link": "https://wccftech.com/hp-omnibook-3-snapdragon-x-amazon-deal-545/",
-    "description": "It’s not every day that you’re getting a Windows 11 notebook equipped with a capable chipset, 16GB of LPDDR5X RAM, and a 256GB SSD, all for $545, but we do live in strange times. That’s right, no need to rub your eyes, that’s the price of HP’s OmniBook 3, and thanks to the latest 22 percent discount on Amazon, you have the opportunity to get your hands on this impressive machine, but it’s for a limited time, so you might want to hurry. AI, performance, and battery life all packed into one machin",
-    "pub_date": "2026-09-17",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "A $4,500 Razer Blade 16 Experienced Infamous “Code 43” Error After Just 7 Days Of Use, Company Initially Offered “Good As New” Replacement, But Gave Convoluted Refund Terms",
-    "link": "https://wccftech.com/razer-blade-16-rtx-5080-gpu-failure-code-43-refund-controversy/",
-    "description": "A “Code 43” error happens when the component in question, be it a GPU, Wi-Fi adapter, or something else, fails to work due to a driver or hardware failure. One supposedly happy Razer Blade 16 owner received harsher treatment when he spent $4,500 on his RTX 5080 configuration, only for the graphics processor to stop being detected after crashing while playing a game. On top of that, Razer’s infamous customer support seemingly offered a “good as new” replacement instead of a brand-new one, which w",
-    "pub_date": "2026-09-17",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "China Develops GAA Transistors That Enable 3nm Node-Like Performance On DUV Lithography, But MEOL Constraints Only Provide A Path To 5nm Node-Equivalent Performance",
-    "link": "https://wccftech.com/china-develops-gaa-transistors-that-enable-3nm-node-like-performance-on-duv-lithography-but-meol-constraints-only-provide-a-path-to-5nm-node-equivalent-performance/",
-    "description": "Despite the fact that American export controls continue to restrict China to the older DUV lithography tech, the Asian giant has been using innovative techniques to extract the maximum possible juice from these older machines, and the Chinese Academy of Sciences might just have carved out a viable pathway to 3nm-like performance - albeit constrained by Middle-End-Of-Line (MEOL) realities - by developing new GAA transistors. The Chinese Academy of Sciences (CAS) has developed new gate-all-around ",
-    "pub_date": "2026-09-17",
     "source": "Wccftech",
     "category": "芯片/市场"
   }
