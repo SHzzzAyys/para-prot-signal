@@ -1,9 +1,9 @@
-window.researchLastUpdated = "2026-09-20 03:13:16 +0000";
+window.researchLastUpdated = "2026-09-21 03:09:19 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-42759643",
-    "title": "Evaluation of tissue cyst protection in pigs immunized by intradermal and intramuscular routes with a DNA vaccine (rop18 + sag1) against Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42759643/",
+    "id": "pubmed-42763906",
+    "title": "Anti-toxoplasma activity of a semisynthetic azasteroid derived from β-sitosterol.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763906/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -11,21 +11,20 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.2,
+    "ageHours": 27.2,
     "score": 100,
-    "journal": "Experimental parasitology",
-    "pubDate": "2026-09-18",
+    "journal": "Natural product research",
+    "pubDate": "2026-09-20",
     "authors": [
-      "Candeias APM",
-      "Dos Santos Silva AC",
-      "Jurkevicz RMB",
-      "Cavallieri AC",
-      "Sasse JP",
-      "de Souza Lima Nino B"
+      "Xing Q",
+      "Wang J",
+      "Zhang J",
+      "Jin C",
+      "Wang S"
     ],
-    "pmid": "42759643",
-    "doi": "10.1016/j.exppara.2026.109209",
-    "why": "The aim of the present study was to evaluate the protection against tissue cyst formation from T. gondii in pigs immunized with a DNA vector plasmid encoding partial rop18 and sag1 genes. Ten pigs were divided into three groups (G): G1, and G2 received 150μg of pcDNA3.1+rop18, and 150μg of pcDNA3.1+sag1 by intradermal (ID) and intramuscular (IM) routes, respectively. G3 received 300μg of pcDNA 3.1 alone by IM. All groups received 2% (v/v) of levamisole as..."
+    "pmid": "42763906",
+    "doi": "10.1080/14786419.2026.2734010",
+    "why": "β-Sitosterol from Hylotelephium erythrostictum (Miq.) H. Ohba, an abundant plant sterol, was converted into eight A-ring-modified derivatives, introducing a seven-membered ring bearing an exocyclic formyl group-a motif associated with antiparasitic activity. Evaluation against Toxoplasma gondii revealed that A-ring expansion with C-3 formylation and 2-aza substitution correlated with increased activity, while the parent compound and 4-aza analogues were..."
   },
   {
     "id": "pubmed-42760392",
@@ -38,7 +37,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.2,
+    "ageHours": 75.2,
     "score": 100,
     "journal": "Nature reviews. Genetics",
     "pubDate": "2026-09-18",
@@ -60,7 +59,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.2,
+    "ageHours": 75.2,
     "score": 98,
     "journal": "Emerging infectious diseases",
     "pubDate": "2026-09-18",
@@ -77,6 +76,33 @@ window.researchItems = [
     "why": "A large malaria outbreak caused by Plasmodium malariae parasites occurred in Khanh Hoa Province, Vietnam, in 2023. Since then, P. malariae parasites have persisted in the region alongside P. falciparum and P. vivax species, changing malaria patterns. Those findings reinforce the need for strengthened surveillance in the region."
   },
   {
+    "id": "pubmed-42759643",
+    "title": "Evaluation of tissue cyst protection in pigs immunized by intradermal and intramuscular routes with a DNA vaccine (rop18 + sag1) against Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759643/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.2,
+    "score": 96,
+    "journal": "Experimental parasitology",
+    "pubDate": "2026-09-18",
+    "authors": [
+      "Candeias APM",
+      "Dos Santos Silva AC",
+      "Jurkevicz RMB",
+      "Cavallieri AC",
+      "Sasse JP",
+      "de Souza Lima Nino B"
+    ],
+    "pmid": "42759643",
+    "doi": "10.1016/j.exppara.2026.109209",
+    "why": "The aim of the present study was to evaluate the protection against tissue cyst formation from T. gondii in pigs immunized with a DNA vector plasmid encoding partial rop18 and sag1 genes. Ten pigs were divided into three groups (G): G1, and G2 received 150μg of pcDNA3.1+rop18, and 150μg of pcDNA3.1+sag1 by intradermal (ID) and intramuscular (IM) routes, respectively. G3 received 300μg of pcDNA 3.1 alone by IM. All groups received 2% (v/v) of levamisole as..."
+  },
+  {
     "id": "pubmed-42758149",
     "title": "Chemoselective halogenation of premarineosin A for next-generation antimalarial development.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42758149/",
@@ -87,7 +113,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.2,
+    "ageHours": 75.2,
     "score": 96,
     "journal": "Organic & biomolecular chemistry",
     "pubDate": "2026-09-18",
@@ -114,8 +140,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.2,
-    "score": 86,
+    "ageHours": 75.2,
+    "score": 82,
     "journal": "International journal of ophthalmology",
     "pubDate": "2026-09-18",
     "authors": [
@@ -141,7 +167,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 100,
     "journal": "Malaria journal",
     "pubDate": "2026-09-17",
@@ -158,60 +184,6 @@ window.researchItems = [
     "why": "BACKGROUND: Malaria remains a public health challenge in Gabon. Pyronaridine-artesunate is an effective oral treatment for uncomplicated malaria. In real-world context, treatment failures, though still rare, are expected to be more frequent than in clinical trials. Prior malaria episodes have been suggested as risk factor for treatment failure. However, most evidence relies on self-reported history, which is prone to bias. METHODS: A secondary data..."
   },
   {
-    "id": "pubmed-42752185",
-    "title": "Role of Toxoplasma gondii calcium-binding protein (TgpCaBP) and its implications for the development of attenuated live vaccines.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42752185/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.2,
-    "score": 98,
-    "journal": "Microbiology spectrum",
-    "pubDate": "2026-09-17",
-    "authors": [
-      "Zhang Y",
-      "Li H",
-      "Jing Y",
-      "Sun W",
-      "Wei B",
-      "Wei Z"
-    ],
-    "pmid": "42752185",
-    "doi": "10.1128/spectrum.01827-26",
-    "why": "UNLABELLED: Toxoplasma gondii is an obligate intracellular protozoan parasite and the causative agent of toxoplasmosis in humans and animals. To date, an ideal vaccine against toxoplasmosis has not yet been developed. Our previous study demonstrated that deletion of the TgpCaBP gene, which encodes a calcium-binding EF-hand protein, impaired calcium flux, invasion, and egress, thereby reducing T. gondii virulence. However, the mechanisms underlying this..."
-  },
-  {
-    "id": "pubmed-42751871",
-    "title": "Screening the MMV Pathogen Box reveals the mitochondrial bc1-complex as a drug target in mature Toxoplasma gondii bradyzoites.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42751871/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.2,
-    "score": 96,
-    "journal": "eLife",
-    "pubDate": "2026-09-17",
-    "authors": [
-      "Maus D",
-      "Putrianti E",
-      "Hoffmann T",
-      "Laue M",
-      "Seeber F",
-      "Blume M"
-    ],
-    "pmid": "42751871",
-    "doi": "10.7554/eLife.102511",
-    "why": "The apicomplexan parasite Toxoplasma gondii infects 25-30% of the global human population and can cause life-threatening diseases in immunocompromised patients. The chronically infectious forms of the parasite, bradyzoites, persist within cysts in brain and muscle tissue, and are responsible for its transmission and remission of the disease. Currently available treatment options are very limited and are only effective against the fast-replicating..."
-  },
-  {
     "id": "pubmed-42754706",
     "title": "AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42754706/",
@@ -223,7 +195,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 96,
     "journal": "Nature microbiology",
     "pubDate": "2026-09-17",
@@ -240,6 +212,33 @@ window.researchItems = [
     "why": "Human-to-mosquito transmission of the malaria parasite Plasmodium falciparum requires conversion of some parasites to gametocytes, a non-replicative sexual form. Specific conditions of the human blood environment that induce parasite stress increase sexual conversion rates. Sexual conversion is triggered by the transcription factor AP2-G and its upstream activator, GDV1. However, the molecular mechanisms underlying environmentally induced sexual..."
   },
   {
+    "id": "pubmed-42752185",
+    "title": "Role of Toxoplasma gondii calcium-binding protein (TgpCaBP) and its implications for the development of attenuated live vaccines.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752185/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.2,
+    "score": 94,
+    "journal": "Microbiology spectrum",
+    "pubDate": "2026-09-17",
+    "authors": [
+      "Zhang Y",
+      "Li H",
+      "Jing Y",
+      "Sun W",
+      "Wei B",
+      "Wei Z"
+    ],
+    "pmid": "42752185",
+    "doi": "10.1128/spectrum.01827-26",
+    "why": "UNLABELLED: Toxoplasma gondii is an obligate intracellular protozoan parasite and the causative agent of toxoplasmosis in humans and animals. To date, an ideal vaccine against toxoplasmosis has not yet been developed. Our previous study demonstrated that deletion of the TgpCaBP gene, which encodes a calcium-binding EF-hand protein, impaired calcium flux, invasion, and egress, thereby reducing T. gondii virulence. However, the mechanisms underlying this..."
+  },
+  {
     "id": "pubmed-42753901",
     "title": "Isolates of Bacillus thuringiensis Berliner with Toxicity to Anopheles darlingi Root, 1926 (Diptera: Culicidae) Larvae, the Main Malaria Vector in Brazil.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42753901/",
@@ -250,7 +249,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 94,
     "journal": "Experimental parasitology",
     "pubDate": "2026-09-17",
@@ -267,6 +266,33 @@ window.researchItems = [
     "why": "Bacillus thuringiensis Berliner 1911 has high effectiveness against important mosquito vectors of human pathogens; however, there are few studies on the selection of Brazilian isolates of B. thuringiensis with activity against Anopheles darlingi Root, 1926, the main transmitter of human malaria parasites in the Amazon region. The present study sought to select native isolates of B. thuringiensis acquired from soil samples from three Brazilian biomes, with..."
   },
   {
+    "id": "pubmed-42751871",
+    "title": "Screening the MMV Pathogen Box reveals the mitochondrial bc1-complex as a drug target in mature Toxoplasma gondii bradyzoites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751871/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.2,
+    "score": 92,
+    "journal": "eLife",
+    "pubDate": "2026-09-17",
+    "authors": [
+      "Maus D",
+      "Putrianti E",
+      "Hoffmann T",
+      "Laue M",
+      "Seeber F",
+      "Blume M"
+    ],
+    "pmid": "42751871",
+    "doi": "10.7554/eLife.102511",
+    "why": "The apicomplexan parasite Toxoplasma gondii infects 25-30% of the global human population and can cause life-threatening diseases in immunocompromised patients. The chronically infectious forms of the parasite, bradyzoites, persist within cysts in brain and muscle tissue, and are responsible for its transmission and remission of the disease. Currently available treatment options are very limited and are only effective against the fast-replicating..."
+  },
+  {
     "id": "pubmed-42753717",
     "title": "Recurrent Plasmodium falciparum Malaria after Delayed Hemolysis Induced by Artemether-Lumefantrine.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42753717/",
@@ -277,7 +303,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 92,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-09-17",
@@ -305,7 +331,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 92,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-09-17",
@@ -332,7 +358,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.2,
+    "ageHours": 99.2,
     "score": 90,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-09-17",
@@ -359,8 +385,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.2,
-    "score": 94,
+    "ageHours": 123.2,
+    "score": 90,
     "journal": "Ophthalmology. Retina",
     "pubDate": "2026-09-16",
     "authors": [
@@ -375,6 +401,30 @@ window.researchItems = [
     "why": "TOPIC: This systematic review synthesizes clinical features, diagnostic pathways, interventions, and visual outcomes of atypical ocular toxoplasmosis initially masquerading as acute retinal necrosis (ARN) or cytomegalovirus (CMV) retinitis. BACKGROUND: Ocular toxoplasmosis occasionally presents atypically, mimicking viral retinitides. This masquerade poses a challenge, as misdiagnosis and empiric corticosteroids for presumed viral inflammation delay..."
   },
   {
+    "id": "pubmed-42747666",
+    "title": "Rhomboid Proteases in Plasmodium spp. : Biology, Functional Roles, and Therapeutic Potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747666/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 123.2,
+    "score": 90,
+    "journal": "Acta parasitologica",
+    "pubDate": "2026-09-16",
+    "authors": [
+      "Basumatary D",
+      "Lhouvum K"
+    ],
+    "pmid": "42747666",
+    "doi": "10.1007/s11686-026-01402-1",
+    "why": "PURPOSE: Malaria continues to rank among the most significant and deadly infectious diseases, with over 282 million estimated cases and more than 610,000 deaths reported by the WHO in 2025. With the continuous rise of resistance to currently existing antimalarial drugs, there is a dire need to validate new drug targets. Evolutionarily conserved across eukaryotes, rhomboid proteases constitute a family of intramembrane serine proteases that play essential..."
+  },
+  {
     "id": "pubmed-42748152",
     "title": "Atypical RanGAP drives nucleocytoplasmic transport in a parasitic Alveolate.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42748152/",
@@ -385,8 +435,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.2,
-    "score": 92,
+    "ageHours": 123.2,
+    "score": 88,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-09-16",
     "authors": [
@@ -408,8 +458,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.2,
-    "score": 90,
+    "ageHours": 123.2,
+    "score": 86,
     "journal": "Acta parasitologica",
     "pubDate": "2026-09-16",
     "authors": [
@@ -425,53 +475,6 @@ window.researchItems = [
     "why": "PubMed 暂无摘要。"
   },
   {
-    "id": "pubmed-42747666",
-    "title": "Rhomboid Proteases in Plasmodium spp. : Biology, Functional Roles, and Therapeutic Potential.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42747666/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 99.2,
-    "score": 90,
-    "journal": "Acta parasitologica",
-    "pubDate": "2026-09-16",
-    "authors": [
-      "Basumatary D",
-      "Lhouvum K"
-    ],
-    "pmid": "42747666",
-    "doi": "10.1007/s11686-026-01402-1",
-    "why": "PURPOSE: Malaria continues to rank among the most significant and deadly infectious diseases, with over 282 million estimated cases and more than 610,000 deaths reported by the WHO in 2025. With the continuous rise of resistance to currently existing antimalarial drugs, there is a dire need to validate new drug targets. Evolutionarily conserved across eukaryotes, rhomboid proteases constitute a family of intramembrane serine proteases that play essential..."
-  },
-  {
-    "id": "pubmed-42747621",
-    "title": "Molecular Occurrence, Co-infections and Genetic Characterization of Sarcocystis miescheriana, Toxoplasma gondii and Neospora caninum in Wild Boars (Sus scrofa) from Türkiye.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42747621/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 99.2,
-    "score": 88,
-    "journal": "Acta parasitologica",
-    "pubDate": "2026-09-16",
-    "authors": [
-      "Gürel T",
-      "Umur Ş"
-    ],
-    "pmid": "42747621",
-    "doi": "10.1007/s11686-026-01397-9",
-    "why": "PURPOSE: Wild boars (Sus scrofa) play a pivotal role in the sylvatic cycle of tissue cyst-forming apicomplexan parasites. However, molecular epidemiological data from Turkish populations is limited. The objective of this study was to ascertain the molecular prevalence, genetic diversity, and co-infection patterns of Sarcocystis spp., Toxoplasma gondii, and Neospora caninum in wild boars from the Central Black Sea Region of Türkiye. METHODS: A total of 100..."
-  },
-  {
     "id": "pubmed-42749151",
     "title": "Infectious risks of transfusion: a 10-year look back and perspectives.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42749151/",
@@ -482,7 +485,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.2,
+    "ageHours": 123.2,
     "score": 86,
     "journal": "Transfusion clinique et biologique : journal de la Societe francaise de transfusion sanguine",
     "pubDate": "2026-09-16",
@@ -496,6 +499,55 @@ window.researchItems = [
     "why": "Almost 50 years following the advent -and ensuing tragedy- of transfusion-transmitted HIV, infectious diseases continue to shape blood transfusion practice and policy. Over the past decade alone, a myriad of changes span innovation in donor selection, testing and pathogen reduction, to emergence and re-emergence pathogens that have required evaluation and, in some cases, active intervention. Major developments include refined bacterial testing, novel..."
   },
   {
+    "id": "pubmed-42747621",
+    "title": "Molecular Occurrence, Co-infections and Genetic Characterization of Sarcocystis miescheriana, Toxoplasma gondii and Neospora caninum in Wild Boars (Sus scrofa) from Türkiye.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747621/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 123.2,
+    "score": 84,
+    "journal": "Acta parasitologica",
+    "pubDate": "2026-09-16",
+    "authors": [
+      "Gürel T",
+      "Umur Ş"
+    ],
+    "pmid": "42747621",
+    "doi": "10.1007/s11686-026-01397-9",
+    "why": "PURPOSE: Wild boars (Sus scrofa) play a pivotal role in the sylvatic cycle of tissue cyst-forming apicomplexan parasites. However, molecular epidemiological data from Turkish populations is limited. The objective of this study was to ascertain the molecular prevalence, genetic diversity, and co-infection patterns of Sarcocystis spp., Toxoplasma gondii, and Neospora caninum in wild boars from the Central Black Sea Region of Türkiye. METHODS: A total of 100..."
+  },
+  {
+    "id": "pubmed-42761597",
+    "title": "Development and analytical validation of a multiplex qPCR assay for Toxoplasma gondii, Treponema pallidum, cytomegalovirus, and herpes simplex virus types 1 and 2 in neonates.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761597/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 147.2,
+    "score": 98,
+    "journal": "PeerJ",
+    "pubDate": "2026-09-15",
+    "authors": [
+      "Elmi AH",
+      "Yean CY",
+      "Ibrahim NR",
+      "A Abusalah MAH",
+      "Mohamed Z"
+    ],
+    "pmid": "42761597",
+    "doi": "10.7717/peerj.21695",
+    "why": "BACKGROUND: Congenital and perinatal infections caused by pathogens such as Toxoplasma gondii (T. gondii), Treponema pallidum (T. pallidum), cytomegalovirus (CMV), and herpes simplex virus types 1 and 2 (HSV-1 and HSV-2) are significant causes of neonatal morbidity. Traditional diagnostic methods, such as serological tests or viral cultures, are frequently limited by cross-reactivity, variable accuracy, and prolonged turnaround times. Therefore, this..."
+  },
+  {
     "id": "pubmed-42744980",
     "title": "Histone H2B monoubiquitination drives sexual commitment in malaria parasites.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42744980/",
@@ -507,7 +559,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.2,
+    "ageHours": 147.2,
     "score": 88,
     "journal": "Nature microbiology",
     "pubDate": "2026-09-15",
@@ -535,7 +587,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.2,
+    "ageHours": 147.2,
     "score": 86,
     "journal": "Molecular microbiology",
     "pubDate": "2026-09-15",
@@ -562,7 +614,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.2,
+    "ageHours": 147.2,
     "score": 82,
     "journal": "Access microbiology",
     "pubDate": "2026-09-15",
@@ -584,7 +636,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.2,
+    "ageHours": 147.2,
     "score": 78,
     "journal": "The Lancet. Microbe",
     "pubDate": "2026-09-15",
@@ -611,7 +663,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.2,
+    "ageHours": 147.2,
     "score": 76,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-09-15",
@@ -637,7 +689,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.2,
+    "ageHours": 171.2,
     "score": 84,
     "journal": "eLife",
     "pubDate": "2026-09-14",
@@ -665,7 +717,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.2,
+    "ageHours": 171.2,
     "score": 82,
     "journal": "Chembiochem : a European journal of chemical biology",
     "pubDate": "2026-09-14",
@@ -692,7 +744,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.2,
+    "ageHours": 171.2,
     "score": 70,
     "journal": "Immunological investigations",
     "pubDate": "2026-09-14",
@@ -716,7 +768,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.2,
+    "ageHours": 171.2,
     "score": 68,
     "journal": "ChemMedChem",
     "pubDate": "2026-09-14",
@@ -743,7 +795,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.2,
+    "ageHours": 171.2,
     "score": 64,
     "journal": "ChemMedChem",
     "pubDate": "2026-09-14",
@@ -770,7 +822,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 483.2,
+    "ageHours": 507.2,
     "score": 98,
     "journal": "ACS omega",
     "pubDate": "2026-08-31",
@@ -797,7 +849,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 819.2,
+    "ageHours": 843.2,
     "score": 62,
     "journal": "RSC advances",
     "pubDate": "2026-08-17",
@@ -825,7 +877,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1875.2,
+    "ageHours": 1899.2,
     "score": 80,
     "journal": "Bioorganic chemistry",
     "pubDate": "2026-07-04",
@@ -850,7 +902,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 3219.2,
+    "ageHours": 3243.2,
     "score": 58,
     "journal": "European journal of medicinal chemistry",
     "pubDate": "2026-05-09",
