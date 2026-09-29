@@ -1,8 +1,20 @@
-# PubMed Research Feed — 2026-09-28 03:27:00 +0000
+# PubMed Research Feed — 2026-09-29 04:02:59 +0000
 
-共 **41** 篇文章（Toxoplasma 12 · Plasmodium 25 · Malaria parasite 9）
+共 **39** 篇文章（Toxoplasma 10 · Plasmodium 25 · Malaria parasite 9）
 
 ---
+
+## 2026-09-28
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [From dysbiosis to disease: the role of gut microbial communities in Toxoplasma gondii pathogenesis, zoonotic transmission, diagnostic innovation, and therapeutic outcomes.](https://pubmed.ncbi.nlm.nih.gov/42803857/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11535-3](https://doi.org/10.1007/s11259-026-11535-3) |
+| 2 | [Signatures of malaria-driven epistatic selection between the Duffy and G6PD loci in the Colombian Pacific.](https://pubmed.ncbi.nlm.nih.gov/42805580/) | Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases | Plasmodium | [10.1016/j.meegid.2026.106032](https://doi.org/10.1016/j.meegid.2026.106032) |
+| 3 | [PfATG18 links V-ATPase assembly to endocytic membrane dynamics in malaria parasites.](https://pubmed.ncbi.nlm.nih.gov/42804545/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014608](https://doi.org/10.1371/journal.ppat.1014608) |
+| 4 | [TgDDP is a novel DIX domain protein that plays an essential role in Toxoplasma endodyogeny.](https://pubmed.ncbi.nlm.nih.gov/42803554/) | mBio | Toxoplasma | [10.1128/mbio.01952-26](https://doi.org/10.1128/mbio.01952-26) |
+| 5 | [A novel bi-triazole (4RJ) with potent dual-stage antiplasmodial and transmission-blocking activity against Plasmodium falciparum and Plasmodium vivax.](https://pubmed.ncbi.nlm.nih.gov/42805402/) | Parasitology international | Plasmodium | [10.1016/j.parint.2026.103398](https://doi.org/10.1016/j.parint.2026.103398) |
+| 6 | [Self-supervised missing-wedge correction enables accurate cellular morphology and volume reconstruction in soft X-ray tomography.](https://pubmed.ncbi.nlm.nih.gov/42805181/) | Cell reports methods | Plasmodium | [10.1016/j.crmeth.2026.101610](https://doi.org/10.1016/j.crmeth.2026.101610) |
+| 7 | [Proteome-wide characterization of Plasmodium vivax antigens using a high-density peptide array.](https://pubmed.ncbi.nlm.nih.gov/42804534/) | PLoS pathogens | Plasmodium | [10.1371/journal.ppat.1014621](https://doi.org/10.1371/journal.ppat.1014621) |
 
 ## 2026-09-27
 
@@ -10,6 +22,7 @@
 |---|------|------|------|-----|
 | 1 | [[TORCH infections during pregnancy: clinical significance, diagnosis, and treatment].](https://pubmed.ncbi.nlm.nih.gov/42801469/) | Orvosi hetilap | Toxoplasma | [10.1556/650.2026.33642](https://doi.org/10.1556/650.2026.33642) |
 | 2 | [[Ultrasound diagnosis of fetal infections: current possibilities and limitations].](https://pubmed.ncbi.nlm.nih.gov/42801468/) | Orvosi hetilap | Toxoplasma | [10.1556/650.2026.33670](https://doi.org/10.1556/650.2026.33670) |
+| 3 | [Comparative antiplasmodial, mito-protective and anti-inflammatory potentials of Phyllanthin and Stigmasterol-methyl siaresinolate mixture from Phyllanthus amarus in Plasmodium berghei-infected mice.](https://pubmed.ncbi.nlm.nih.gov/42801964/) | Fitoterapia | Plasmodium | [10.1016/j.fitote.2026.107498](https://doi.org/10.1016/j.fitote.2026.107498) |
 
 ## 2026-09-26
 
@@ -32,8 +45,8 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Inflammation and Routine Laboratory Associations in Imported Falciparum Malaria Assessed by Partial Correlation Analysis.](https://pubmed.ncbi.nlm.nih.gov/42782562/) | Acta parasitologica | Plasmodium · Malaria parasite | [10.1007/s11686-026-01409-8](https://doi.org/10.1007/s11686-026-01409-8) |
-| 2 | [Novel enantiopure pyridine-based aminoalcohols as promising antimalarial candidates.](https://pubmed.ncbi.nlm.nih.gov/42800114/) | European journal of medicinal chemistry | Plasmodium | [10.1016/j.ejmech.2026.119349](https://doi.org/10.1016/j.ejmech.2026.119349) |
-| 3 | [Congenital microcephaly and bilateral chorioretinal atrophy associated with a KIF11 nonsense variant.](https://pubmed.ncbi.nlm.nih.gov/42779270/) | Ophthalmic genetics | Toxoplasma | [10.1080/13816810.2026.2731375](https://doi.org/10.1080/13816810.2026.2731375) |
+| 2 | [Congenital microcephaly and bilateral chorioretinal atrophy associated with a KIF11 nonsense variant.](https://pubmed.ncbi.nlm.nih.gov/42779270/) | Ophthalmic genetics | Toxoplasma | [10.1080/13816810.2026.2731375](https://doi.org/10.1080/13816810.2026.2731375) |
+| 3 | [Novel enantiopure pyridine-based aminoalcohols as promising antimalarial candidates.](https://pubmed.ncbi.nlm.nih.gov/42800114/) | European journal of medicinal chemistry | Plasmodium | [10.1016/j.ejmech.2026.119349](https://doi.org/10.1016/j.ejmech.2026.119349) |
 | 4 | [Targeting a site of vulnerability on circumsporozoite protein inhibits Plasmodium vivax malaria infection.](https://pubmed.ncbi.nlm.nih.gov/42785294/) | Immunity | Plasmodium | [10.1016/j.immuni.2026.09.001](https://doi.org/10.1016/j.immuni.2026.09.001) |
 | 5 | [Brief exposure to hyperoxia is associated with reduced Plasmodium falciparum in vitro tolerance to Dihydroartemisinin.](https://pubmed.ncbi.nlm.nih.gov/42784729/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag490](https://doi.org/10.1093/infdis/jiag490) |
 | 6 | [The high protection of a novel chemo-attenuated sporozoite vaccine requires IL-15-mediated liver CD8+ tissue-resident memory T-cell responses.](https://pubmed.ncbi.nlm.nih.gov/42782159/) | mBio | Plasmodium | [10.1128/mbio.01131-26](https://doi.org/10.1128/mbio.01131-26) |
@@ -62,25 +75,6 @@
 | 7 | [Correction: Evaluation of splenic accumulation and colocalization of immature reticulocytes and Plasmodium vivax in asymptomatic malaria: A prospective human splenectomy study.](https://pubmed.ncbi.nlm.nih.gov/42771587/) | PLoS medicine | Plasmodium | [10.1371/journal.pmed.1005254](https://doi.org/10.1371/journal.pmed.1005254) |
 | 8 | [Structure-guided targeting of Plasmodium falciparum aminopeptidase P: exploiting S4' dimer-interface interactions for selective antimalarial drug design.](https://pubmed.ncbi.nlm.nih.gov/42770796/) | Expert opinion on therapeutic targets | Plasmodium | [10.1080/14728222.2026.2738351](https://doi.org/10.1080/14728222.2026.2738351) |
 | 9 | [mSphere of Influence: Autoantibodies during malaria-a historical observation taking the modern spotlight.](https://pubmed.ncbi.nlm.nih.gov/42770718/) | mSphere | Plasmodium | [10.1128/msphere.00906-25](https://doi.org/10.1128/msphere.00906-25) |
-| 10 | [Malaria in Menoreh Hills, Indonesia: an eco-epidemiological perspective on persistence of malaria transmission.](https://pubmed.ncbi.nlm.nih.gov/42768378/) | Parasites, hosts and diseases | Plasmodium | [10.3347/PHD.26043](https://doi.org/10.3347/PHD.26043) |
-
-## 2026-09-21
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Therapeutic Antitoxoplasmosis Potential of Garcinia cambogia: Evidence From In Silico and In Vivo Studies.](https://pubmed.ncbi.nlm.nih.gov/42770006/) | Journal of tropical medicine | Toxoplasma | [10.1155/jotm/7285376](https://doi.org/10.1155/jotm/7285376) |
-| 2 | [Congenital TORCH Infections and Neurodevelopmental Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42766296/) | JAMA pediatrics | Toxoplasma | [10.1001/jamapediatrics.2026.4229](https://doi.org/10.1001/jamapediatrics.2026.4229) |
-| 3 | [Antiplasmodial Activity and Safety Evaluation of Three Widely Distributed Polyherbal Antimalarials in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42774498/) | Journal of tropical medicine | Plasmodium | [10.1155/jotm/8959836](https://doi.org/10.1155/jotm/8959836) |
-| 4 | [A multiplex serological survey highlights differences in population immunity to mosquito-borne diseases in Vanuatu, Pacific region, 2023.](https://pubmed.ncbi.nlm.nih.gov/42767552/) | International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases | Plasmodium | [10.1016/j.ijid.2026.109128](https://doi.org/10.1016/j.ijid.2026.109128) |
-
-## 2026-09-20
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [RMF-Activated Superparamagnetic Iron Oxide Nanoparticles Trigger Macrophage-Dependent Protection Against Babesia microti Infection.](https://pubmed.ncbi.nlm.nih.gov/42794809/) | International journal of molecular sciences | Plasmodium | [10.3390/ijms27188384](https://doi.org/10.3390/ijms27188384) |
-| 2 | [Hijacking Host Communication: The Central Role of Extracellular Vesicles in Infectious Disease Pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/42782808/) | Cells | Toxoplasma · Plasmodium | [10.3390/cells15181708](https://doi.org/10.3390/cells15181708) |
-| 3 | [Anti-toxoplasma activity of a semisynthetic azasteroid derived from β-sitosterol.](https://pubmed.ncbi.nlm.nih.gov/42763906/) | Natural product research | Toxoplasma | [10.1080/14786419.2026.2734010](https://doi.org/10.1080/14786419.2026.2734010) |
-| 4 | [Genetic background determines allele-specific Pfkelch13 -mediated artemisinin tolerance and persistence in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42779580/) | bioRxiv : the preprint server for biology | Plasmodium | [10.64898/2026.09.03.749253](https://doi.org/10.64898/2026.09.03.749253) |
 
 ## 2026-09-16
 
@@ -93,9 +87,3 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Pan-African hybridization of PfSPZ increases antigenic diversity and replicative capacity for malaria vaccine design.](https://pubmed.ncbi.nlm.nih.gov/42611549/) | JCI insight | Malaria parasite | [10.1172/jci.insight.207272](https://doi.org/10.1172/jci.insight.207272) |
-
-## 2026-06-25
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [MalDeepSeq panel: A targeted ultra-deep sequencing approach to trace drug resistance markers in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42349411/) | Cell reports methods | Malaria parasite | [10.1016/j.crmeth.2026.101509](https://doi.org/10.1016/j.crmeth.2026.101509) |
