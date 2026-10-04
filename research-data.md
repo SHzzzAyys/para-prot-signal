@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-10-03 03:38:54 +0000
+# PubMed Research Feed — 2026-10-04 04:08:55 +0000
 
-共 **64** 篇文章（Plasmodium 25 · Toxoplasma 25 · Malaria parasite 17）
+共 **64** 篇文章（Toxoplasma 25 · Plasmodium 25 · Malaria parasite 17）
 
 ---
 
@@ -8,14 +8,16 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [A multi-antigen chimeric PvCSP-MSP119 vaccine induces robust humoral responses against distinct stages of Plasmodium vivax.](https://pubmed.ncbi.nlm.nih.gov/42826687/) | Vaccine | Plasmodium | [10.1016/j.vaccine.2026.129197](https://doi.org/10.1016/j.vaccine.2026.129197) |
+| 1 | [A conserved GTPase complex gates exocytosis for defence and parasitism across alveolates.](https://pubmed.ncbi.nlm.nih.gov/42827199/) | Nature microbiology | Toxoplasma | [10.1038/s41564-026-02501-5](https://doi.org/10.1038/s41564-026-02501-5) |
+| 2 | [A multi-antigen chimeric PvCSP-MSP119 vaccine induces robust humoral responses against distinct stages of Plasmodium vivax.](https://pubmed.ncbi.nlm.nih.gov/42826687/) | Vaccine | Plasmodium | [10.1016/j.vaccine.2026.129197](https://doi.org/10.1016/j.vaccine.2026.129197) |
+| 3 | [Type 4 macular neovascularisation arising from a congenital toxoplasmosis scar.](https://pubmed.ncbi.nlm.nih.gov/42827121/) | Eye (London, England) | Toxoplasma | [10.1038/s41433-026-04963-7](https://doi.org/10.1038/s41433-026-04963-7) |
 
 ## 2026-10-01
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Acute Retinal Necrosis or Lymphoma?](https://pubmed.ncbi.nlm.nih.gov/42820842/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2741379](https://doi.org/10.1080/09273948.2026.2741379) |
-| 2 | [Mitochondrial proteome of the apicomplexan Babesia divergens.](https://pubmed.ncbi.nlm.nih.gov/42822458/) | Current biology : CB | Plasmodium | [10.1016/j.cub.2026.08.072](https://doi.org/10.1016/j.cub.2026.08.072) |
+| 1 | [Mitochondrial proteome of the apicomplexan Babesia divergens.](https://pubmed.ncbi.nlm.nih.gov/42822458/) | Current biology : CB | Plasmodium | [10.1016/j.cub.2026.08.072](https://doi.org/10.1016/j.cub.2026.08.072) |
+| 2 | [Acute Retinal Necrosis or Lymphoma?](https://pubmed.ncbi.nlm.nih.gov/42820842/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2741379](https://doi.org/10.1080/09273948.2026.2741379) |
 | 3 | [Endophytic Xylaria sp. from Syzygium myrtifolium as a novel source of cytochalasin D with antimalarial activity against Plasmodium falciparum and anticancer activity against MCF-7 cells.](https://pubmed.ncbi.nlm.nih.gov/42821742/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2738219](https://doi.org/10.1080/14786419.2026.2738219) |
 | 4 | [G-quadruplex-binding ligand RHPS4 reduces Plasmodium falciparum mitochondrial DNA level providing a novel antimalarial strategy.](https://pubmed.ncbi.nlm.nih.gov/42820840/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00144-26](https://doi.org/10.1128/aac.00144-26) |
 | 5 | [Pathogenesis of Alcohol-Exacerbated Malaria in Plasmodium berghei-Infected Mice.](https://pubmed.ncbi.nlm.nih.gov/42790876/) | Parasite immunology | Malaria parasite | [10.1111/pim.70105](https://doi.org/10.1111/pim.70105) |
@@ -71,13 +73,6 @@
 | 1 | [[TORCH infections during pregnancy: clinical significance, diagnosis, and treatment].](https://pubmed.ncbi.nlm.nih.gov/42801469/) | Orvosi hetilap | Toxoplasma | [10.1556/650.2026.33642](https://doi.org/10.1556/650.2026.33642) |
 | 2 | [[Ultrasound diagnosis of fetal infections: current possibilities and limitations].](https://pubmed.ncbi.nlm.nih.gov/42801468/) | Orvosi hetilap | Toxoplasma | [10.1556/650.2026.33670](https://doi.org/10.1556/650.2026.33670) |
 | 3 | [Comparative antiplasmodial, mito-protective and anti-inflammatory potentials of Phyllanthin and Stigmasterol-methyl siaresinolate mixture from Phyllanthus amarus in Plasmodium berghei-infected mice.](https://pubmed.ncbi.nlm.nih.gov/42801964/) | Fitoterapia | Plasmodium | [10.1016/j.fitote.2026.107498](https://doi.org/10.1016/j.fitote.2026.107498) |
-
-## 2026-09-25
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Clustering of host N-glycans by the microneme MIC1/4/6 complex licenses Toxoplasma rhoptry discharge.](https://pubmed.ncbi.nlm.nih.gov/42791346/) | The EMBO journal | Toxoplasma | [10.1038/s44318-026-00911-z](https://doi.org/10.1038/s44318-026-00911-z) |
-| 2 | [A terpyridine derivative exhibits potent and selective anti-Toxoplasma gondii activity in BeWo cells.](https://pubmed.ncbi.nlm.nih.gov/42790573/) | Experimental parasitology | Toxoplasma | [10.1016/j.exppara.2026.109213](https://doi.org/10.1016/j.exppara.2026.109213) |
 
 ## 2026-09-23
 
