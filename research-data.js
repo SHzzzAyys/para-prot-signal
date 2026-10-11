@@ -1,5 +1,30 @@
-window.researchLastUpdated = "2026-10-10 04:10:08 +0000";
+window.researchLastUpdated = "2026-10-11 03:47:29 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42855707",
+    "title": "Over-dispersion in malaria-schistosoma co-infection: insights from a meta-analytical approach and systematic review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855707/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.8,
+    "score": 100,
+    "journal": "Infectious diseases of poverty",
+    "pubDate": "2026-10-09",
+    "authors": [
+      "Koellsch-Amet C",
+      "Boissier J",
+      "Augusto R"
+    ],
+    "pmid": "42855707",
+    "doi": "10.1186/s40249-026-01490-1",
+    "why": "BACKGROUND: Malaria and schistosomiasis are two major parasitic diseases that are co-endemic in many regions of sub-Saharan Africa. Despite their frequent geographical overlap, the potential epidemiological patterns and potential interactions associated with Plasmodium--Schistosoma co-infection remain poorly characterized. This study aimed to systematically assess the epidemiology of malaria-schistosomiasis co-infection and to quantify whether..."
+  },
   {
     "id": "pubmed-42854895",
     "title": "Sensitive detection of 4-hydroxy-2-nonenal-modified proteins in oxidative stress-related diseases.",
@@ -11,8 +36,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 100,
+    "ageHours": 51.8,
+    "score": 98,
     "journal": "Journal of proteomics",
     "pubDate": "2026-10-09",
     "authors": [
@@ -38,8 +63,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 100,
+    "ageHours": 51.8,
+    "score": 98,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-10-09",
     "authors": [
@@ -65,8 +90,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 96,
+    "ageHours": 51.8,
+    "score": 94,
     "journal": "PLOS global public health",
     "pubDate": "2026-10-09",
     "authors": [
@@ -82,6 +107,31 @@ window.researchItems = [
     "why": "Attractive targeted sugar baits (ATSB) are a potential new class of vector control tool that act through an \"attract and kill\" mechanism on mosquitoes. We conducted a meta-analysis using data from three large-scale Phase III trials of the Westham Sarabi v1.2 ATSB (0.11% dinotefuran) conducted in Kenya, Mali, and Zambia, to determine the effect of the intervention on clinical malaria incidence in children, Plasmodium falciparum infection prevalence, and..."
   },
   {
+    "id": "pubmed-42849539",
+    "title": "Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42849539/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.8,
+    "score": 96,
+    "journal": "Molecular and biochemical parasitology",
+    "pubDate": "2026-10-08",
+    "authors": [
+      "Mahanta PJ",
+      "Sarma MP",
+      "Lhouvum K"
+    ],
+    "pmid": "42849539",
+    "doi": "10.1016/j.molbiopara.2026.111787",
+    "why": "The phylum Apicomplexa includes major protozoan pathogens of humans and animals (Plasmodium falciparum, Toxoplasma gondii, Cryptosporidium parvum, Babesia spp., Eimeria spp., and Neospora caninum) with substantial global health and economic impact. Resistance to key chemotherapeutics, including the partner and antifolate drugs used against several of these diseases, is narrowing a limited arsenal of target-specific treatments, creating an urgent need for..."
+  },
+  {
     "id": "pubmed-42854323",
     "title": "Demographic and epidemiological patterns of reported malaria cases in Aseer Region, Saudi Arabia: An eight-year surveillance analysis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42854323/",
@@ -92,8 +142,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 98,
+    "ageHours": 75.8,
+    "score": 96,
     "journal": "Journal of infection and public health",
     "pubDate": "2026-10-08",
     "authors": [
@@ -119,8 +169,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 98,
+    "ageHours": 75.8,
+    "score": 96,
     "journal": "Parasites & vectors",
     "pubDate": "2026-10-08",
     "authors": [
@@ -136,31 +186,6 @@ window.researchItems = [
     "why": "BACKGROUND: Haemosporidian (\"malaria\") parasites are a diverse group of vector-borne apicomplexan parasites that infect a wide range of vertebrate hosts, including humans. Bats harbour a remarkable diversity of haemosporidians and are considered important hosts in the evolution of mammalian haemosporidian lineages, yet parasite diversity, host associations, and evolutionary relationships remain poorly understood, particularly in biodiversity-rich..."
   },
   {
-    "id": "pubmed-42849539",
-    "title": "Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42849539/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma",
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 96,
-    "journal": "Molecular and biochemical parasitology",
-    "pubDate": "2026-10-08",
-    "authors": [
-      "Mahanta PJ",
-      "Sarma MP",
-      "Lhouvum K"
-    ],
-    "pmid": "42849539",
-    "doi": "10.1016/j.molbiopara.2026.111787",
-    "why": "The phylum Apicomplexa includes major protozoan pathogens of humans and animals (Plasmodium falciparum, Toxoplasma gondii, Cryptosporidium parvum, Babesia spp., Eimeria spp., and Neospora caninum) with substantial global health and economic impact. Resistance to key chemotherapeutics, including the partner and antifolate drugs used against several of these diseases, is narrowing a limited arsenal of target-specific treatments, creating an urgent need for..."
-  },
-  {
     "id": "pubmed-42850325",
     "title": "Sickle cell haemoglobin status shapes malaria parasite genotype in asymptomatic infections.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42850325/",
@@ -172,8 +197,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 96,
+    "ageHours": 75.8,
+    "score": 94,
     "journal": "Nature microbiology",
     "pubDate": "2026-10-08",
     "authors": [
@@ -200,8 +225,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 94,
+    "ageHours": 75.8,
+    "score": 92,
     "journal": "Vaccine",
     "pubDate": "2026-10-08",
     "authors": [
@@ -228,8 +253,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 92,
+    "ageHours": 75.8,
+    "score": 90,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-10-08",
     "authors": [
@@ -255,7 +280,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
+    "ageHours": 99.8,
     "score": 94,
     "journal": "Ocular immunology and inflammation",
     "pubDate": "2026-10-07",
@@ -283,8 +308,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 90,
+    "ageHours": 99.8,
+    "score": 88,
     "journal": "Life science alliance",
     "pubDate": "2026-10-07",
     "authors": [
@@ -311,8 +336,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 88,
+    "ageHours": 99.8,
+    "score": 86,
     "journal": "PloS one",
     "pubDate": "2026-10-07",
     "authors": [
@@ -339,8 +364,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 86,
+    "ageHours": 99.8,
+    "score": 84,
     "journal": "PloS one",
     "pubDate": "2026-10-07",
     "authors": [
@@ -356,33 +381,6 @@ window.researchItems = [
     "why": "BACKGROUND: Malaria rapid diagnosis tests (mRDTs) detecting Plasmodium falciparum histidine-rich protein 2 (Pfhrp2) are the most widely adopted diagnostic tool in malaria-endemic areas. However, extensive polymorphisms in Pfhrp2 could modify Pfhrp2 epitopes, rendering it undetectable by Pfhrp2-based mRDTs. This study investigates the spatial distribution and population dynamics of Pfhrp2 in sub-Saharan Africa (sSA). METHOD: Pfhrp2 sequences (215) were..."
   },
   {
-    "id": "pubmed-42704743",
-    "title": "Tropism of Plasmodium malariae for young red blood cells and the bone marrow.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704743/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 82,
-    "journal": "Emerging microbes & infections",
-    "pubDate": "2026-10-07",
-    "authors": [
-      "Mouyama B",
-      "Fey V",
-      "Schoorl DJA",
-      "Serra-Hassoun M",
-      "Ambinintsoa F",
-      "Ngossanga B"
-    ],
-    "pmid": "42704743",
-    "doi": "10.1080/22221751.2026.2731507",
-    "why": "Fundamental aspects of the biology of the third most prevalent human malaria species Plasmodium malariae, including the basis for its capacity to establish chronic, low-density infections associated with debilitating quartan fevers, remain poorly characterized, hampering control efforts. Here, we combined ex vivo flowcytometric profiling of P. malariae isolates with infection studies in a recently developed humanized mouse model. We demonstrate a 5-fold..."
-  },
-  {
     "id": "pubmed-42584927",
     "title": "A non-catalytic interaction surface mediates recognition of spliceosomal factors by the Toxoplasma gondii cyclophilin TgCyp23.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42584927/",
@@ -393,7 +391,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
+    "ageHours": 99.8,
     "score": 80,
     "journal": "The Biochemical journal",
     "pubDate": "2026-10-07",
@@ -410,6 +408,33 @@ window.researchItems = [
     "why": "The spliceosome is emerging as a key regulatory hub in Toxoplasma gondii, yet the molecular basis of spliceosomal protein interactions remains largely unexplored. TgCyp23, a predicted nuclear cyclophilin (Cyp) from T. gondii, shares sequence similarity and catalytic properties with the human spliceosomal cyclophilin H (hCypH) that interacts with the splicing factors PRP4 and PRP18. Here, we investigated whether TgCyp23 engages in analogous interactions..."
   },
   {
+    "id": "pubmed-42704743",
+    "title": "Tropism of Plasmodium malariae for young red blood cells and the bone marrow.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704743/",
+    "source": "PubMed",
+    "tag": "Malaria parasite",
+    "topics": [
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.8,
+    "score": 80,
+    "journal": "Emerging microbes & infections",
+    "pubDate": "2026-10-07",
+    "authors": [
+      "Mouyama B",
+      "Fey V",
+      "Schoorl DJA",
+      "Serra-Hassoun M",
+      "Ambinintsoa F",
+      "Ngossanga B"
+    ],
+    "pmid": "42704743",
+    "doi": "10.1080/22221751.2026.2731507",
+    "why": "Fundamental aspects of the biology of the third most prevalent human malaria species Plasmodium malariae, including the basis for its capacity to establish chronic, low-density infections associated with debilitating quartan fevers, remain poorly characterized, hampering control efforts. Here, we combined ex vivo flowcytometric profiling of P. malariae isolates with infection studies in a recently developed humanized mouse model. We demonstrate a 5-fold..."
+  },
+  {
     "id": "pubmed-42843660",
     "title": "Expression of a conserved synthetic multiepitopic malaria protein CS712 in duckweed: immune response evaluation after oral delivery in BALB/c mice.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42843660/",
@@ -420,8 +445,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 80,
+    "ageHours": 99.8,
+    "score": 78,
     "journal": "Journal of biotechnology",
     "pubDate": "2026-10-07",
     "authors": [
@@ -447,8 +472,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 78,
+    "ageHours": 99.8,
+    "score": 76,
     "journal": "Molecular & cellular proteomics : MCP",
     "pubDate": "2026-10-07",
     "authors": [
@@ -474,8 +499,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 76,
+    "ageHours": 99.8,
+    "score": 74,
     "journal": "The Lancet. Infectious diseases",
     "pubDate": "2026-10-07",
     "authors": [
@@ -501,7 +526,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
+    "ageHours": 123.8,
     "score": 98,
     "journal": "BMJ public health",
     "pubDate": "2026-10-06",
@@ -528,8 +553,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 84,
+    "ageHours": 123.8,
+    "score": 82,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-10-06",
     "authors": [
@@ -554,8 +579,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 70,
+    "ageHours": 123.8,
+    "score": 68,
     "journal": "Cell reports",
     "pubDate": "2026-10-06",
     "authors": [
@@ -581,8 +606,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 68,
+    "ageHours": 123.8,
+    "score": 66,
     "journal": "Acta tropica",
     "pubDate": "2026-10-06",
     "authors": [
@@ -608,8 +633,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 66,
+    "ageHours": 123.8,
+    "score": 64,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-06",
     "authors": [
@@ -635,8 +660,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 64,
+    "ageHours": 123.8,
+    "score": 62,
     "journal": "PLoS computational biology",
     "pubDate": "2026-10-06",
     "authors": [
@@ -660,8 +685,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 62,
+    "ageHours": 123.8,
+    "score": 60,
     "journal": "Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents",
     "pubDate": "2026-10-06",
     "authors": [
@@ -687,7 +712,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
+    "ageHours": 147.8,
     "score": 92,
     "journal": "Nature communications",
     "pubDate": "2026-10-05",
@@ -714,7 +739,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
+    "ageHours": 147.8,
     "score": 90,
     "journal": "Nature communications",
     "pubDate": "2026-10-05",
@@ -741,7 +766,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
+    "ageHours": 147.8,
     "score": 88,
     "journal": "The Lancet. Child & adolescent health",
     "pubDate": "2026-10-05",
@@ -768,8 +793,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
-    "score": 60,
+    "ageHours": 147.8,
+    "score": 58,
     "journal": "Trends in parasitology",
     "pubDate": "2026-10-05",
     "authors": [
@@ -792,8 +817,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
-    "score": 58,
+    "ageHours": 147.8,
+    "score": 56,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-10-05",
     "authors": [
@@ -819,8 +844,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 86,
+    "ageHours": 195.8,
+    "score": 84,
     "journal": "International medical case reports journal",
     "pubDate": "2026-10-03",
     "authors": [
@@ -846,8 +871,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 56,
+    "ageHours": 195.8,
+    "score": 54,
     "journal": "Expert opinion on therapeutic targets",
     "pubDate": "2026-10-03",
     "authors": [
@@ -871,7 +896,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 388.2,
+    "ageHours": 411.8,
     "score": 100,
     "journal": "ACS omega",
     "pubDate": "2026-09-24",
@@ -898,7 +923,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 556.2,
+    "ageHours": 579.8,
     "score": 86,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-09-17",
@@ -926,8 +951,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 748.2,
-    "score": 84,
+    "ageHours": 771.8,
+    "score": 82,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-09-09",
     "authors": [
@@ -943,33 +968,6 @@ window.researchItems = [
     "why": "Recent genomic investigation in Ethiopia identified the first detection of the Plasmodium falciparum Kelch13 (K13) C580Y substitution in the Horn of Africa. To assess its functional impact, we introduced C580Y into two recently collected Ethiopian clinical isolates using CRISPR-Cas9 genome editing. Ring-stage survival assays showed significantly elevated in vitro dihydroartemisinin survival in edited parasites relative to isogenic controls, demonstrating..."
   },
   {
-    "id": "pubmed-42714380",
-    "title": "In vitro pharmacodynamics of the antimalarial drug cabamiquine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42714380/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 748.2,
-    "score": 52,
-    "journal": "Antimicrobial agents and chemotherapy",
-    "pubDate": "2026-09-09",
-    "authors": [
-      "Demarta-Gatsi C",
-      "Wallner JS",
-      "Dhingra SK",
-      "Narwal SK",
-      "Thathy V",
-      "Maiga M"
-    ],
-    "pmid": "42714380",
-    "doi": "10.1128/aac.00802-26",
-    "why": "Detailing the mode-of-action of novel antimalarial drugs is important to predict and optimize their treatment efficacy. To complement standardized in vivo studies, an in vitro pharmacodynamic characterization of the Plasmodium elongation factor 2 inhibitor cabamiquine has been undertaken on Plasmodium falciparum-infected red blood cells. Parasite growth arrest and killing kinetics were assessed using a MitoTracker assay, two genetically engineered..."
-  },
-  {
     "id": "pubmed-42708583",
     "title": "Genome-resolved analysis reveals disruption of gut microbial vitamin B and K2 biosynthesis during Toxoplasma gondii infection in mice.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42708583/",
@@ -980,7 +978,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 772.2,
+    "ageHours": 795.8,
     "score": 84,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-09-08",
@@ -1007,8 +1005,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 916.2,
-    "score": 80,
+    "ageHours": 939.8,
+    "score": 78,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-09-02",
     "authors": [
@@ -1034,8 +1032,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 940.2,
-    "score": 78,
+    "ageHours": 963.8,
+    "score": 76,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-09-01",
     "authors": [
@@ -1059,8 +1057,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1060.2,
-    "score": 76,
+    "ageHours": 1083.8,
+    "score": 74,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-27",
     "authors": [
@@ -1086,8 +1084,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1060.2,
-    "score": 74,
+    "ageHours": 1083.8,
+    "score": 72,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-27",
     "authors": [
@@ -1113,7 +1111,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1252.2,
+    "ageHours": 1275.8,
     "score": 82,
     "journal": "Microbiology spectrum",
     "pubDate": "2026-08-19",
@@ -1140,8 +1138,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1612.2,
-    "score": 72,
+    "ageHours": 1635.8,
+    "score": 70,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-08-04",
     "authors": [
