@@ -1,16 +1,25 @@
-# PubMed Research Feed — 2026-10-13 05:18:48 +0000
+# PubMed Research Feed — 2026-10-14 03:23:53 +0000
 
-共 **42** 篇文章（Toxoplasma 10 · Plasmodium 25 · Malaria parasite 18）
+共 **44** 篇文章（Toxoplasma 11 · Plasmodium 25 · Malaria parasite 18）
 
 ---
+
+## 2026-10-13
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.](https://pubmed.ncbi.nlm.nih.gov/42867187/) | Clinical neuropathology | Toxoplasma | [10.5414/NP301761](https://doi.org/10.5414/NP301761) |
+| 2 | [Different Factors Drive Initiation of Gametocytogenesis Versus Gametocyte Carriage in Plasmodium falciparum Infections.](https://pubmed.ncbi.nlm.nih.gov/42867265/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag479](https://doi.org/10.1093/infdis/jiag479) |
 
 ## 2026-10-12
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
-| 2 | [Malarial anemia: an interplay between impaired erythropoiesis and uninfected erythrocyte clearance.](https://pubmed.ncbi.nlm.nih.gov/42864205/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.09.015](https://doi.org/10.1016/j.pt.2026.09.015) |
-| 3 | [A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.](https://pubmed.ncbi.nlm.nih.gov/42863064/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2613405123](https://doi.org/10.1073/pnas.2613405123) |
+| 1 | [A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.](https://pubmed.ncbi.nlm.nih.gov/42863064/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2613405123](https://doi.org/10.1073/pnas.2613405123) |
+| 2 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
+| 3 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
+| 4 | [A national spatial prioritisation framework for the targeted expansion of essential sickle cell disease services across health-facility catchments in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42864651/) | BMC global and public health | Plasmodium | [10.1186/s44263-026-00338-y](https://doi.org/10.1186/s44263-026-00338-y) |
+| 5 | [Malarial anemia: an interplay between impaired erythropoiesis and uninfected erythrocyte clearance.](https://pubmed.ncbi.nlm.nih.gov/42864205/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.09.015](https://doi.org/10.1016/j.pt.2026.09.015) |
 
 ## 2026-10-11
 
@@ -31,12 +40,12 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.](https://pubmed.ncbi.nlm.nih.gov/42849539/) | Molecular and biochemical parasitology | Toxoplasma · Plasmodium | [10.1016/j.molbiopara.2026.111787](https://doi.org/10.1016/j.molbiopara.2026.111787) |
-| 2 | [High diversity and novel host associations of bat haemosporidian parasites in Cambodia: insights from a nationwide bat survey and multilocus analyses.](https://pubmed.ncbi.nlm.nih.gov/42850631/) | Parasites & vectors | Malaria parasite | [10.1186/s13071-026-07732-3](https://doi.org/10.1186/s13071-026-07732-3) |
-| 3 | [Demographic and epidemiological patterns of reported malaria cases in Aseer Region, Saudi Arabia: An eight-year surveillance analysis.](https://pubmed.ncbi.nlm.nih.gov/42854323/) | Journal of infection and public health | Plasmodium | [10.1016/j.jiph.2026.103384](https://doi.org/10.1016/j.jiph.2026.103384) |
-| 4 | [Sickle cell haemoglobin status shapes malaria parasite genotype in asymptomatic infections.](https://pubmed.ncbi.nlm.nih.gov/42850325/) | Nature microbiology | Plasmodium · Malaria parasite | [10.1038/s41564-026-02502-4](https://doi.org/10.1038/s41564-026-02502-4) |
-| 5 | [Circular RNA vaccines encoding Pvs25 induce antibodies that block Plasmodium vivax transmission.](https://pubmed.ncbi.nlm.nih.gov/42849225/) | Vaccine | Plasmodium · Malaria parasite | [10.1016/j.vaccine.2026.129221](https://doi.org/10.1016/j.vaccine.2026.129221) |
-| 6 | [Modeling the potential effect of cabamiquine-pyronaridine for chemoprevention against Plasmodium falciparum malaria.](https://pubmed.ncbi.nlm.nih.gov/42847989/) | Antimicrobial agents and chemotherapy | Plasmodium · Malaria parasite | [10.1128/aac.00434-26](https://doi.org/10.1128/aac.00434-26) |
+| 1 | [High diversity and novel host associations of bat haemosporidian parasites in Cambodia: insights from a nationwide bat survey and multilocus analyses.](https://pubmed.ncbi.nlm.nih.gov/42850631/) | Parasites & vectors | Malaria parasite | [10.1186/s13071-026-07732-3](https://doi.org/10.1186/s13071-026-07732-3) |
+| 2 | [Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.](https://pubmed.ncbi.nlm.nih.gov/42849539/) | Molecular and biochemical parasitology | Toxoplasma · Plasmodium | [10.1016/j.molbiopara.2026.111787](https://doi.org/10.1016/j.molbiopara.2026.111787) |
+| 3 | [Sickle cell haemoglobin status shapes malaria parasite genotype in asymptomatic infections.](https://pubmed.ncbi.nlm.nih.gov/42850325/) | Nature microbiology | Plasmodium · Malaria parasite | [10.1038/s41564-026-02502-4](https://doi.org/10.1038/s41564-026-02502-4) |
+| 4 | [Circular RNA vaccines encoding Pvs25 induce antibodies that block Plasmodium vivax transmission.](https://pubmed.ncbi.nlm.nih.gov/42849225/) | Vaccine | Plasmodium · Malaria parasite | [10.1016/j.vaccine.2026.129221](https://doi.org/10.1016/j.vaccine.2026.129221) |
+| 5 | [Modeling the potential effect of cabamiquine-pyronaridine for chemoprevention against Plasmodium falciparum malaria.](https://pubmed.ncbi.nlm.nih.gov/42847989/) | Antimicrobial agents and chemotherapy | Plasmodium · Malaria parasite | [10.1128/aac.00434-26](https://doi.org/10.1128/aac.00434-26) |
+| 6 | [Demographic and epidemiological patterns of reported malaria cases in Aseer Region, Saudi Arabia: An eight-year surveillance analysis.](https://pubmed.ncbi.nlm.nih.gov/42854323/) | Journal of infection and public health | Plasmodium | [10.1016/j.jiph.2026.103384](https://doi.org/10.1016/j.jiph.2026.103384) |
 
 ## 2026-10-07
 
@@ -45,8 +54,8 @@
 | 1 | [Evaluation of a recombinant matrix antigen 1-based indirect enzyme-linked immunosorbent assay for serodiagnosis of Toxoplasma gondii infection in goats.](https://pubmed.ncbi.nlm.nih.gov/42858531/) | Research in veterinary science | Toxoplasma | [10.1016/j.rvsc.2026.106433](https://doi.org/10.1016/j.rvsc.2026.106433) |
 | 2 | [Diagnostic Performance of Deep Learning Models for Ocular Toxoplasmosis Using Fundus Photography: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42842456/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2736177](https://doi.org/10.1080/09273948.2026.2736177) |
 | 3 | [Plasmodium protein kinase 2 is required for ookinete-to-oocyst transition and parasite transmission.](https://pubmed.ncbi.nlm.nih.gov/42843977/) | Life science alliance | Plasmodium · Malaria parasite | [10.26508/lsa.202603863](https://doi.org/10.26508/lsa.202603863) |
-| 4 | [A non-catalytic interaction surface mediates recognition of spliceosomal factors by the Toxoplasma gondii cyclophilin TgCyp23.](https://pubmed.ncbi.nlm.nih.gov/42584927/) | The Biochemical journal | Toxoplasma | [10.1042/BCJ20260439](https://doi.org/10.1042/BCJ20260439) |
-| 5 | [High prevalence of Plasmodium ovalewallikeri in co-infections with Plasmodium falciparum in symptomatic than asymptomatic Plasmodium parasite infections in Kisumu, Kenya.](https://pubmed.ncbi.nlm.nih.gov/42842695/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0334188](https://doi.org/10.1371/journal.pone.0334188) |
+| 4 | [High prevalence of Plasmodium ovalewallikeri in co-infections with Plasmodium falciparum in symptomatic than asymptomatic Plasmodium parasite infections in Kisumu, Kenya.](https://pubmed.ncbi.nlm.nih.gov/42842695/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0334188](https://doi.org/10.1371/journal.pone.0334188) |
+| 5 | [A non-catalytic interaction surface mediates recognition of spliceosomal factors by the Toxoplasma gondii cyclophilin TgCyp23.](https://pubmed.ncbi.nlm.nih.gov/42584927/) | The Biochemical journal | Toxoplasma | [10.1042/BCJ20260439](https://doi.org/10.1042/BCJ20260439) |
 | 6 | [Spatial and genetic dynamics of Plasmodium falciparum histidine-rich protein2 in sub-Saharan Africa.](https://pubmed.ncbi.nlm.nih.gov/42842607/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0358132](https://doi.org/10.1371/journal.pone.0358132) |
 | 7 | [Tropism of Plasmodium malariae for young red blood cells and the bone marrow.](https://pubmed.ncbi.nlm.nih.gov/42704743/) | Emerging microbes & infections | Malaria parasite | [10.1080/22221751.2026.2731507](https://doi.org/10.1080/22221751.2026.2731507) |
 | 8 | [Expression of a conserved synthetic multiepitopic malaria protein CS712 in duckweed: immune response evaluation after oral delivery in BALB/c mice.](https://pubmed.ncbi.nlm.nih.gov/42843660/) | Journal of biotechnology | Plasmodium | [10.1016/j.jbiotec.2026.10.003](https://doi.org/10.1016/j.jbiotec.2026.10.003) |
@@ -63,7 +72,6 @@
 | 4 | [Longitudinal dynamics of angiopoietin-1, angiopoietin-2 and soluble thrombomodulin during recovery from paediatric cerebral malaria in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42838407/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108364](https://doi.org/10.1016/j.actatropica.2026.108364) |
 | 5 | [Geographical Variation in Antimalarial Drug Resistance Marker Prevalence across the Southern African Elimination Eight Region.](https://pubmed.ncbi.nlm.nih.gov/42838037/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0299](https://doi.org/10.4269/ajtmh.26-0299) |
 | 6 | [Mobility hinders malaria elimination goals in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42837383/) | PLoS computational biology | Plasmodium | [10.1371/journal.pcbi.1014843](https://doi.org/10.1371/journal.pcbi.1014843) |
-| 7 | [Bicyclononane-2,8-bis(trifluoromethyl)quinoline hybrids: synthesis, antiplasmodial and antitrypanosomal activity.](https://pubmed.ncbi.nlm.nih.gov/42836957/) | Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents | Plasmodium | [10.1007/s00044-026-03628-0](https://doi.org/10.1007/s00044-026-03628-0) |
 
 ## 2026-09-24
 
@@ -81,8 +89,7 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Functional validation of the Plasmodium falciparum K13 C580Y mutation in recently collected Ethiopian isolates.](https://pubmed.ncbi.nlm.nih.gov/42714387/) | Antimicrobial agents and chemotherapy | Plasmodium · Malaria parasite | [10.1128/aac.00495-26](https://doi.org/10.1128/aac.00495-26) |
-| 2 | [In vitro pharmacodynamics of the antimalarial drug cabamiquine.](https://pubmed.ncbi.nlm.nih.gov/42714380/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00802-26](https://doi.org/10.1128/aac.00802-26) |
+| 1 | [Functional validation of the Plasmodium falciparum K13 C580Y mutation in recently collected Ethiopian isolates.](https://pubmed.ncbi.nlm.nih.gov/42714387/) | Antimicrobial agents and chemotherapy | Malaria parasite | [10.1128/aac.00495-26](https://doi.org/10.1128/aac.00495-26) |
 
 ## 2026-09-08
 
