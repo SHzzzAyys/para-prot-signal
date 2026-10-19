@@ -1,17 +1,24 @@
-# PubMed Research Feed — 2026-10-18 02:53:01 +0000
+# PubMed Research Feed — 2026-10-19 03:05:59 +0000
 
-共 **40** 篇文章（Toxoplasma 13 · Plasmodium 25 · Malaria parasite 9）
+共 **45** 篇文章（Toxoplasma 18 · Plasmodium 25 · Malaria parasite 9）
 
 ---
+
+## 2026-10-17
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Publisher Correction: Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.](https://pubmed.ncbi.nlm.nih.gov/42892645/) | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | Toxoplasma | [10.1007/s00011-026-02372-w](https://doi.org/10.1007/s00011-026-02372-w) |
+| 2 | [Clinical and imaging characterization of ocular toxoplasmosis in a Central-West Brazilian population.](https://pubmed.ncbi.nlm.nih.gov/42891856/) | International ophthalmology | Toxoplasma | [10.1007/s10792-026-04302-5](https://doi.org/10.1007/s10792-026-04302-5) |
 
 ## 2026-10-16
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Toxoplasma serology: Breaking the diagnostic boundary of schizoaffective disorder? Insights from a comparative peripheral immune marker analysis.](https://pubmed.ncbi.nlm.nih.gov/42887149/) | Schizophrenia research | Toxoplasma | [10.1016/j.schres.2026.10.006](https://doi.org/10.1016/j.schres.2026.10.006) |
-| 2 | [The trifecta of Plasmodium falciparum chromatin: open, closed, and centric.](https://pubmed.ncbi.nlm.nih.gov/42888052/) | Trends in parasitology | Plasmodium · Malaria parasite | [10.1016/j.pt.2026.09.020](https://doi.org/10.1016/j.pt.2026.09.020) |
-| 3 | [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/) | Neurology | Toxoplasma | [10.1212/WNL.0000000000218584](https://doi.org/10.1212/WNL.0000000000218584) |
-| 4 | [Management of uncomplicated Plasmodium falciparum malaria with artemisinin-based combination therapy: Factors associated with hospitalization and clinical, biological, and parasitological outcomes.](https://pubmed.ncbi.nlm.nih.gov/42887579/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103031](https://doi.org/10.1016/j.tmaid.2026.103031) |
+| 1 | [The trifecta of Plasmodium falciparum chromatin: open, closed, and centric.](https://pubmed.ncbi.nlm.nih.gov/42888052/) | Trends in parasitology | Plasmodium · Malaria parasite | [10.1016/j.pt.2026.09.020](https://doi.org/10.1016/j.pt.2026.09.020) |
+| 2 | [Management of uncomplicated Plasmodium falciparum malaria with artemisinin-based combination therapy: Factors associated with hospitalization and clinical, biological, and parasitological outcomes.](https://pubmed.ncbi.nlm.nih.gov/42887579/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103031](https://doi.org/10.1016/j.tmaid.2026.103031) |
+| 3 | [Toxoplasma serology: Breaking the diagnostic boundary of schizoaffective disorder? Insights from a comparative peripheral immune marker analysis.](https://pubmed.ncbi.nlm.nih.gov/42887149/) | Schizophrenia research | Toxoplasma | [10.1016/j.schres.2026.10.006](https://doi.org/10.1016/j.schres.2026.10.006) |
+| 4 | [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/) | Neurology | Toxoplasma | [10.1212/WNL.0000000000218584](https://doi.org/10.1212/WNL.0000000000218584) |
 | 5 | [Sense-antisense RNA duplexes mediate stress-responsive translational control in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42575702/) | RNA (New York, N.Y.) | Plasmodium | [10.1261/rna.081149.126](https://doi.org/10.1261/rna.081149.126) |
 
 ## 2026-10-15
@@ -31,24 +38,25 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Seroepidemiology of Toxoplasma gondii Infection in Psychiatric Inpatients and Healthy Controls in North Iran: A Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/42877034/) | Journal of parasitology research | Toxoplasma | [10.1155/japr/2530719](https://doi.org/10.1155/japr/2530719) |
-| 2 | [Gaps in guidelines implementation and need for harmonization in toxoplasmosis management after allogeneic stem cell transplantation across EBMT centers: an Infectious Diseases Working Party survey.](https://pubmed.ncbi.nlm.nih.gov/42875512/) | Bone marrow transplantation | Toxoplasma | [10.1038/s41409-026-03055-0](https://doi.org/10.1038/s41409-026-03055-0) |
-| 3 | [Toxoplasma gondii prevention literacy and self-reported preventive practices among online respondents in China: a cross-sectional survey.](https://pubmed.ncbi.nlm.nih.gov/42874976/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108367](https://doi.org/10.1016/j.actatropica.2026.108367) |
-| 4 | [Proteotyping reactivant toxoplasmic encephalitis reveals virulence-associated dense granule protein GRA5 polymorphisms.](https://pubmed.ncbi.nlm.nih.gov/42874062/) | The Journal of infectious diseases | Toxoplasma | [10.1093/infdis/jiag503](https://doi.org/10.1093/infdis/jiag503) |
-| 5 | [Global trends in the burden of malaria: mapping the prevalence, incidence and mortality of Plasmodium falciparum and Plasmodium vivax in the era of climate change and emerging drug resistance.](https://pubmed.ncbi.nlm.nih.gov/42875088/) | BMJ global health | Plasmodium | [10.1136/bmjgh-2025-021003](https://doi.org/10.1136/bmjgh-2025-021003) |
-| 6 | [Triflic Acid-Mediated Synthesis of 2-Sulfonamido Substituted 4H-Chromenes From para-Quinone Methides and Their Antiplasmodial Activity.](https://pubmed.ncbi.nlm.nih.gov/42834701/) | ChemMedChem | Plasmodium | [10.1002/cmdc.70517](https://doi.org/10.1002/cmdc.70517) |
+| 1 | [Toxoplasmosis: Epidemiological Significance, Economic Burden, and Emerging Directions in Drug Discovery and Artificial Intelligence.](https://pubmed.ncbi.nlm.nih.gov/42889502/) | International journal of microbiology | Toxoplasma | [10.1155/ijm/3271467](https://doi.org/10.1155/ijm/3271467) |
+| 2 | [Global trends in the burden of malaria: mapping the prevalence, incidence and mortality of Plasmodium falciparum and Plasmodium vivax in the era of climate change and emerging drug resistance.](https://pubmed.ncbi.nlm.nih.gov/42875088/) | BMJ global health | Plasmodium | [10.1136/bmjgh-2025-021003](https://doi.org/10.1136/bmjgh-2025-021003) |
+| 3 | [Seroepidemiology of Toxoplasma gondii Infection in Psychiatric Inpatients and Healthy Controls in North Iran: A Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/42877034/) | Journal of parasitology research | Toxoplasma | [10.1155/japr/2530719](https://doi.org/10.1155/japr/2530719) |
+| 4 | [Gaps in guidelines implementation and need for harmonization in toxoplasmosis management after allogeneic stem cell transplantation across EBMT centers: an Infectious Diseases Working Party survey.](https://pubmed.ncbi.nlm.nih.gov/42875512/) | Bone marrow transplantation | Toxoplasma | [10.1038/s41409-026-03055-0](https://doi.org/10.1038/s41409-026-03055-0) |
+| 5 | [Toxoplasma gondii prevention literacy and self-reported preventive practices among online respondents in China: a cross-sectional survey.](https://pubmed.ncbi.nlm.nih.gov/42874976/) | Acta tropica | Toxoplasma | [10.1016/j.actatropica.2026.108367](https://doi.org/10.1016/j.actatropica.2026.108367) |
+| 6 | [Proteotyping reactivant toxoplasmic encephalitis reveals virulence-associated dense granule protein GRA5 polymorphisms.](https://pubmed.ncbi.nlm.nih.gov/42874062/) | The Journal of infectious diseases | Toxoplasma | [10.1093/infdis/jiag503](https://doi.org/10.1093/infdis/jiag503) |
+| 7 | [Triflic Acid-Mediated Synthesis of 2-Sulfonamido Substituted 4H-Chromenes From para-Quinone Methides and Their Antiplasmodial Activity.](https://pubmed.ncbi.nlm.nih.gov/42834701/) | ChemMedChem | Plasmodium | [10.1002/cmdc.70517](https://doi.org/10.1002/cmdc.70517) |
 
 ## 2026-10-13
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Rethinking CD47 an innate immune checkpoint and immunotherapeutic target in malaria pathogenesis: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42887342/) | Cellular immunology | Plasmodium | [10.1016/j.cellimm.2026.105164](https://doi.org/10.1016/j.cellimm.2026.105164) |
-| 2 | [A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.](https://pubmed.ncbi.nlm.nih.gov/42867187/) | Clinical neuropathology | Toxoplasma | [10.5414/NP301761](https://doi.org/10.5414/NP301761) |
-| 3 | [Plasmodium vivax Malaria in Afghanistan: A Scoping Review of Epidemiology, Relapse, Treatment and Elimination Challenges.](https://pubmed.ncbi.nlm.nih.gov/42870320/) | Tropical medicine & international health : TM & IH | Plasmodium | [10.1111/tmi.70237](https://doi.org/10.1111/tmi.70237) |
-| 4 | [Mosquito-based malaria control through genetic, microbial and immunological innovations.](https://pubmed.ncbi.nlm.nih.gov/42869939/) | Nature reviews. Microbiology | Plasmodium | [10.1038/s41579-026-01382-z](https://doi.org/10.1038/s41579-026-01382-z) |
-| 5 | [Dendrimer-Based Nano Artesunate/β-Glucan as a Promising Antimalarial Candidate: Insights from in Vivo Evaluations.](https://pubmed.ncbi.nlm.nih.gov/42869154/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108365](https://doi.org/10.1016/j.actatropica.2026.108365) |
-| 6 | [Detection of Plasmodium vivax and Plasmodium falciparum using colorimetric loop-mediated isothermal amplification from dried blood spots collected in active and passive malaria surveillance in the Peruvian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42868181/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014366](https://doi.org/10.1371/journal.pntd.0014366) |
-| 7 | [Different Factors Drive Initiation of Gametocytogenesis Versus Gametocyte Carriage in Plasmodium falciparum Infections.](https://pubmed.ncbi.nlm.nih.gov/42867265/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag479](https://doi.org/10.1093/infdis/jiag479) |
+| 2 | [Plasmodium vivax Malaria in Afghanistan: A Scoping Review of Epidemiology, Relapse, Treatment and Elimination Challenges.](https://pubmed.ncbi.nlm.nih.gov/42870320/) | Tropical medicine & international health : TM & IH | Plasmodium | [10.1111/tmi.70237](https://doi.org/10.1111/tmi.70237) |
+| 3 | [Mosquito-based malaria control through genetic, microbial and immunological innovations.](https://pubmed.ncbi.nlm.nih.gov/42869939/) | Nature reviews. Microbiology | Plasmodium | [10.1038/s41579-026-01382-z](https://doi.org/10.1038/s41579-026-01382-z) |
+| 4 | [Dendrimer-Based Nano Artesunate/β-Glucan as a Promising Antimalarial Candidate: Insights from in Vivo Evaluations.](https://pubmed.ncbi.nlm.nih.gov/42869154/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108365](https://doi.org/10.1016/j.actatropica.2026.108365) |
+| 5 | [Detection of Plasmodium vivax and Plasmodium falciparum using colorimetric loop-mediated isothermal amplification from dried blood spots collected in active and passive malaria surveillance in the Peruvian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42868181/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014366](https://doi.org/10.1371/journal.pntd.0014366) |
+| 6 | [Different Factors Drive Initiation of Gametocytogenesis Versus Gametocyte Carriage in Plasmodium falciparum Infections.](https://pubmed.ncbi.nlm.nih.gov/42867265/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag479](https://doi.org/10.1093/infdis/jiag479) |
+| 7 | [A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.](https://pubmed.ncbi.nlm.nih.gov/42867187/) | Clinical neuropathology | Toxoplasma | [10.5414/NP301761](https://doi.org/10.5414/NP301761) |
 
 ## 2026-10-12
 
@@ -56,8 +64,8 @@
 |---|------|------|------|-----|
 | 1 | [A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.](https://pubmed.ncbi.nlm.nih.gov/42863064/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2613405123](https://doi.org/10.1073/pnas.2613405123) |
 | 2 | [Cerebral Manifestation of Miliary Tuberculosis Mimicking a Parasitic CNS Infection.](https://pubmed.ncbi.nlm.nih.gov/42871258/) | Case reports in neurological medicine | Toxoplasma | [10.1155/crnm/9275005](https://doi.org/10.1155/crnm/9275005) |
-| 3 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
-| 4 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
+| 3 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
+| 4 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
 | 5 | [A national spatial prioritisation framework for the targeted expansion of essential sickle cell disease services across health-facility catchments in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42864651/) | BMC global and public health | Plasmodium | [10.1186/s44263-026-00338-y](https://doi.org/10.1186/s44263-026-00338-y) |
 | 6 | [Malarial anemia: an interplay between impaired erythropoiesis and uninfected erythrocyte clearance.](https://pubmed.ncbi.nlm.nih.gov/42864205/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.09.015](https://doi.org/10.1016/j.pt.2026.09.015) |
 
@@ -66,6 +74,18 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Nutrient Sensing and Growth Control in Plasmodium: Beyond mTOR Signaling.](https://pubmed.ncbi.nlm.nih.gov/42860674/) | Molecular microbiology | Plasmodium · Malaria parasite | [10.1111/mmi.70123](https://doi.org/10.1111/mmi.70123) |
+
+## 2026-10-01
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [4‑O‑Allyl Derivative of Natural Licarin A Exhibits Selective In Vitro Activity against Toxoplasma gondii Tachyzoites.](https://pubmed.ncbi.nlm.nih.gov/42889921/) | ACS omega | Toxoplasma | [10.1021/acsomega.6c05944](https://doi.org/10.1021/acsomega.6c05944) |
+
+## 2026-09-28
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Repurposing of Milciclib as a Potential Inhibitor of Toxoplasma gondii in Human Trophoblasts and Placental Explants.](https://pubmed.ncbi.nlm.nih.gov/42889618/) | ACS omega | Toxoplasma | [10.1021/acsomega.6c05747](https://doi.org/10.1021/acsomega.6c05747) |
 
 ## 2026-09-24
 
