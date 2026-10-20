@@ -1,8 +1,14 @@
-# PubMed Research Feed — 2026-10-19 03:05:59 +0000
+# PubMed Research Feed — 2026-10-20 03:15:03 +0000
 
-共 **45** 篇文章（Toxoplasma 18 · Plasmodium 25 · Malaria parasite 9）
+共 **45** 篇文章（Toxoplasma 19 · Plasmodium 25 · Malaria parasite 8）
 
 ---
+
+## 2026-10-18
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Influence of ecological and management factors on Toxoplasma gondii infection in small ruminants in Algeria.](https://pubmed.ncbi.nlm.nih.gov/42894050/) | Tropical animal health and production | Toxoplasma | [10.1007/s11250-026-05437-4](https://doi.org/10.1007/s11250-026-05437-4) |
 
 ## 2026-10-17
 
@@ -29,7 +35,7 @@
 | 2 | [Spermacoce stachydea DC. (Rubiaceae), a Traditionally Used Antimalarial Plant: Phytochemical Profiling, Antioxidant and Antiplasmodial Activities, Host-Protective Effects, and Preclinical Safety Assessment.](https://pubmed.ncbi.nlm.nih.gov/42880557/) | Journal of ethnopharmacology | Plasmodium | [10.1016/j.jep.2026.122518](https://doi.org/10.1016/j.jep.2026.122518) |
 | 3 | [Machine learning and network pharmacology-assisted discovery of natural product inhibitors targeting Plasmodium falciparum lysyl-tRNA synthetase.](https://pubmed.ncbi.nlm.nih.gov/42876327/) | SAR and QSAR in environmental research | Plasmodium | [10.1080/1062936X.2026.2743104](https://doi.org/10.1080/1062936X.2026.2743104) |
 | 4 | [The double-edged sword of Plasmodium falciparum: malaria and a predisposition to B-cell malignancy?](https://pubmed.ncbi.nlm.nih.gov/42876303/) | Haematologica | Plasmodium | [10.3324/haematol.2026.302048](https://doi.org/10.3324/haematol.2026.302048) |
-| 5 | [Characterizing the Circulation of Gametocytes and Mosquito Infectivity in Induced Blood Stage Malaria.](https://pubmed.ncbi.nlm.nih.gov/42304683/) | The Journal of infectious diseases | Malaria parasite | [10.1093/infdis/jiag301](https://doi.org/10.1093/infdis/jiag301) |
+| 5 | [Characterizing the Circulation of Gametocytes and Mosquito Infectivity in Induced Blood Stage Malaria.](https://pubmed.ncbi.nlm.nih.gov/42304683/) | The Journal of infectious diseases | Plasmodium · Malaria parasite | [10.1093/infdis/jiag301](https://doi.org/10.1093/infdis/jiag301) |
 | 6 | [Host Reticulocyte Redox Attenuation Creates a Protective Niche for Artemisinin Tolerance in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42300800/) | The Journal of infectious diseases | Malaria parasite | [10.1093/infdis/jiag290](https://doi.org/10.1093/infdis/jiag290) |
 | 7 | [ATP Synthase-Associated Proteins TgASAP5 and TgASAP6 Sustain Mitochondrial Homeostasis in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42847752/) | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | Toxoplasma | [10.1096/fj.202603677RR](https://doi.org/10.1096/fj.202603677RR) |
 | 8 | [Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.](https://pubmed.ncbi.nlm.nih.gov/42446379/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag344](https://doi.org/10.1093/infdis/jiag344) |
@@ -65,15 +71,9 @@
 | 1 | [A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.](https://pubmed.ncbi.nlm.nih.gov/42863064/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2613405123](https://doi.org/10.1073/pnas.2613405123) |
 | 2 | [Cerebral Manifestation of Miliary Tuberculosis Mimicking a Parasitic CNS Infection.](https://pubmed.ncbi.nlm.nih.gov/42871258/) | Case reports in neurological medicine | Toxoplasma | [10.1155/crnm/9275005](https://doi.org/10.1155/crnm/9275005) |
 | 3 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
-| 4 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
-| 5 | [A national spatial prioritisation framework for the targeted expansion of essential sickle cell disease services across health-facility catchments in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42864651/) | BMC global and public health | Plasmodium | [10.1186/s44263-026-00338-y](https://doi.org/10.1186/s44263-026-00338-y) |
+| 4 | [A national spatial prioritisation framework for the targeted expansion of essential sickle cell disease services across health-facility catchments in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42864651/) | BMC global and public health | Plasmodium | [10.1186/s44263-026-00338-y](https://doi.org/10.1186/s44263-026-00338-y) |
+| 5 | [Acute Inner Foveal Toxoplasmic Maculopathy: An Atypical Manifestation of Ocular Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42862047/) | Ocular immunology and inflammation | Toxoplasma | [10.1080/09273948.2026.2737305](https://doi.org/10.1080/09273948.2026.2737305) |
 | 6 | [Malarial anemia: an interplay between impaired erythropoiesis and uninfected erythrocyte clearance.](https://pubmed.ncbi.nlm.nih.gov/42864205/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.09.015](https://doi.org/10.1016/j.pt.2026.09.015) |
-
-## 2026-10-11
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Nutrient Sensing and Growth Control in Plasmodium: Beyond mTOR Signaling.](https://pubmed.ncbi.nlm.nih.gov/42860674/) | Molecular microbiology | Plasmodium · Malaria parasite | [10.1111/mmi.70123](https://doi.org/10.1111/mmi.70123) |
 
 ## 2026-10-01
 
