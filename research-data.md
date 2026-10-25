@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-10-24 03:08:05 +0000
+# PubMed Research Feed — 2026-10-25 03:02:50 +0000
 
-共 **35** 篇文章（Plasmodium 22 · Toxoplasma 13 · Malaria parasite 11）
+共 **29** 篇文章（Plasmodium 18 · Toxoplasma 11 · Malaria parasite 9）
 
 ---
 
@@ -57,16 +57,6 @@
 | 2 | [Publisher Correction: Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.](https://pubmed.ncbi.nlm.nih.gov/42892645/) | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | Toxoplasma | [10.1007/s00011-026-02372-w](https://doi.org/10.1007/s00011-026-02372-w) |
 | 3 | [Clinical and imaging characterization of ocular toxoplasmosis in a Central-West Brazilian population.](https://pubmed.ncbi.nlm.nih.gov/42891856/) | International ophthalmology | Toxoplasma | [10.1007/s10792-026-04302-5](https://doi.org/10.1007/s10792-026-04302-5) |
 
-## 2026-10-16
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [The trifecta of Plasmodium falciparum chromatin: open, closed, and centric.](https://pubmed.ncbi.nlm.nih.gov/42888052/) | Trends in parasitology | Plasmodium · Malaria parasite | [10.1016/j.pt.2026.09.020](https://doi.org/10.1016/j.pt.2026.09.020) |
-| 2 | [Toxoplasma serology: Breaking the diagnostic boundary of schizoaffective disorder? Insights from a comparative peripheral immune marker analysis.](https://pubmed.ncbi.nlm.nih.gov/42887149/) | Schizophrenia research | Toxoplasma | [10.1016/j.schres.2026.10.006](https://doi.org/10.1016/j.schres.2026.10.006) |
-| 3 | [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/) | Neurology | Toxoplasma | [10.1212/WNL.0000000000218584](https://doi.org/10.1212/WNL.0000000000218584) |
-| 4 | [Management of uncomplicated Plasmodium falciparum malaria with artemisinin-based combination therapy: Factors associated with hospitalization and clinical, biological, and parasitological outcomes.](https://pubmed.ncbi.nlm.nih.gov/42887579/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103031](https://doi.org/10.1016/j.tmaid.2026.103031) |
-| 5 | [Sense-antisense RNA duplexes mediate stress-responsive translational control in Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42575702/) | RNA (New York, N.Y.) | Plasmodium | [10.1261/rna.081149.126](https://doi.org/10.1261/rna.081149.126) |
-
 ## 2026-10-12
 
 | # | 标题 | 期刊 | 主题 | DOI |
@@ -78,12 +68,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Mitochondrial proteome of the apicomplexan Babesia divergens.](https://pubmed.ncbi.nlm.nih.gov/42822458/) | Current biology : CB | Plasmodium | [10.1016/j.cub.2026.08.072](https://doi.org/10.1016/j.cub.2026.08.072) |
-
-## 2026-09-22
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Inducible dCas12a system expands CRISPRi/a capabilities for functional genomics in malaria parasite Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42857713/) | iScience | Plasmodium · Malaria parasite | [10.1016/j.isci.2026.117704](https://doi.org/10.1016/j.isci.2026.117704) |
 
 ## 2026-09-11
 
