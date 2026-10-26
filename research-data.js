@@ -1,5 +1,136 @@
-window.researchLastUpdated = "2026-10-25 03:02:50 +0000";
+window.researchLastUpdated = "2026-10-26 03:02:18 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42925910",
+    "title": "Biochemistry of protozoan Metacaspases: Structure, processing, and inhibition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925910/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.0,
+    "score": 100,
+    "journal": "Biochemical pharmacology",
+    "pubDate": "2026-10-24",
+    "authors": [
+      "de Oliveira VH",
+      "Duarte ACM",
+      "Araujo AF",
+      "Candido RCM",
+      "de Lorena LMC",
+      "Machado MFM"
+    ],
+    "pmid": "42925910",
+    "doi": "10.1016/j.bcp.2026.118557",
+    "why": "Metacaspases are calcium-dependent cysteine proteases (clan CD, family C14) present in fungi, protozoa, and plants but absent from mammals. Although structurally related to metazoan caspases, they differ in substrate specificity (cleaving after arginine or lysine), calcium-dependent activation, and monomeric architecture. In protozoan parasites such as Trypanosoma brucei, T. cruzi, Leishmania spp., Plasmodium spp., and Toxoplasma gondii, metacaspases..."
+  },
+  {
+    "id": "pubmed-42925523",
+    "title": "Persistent Non-Falciparum Malaria in Kenya: Evidence from 17 Years of Sentinel Surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925523/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.0,
+    "score": 98,
+    "journal": "Military medicine",
+    "pubDate": "2026-10-24",
+    "authors": [
+      "Mwalo MA",
+      "Chemwor GC",
+      "Okoth RO",
+      "Opot BH",
+      "Mwakio EW",
+      "Salim FA"
+    ],
+    "pmid": "42925523",
+    "doi": "10.1093/milmed/usag493",
+    "why": "BACKGROUND: Human malaria is caused by several Plasmodium species, including P. falciparum, P. malariae, P. ovalecurtisi, P. ovalewallikeri, P. vivax, and P. knowlesi. Pf is the most virulent and the primary target of most interventions, although mixed-species infections are common. Non-falciparum species are more difficult to diagnose, treat, control, and eliminate. This study aimed to determine the burden of Plasmodium species among symptomatic..."
+  },
+  {
+    "id": "pubmed-42925056",
+    "title": "Theft of host transferrin receptor-1 by Toxoplasma gondii is required for infection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925056/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.0,
+    "score": 98,
+    "journal": "mBio",
+    "pubDate": "2026-10-23",
+    "authors": [
+      "Denton SL",
+      "Mejia A",
+      "Nevarez LL",
+      "Soares MP",
+      "Fox BA",
+      "Bzik DJ"
+    ],
+    "pmid": "42925056",
+    "doi": "10.1128/mbio.01248-26",
+    "why": "Host nutrient acquisition is essential for apicomplexan parasite infection, yet mechanisms underpinning this are not defined. We discovered the genome of Toxoplasma gondii lacks conserved genes for iron transport and storage and these host cell proteins, including the transferrin receptor 1, transferrin, ferritin heart/heavy and liver/light chains, and clathrin light chain, are robustly taken up by tachyzoites. Acquisition of these host cell proteins was..."
+  },
+  {
+    "id": "pubmed-42924939",
+    "title": "(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924939/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.0,
+    "score": 96,
+    "journal": "Journal of natural products",
+    "pubDate": "2026-10-23",
+    "authors": [
+      "de Amorim MR",
+      "Peña AFT",
+      "Paz TA",
+      "Morais KJG",
+      "Zuccarino CAW",
+      "Gotha M"
+    ],
+    "pmid": "42924939",
+    "doi": "10.1021/acs.jnatprod.6c00305",
+    "why": "(±)-Nigronetides A-D (1-4) and nigronetides E-H (5-8), polyketides with complex carbon skeletons, were isolated from cultures of the marine-derived fungus Nigrograna sp. M13, presenting three novel carbon skeletons. While the planar structures and relative configuration of (±)-nigronetides A-D (1-4) were established by analysis of spectroscopic data, the absolute configuration of nigronetides E-H (5-8) was assigned using a combination of analysis of NOESY..."
+  },
+  {
+    "id": "pubmed-42909510",
+    "title": "Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909510/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 75.0,
+    "score": 94,
+    "journal": "Veterinary research communications",
+    "pubDate": "2026-10-23",
+    "authors": [
+      "Nashaat M"
+    ],
+    "pmid": "42909510",
+    "doi": "10.1007/s11259-026-11569-7",
+    "why": "Recently, food deficiency has become the most critical problem and a major global challenge. Rapid population growth requires increased food production to meet the resulting demand. High meat and chicken prices prompted the world to focus on fish production to meet ongoing food needs. Seafood is rich in vitamins, minerals, and omega-3s. Fish-borne parasitic diseases are primarily found in people in most countries, causing severe illness and death. This..."
+  },
   {
     "id": "pubmed-42912485",
     "title": "Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.",
@@ -11,8 +142,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 100,
+    "ageHours": 75.0,
+    "score": 94,
     "journal": "Natural product research",
     "pubDate": "2026-10-23",
     "authors": [
@@ -28,51 +159,6 @@ window.researchItems = [
     "why": "Malaria continues to be a profound global health problem, with escalating drug resistance in Plasmodium falciparum paving way for the necessity of affordable synthetic antimalarial agents. A virtual library of 300 tetraoxane derivatives was designed and subjected to in silico ADMET and molecular docking against falcipain-2 (PDB: 3BPF). Seven classified drug candidates (KD-1 to KD-7) were synthesised via two-step acid-catalyzed cyclic condensation of..."
   },
   {
-    "id": "pubmed-42909510",
-    "title": "Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42909510/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 51.0,
-    "score": 98,
-    "journal": "Veterinary research communications",
-    "pubDate": "2026-10-23",
-    "authors": [
-      "Nashaat M"
-    ],
-    "pmid": "42909510",
-    "doi": "10.1007/s11259-026-11569-7",
-    "why": "Recently, food deficiency has become the most critical problem and a major global challenge. Rapid population growth requires increased food production to meet the resulting demand. High meat and chicken prices prompted the world to focus on fish production to meet ongoing food needs. Seafood is rich in vitamins, minerals, and omega-3s. Fish-borne parasitic diseases are primarily found in people in most countries, causing severe illness and death. This..."
-  },
-  {
-    "id": "pubmed-42910591",
-    "title": "TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42910591/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 100,
-    "journal": "Journal of cell science",
-    "pubDate": "2026-10-22",
-    "authors": [
-      "Pearce C",
-      "Heaslip AT"
-    ],
-    "pmid": "42910591",
-    "doi": "10.1242/jcs.265051",
-    "why": "The Golgi is an essential organelle that serves as a central hub for endomembrane trafficking. In the protozoan parasite Toxoplasma gondii, a single Golgi stack is essential for parasite survival; however, the molecular determinants governing Golgi structure and function remain poorly understood. Here, we characterize a Golgi-associated protein that is required for Golgi integrity and function, which we named Toxoplasma Golgi Integrity Factor (TGIF). Loss..."
-  },
-  {
     "id": "pubmed-42910861",
     "title": "Deep learning-based identification of Plasmodium vivax and Plasmodium falciparum species and life-cycle stages from thin blood smear images.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42910861/",
@@ -84,7 +170,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
+    "ageHours": 99.0,
     "score": 100,
     "journal": "Journal of applied microbiology",
     "pubDate": "2026-10-22",
@@ -100,6 +186,29 @@ window.researchItems = [
     "why": "AIMS: As malaria elimination advances, low parasitaemia infections and declining microscopy expertise have made identification of Plasmodium species challenging. Although microscopy remains the diagnostic gold standard, it is prone to human error and is time consuming. Deep learning algorithms offer a supportive diagnostic framework to enhance rapid, automated, and accurate detection of malaria parasites in peripheral blood smear images. METHODS AND..."
   },
   {
+    "id": "pubmed-42910591",
+    "title": "TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910591/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.0,
+    "score": 96,
+    "journal": "Journal of cell science",
+    "pubDate": "2026-10-22",
+    "authors": [
+      "Pearce C",
+      "Heaslip AT"
+    ],
+    "pmid": "42910591",
+    "doi": "10.1242/jcs.265051",
+    "why": "The Golgi is an essential organelle that serves as a central hub for endomembrane trafficking. In the protozoan parasite Toxoplasma gondii, a single Golgi stack is essential for parasite survival; however, the molecular determinants governing Golgi structure and function remain poorly understood. Here, we characterize a Golgi-associated protein that is required for Golgi integrity and function, which we named Toxoplasma Golgi Integrity Factor (TGIF). Loss..."
+  },
+  {
     "id": "pubmed-42911959",
     "title": "Transgenic Plasmodium berghei expressing P. vivax pre-erythrocytic antigens SSP3 and SPECT1 to elucidate their efficacy towards vaccine development.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42911959/",
@@ -110,8 +219,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 98,
+    "ageHours": 99.0,
+    "score": 92,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-10-22",
     "authors": [
@@ -137,8 +246,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.0,
-    "score": 96,
+    "ageHours": 99.0,
+    "score": 90,
     "journal": "PloS one",
     "pubDate": "2026-10-22",
     "authors": [
@@ -165,7 +274,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
+    "ageHours": 123.0,
     "score": 98,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-21",
@@ -189,7 +298,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
+    "ageHours": 123.0,
     "score": 96,
     "journal": "Nature communications",
     "pubDate": "2026-10-21",
@@ -206,33 +315,6 @@ window.researchItems = [
     "why": "Mortality rates for African children with severe malaria remain high. Sevuparin, a heparin-like compound, as an adjunctive treatment, may improve outcomes due to its effects on Plasmodium falciparum-infected erythrocytes. A Phase I dose-finding trial in Kenyan and Zambian children with severe malaria aimed to identify the maximum tolerated dose (MTD) of sevuparin, given as three infusions (at 0, 8 and 16 h post-enrolment) using the continual reassessment..."
   },
   {
-    "id": "pubmed-42906791",
-    "title": "Systematic Review of Clinical Utility of Multimodal Imaging in Infectious Posterior Uveitis. Multimodal imaging in Uveitis (MUV) Taskforce Report 12.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42906791/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 94,
-    "journal": "Ophthalmology. Retina",
-    "pubDate": "2026-10-21",
-    "authors": [
-      "Singh Parmar UP",
-      "La Distia Nora R",
-      "Leal I",
-      "Trinco A",
-      "Cicinelli MV",
-      "Tyagi M"
-    ],
-    "pmid": "42906791",
-    "doi": "10.1016/j.oret.2026.10.004",
-    "why": "TOPIC: To systematically evaluate the clinical utility of multimodal imaging (MMI) for the diagnosis, activity assessment, longitudinal monitoring, and detection of complications in the five most prevalent infectious posterior uveitides. DESIGN: Systematic review and evidence-based quality appraisal. PARTICIPANTS: Original research studies published between January 2018 and September 2025(primary cohort) and 2012-2017(supplemental cohort) evaluating MMI..."
-  },
-  {
     "id": "pubmed-42905825",
     "title": "Accessing invasion-competent Plasmodium vivax merozoites reveals antibody-dependent NK cell activation.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42905825/",
@@ -244,7 +326,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
+    "ageHours": 123.0,
     "score": 94,
     "journal": "Science advances",
     "pubDate": "2026-10-21",
@@ -261,6 +343,33 @@ window.researchItems = [
     "why": "Malaria pathogenesis and clinical symptoms arise from blood-stage replication of Plasmodium parasites, which depends on rapid invasion of red blood cells by merozoites. Despite the central importance of this stage, direct functional studies of Plasmodium vivax (P. vivax) merozoites remain limited by the lack of continuous in vitro culture and restricted access to viable, invasion-competent merozoites from clinical isolates. Consequently, key aspects of P..."
   },
   {
+    "id": "pubmed-42906791",
+    "title": "Systematic Review of Clinical Utility of Multimodal Imaging in Infectious Posterior Uveitis. Multimodal imaging in Uveitis (MUV) Taskforce Report 12.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906791/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 123.0,
+    "score": 90,
+    "journal": "Ophthalmology. Retina",
+    "pubDate": "2026-10-21",
+    "authors": [
+      "Singh Parmar UP",
+      "La Distia Nora R",
+      "Leal I",
+      "Trinco A",
+      "Cicinelli MV",
+      "Tyagi M"
+    ],
+    "pmid": "42906791",
+    "doi": "10.1016/j.oret.2026.10.004",
+    "why": "TOPIC: To systematically evaluate the clinical utility of multimodal imaging (MMI) for the diagnosis, activity assessment, longitudinal monitoring, and detection of complications in the five most prevalent infectious posterior uveitides. DESIGN: Systematic review and evidence-based quality appraisal. PARTICIPANTS: Original research studies published between January 2018 and September 2025(primary cohort) and 2012-2017(supplemental cohort) evaluating MMI..."
+  },
+  {
     "id": "pubmed-42901268",
     "title": "Molecular survey of zoonotic protozoa in free-ranging marmosets (Callithrix penicillata) from Central Brazil: implications for One Health surveillance.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42901268/",
@@ -272,8 +381,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 92,
+    "ageHours": 123.0,
+    "score": 88,
     "journal": "Parasitology international",
     "pubDate": "2026-10-21",
     "authors": [
@@ -299,8 +408,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.0,
-    "score": 92,
+    "ageHours": 123.0,
+    "score": 86,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-21",
     "authors": [
@@ -326,8 +435,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 96,
+    "ageHours": 147.0,
+    "score": 92,
     "journal": "Parasites & vectors",
     "pubDate": "2026-10-20",
     "authors": [
@@ -343,33 +452,6 @@ window.researchItems = [
     "why": "BACKGROUND: Toxoplasma gondii surface proteins play critical roles in parasite invasion, proliferation, and host immune modulation, and represent promising targets for anti-toxoplasmosis intervention. SRS67 and SRS20A are poorly characterized surface proteins of T. gondii, and their biological functions and host regulatory effects remain largely unclear. METHODS: In the present study, we prepared recombinant SRS67 and SRS20A proteins and generated..."
   },
   {
-    "id": "pubmed-42900792",
-    "title": "Identification of Novel CD52+ Fibroblasts in Nodular Prostatic Hyperplasia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42900792/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 90,
-    "journal": "The Prostate",
-    "pubDate": "2026-10-20",
-    "authors": [
-      "Strobel OR",
-      "Xia H",
-      "Ropa JP",
-      "Strand DW",
-      "Jerde TJ",
-      "Arrizabalaga G"
-    ],
-    "pmid": "42900792",
-    "doi": "10.1002/pros.70262",
-    "why": "BACKGROUND: Benign prostatic hyperplasia (BPH) and lower urinary tract symptoms are strongly associated with chronic prostate inflammation and stromal remodeling, yet the stromal cell programs that emerge during inflammatory, nodular remodeling remain incompletely defined. A Toxoplasma gondii infection model produces persistent inflammation and nodular formations, providing an experimentally tractable system to map inflammation-linked stromal states..."
-  },
-  {
     "id": "pubmed-42900459",
     "title": "Emerging antimalarial drug targets to combat drug-resistant malaria parasites.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42900459/",
@@ -381,8 +463,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 90,
+    "ageHours": 147.0,
+    "score": 92,
     "journal": "Infection",
     "pubDate": "2026-10-20",
     "authors": [
@@ -398,6 +480,33 @@ window.researchItems = [
     "why": "The emergence and rapid spread of multidrug resistance in Plasmodium parasites, particularly in the Greater Mekong region and increasingly in Sub-Saharan Africa. Resistance has led to an urgent need to develop novel anti-malaria therapies with an effective mechanism. Several non-classical targets, including Na++ pump PfATP4 (Plasmodium falciparum ATPase 4), PI4K (Phosphatidylinositol 4-kinase) and PfNCR1(Plasmodium falciparum Niemann-Pick Type C1-Related..."
   },
   {
+    "id": "pubmed-42900792",
+    "title": "Identification of Novel CD52+ Fibroblasts in Nodular Prostatic Hyperplasia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900792/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 147.0,
+    "score": 86,
+    "journal": "The Prostate",
+    "pubDate": "2026-10-20",
+    "authors": [
+      "Strobel OR",
+      "Xia H",
+      "Ropa JP",
+      "Strand DW",
+      "Jerde TJ",
+      "Arrizabalaga G"
+    ],
+    "pmid": "42900792",
+    "doi": "10.1002/pros.70262",
+    "why": "BACKGROUND: Benign prostatic hyperplasia (BPH) and lower urinary tract symptoms are strongly associated with chronic prostate inflammation and stromal remodeling, yet the stromal cell programs that emerge during inflammatory, nodular remodeling remain incompletely defined. A Toxoplasma gondii infection model produces persistent inflammation and nodular formations, providing an experimentally tractable system to map inflammation-linked stromal states..."
+  },
+  {
     "id": "pubmed-42901290",
     "title": "Gallopamil exhibits antiplasmodial activity against Plasmodium falciparum and Plasmodium vivax and shows predicted interactions with Plasmodium hexose transporters.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42901290/",
@@ -408,8 +517,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 84,
+    "ageHours": 147.0,
+    "score": 78,
     "journal": "Acta tropica",
     "pubDate": "2026-10-20",
     "authors": [
@@ -435,8 +544,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 80,
+    "ageHours": 147.0,
+    "score": 74,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-20",
     "authors": [
@@ -461,8 +570,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 74,
+    "ageHours": 147.0,
+    "score": 70,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-10-20",
     "authors": [
@@ -488,8 +597,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.0,
-    "score": 72,
+    "ageHours": 147.0,
+    "score": 68,
     "journal": "Communicable diseases intelligence (2018)",
     "pubDate": "2026-10-20",
     "authors": [
@@ -515,8 +624,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.0,
-    "score": 88,
+    "ageHours": 195.0,
+    "score": 84,
     "journal": "Tropical animal health and production",
     "pubDate": "2026-10-18",
     "authors": [
@@ -532,88 +641,6 @@ window.researchItems = [
     "why": "Toxoplasma gondii is a zoonotic protozoan of major concern for small-ruminant production and public health. This study is among the first to simultaneously compare T. gondii seroprevalence across contrasting Algerian bioclimatic zones. In summer 2024, a cross-sectional study was conducted across 82 herds comprising 4,022 small ruminants in three provinces of central Algeria (Blida, Médéa, Djelfa), representing contrasting bioclimatic zones (humid..."
   },
   {
-    "id": "pubmed-42900969",
-    "title": "Repurposed small-molecule inhibitors of Plasmodium falciparum calmodulins disrupt calcium homeostasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42900969/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 92,
-    "journal": "International journal for parasitology. Drugs and drug resistance",
-    "pubDate": "2026-10-17",
-    "authors": [
-      "Tammour A",
-      "Parveen S",
-      "Panda A",
-      "Ahmad S",
-      "Abbas M",
-      "Madhav H"
-    ],
-    "pmid": "42900969",
-    "doi": "10.1016/j.ijpddr.2026.100673",
-    "why": "Calcium signaling is essential for the survival of Plasmodium falciparum, yet few components of its Ca2+ regulatory machinery have been chemically validated as antimalarial drug targets. Here, we report the structure-guided identification of small molecule inhibitors targeting a parasite specific subset of calmodulin and calmodulin-like proteins that lack close human orthologs. Virtual screening followed by biophysical validation revealed that the drugs..."
-  },
-  {
-    "id": "pubmed-42892645",
-    "title": "Publisher Correction: Toxoplasma gondii infection reduces CD59 expression through downregulation of JAK2/STAT3 signaling axis to enhance decidual NK cell cytotoxicity via the RAS/MAPK pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42892645/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 86,
-    "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "pubDate": "2026-10-17",
-    "authors": [
-      "Wang S",
-      "Huo L",
-      "Zou Y",
-      "Yang R",
-      "Wang X",
-      "Zhang H"
-    ],
-    "pmid": "42892645",
-    "doi": "10.1007/s00011-026-02372-w",
-    "why": "PubMed 暂无摘要。"
-  },
-  {
-    "id": "pubmed-42891856",
-    "title": "Clinical and imaging characterization of ocular toxoplasmosis in a Central-West Brazilian population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42891856/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 195.0,
-    "score": 84,
-    "journal": "International ophthalmology",
-    "pubDate": "2026-10-17",
-    "authors": [
-      "Marques APG",
-      "Zaunrith LR",
-      "da Silva DD",
-      "Silveira Carvalho AP",
-      "Murata FHA",
-      "Siqueira RC"
-    ],
-    "pmid": "42891856",
-    "doi": "10.1007/s10792-026-04302-5",
-    "why": "OBJECTIVE: To evaluate and characterize patients with presumed ocular toxoplasmosis using combined clinical and serological approaches in the municipality of Três Lagoas, Mato Grosso do Sul, Brazil. METHODS: This cross-sectional quantitative study included 85 patients with presumed Toxoplasma gondii related retinochoroiditis referred from the public healthcare system. Participants underwent ophthalmologic examination and serological testing for anti-T..."
-  },
-  {
     "id": "pubmed-42863064",
     "title": "A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42863064/",
@@ -625,8 +652,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 315.0,
-    "score": 88,
+    "ageHours": 339.0,
+    "score": 90,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-10-12",
     "authors": [
@@ -652,8 +679,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 579.0,
-    "score": 68,
+    "ageHours": 603.0,
+    "score": 64,
     "journal": "Current biology : CB",
     "pubDate": "2026-10-01",
     "authors": [
@@ -679,7 +706,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1059.0,
+    "ageHours": 1083.0,
     "score": 82,
     "journal": "Applied and environmental microbiology",
     "pubDate": "2026-09-11",
@@ -706,7 +733,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1083.0,
+    "ageHours": 1107.0,
     "score": 80,
     "journal": "Biophysical journal",
     "pubDate": "2026-09-10",
@@ -732,8 +759,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1131.0,
-    "score": 86,
+    "ageHours": 1155.0,
+    "score": 88,
     "journal": "JCI insight",
     "pubDate": "2026-09-08",
     "authors": [
@@ -760,8 +787,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1227.0,
-    "score": 84,
+    "ageHours": 1251.0,
+    "score": 86,
     "journal": "mSystems",
     "pubDate": "2026-09-04",
     "authors": [
