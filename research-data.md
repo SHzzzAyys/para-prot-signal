@@ -1,8 +1,14 @@
-# PubMed Research Feed — 2026-10-26 03:02:18 +0000
+# PubMed Research Feed — 2026-10-27 03:34:09 +0000
 
 共 **30** 篇文章（Toxoplasma 11 · Plasmodium 20 · Malaria parasite 8）
 
 ---
+
+## 2026-10-25
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Green-Synthesized Silver Nanoparticles Improve Cognitive Function and Modulate Nrf2/HO-1-BDNF-Related Gene Expression in Experimental Chronic Toxoplasmosis.](https://pubmed.ncbi.nlm.nih.gov/42928771/) | Journal of tropical medicine | Toxoplasma | [10.1155/jotm/6264261](https://doi.org/10.1155/jotm/6264261) |
 
 ## 2026-10-24
 
@@ -17,8 +23,8 @@
 |---|------|------|------|-----|
 | 1 | [Theft of host transferrin receptor-1 by Toxoplasma gondii is required for infection.](https://pubmed.ncbi.nlm.nih.gov/42925056/) | mBio | Toxoplasma | [10.1128/mbio.01248-26](https://doi.org/10.1128/mbio.01248-26) |
 | 2 | [(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.](https://pubmed.ncbi.nlm.nih.gov/42924939/) | Journal of natural products | Plasmodium | [10.1021/acs.jnatprod.6c00305](https://doi.org/10.1021/acs.jnatprod.6c00305) |
-| 3 | [Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.](https://pubmed.ncbi.nlm.nih.gov/42909510/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11569-7](https://doi.org/10.1007/s11259-026-11569-7) |
-| 4 | [Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.](https://pubmed.ncbi.nlm.nih.gov/42912485/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2753102](https://doi.org/10.1080/14786419.2026.2753102) |
+| 3 | [Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.](https://pubmed.ncbi.nlm.nih.gov/42912485/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2753102](https://doi.org/10.1080/14786419.2026.2753102) |
+| 4 | [Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.](https://pubmed.ncbi.nlm.nih.gov/42909510/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11569-7](https://doi.org/10.1007/s11259-026-11569-7) |
 
 ## 2026-10-22
 
@@ -44,19 +50,13 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Preliminary study on expression and functions of Toxoplasma gondii SRS67 and SRS20A proteins.](https://pubmed.ncbi.nlm.nih.gov/42907993/) | Parasites & vectors | Toxoplasma | [10.1186/s13071-026-07629-1](https://doi.org/10.1186/s13071-026-07629-1) |
-| 2 | [Emerging antimalarial drug targets to combat drug-resistant malaria parasites.](https://pubmed.ncbi.nlm.nih.gov/42900459/) | Infection | Plasmodium · Malaria parasite | [10.1007/s15010-026-03000-9](https://doi.org/10.1007/s15010-026-03000-9) |
+| 1 | [Emerging antimalarial drug targets to combat drug-resistant malaria parasites.](https://pubmed.ncbi.nlm.nih.gov/42900459/) | Infection | Plasmodium · Malaria parasite | [10.1007/s15010-026-03000-9](https://doi.org/10.1007/s15010-026-03000-9) |
+| 2 | [Preliminary study on expression and functions of Toxoplasma gondii SRS67 and SRS20A proteins.](https://pubmed.ncbi.nlm.nih.gov/42907993/) | Parasites & vectors | Toxoplasma | [10.1186/s13071-026-07629-1](https://doi.org/10.1186/s13071-026-07629-1) |
 | 3 | [Identification of Novel CD52+ Fibroblasts in Nodular Prostatic Hyperplasia.](https://pubmed.ncbi.nlm.nih.gov/42900792/) | The Prostate | Toxoplasma | [10.1002/pros.70262](https://doi.org/10.1002/pros.70262) |
 | 4 | [Gallopamil exhibits antiplasmodial activity against Plasmodium falciparum and Plasmodium vivax and shows predicted interactions with Plasmodium hexose transporters.](https://pubmed.ncbi.nlm.nih.gov/42901290/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108378](https://doi.org/10.1016/j.actatropica.2026.108378) |
 | 5 | [Absence of Validated and Candidate Plasmodium falciparum Kelch13 Markers of Artemisinin Resistance and Low Frequency of a Pfcoronin Mutation in Igombe, Mwanza Region, Tanzania.](https://pubmed.ncbi.nlm.nih.gov/42901154/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0347](https://doi.org/10.4269/ajtmh.26-0347) |
 | 6 | [Dual-stage inhibition of Plasmodium falciparum by a Skeletocutis-derived fungal metabolite targeting pyruvate kinase II.](https://pubmed.ncbi.nlm.nih.gov/42900023/) | Antimicrobial agents and chemotherapy | Plasmodium | [10.1128/aac.00160-26](https://doi.org/10.1128/aac.00160-26) |
 | 7 | [Epidemiology of malaria in the Torres Strait Islands, Australia, 2000-2025 and the public health response to three recent outbreaks.](https://pubmed.ncbi.nlm.nih.gov/42896225/) | Communicable diseases intelligence (2018) | Plasmodium | [10.33321/cdi.2026.50.065](https://doi.org/10.33321/cdi.2026.50.065) |
-
-## 2026-10-18
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Influence of ecological and management factors on Toxoplasma gondii infection in small ruminants in Algeria.](https://pubmed.ncbi.nlm.nih.gov/42894050/) | Tropical animal health and production | Toxoplasma | [10.1007/s11250-026-05437-4](https://doi.org/10.1007/s11250-026-05437-4) |
 
 ## 2026-10-12
 
