@@ -1,5 +1,86 @@
-window.researchLastUpdated = "2026-10-27 03:34:09 +0000";
+window.researchLastUpdated = "2026-10-28 03:50:22 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42945548",
+    "title": "Epidemiology of Urban Malaria in the Greater Accra Region of Ghana: Predictors and Effect Modification across a Transmission Season.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945548/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.8,
+    "score": 100,
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pubDate": "2026-10-27",
+    "authors": [
+      "McGuire M",
+      "Beltrame A",
+      "Dzabeng F",
+      "Kornu VE",
+      "Osei CN",
+      "Mensah C"
+    ],
+    "pmid": "42945548",
+    "doi": "10.4269/ajtmh.26-0325",
+    "why": "Urban malaria transmission in sub-Saharan Africa remains heterogeneous and incompletely characterized, particularly in rapidly expanding metropolitan areas. We investigated predictors of Plasmodium falciparum infection and effect modification of key interventions across the Greater Accra Region of Ghana. Three cross-sectional household cluster visits were conducted during pre-rains, rains, and post-rains periods of the 2024 transmission season..."
+  },
+  {
+    "id": "pubmed-42936869",
+    "title": "De novo assembly of complete Plasmodium falciparum isolate genomes using PacBio HiFi sequencing technology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42936869/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.8,
+    "score": 98,
+    "journal": "G3 (Bethesda, Md.)",
+    "pubDate": "2026-10-27",
+    "authors": [
+      "Nyarko PB",
+      "Quenu M",
+      "Guéry MA",
+      "Cohen C",
+      "Wagutu GK",
+      "Hamilton WL"
+    ],
+    "pmid": "42936869",
+    "doi": "10.1093/g3journal/jkag302",
+    "why": "Plasmodium falciparum possesses a highly structured genome with extensive sequence diversity concentrated in Variant Surface Antigen (VSA) families. These genes-var, rif, and stevor-play key roles in immune evasion and pathogenesis and are difficult to assemble using short-read sequencing technologies. Here, we applied PacBio HiFi long-read sequencing to generate high-quality de novo genome assemblies from 43 P. falciparum parasite cultures originating..."
+  },
+  {
+    "id": "pubmed-42934283",
+    "title": "Isolation and characterization of 5-O-desmethyl kinanthraquinone B generated through O-methyltransferase gene disruption.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934283/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.8,
+    "score": 96,
+    "journal": "The Journal of antibiotics",
+    "pubDate": "2026-10-26",
+    "authors": [
+      "Sakai K",
+      "Futamura Y",
+      "Nogawa T",
+      "Aono H",
+      "Osada H",
+      "Takahashi S"
+    ],
+    "pmid": "42934283",
+    "doi": "10.1038/s41429-026-00960-w",
+    "why": "5-O-desmethyl kinanthraquinone B, a new kinanthraquinone analogue, was isolated from a kiqT1 disruptant. Its structure was elucidated by high-resolution electrospray ionisation mass spectrometry and nuclear magnetic resonance spectrometry and subsequently compared with the spectroscopic data of kinanthraquinone B. The newly isolated analogue exhibited antibacterial activity against Staphylococcus aureus, antimalarial activity against Plasmodium..."
+  },
   {
     "id": "pubmed-42928771",
     "title": "Green-Synthesized Silver Nanoparticles Improve Cognitive Function and Modulate Nrf2/HO-1-BDNF-Related Gene Expression in Experimental Chronic Toxoplasmosis.",
@@ -11,8 +92,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 51.6,
-    "score": 100,
+    "ageHours": 75.8,
+    "score": 98,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-25",
     "authors": [
@@ -28,6 +109,31 @@ window.researchItems = [
     "why": "BACKGROUND AND AIMS: This study aimed to evaluate the neuroprotective effects of silver nanoparticles (AgNPs) green-synthesized using the ethanolic extract of Muscari neglectum against Toxoplasma gondii-induced cognitive impairment and to explore the underlying Nrf2/BDNF and oxidative stress-related mechanisms. METHODS: Chronic toxoplasmosis was experimentally induced in mice using the Tehran strain of T. gondii. Forty-eight mice were randomly allocated..."
   },
   {
+    "id": "pubmed-42945605",
+    "title": "Altered HMGB1-TLR4-NF-κB Signaling and regulatory microRNA expression in idiopathic generalized epilepsy according to Toxoplasma gondii serostatus.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945605/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 99.8,
+    "score": 100,
+    "journal": "Journal of neuroimmunology",
+    "pubDate": "2026-10-24",
+    "authors": [
+      "Soytürk H",
+      "Kılıç Ü",
+      "Aydın Türkoğlu Ş",
+      "Demir Ş"
+    ],
+    "pmid": "42945605",
+    "doi": "10.1016/j.jneuroim.2026.579114",
+    "why": "AIM: To investigate inflammatory signaling pathways and regulatory microRNA expression profiles in patients with idiopathic generalized epilepsy according to Toxoplasma gondii serostatus. The novelty of this study lies in the integrated evaluation of the HMGB1-TLR4-RAGE-IRAK-TRAF6-NF-κB signaling axis together with selected regulatory microRNAs across groups stratified according to both epilepsy diagnosis and T. gondii serostatus. METHODS: A total of 40..."
+  },
+  {
     "id": "pubmed-42925910",
     "title": "Biochemistry of protozoan Metacaspases: Structure, processing, and inhibition.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42925910/",
@@ -39,8 +145,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 100,
+    "ageHours": 99.8,
+    "score": 96,
     "journal": "Biochemical pharmacology",
     "pubDate": "2026-10-24",
     "authors": [
@@ -66,8 +172,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 75.6,
-    "score": 98,
+    "ageHours": 99.8,
+    "score": 92,
     "journal": "Military medicine",
     "pubDate": "2026-10-24",
     "authors": [
@@ -93,8 +199,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 96,
+    "ageHours": 123.8,
+    "score": 94,
     "journal": "mBio",
     "pubDate": "2026-10-23",
     "authors": [
@@ -110,6 +216,28 @@ window.researchItems = [
     "why": "Host nutrient acquisition is essential for apicomplexan parasite infection, yet mechanisms underpinning this are not defined. We discovered the genome of Toxoplasma gondii lacks conserved genes for iron transport and storage and these host cell proteins, including the transferrin receptor 1, transferrin, ferritin heart/heavy and liver/light chains, and clathrin light chain, are robustly taken up by tachyzoites. Acquisition of these host cell proteins was..."
   },
   {
+    "id": "pubmed-42909510",
+    "title": "Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909510/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 123.8,
+    "score": 90,
+    "journal": "Veterinary research communications",
+    "pubDate": "2026-10-23",
+    "authors": [
+      "Nashaat M"
+    ],
+    "pmid": "42909510",
+    "doi": "10.1007/s11259-026-11569-7",
+    "why": "Recently, food deficiency has become the most critical problem and a major global challenge. Rapid population growth requires increased food production to meet the resulting demand. High meat and chicken prices prompted the world to focus on fish production to meet ongoing food needs. Seafood is rich in vitamins, minerals, and omega-3s. Fish-borne parasitic diseases are primarily found in people in most countries, causing severe illness and death. This..."
+  },
+  {
     "id": "pubmed-42924939",
     "title": "(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42924939/",
@@ -120,8 +248,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 96,
+    "ageHours": 123.8,
+    "score": 90,
     "journal": "Journal of natural products",
     "pubDate": "2026-10-23",
     "authors": [
@@ -147,8 +275,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 94,
+    "ageHours": 123.8,
+    "score": 88,
     "journal": "Natural product research",
     "pubDate": "2026-10-23",
     "authors": [
@@ -164,55 +292,6 @@ window.researchItems = [
     "why": "Malaria continues to be a profound global health problem, with escalating drug resistance in Plasmodium falciparum paving way for the necessity of affordable synthetic antimalarial agents. A virtual library of 300 tetraoxane derivatives was designed and subjected to in silico ADMET and molecular docking against falcipain-2 (PDB: 3BPF). Seven classified drug candidates (KD-1 to KD-7) were synthesised via two-step acid-catalyzed cyclic condensation of..."
   },
   {
-    "id": "pubmed-42909510",
-    "title": "Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42909510/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 99.6,
-    "score": 92,
-    "journal": "Veterinary research communications",
-    "pubDate": "2026-10-23",
-    "authors": [
-      "Nashaat M"
-    ],
-    "pmid": "42909510",
-    "doi": "10.1007/s11259-026-11569-7",
-    "why": "Recently, food deficiency has become the most critical problem and a major global challenge. Rapid population growth requires increased food production to meet the resulting demand. High meat and chicken prices prompted the world to focus on fish production to meet ongoing food needs. Seafood is rich in vitamins, minerals, and omega-3s. Fish-borne parasitic diseases are primarily found in people in most countries, causing severe illness and death. This..."
-  },
-  {
-    "id": "pubmed-42910861",
-    "title": "Deep learning-based identification of Plasmodium vivax and Plasmodium falciparum species and life-cycle stages from thin blood smear images.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42910861/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 100,
-    "journal": "Journal of applied microbiology",
-    "pubDate": "2026-10-22",
-    "authors": [
-      "Kaura T",
-      "Kumari K",
-      "Garg N",
-      "Grover GS",
-      "Mewara A"
-    ],
-    "pmid": "42910861",
-    "doi": "10.1093/jambio/lxag261",
-    "why": "AIMS: As malaria elimination advances, low parasitaemia infections and declining microscopy expertise have made identification of Plasmodium species challenging. Although microscopy remains the diagnostic gold standard, it is prone to human error and is time consuming. Deep learning algorithms offer a supportive diagnostic framework to enhance rapid, automated, and accurate detection of malaria parasites in peripheral blood smear images. METHODS AND..."
-  },
-  {
     "id": "pubmed-42910591",
     "title": "TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42910591/",
@@ -223,8 +302,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 94,
+    "ageHours": 147.8,
+    "score": 92,
     "journal": "Journal of cell science",
     "pubDate": "2026-10-22",
     "authors": [
@@ -246,8 +325,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 92,
+    "ageHours": 147.8,
+    "score": 86,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-10-22",
     "authors": [
@@ -273,8 +352,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 123.6,
-    "score": 90,
+    "ageHours": 147.8,
+    "score": 84,
     "journal": "PloS one",
     "pubDate": "2026-10-22",
     "authors": [
@@ -301,8 +380,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 98,
+    "ageHours": 171.8,
+    "score": 100,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-21",
     "authors": [
@@ -325,8 +404,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 96,
+    "ageHours": 171.8,
+    "score": 98,
     "journal": "Nature communications",
     "pubDate": "2026-10-21",
     "authors": [
@@ -353,8 +432,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 94,
+    "ageHours": 171.8,
+    "score": 96,
     "journal": "Science advances",
     "pubDate": "2026-10-21",
     "authors": [
@@ -380,8 +459,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 88,
+    "ageHours": 171.8,
+    "score": 86,
     "journal": "Ophthalmology. Retina",
     "pubDate": "2026-10-21",
     "authors": [
@@ -408,8 +487,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 86,
+    "ageHours": 171.8,
+    "score": 84,
     "journal": "Parasitology international",
     "pubDate": "2026-10-21",
     "authors": [
@@ -435,8 +514,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 147.6,
-    "score": 86,
+    "ageHours": 171.8,
+    "score": 82,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-21",
     "authors": [
@@ -463,8 +542,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 92,
+    "ageHours": 195.8,
+    "score": 94,
     "journal": "Infection",
     "pubDate": "2026-10-20",
     "authors": [
@@ -490,8 +569,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 90,
+    "ageHours": 195.8,
+    "score": 88,
     "journal": "Parasites & vectors",
     "pubDate": "2026-10-20",
     "authors": [
@@ -517,8 +596,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 84,
+    "ageHours": 195.8,
+    "score": 82,
     "journal": "The Prostate",
     "pubDate": "2026-10-20",
     "authors": [
@@ -544,8 +623,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 78,
+    "ageHours": 195.8,
+    "score": 74,
     "journal": "Acta tropica",
     "pubDate": "2026-10-20",
     "authors": [
@@ -571,8 +650,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 74,
+    "ageHours": 195.8,
+    "score": 70,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-20",
     "authors": [
@@ -597,8 +676,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 70,
+    "ageHours": 195.8,
+    "score": 66,
     "journal": "Antimicrobial agents and chemotherapy",
     "pubDate": "2026-10-20",
     "authors": [
@@ -624,8 +703,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 171.6,
-    "score": 68,
+    "ageHours": 195.8,
+    "score": 64,
     "journal": "Communicable diseases intelligence (2018)",
     "pubDate": "2026-10-20",
     "authors": [
@@ -652,8 +731,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 363.6,
-    "score": 90,
+    "ageHours": 387.8,
+    "score": 92,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-10-12",
     "authors": [
@@ -669,9 +748,9 @@ window.researchItems = [
     "why": "Heme crystallization is central to malaria parasites' survival during the erythrocytic stage of the disease, yet how clinically relevant antimalarial drugs modulate this process at the molecular level remains unclear. Here we employ stage-resolved parasite assays and multiscale in vitro approaches to explore the interactions between lumefantrine (LF), one of the popular components of current combination therapies, and hematin crystallization. Pulse LF..."
   },
   {
-    "id": "pubmed-42822458",
-    "title": "Mitochondrial proteome of the apicomplexan Babesia divergens.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42822458/",
+    "id": "pubmed-42770718",
+    "title": "mSphere of Influence: Autoantibodies during malaria-a historical observation taking the modern spotlight.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42770718/",
     "source": "PubMed",
     "tag": "Plasmodium",
     "topics": [
@@ -679,21 +758,16 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 627.6,
-    "score": 64,
-    "journal": "Current biology : CB",
-    "pubDate": "2026-10-01",
+    "ageHours": 867.8,
+    "score": 60,
+    "journal": "mSphere",
+    "pubDate": "2026-09-22",
     "authors": [
-      "Betsinger CN",
-      "Calvo SE",
-      "Mian SY",
-      "Bauer NC",
-      "Paul AS",
-      "Batzli DL"
+      "Rivera-Correa J"
     ],
-    "pmid": "42822458",
-    "doi": "10.1016/j.cub.2026.08.072",
-    "why": "Babesia are tick-transmitted apicomplexan parasites of widespread medical and veterinary importance. Although atovaquone, a first-line therapy for human babesiosis, targets one of the three proteins encoded by mitochondrial DNA, a full characterization of the nuclear-encoded mitochondrial proteome is lacking. Here, we combined organelle immunoprecipitation and density gradient separation to enrich mitochondria from Babesia divergens. Using protein mass..."
+    "pmid": "42770718",
+    "doi": "10.1128/msphere.00906-25",
+    "why": "Juan Rivera-Correa works in the field of immunology of tropical infectious diseases, focusing on the role of autoimmune responses in malaria. In this mSphere of Influence article, he discusses the papers by Rosenberg and Daniel-Ribeiro, which were two of the first papers to report the presence of autoantibodies in malaria patients, changing the paradigm and blurring the line between autoimmune disorders and infectious diseases."
   },
   {
     "id": "pubmed-42726488",
@@ -706,8 +780,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1107.6,
-    "score": 82,
+    "ageHours": 1131.8,
+    "score": 80,
     "journal": "Applied and environmental microbiology",
     "pubDate": "2026-09-11",
     "authors": [
@@ -733,8 +807,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1131.6,
-    "score": 80,
+    "ageHours": 1155.8,
+    "score": 78,
     "journal": "Biophysical journal",
     "pubDate": "2026-09-10",
     "authors": [
@@ -759,8 +833,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1179.6,
-    "score": 88,
+    "ageHours": 1203.8,
+    "score": 90,
     "journal": "JCI insight",
     "pubDate": "2026-09-08",
     "authors": [
@@ -787,8 +861,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1275.6,
-    "score": 86,
+    "ageHours": 1299.8,
+    "score": 88,
     "journal": "mSystems",
     "pubDate": "2026-09-04",
     "authors": [

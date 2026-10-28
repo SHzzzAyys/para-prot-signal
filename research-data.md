@@ -1,8 +1,21 @@
-# PubMed Research Feed — 2026-10-27 03:34:09 +0000
+# PubMed Research Feed — 2026-10-28 03:50:22 +0000
 
-共 **30** 篇文章（Toxoplasma 11 · Plasmodium 20 · Malaria parasite 8）
+共 **33** 篇文章（Plasmodium 22 · Toxoplasma 12 · Malaria parasite 7）
 
 ---
+
+## 2026-10-27
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Epidemiology of Urban Malaria in the Greater Accra Region of Ghana: Predictors and Effect Modification across a Transmission Season.](https://pubmed.ncbi.nlm.nih.gov/42945548/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0325](https://doi.org/10.4269/ajtmh.26-0325) |
+| 2 | [De novo assembly of complete Plasmodium falciparum isolate genomes using PacBio HiFi sequencing technology.](https://pubmed.ncbi.nlm.nih.gov/42936869/) | G3 (Bethesda, Md.) | Plasmodium | [10.1093/g3journal/jkag302](https://doi.org/10.1093/g3journal/jkag302) |
+
+## 2026-10-26
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Isolation and characterization of 5-O-desmethyl kinanthraquinone B generated through O-methyltransferase gene disruption.](https://pubmed.ncbi.nlm.nih.gov/42934283/) | The Journal of antibiotics | Plasmodium | [10.1038/s41429-026-00960-w](https://doi.org/10.1038/s41429-026-00960-w) |
 
 ## 2026-10-25
 
@@ -14,26 +27,26 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Biochemistry of protozoan Metacaspases: Structure, processing, and inhibition.](https://pubmed.ncbi.nlm.nih.gov/42925910/) | Biochemical pharmacology | Toxoplasma · Plasmodium | [10.1016/j.bcp.2026.118557](https://doi.org/10.1016/j.bcp.2026.118557) |
-| 2 | [Persistent Non-Falciparum Malaria in Kenya: Evidence from 17 Years of Sentinel Surveillance.](https://pubmed.ncbi.nlm.nih.gov/42925523/) | Military medicine | Plasmodium | [10.1093/milmed/usag493](https://doi.org/10.1093/milmed/usag493) |
+| 1 | [Altered HMGB1-TLR4-NF-κB Signaling and regulatory microRNA expression in idiopathic generalized epilepsy according to Toxoplasma gondii serostatus.](https://pubmed.ncbi.nlm.nih.gov/42945605/) | Journal of neuroimmunology | Toxoplasma | [10.1016/j.jneuroim.2026.579114](https://doi.org/10.1016/j.jneuroim.2026.579114) |
+| 2 | [Biochemistry of protozoan Metacaspases: Structure, processing, and inhibition.](https://pubmed.ncbi.nlm.nih.gov/42925910/) | Biochemical pharmacology | Toxoplasma · Plasmodium | [10.1016/j.bcp.2026.118557](https://doi.org/10.1016/j.bcp.2026.118557) |
+| 3 | [Persistent Non-Falciparum Malaria in Kenya: Evidence from 17 Years of Sentinel Surveillance.](https://pubmed.ncbi.nlm.nih.gov/42925523/) | Military medicine | Plasmodium | [10.1093/milmed/usag493](https://doi.org/10.1093/milmed/usag493) |
 
 ## 2026-10-23
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Theft of host transferrin receptor-1 by Toxoplasma gondii is required for infection.](https://pubmed.ncbi.nlm.nih.gov/42925056/) | mBio | Toxoplasma | [10.1128/mbio.01248-26](https://doi.org/10.1128/mbio.01248-26) |
-| 2 | [(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.](https://pubmed.ncbi.nlm.nih.gov/42924939/) | Journal of natural products | Plasmodium | [10.1021/acs.jnatprod.6c00305](https://doi.org/10.1021/acs.jnatprod.6c00305) |
-| 3 | [Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.](https://pubmed.ncbi.nlm.nih.gov/42912485/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2753102](https://doi.org/10.1080/14786419.2026.2753102) |
-| 4 | [Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.](https://pubmed.ncbi.nlm.nih.gov/42909510/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11569-7](https://doi.org/10.1007/s11259-026-11569-7) |
+| 2 | [Parasitic diseases of marine fishes and their impact on human health: focus on the Egyptian biosphere: A review.](https://pubmed.ncbi.nlm.nih.gov/42909510/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11569-7](https://doi.org/10.1007/s11259-026-11569-7) |
+| 3 | [(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.](https://pubmed.ncbi.nlm.nih.gov/42924939/) | Journal of natural products | Plasmodium | [10.1021/acs.jnatprod.6c00305](https://doi.org/10.1021/acs.jnatprod.6c00305) |
+| 4 | [Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.](https://pubmed.ncbi.nlm.nih.gov/42912485/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2753102](https://doi.org/10.1080/14786419.2026.2753102) |
 
 ## 2026-10-22
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Deep learning-based identification of Plasmodium vivax and Plasmodium falciparum species and life-cycle stages from thin blood smear images.](https://pubmed.ncbi.nlm.nih.gov/42910861/) | Journal of applied microbiology | Plasmodium · Malaria parasite | [10.1093/jambio/lxag261](https://doi.org/10.1093/jambio/lxag261) |
-| 2 | [TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42910591/) | Journal of cell science | Toxoplasma | [10.1242/jcs.265051](https://doi.org/10.1242/jcs.265051) |
-| 3 | [Transgenic Plasmodium berghei expressing P. vivax pre-erythrocytic antigens SSP3 and SPECT1 to elucidate their efficacy towards vaccine development.](https://pubmed.ncbi.nlm.nih.gov/42911959/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014810](https://doi.org/10.1371/journal.pntd.0014810) |
-| 4 | [Carbothioamide functionalized paroxetine analogues as antiparasitic agents targeting the hypoxanthine-guanine-xanthine phosphoribosyltransferase enzyme: Synthesis, characterization, biochemical, biophysical, and in silico studies.](https://pubmed.ncbi.nlm.nih.gov/42911912/) | PloS one | Plasmodium | [10.1371/journal.pone.0359519](https://doi.org/10.1371/journal.pone.0359519) |
+| 1 | [TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42910591/) | Journal of cell science | Toxoplasma | [10.1242/jcs.265051](https://doi.org/10.1242/jcs.265051) |
+| 2 | [Transgenic Plasmodium berghei expressing P. vivax pre-erythrocytic antigens SSP3 and SPECT1 to elucidate their efficacy towards vaccine development.](https://pubmed.ncbi.nlm.nih.gov/42911959/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014810](https://doi.org/10.1371/journal.pntd.0014810) |
+| 3 | [Carbothioamide functionalized paroxetine analogues as antiparasitic agents targeting the hypoxanthine-guanine-xanthine phosphoribosyltransferase enzyme: Synthesis, characterization, biochemical, biophysical, and in silico studies.](https://pubmed.ncbi.nlm.nih.gov/42911912/) | PloS one | Plasmodium | [10.1371/journal.pone.0359519](https://doi.org/10.1371/journal.pone.0359519) |
 
 ## 2026-10-21
 
@@ -64,11 +77,11 @@
 |---|------|------|------|-----|
 | 1 | [A multiscale framework for heme crystallization inhibition: From single-molecule step-capping to parasite suppression.](https://pubmed.ncbi.nlm.nih.gov/42863064/) | Proceedings of the National Academy of Sciences of the United States of America | Plasmodium · Malaria parasite | [10.1073/pnas.2613405123](https://doi.org/10.1073/pnas.2613405123) |
 
-## 2026-10-01
+## 2026-09-22
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Mitochondrial proteome of the apicomplexan Babesia divergens.](https://pubmed.ncbi.nlm.nih.gov/42822458/) | Current biology : CB | Plasmodium | [10.1016/j.cub.2026.08.072](https://doi.org/10.1016/j.cub.2026.08.072) |
+| 1 | [mSphere of Influence: Autoantibodies during malaria-a historical observation taking the modern spotlight.](https://pubmed.ncbi.nlm.nih.gov/42770718/) | mSphere | Plasmodium | [10.1128/msphere.00906-25](https://doi.org/10.1128/msphere.00906-25) |
 
 ## 2026-09-11
 
