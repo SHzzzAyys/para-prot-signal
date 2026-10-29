@@ -1,10 +1,10 @@
-# AI & 半导体资讯 — 2026-10-28 06:01:50 +0000
+# AI & 半导体资讯 — 2026-10-29 06:13:53 +0000
 
-共 **810** 篇文章（AI 研究 710 · AI 产业 28 · 芯片/市场 56 · 半导体 16）
+共 **510** 篇文章（AI 研究 407 · 芯片/市场 55 · AI 产业 30 · 半导体 18）
 
 ---
 
-## 2026-10-28
+## 2026-10-29
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
@@ -415,312 +415,83 @@
 | 405 | [Quantitative Generalization Bounds for Multi-Layer Transformers: A Few Long Strings can Beat Many Short Ones](https://arxiv.org/abs/2610.35715) | ArXiv cs.AI | AI 研究 |
 | 406 | [Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817) | ArXiv cs.AI | AI 研究 |
 | 407 | [I-HITL: Inalienable Human-in-the-Loop](https://arxiv.org/abs/2610.35835) | ArXiv cs.AI | AI 研究 |
-| 408 | [KORA: Deterministic-First Execution Control for AI Workloads](https://arxiv.org/abs/2610.35869) | ArXiv cs.LG | AI 研究 |
-| 409 | [Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention](https://arxiv.org/abs/2610.35877) | ArXiv cs.LG | AI 研究 |
-| 410 | [Distributed LLM Inference via Communication-Efficient Speculative Decoding](https://arxiv.org/abs/2610.35957) | ArXiv cs.LG | AI 研究 |
-| 411 | [Exponential Wake-Up Overshoot in Explicit Gaussian Point-Process Filters](https://arxiv.org/abs/2610.35958) | ArXiv cs.LG | AI 研究 |
-| 412 | [From Slices to Volumes: Comparing 2D, 2.5D, and 3D Residual Networks for Pulmonary Nodule Malignancy-Risk Classification](https://arxiv.org/abs/2610.35960) | ArXiv cs.LG | AI 研究 |
-| 413 | [Knowledge distillation across teacher architectures for compact diabetic retinopathy grading](https://arxiv.org/abs/2610.35961) | ArXiv cs.LG | AI 研究 |
-| 414 | [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](https://arxiv.org/abs/2610.35962) | ArXiv cs.LG | AI 研究 |
-| 415 | [Condition-Enhanced Generative Adversarial Network for Aerodynamic Configuration Design of Commercial Aircraft](https://arxiv.org/abs/2610.35963) | ArXiv cs.LG | AI 研究 |
-| 416 | [Generalization in Learning: Eyring Formula and Predator-prey Model](https://arxiv.org/abs/2610.35965) | ArXiv cs.LG | AI 研究 |
-| 417 | [Data-driven Discovery of Lie Symmetries and First Integrals with Latent ODEs](https://arxiv.org/abs/2610.35967) | ArXiv cs.LG | AI 研究 |
-| 418 | [A Graph-informed Kriging model for sample-efficient Bayesian optimization of wind farm layouts](https://arxiv.org/abs/2610.35975) | ArXiv cs.LG | AI 研究 |
-| 419 | [Exploratory creative pre-ranking: Hierarchical empirical-Bayes Thompson sampling for real-time creative optimization](https://arxiv.org/abs/2610.36020) | ArXiv cs.LG | AI 研究 |
-| 420 | [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](https://arxiv.org/abs/2610.36075) | ArXiv cs.LG | AI 研究 |
-| 421 | [Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load](https://arxiv.org/abs/2610.36095) | ArXiv cs.LG | AI 研究 |
-| 422 | [Minimax-Optimal Small-Loss Bounds for Online Linear Optimisation on $\ell_p$ Balls](https://arxiv.org/abs/2610.36097) | ArXiv cs.LG | AI 研究 |
-| 423 | [Beyond Update Counts: A Control Map for Evaluating Test-Time Model Updates](https://arxiv.org/abs/2610.36109) | ArXiv cs.LG | AI 研究 |
-| 424 | [SpatialPC: Deep Computation with Sublinear Local Credit Propagation](https://arxiv.org/abs/2610.36139) | ArXiv cs.LG | AI 研究 |
-| 425 | [Dynamical coarse-graining of neural-network training](https://arxiv.org/abs/2610.36180) | ArXiv cs.LG | AI 研究 |
-| 426 | [Bayesian Evidence Accumulation for Graph-Based Learning in Dynamic Data-Driven Applications Systems](https://arxiv.org/abs/2610.36190) | ArXiv cs.LG | AI 研究 |
-| 427 | [Three Worlds for the Price of a Logarithm: Baseline-Protected Best-of-Both-Worlds Combinatorial Semi-Bandits](https://arxiv.org/abs/2610.36245) | ArXiv cs.LG | AI 研究 |
-| 428 | [What Should an Information Bottleneck Encoder Learn? Separating Representation Learning from Rate Control](https://arxiv.org/abs/2610.36255) | ArXiv cs.LG | AI 研究 |
-| 429 | [EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation](https://arxiv.org/abs/2610.36280) | ArXiv cs.LG | AI 研究 |
-| 430 | [Bridging Exploration and Loss of Plasticity in On-Policy Reinforcement Learning](https://arxiv.org/abs/2610.36309) | ArXiv cs.LG | AI 研究 |
-| 431 | [Confidence Is Not a Promise: A Reference Audit of Typed Decision Models](https://arxiv.org/abs/2610.36311) | ArXiv cs.LG | AI 研究 |
-| 432 | [AHEAD: Adaptive Neural Acceleration for Large-Scale Linear Programming](https://arxiv.org/abs/2610.36321) | ArXiv cs.LG | AI 研究 |
-| 433 | [From Generation to Scoring: Scaling LLM-Based Semantic Labeling at LinkedIn](https://arxiv.org/abs/2610.36383) | ArXiv cs.LG | AI 研究 |
-| 434 | [SpecLST: Spectral-Enhanced Long-Short Term Spatio-Temporal Multimodal Modeling for Traffic Forecasting](https://arxiv.org/abs/2610.36393) | ArXiv cs.LG | AI 研究 |
-| 435 | [When Can a Learned Design Surrogate Be Trusted in a Self-Driving Microfluidics Laboratory? An Offline Closed-Loop Framework Built and Tested on Six Public Tables](https://arxiv.org/abs/2610.36395) | ArXiv cs.LG | AI 研究 |
-| 436 | [Persistence, Exposure, and Credit Routing in Linear Temporal Predictive Coding](https://arxiv.org/abs/2610.36412) | ArXiv cs.LG | AI 研究 |
-| 437 | [Property-Based Testing for Robust Softmax and Cross-Entropy](https://arxiv.org/abs/2610.36427) | ArXiv cs.LG | AI 研究 |
-| 438 | [Simulated petrological labels enable probabilistic mineralogy prediction from whole-rock geochemistry](https://arxiv.org/abs/2610.36429) | ArXiv cs.LG | AI 研究 |
-| 439 | [Learning atomic interactions for the thermodynamics of liquid mixtures](https://arxiv.org/abs/2610.36440) | ArXiv cs.LG | AI 研究 |
-| 440 | [High-Fidelity Aerostructural Dataset of Transonic Wings in Cruise Conditions](https://arxiv.org/abs/2610.36442) | ArXiv cs.LG | AI 研究 |
-| 441 | [Split Federated Unlearning](https://arxiv.org/abs/2610.36465) | ArXiv cs.LG | AI 研究 |
-| 442 | [CoHARL: Co-Evolving Agent Policies and Executable Harnesses with Reinforcement Learning](https://arxiv.org/abs/2610.36469) | ArXiv cs.LG | AI 研究 |
-| 443 | [Underdamped Anchored Langevin Dynamics](https://arxiv.org/abs/2610.36470) | ArXiv cs.LG | AI 研究 |
-| 444 | [PRISM: Pathology Reliability In Scarce-label Medicine. A Tile-level Benchmark of Pathology Foundation Models](https://arxiv.org/abs/2610.36517) | ArXiv cs.LG | AI 研究 |
-| 445 | [Folding Attention Biases into Keys Makes Compacted KV Caches Run on Standard Kernels](https://arxiv.org/abs/2610.36520) | ArXiv cs.LG | AI 研究 |
-| 446 | [Holomorphic Cauchy Networks for Efficient Stationary Tail Computation in High-Dimensional Reflected Brownian Motions](https://arxiv.org/abs/2610.36558) | ArXiv cs.LG | AI 研究 |
-| 447 | [Learning from Points and Patches: A Pre-trained Hybrid Attention Transformer for Time Series Analysis](https://arxiv.org/abs/2610.36572) | ArXiv cs.LG | AI 研究 |
-| 448 | [Recall or Relearn? A Mixture of In-Context Experts for Recurring Concept Drift](https://arxiv.org/abs/2610.36585) | ArXiv cs.LG | AI 研究 |
-| 449 | [Efficient Quantization Training with Stochastic Rounding via Structured Subspace Randomness](https://arxiv.org/abs/2610.36587) | ArXiv cs.LG | AI 研究 |
-| 450 | [Normalized Cuts and Data Clustering via Matrix Fractional Programming](https://arxiv.org/abs/2610.36616) | ArXiv cs.LG | AI 研究 |
-| 451 | [The Batch Size Can Be One: Test-Time Adaptation from Classifier Geometry](https://arxiv.org/abs/2610.36628) | ArXiv cs.LG | AI 研究 |
-| 452 | [Deep Bayesian Approaches for Interpretable Nonlinear Structural System Identification](https://arxiv.org/abs/2610.36633) | ArXiv cs.LG | AI 研究 |
-| 453 | [When Does Perturbation Consistency Add Information Beyond Softmax Confidence? Theory and Evidence for the Decision Consistency Framework](https://arxiv.org/abs/2610.36640) | ArXiv cs.LG | AI 研究 |
-| 454 | [When Is a Cheap Fairness Edit Safe? Screening Post-Hoc Edits in Two-Sided Matching Markets](https://arxiv.org/abs/2610.36649) | ArXiv cs.LG | AI 研究 |
-| 455 | [TACO-Graph: Automated Construction of Text-Atributed Graphs](https://arxiv.org/abs/2610.36650) | ArXiv cs.LG | AI 研究 |
-| 456 | [Log-Derivative Trick for Parametric Markov Chains](https://arxiv.org/abs/2610.36655) | ArXiv cs.LG | AI 研究 |
-| 457 | [RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding](https://arxiv.org/abs/2610.36703) | ArXiv cs.LG | AI 研究 |
-| 458 | [Nonlinear Direct Feedback Alignment for Scalable Backpropagation-Free Training](https://arxiv.org/abs/2610.36718) | ArXiv cs.LG | AI 研究 |
-| 459 | [Does LLM Pre-Training Typically Occur at the Edge of Stability?](https://arxiv.org/abs/2610.36778) | ArXiv cs.LG | AI 研究 |
-| 460 | [API-TAIL: Detecting Model Substitution in LLM APIs through Temperature-Aligned Likelihood Tails](https://arxiv.org/abs/2610.36801) | ArXiv cs.LG | AI 研究 |
-| 461 | [LLM knowledge for improved Out-of-Distribution Tabular Prediction - A Cross-Validated Regularisation Approach](https://arxiv.org/abs/2610.36806) | ArXiv cs.LG | AI 研究 |
-| 462 | [Tail Cues, Principal Corrections: Plug-and-Play Rectification for Open-Set Test-Time Adaptation](https://arxiv.org/abs/2610.36870) | ArXiv cs.LG | AI 研究 |
-| 463 | [Hyperparameter and Neural Architecture Search via Evolutionary Optimization for Reinforcement Learning: HPNAS-RL](https://arxiv.org/abs/2610.36882) | ArXiv cs.LG | AI 研究 |
-| 464 | [HiLo-RD: Cross-Budget Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.36901) | ArXiv cs.LG | AI 研究 |
-| 465 | [Provenance Signatures for Low Rank Adaptations of Image Diffusion Models](https://arxiv.org/abs/2610.36933) | ArXiv cs.LG | AI 研究 |
-| 466 | [Gaussian Process Bandits for Constraint Black Box Lever Optimization](https://arxiv.org/abs/2610.36935) | ArXiv cs.LG | AI 研究 |
-| 467 | [TDLM: Adaptive Temporal Integration for Diffusion Language Models](https://arxiv.org/abs/2610.36940) | ArXiv cs.LG | AI 研究 |
-| 468 | [Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation](https://arxiv.org/abs/2610.36941) | ArXiv cs.LG | AI 研究 |
-| 469 | [Live-OPSD: On-Policy Self-Distillation for Proactive Streaming Large Video Models](https://arxiv.org/abs/2610.36959) | ArXiv cs.LG | AI 研究 |
-| 470 | [On the VC Dimension of Autoregressive Linear Threshold Functions](https://arxiv.org/abs/2610.36970) | ArXiv cs.LG | AI 研究 |
-| 471 | [GNN-Guided Network Reduction for Centralized Urban Traffic Routing](https://arxiv.org/abs/2610.36981) | ArXiv cs.LG | AI 研究 |
-| 472 | [CaLLM: Continual Adaptation of LLMs via Non-Parametric Adapter Routing](https://arxiv.org/abs/2610.36994) | ArXiv cs.LG | AI 研究 |
-| 473 | [Meta Models: Models that Model Learning](https://arxiv.org/abs/2610.37001) | ArXiv cs.LG | AI 研究 |
-| 474 | [Compote: Collapse-Resistant Multiple Hypothesis Learning For Sequential Recommendation](https://arxiv.org/abs/2610.37005) | ArXiv cs.LG | AI 研究 |
-| 475 | [On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime](https://arxiv.org/abs/2610.37085) | ArXiv cs.LG | AI 研究 |
-| 476 | [Self-Regularized Flow Language Models](https://arxiv.org/abs/2610.37115) | ArXiv cs.LG | AI 研究 |
-| 477 | [Mechanistic Failure Modes of Weight Pruning in Transformer Language Models](https://arxiv.org/abs/2610.37126) | ArXiv cs.LG | AI 研究 |
-| 478 | [Variational Optimal Control for Diffusion Guidance](https://arxiv.org/abs/2610.37146) | ArXiv cs.LG | AI 研究 |
-| 479 | [Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting](https://arxiv.org/abs/2610.37159) | ArXiv cs.LG | AI 研究 |
-| 480 | [SimplexLoRA: Dynamic Rank Updating via Alternating Minimization with Simplex Projection](https://arxiv.org/abs/2610.37206) | ArXiv cs.LG | AI 研究 |
-| 481 | [Sharpness-Aware Muon: Matrix-Aware Optimization with Momentum-Guided Perturbations](https://arxiv.org/abs/2610.37225) | ArXiv cs.LG | AI 研究 |
-| 482 | [Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://arxiv.org/abs/2610.37255) | ArXiv cs.LG | AI 研究 |
-| 483 | [Bayesian Inference of Expensive Simulators: Survey and Comparison of Design Choices](https://arxiv.org/abs/2610.37284) | ArXiv cs.LG | AI 研究 |
-| 484 | [Structured Representation Probing for Risk Anticipation in End-to-End Autonomous Driving](https://arxiv.org/abs/2610.37299) | ArXiv cs.LG | AI 研究 |
-| 485 | [Normative Deviation Modeling for EEG-based Depression Detection](https://arxiv.org/abs/2610.37338) | ArXiv cs.LG | AI 研究 |
-| 486 | [EmbeddingGemma 2: Unified and Efficient Multimodal Representations](https://arxiv.org/abs/2610.37364) | ArXiv cs.LG | AI 研究 |
-| 487 | [TRIDENT-Seq: Profile-Matched Prefix-Future Contrast for Label-Efficient Payment Risk Modeling](https://arxiv.org/abs/2610.37365) | ArXiv cs.LG | AI 研究 |
-| 488 | [Euclidean Crowding-Driven Adaptive Euclidean-Hyperbolic Graph Learning](https://arxiv.org/abs/2610.37373) | ArXiv cs.LG | AI 研究 |
-| 489 | [Para-Gaussian Approximations of Random Deep Neural Networks](https://arxiv.org/abs/2610.37388) | ArXiv cs.LG | AI 研究 |
-| 490 | [How Many and How Much? Contrastive Learning with Negative Samples for Knowledge Graph Embedding](https://arxiv.org/abs/2610.37389) | ArXiv cs.LG | AI 研究 |
-| 491 | [LinMix: Data Mixing as Linear Domain Attribution](https://arxiv.org/abs/2610.37390) | ArXiv cs.LG | AI 研究 |
-| 492 | [Displacement Moments and Path-Terminal Separation in Brownian Interpolant Sampling](https://arxiv.org/abs/2610.37413) | ArXiv cs.LG | AI 研究 |
-| 493 | [When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models](https://arxiv.org/abs/2610.37430) | ArXiv cs.LG | AI 研究 |
-| 494 | [CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers](https://arxiv.org/abs/2610.37442) | ArXiv cs.LG | AI 研究 |
-| 495 | [Interpretable Meta-Policies for Neural Decision Making](https://arxiv.org/abs/2610.37451) | ArXiv cs.LG | AI 研究 |
-| 496 | [An Input Skip Can Reparameterize a VAE Without Improving the Generator](https://arxiv.org/abs/2610.37456) | ArXiv cs.LG | AI 研究 |
-| 497 | [GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\times$ Length Extrapolation in Linear Time](https://arxiv.org/abs/2610.37524) | ArXiv cs.LG | AI 研究 |
-| 498 | [Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR](https://arxiv.org/abs/2610.37553) | ArXiv cs.LG | AI 研究 |
-| 499 | [Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance](https://arxiv.org/abs/2610.37563) | ArXiv cs.LG | AI 研究 |
-| 500 | [LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation](https://arxiv.org/abs/2610.37570) | ArXiv cs.LG | AI 研究 |
-| 501 | [EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning](https://arxiv.org/abs/2610.37609) | ArXiv cs.LG | AI 研究 |
-| 502 | [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) | ArXiv cs.LG | AI 研究 |
-| 503 | [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](https://arxiv.org/abs/2610.37657) | ArXiv cs.LG | AI 研究 |
-| 504 | [When Should We Intervene at Test Time?](https://arxiv.org/abs/2610.37658) | ArXiv cs.LG | AI 研究 |
-| 505 | [Learning to Exploit Passive Dynamics for Energy-Efficient Target Hopping of a Spring-Legged Quadcopter](https://arxiv.org/abs/2609.15447) | ArXiv cs.LG | AI 研究 |
-| 506 | [Reconstructing the Human Development Index at the Individual Level from Survey Microdata: Development and Validation of a Methodology](https://arxiv.org/abs/2610.35893) | ArXiv cs.LG | AI 研究 |
-| 507 | [Geometric priors for single-patch neural Calabi--Yau metrics on the quintic: a conservative fixed-$\psi$ Ablation study](https://arxiv.org/abs/2610.35920) | ArXiv cs.LG | AI 研究 |
-| 508 | [Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling](https://arxiv.org/abs/2610.36018) | ArXiv cs.LG | AI 研究 |
-| 509 | [Causal DAG-Guided Reinforcement Learning for Long-Term Physical Activity Maintenance: Using Prior Data to Inform Future Deployment](https://arxiv.org/abs/2610.36019) | ArXiv cs.LG | AI 研究 |
-| 510 | [The proton structure one mode at a time: a Neural Tangent Kernel analysis of a DIS fit](https://arxiv.org/abs/2610.36034) | ArXiv cs.LG | AI 研究 |
-| 511 | [Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates](https://arxiv.org/abs/2610.36078) | ArXiv cs.LG | AI 研究 |
-| 512 | [Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving](https://arxiv.org/abs/2610.36079) | ArXiv cs.LG | AI 研究 |
-| 513 | [FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading](https://arxiv.org/abs/2610.36083) | ArXiv cs.LG | AI 研究 |
-| 514 | [SuperJEPA: Pretraining with a Supervision-Augmented Joint-Embedding Predictive Architecture for High Energy Physics](https://arxiv.org/abs/2610.36121) | ArXiv cs.LG | AI 研究 |
-| 515 | [Symmetry Breaking Is the Price of Finite Capacity](https://arxiv.org/abs/2610.36138) | ArXiv cs.LG | AI 研究 |
-| 516 | [Anytime Valid Confidence Bands for Distribution Functions](https://arxiv.org/abs/2610.36149) | ArXiv cs.LG | AI 研究 |
-| 517 | [LLM Hallucination Detection via Low-rank Multilinear Decomposition](https://arxiv.org/abs/2610.36191) | ArXiv cs.LG | AI 研究 |
-| 518 | [Approximation Families and the Statistical Efficiency of Denoising Score Matching](https://arxiv.org/abs/2610.36205) | ArXiv cs.LG | AI 研究 |
-| 519 | [Cross-modal Steering Vectors Exist Across Both Image and Text Generation](https://arxiv.org/abs/2610.36269) | ArXiv cs.LG | AI 研究 |
-| 520 | [Privately Clipping Heavy-Tailed Data](https://arxiv.org/abs/2610.36281) | ArXiv cs.LG | AI 研究 |
-| 521 | [FASST: A Compact Stateless Atmosphere Model for Long-Term Ocean Coupling](https://arxiv.org/abs/2610.36297) | ArXiv cs.LG | AI 研究 |
-| 522 | [Balanced Active Subspaces for Optimal Control via Trajectory Optimization](https://arxiv.org/abs/2610.36342) | ArXiv cs.LG | AI 研究 |
-| 523 | [HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching](https://arxiv.org/abs/2610.36361) | ArXiv cs.LG | AI 研究 |
-| 524 | [IOSage: Detecting HPC I/O Bottleneck Patterns to Guide LLM Recommendations](https://arxiv.org/abs/2610.36370) | ArXiv cs.LG | AI 研究 |
-| 525 | [Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging](https://arxiv.org/abs/2610.36379) | ArXiv cs.LG | AI 研究 |
-| 526 | [ORBITAL: Optimization of Robust Brain--Computer Inference Through Architecture-Aware Low-Precision Compression](https://arxiv.org/abs/2610.36411) | ArXiv cs.LG | AI 研究 |
-| 527 | [Whole-Body Humanoid Control via Stochastic Motion Tokenization](https://arxiv.org/abs/2610.36452) | ArXiv cs.LG | AI 研究 |
-| 528 | [A Simple Presentation of Robust Membership Inference Attacks](https://arxiv.org/abs/2610.36458) | ArXiv cs.LG | AI 研究 |
-| 529 | [Second-order Sinkhorn Geometry and $\sqrt{n}$-Inference](https://arxiv.org/abs/2610.36488) | ArXiv cs.LG | AI 研究 |
-| 530 | [Algorithmics for Graphical Separation Criteria](https://arxiv.org/abs/2610.36502) | ArXiv cs.LG | AI 研究 |
-| 531 | [Causal Localization of Evidence Effects in Transformers](https://arxiv.org/abs/2610.36524) | ArXiv cs.LG | AI 研究 |
-| 532 | [Impossibility of No-Regret in Multi-Agent Bidding](https://arxiv.org/abs/2610.36666) | ArXiv cs.LG | AI 研究 |
-| 533 | [From Biological Curves to Soft Modular Robots: Learning-Based Inverse Design with Uncertainty-Guided Refinement](https://arxiv.org/abs/2610.36681) | ArXiv cs.LG | AI 研究 |
-| 534 | [Quantifying and Prioritizing Stealthy Source-Manipulation Threats Against Multi-Source Anomaly Detectors](https://arxiv.org/abs/2610.36693) | ArXiv cs.LG | AI 研究 |
-| 535 | [SMEBENCH: Benchmarking Neural Music Editing with Synthetized MIDI Edits](https://arxiv.org/abs/2610.36715) | ArXiv cs.LG | AI 研究 |
-| 536 | [Neuronal Identity as an Organizational Basis for Analyzing Neural Population Dynamics](https://arxiv.org/abs/2610.36745) | ArXiv cs.LG | AI 研究 |
-| 537 | [Frequency-Uniform Log-Regret Reinforcement Learning for Diffusions](https://arxiv.org/abs/2610.36758) | ArXiv cs.LG | AI 研究 |
-| 538 | [Variable-Length Feedback Coding With Universal Decoding and Bandit Channel Selection](https://arxiv.org/abs/2610.36818) | ArXiv cs.LG | AI 研究 |
-| 539 | [Joint Distributional Copula Regression for Insurance Claim Frequency and Severity via Boosting](https://arxiv.org/abs/2610.36835) | ArXiv cs.LG | AI 研究 |
-| 540 | [Boundary Geometry Determines Optimal Shallow ReLU Approximation under Weighted Coefficient Constraints](https://arxiv.org/abs/2610.36854) | ArXiv cs.LG | AI 研究 |
-| 541 | [Evaluating AlphaEarth Embeddings for Crop Classification: Separability, Temporal Dynamics, and Cross-Regional Transferability](https://arxiv.org/abs/2610.36857) | ArXiv cs.LG | AI 研究 |
-| 542 | [HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks](https://arxiv.org/abs/2610.36860) | ArXiv cs.LG | AI 研究 |
-| 543 | [Intrinsic Information-Theoretic Analysis of ReLU Nets](https://arxiv.org/abs/2610.36864) | ArXiv cs.LG | AI 研究 |
-| 544 | [Sample-and-Score: Surrogate-Guided Coordinated Spatial Reuse in IEEE 802.11 Networks](https://arxiv.org/abs/2610.36868) | ArXiv cs.LG | AI 研究 |
-| 545 | [RAG-CSI: Global Local Retrieval via Joint State and Dynamics Matching for CSI Prediction](https://arxiv.org/abs/2610.36881) | ArXiv cs.LG | AI 研究 |
-| 546 | [PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets](https://arxiv.org/abs/2610.36896) | ArXiv cs.LG | AI 研究 |
-| 547 | [Quantum Evolution Kernel for Node-Attributed Graphs](https://arxiv.org/abs/2610.36984) | ArXiv cs.LG | AI 研究 |
-| 548 | [Online gas classification at the edge](https://arxiv.org/abs/2610.36999) | ArXiv cs.LG | AI 研究 |
-| 549 | [From Ethernet to Wi-Fi: Flow Feature Selection and Construction for Traffic Classification](https://arxiv.org/abs/2610.37007) | ArXiv cs.LG | AI 研究 |
-| 550 | [Quantized Edge Inference of a Self-Supervised SAR-Optical Encoder on Commodity x86 Hardware](https://arxiv.org/abs/2610.37056) | ArXiv cs.LG | AI 研究 |
-| 551 | [Systematic Morphometric Brain Autoencoding for Representation Learning in Neurodegenerative Diseases](https://arxiv.org/abs/2610.37074) | ArXiv cs.LG | AI 研究 |
-| 552 | [How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop](https://arxiv.org/abs/2610.37196) | ArXiv cs.LG | AI 研究 |
-| 553 | [Retrospective macromolecular pool fraction mapping from conventional clinical MRI: a physics-guided self-supervised deep learning framework](https://arxiv.org/abs/2610.37213) | ArXiv cs.LG | AI 研究 |
-| 554 | [Doubly Robust Deep Kernel Tests for Structured Outcomes](https://arxiv.org/abs/2610.37227) | ArXiv cs.LG | AI 研究 |
-| 555 | [Watermark Basins: Black-Box Detection of Distilled LLMs](https://arxiv.org/abs/2610.37266) | ArXiv cs.LG | AI 研究 |
-| 556 | [Low-degree polynomials lower bounds for clustering in small dimension](https://arxiv.org/abs/2610.37272) | ArXiv cs.LG | AI 研究 |
-| 557 | [Scale-aware and spatially-localised optimisation of kilometre-scale MLWP models](https://arxiv.org/abs/2610.37325) | ArXiv cs.LG | AI 研究 |
-| 558 | [Online Interval Selection with Binary Predictions: Optimal Consistency and a Continuous Robustness Tradeoff](https://arxiv.org/abs/2610.37361) | ArXiv cs.LG | AI 研究 |
-| 559 | [The Geometry of Manifold Learning: Singular foliations via Deep Learning models](https://arxiv.org/abs/2610.37370) | ArXiv cs.LG | AI 研究 |
-| 560 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381) | ArXiv cs.LG | AI 研究 |
-| 561 | [An end-to-end framework for uncertainty-aware validation of generative models](https://arxiv.org/abs/2610.37398) | ArXiv cs.LG | AI 研究 |
-| 562 | [Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction](https://arxiv.org/abs/2610.37441) | ArXiv cs.LG | AI 研究 |
-| 563 | [Graph Representation Learning via Adaptive Expectile Aggregation](https://arxiv.org/abs/2610.37450) | ArXiv cs.LG | AI 研究 |
-| 564 | [QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions](https://arxiv.org/abs/2610.37473) | ArXiv cs.LG | AI 研究 |
-| 565 | [Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition](https://arxiv.org/abs/2610.37480) | ArXiv cs.LG | AI 研究 |
-| 566 | [Regression Functions as Fields on Covariate Space: Evolution Equations, the Hessian, and Identification](https://arxiv.org/abs/2610.37500) | ArXiv cs.LG | AI 研究 |
-| 567 | [A note on data-efficient finetuning of vision foundation models](https://arxiv.org/abs/2610.37510) | ArXiv cs.LG | AI 研究 |
-| 568 | [Spectral Braids: A Topological Descriptor for Dynamic Directed Networks](https://arxiv.org/abs/2610.37580) | ArXiv cs.LG | AI 研究 |
-| 569 | [Zero-Shot Multimodal Event Spotting in Soccer Broadcasts](https://arxiv.org/abs/2610.37583) | ArXiv cs.LG | AI 研究 |
-| 570 | [Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](https://arxiv.org/abs/2610.37652) | ArXiv cs.LG | AI 研究 |
-| 571 | [Adaptive Momentum Benefits Score-based Generative Models](https://arxiv.org/abs/2405.13726) | ArXiv cs.LG | AI 研究 |
-| 572 | [A Comparative Study of Convolutional and Recurrent Neural Networks for Storm Surge Prediction in Tampa Bay](https://arxiv.org/abs/2408.05797) | ArXiv cs.LG | AI 研究 |
-| 573 | [Temporal difference learning adapts to incomplete coverage: an oracle inequality over subgraphs](https://arxiv.org/abs/2411.09731) | ArXiv cs.LG | AI 研究 |
-| 574 | [Anomaly Detection via Autoencoder Composite Features and NCE](https://arxiv.org/abs/2502.01920) | ArXiv cs.LG | AI 研究 |
-| 575 | [Targeted Learning for Inference on Data Fairness](https://arxiv.org/abs/2502.04309) | ArXiv cs.LG | AI 研究 |
-| 576 | [Concise One-Layer Transformers Can Perform Dictionary Lookup](https://arxiv.org/abs/2503.22076) | ArXiv cs.LG | AI 研究 |
-| 577 | [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://arxiv.org/abs/2504.04626) | ArXiv cs.LG | AI 研究 |
-| 578 | [Manifold meta-learning for reduced-complexity neural system identification](https://arxiv.org/abs/2504.11811) | ArXiv cs.LG | AI 研究 |
-| 579 | [StablePCA: Distributionally Robust Learning of Shared Representations from Multi-Source Data](https://arxiv.org/abs/2505.00940) | ArXiv cs.LG | AI 研究 |
-| 580 | [Data-Driven Laplacian-Constrained Personalized Federated Learning](https://arxiv.org/abs/2505.07575) | ArXiv cs.LG | AI 研究 |
-| 581 | [FedHQ: Hybrid Runtime Quantization for Federated Learning](https://arxiv.org/abs/2505.11982) | ArXiv cs.LG | AI 研究 |
-| 582 | [Accuracy vs. Accuracy: Computational Tradeoffs Between Classification Rates and Utility](https://arxiv.org/abs/2505.16494) | ArXiv cs.LG | AI 研究 |
-| 583 | [Differential Privacy of Decentralized Learning: Centralized Rate Conditions and Nearly Tight Guarantees](https://arxiv.org/abs/2505.19969) | ArXiv cs.LG | AI 研究 |
-| 584 | [Improved Regret Bounds for Gaussian Process Upper Confidence Bound in Bayesian Optimization](https://arxiv.org/abs/2506.01393) | ArXiv cs.LG | AI 研究 |
-| 585 | [Development of Deep Learning Optimizers: Approaches, Concepts, and Update Rules](https://arxiv.org/abs/2509.18396) | ArXiv cs.LG | AI 研究 |
-| 586 | [On The Variability of Concept Activation Vectors](https://arxiv.org/abs/2509.24058) | ArXiv cs.LG | AI 研究 |
-| 587 | [Orlicz-Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM](https://arxiv.org/abs/2510.25591) | ArXiv cs.LG | AI 研究 |
-| 588 | [Robust GNN Watermarking via Implicit Perception of Topological Invariants](https://arxiv.org/abs/2510.25934) | ArXiv cs.LG | AI 研究 |
-| 589 | [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) | ArXiv cs.LG | AI 研究 |
-| 590 | [Efficient Generative Transformer Operators For Million-Point PDEs](https://arxiv.org/abs/2512.04974) | ArXiv cs.LG | AI 研究 |
-| 591 | [In-Context Multi-Operator Learning with DeepOSets](https://arxiv.org/abs/2512.16074) | ArXiv cs.LG | AI 研究 |
-| 592 | [Is BatchEnsemble a Single Model? On Calibration and Diversity of Efficient Ensembles](https://arxiv.org/abs/2601.16936) | ArXiv cs.LG | AI 研究 |
-| 593 | [MapPFN: Learning Causal Perturbation Maps in Context](https://arxiv.org/abs/2601.21092) | ArXiv cs.LG | AI 研究 |
-| 594 | [Sparse Attention as Compact Kernel Regression](https://arxiv.org/abs/2601.22766) | ArXiv cs.LG | AI 研究 |
-| 595 | [SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants](https://arxiv.org/abs/2601.23072) | ArXiv cs.LG | AI 研究 |
-| 596 | [COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression](https://arxiv.org/abs/2602.15200) | ArXiv cs.LG | AI 研究 |
-| 597 | [NN-OpInf: an operator inference approach using structure-preserving composable neural networks](https://arxiv.org/abs/2603.08488) | ArXiv cs.LG | AI 研究 |
-| 598 | [Scaling Reasoning Efficiently via Relaxed On-Policy Distillation](https://arxiv.org/abs/2603.11137) | ArXiv cs.LG | AI 研究 |
-| 599 | [Characterizing WebGPU Dispatch Overhead for LLM Inference Across Four GPU Vendors, Three Backends, and Three Browsers](https://arxiv.org/abs/2604.02344) | ArXiv cs.LG | AI 研究 |
-| 600 | [Conditional Sampling via Wasserstein Autoencoders and Triangular Transport](https://arxiv.org/abs/2604.02644) | ArXiv cs.LG | AI 研究 |
-| 601 | [Integrated electro-optic attention nonlinearities for transformers](https://arxiv.org/abs/2604.09512) | ArXiv cs.LG | AI 研究 |
-| 602 | [Structure-Aware Variational Learning of a Class of Generalized Diffusions](https://arxiv.org/abs/2604.20188) | ArXiv cs.LG | AI 研究 |
-| 603 | [Geometric Characterisation and Structured Trajectory Surrogates for Clinical Dataset Condensation](https://arxiv.org/abs/2604.21638) | ArXiv cs.LG | AI 研究 |
-| 604 | [ZeRO-Prefill: Zero Redundancy Overheads in MoE Prefill Serving](https://arxiv.org/abs/2605.02960) | ArXiv cs.LG | AI 研究 |
-| 605 | [Rethinking State Tracking in Recurrent Models Through Error Control Dynamics](https://arxiv.org/abs/2605.07755) | ArXiv cs.LG | AI 研究 |
-| 606 | [The Global Empirical NTK: Self-Referential Bias and Dimensionality of Gradient Descent Learning](https://arxiv.org/abs/2605.08746) | ArXiv cs.LG | AI 研究 |
-| 607 | [Twincher: Towards Robust and Precise Physical AI via Bijective Representation Learning](https://arxiv.org/abs/2605.13470) | ArXiv cs.LG | AI 研究 |
-| 608 | [SCI-Defense: Detecting Persuasion-Structured Manipulation of LLM-Based Ranking in Generative Engines](https://arxiv.org/abs/2605.21948) | ArXiv cs.LG | AI 研究 |
-| 609 | [Strong Teacher Not Needed? On Distillation in LLM Pretraining](https://arxiv.org/abs/2605.23857) | ArXiv cs.LG | AI 研究 |
-| 610 | [Bastion: Budget-Aware Speculative Decoding with Tree-structured Block Diffusion Drafting](https://arxiv.org/abs/2605.29727) | ArXiv cs.LG | AI 研究 |
-| 611 | [Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232) | ArXiv cs.LG | AI 研究 |
-| 612 | [PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](https://arxiv.org/abs/2606.16602) | ArXiv cs.LG | AI 研究 |
-| 613 | [Formalizing and Estimating Task-Space Complexity for Zero-shot Generalization](https://arxiv.org/abs/2606.20967) | ArXiv cs.LG | AI 研究 |
-| 614 | [LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention](https://arxiv.org/abs/2607.11976) | ArXiv cs.LG | AI 研究 |
-| 615 | [Beyond Single-Episode Optimization: Sliding-Window Aware Generative Auto-Bidding for Long-Term Advertising Effectiveness](https://arxiv.org/abs/2607.25233) | ArXiv cs.LG | AI 研究 |
-| 616 | [Graph-structured joint-embedding prediction for single-cell transcriptomics](https://arxiv.org/abs/2608.05928) | ArXiv cs.LG | AI 研究 |
-| 617 | [SoftMCC: An MCC-Brier Calibration Bridge for Threshold-Free Model Selection under Class Imbalance](https://arxiv.org/abs/2608.08984) | ArXiv cs.LG | AI 研究 |
-| 618 | [ProxyGuard: Direct Reliability Inference for Randomized Data Release Mechanisms with Shared Targets](https://arxiv.org/abs/2608.18643) | ArXiv cs.LG | AI 研究 |
-| 619 | [K\"ahler landscapes for complex neural network descents and guarantees including a search and destroy of the Calabi-Yau manifold](https://arxiv.org/abs/2608.19584) | ArXiv cs.LG | AI 研究 |
-| 620 | [SPARCL: Spectral Partitioned Analytic Continual Learning](https://arxiv.org/abs/2608.21307) | ArXiv cs.LG | AI 研究 |
-| 621 | [Revenge of Monosemanticity: Neuron Specialization as a New Form of Feature Learning in MLPs](https://arxiv.org/abs/2608.24007) | ArXiv cs.LG | AI 研究 |
-| 622 | [MEL: Coordinate-Preserving EEG Tokenization for fMRI Translation](https://arxiv.org/abs/2608.29304) | ArXiv cs.LG | AI 研究 |
-| 623 | [Structure and Regularization of Fused Objectives in Kernel Discriminant Analysis for Small-Sample-Size Problems](https://arxiv.org/abs/2609.09910) | ArXiv cs.LG | AI 研究 |
-| 624 | [Beyond Embedding Transfer: Component Roles in Grokking Transfer and Stability](https://arxiv.org/abs/2609.18078) | ArXiv cs.LG | AI 研究 |
-| 625 | [QuantForge: Discovering Residual Decompositions for MXFP4 Post-Training Quantization](https://arxiv.org/abs/2609.34680) | ArXiv cs.LG | AI 研究 |
-| 626 | [Non-Commutative Lie-Algebraic State-Space Models: Finite-Division Variety Laws, Semidirect Cascades, and Gradient Saddle Escape](https://arxiv.org/abs/2610.00329) | ArXiv cs.LG | AI 研究 |
-| 627 | [GARV: Graph-Aware Refinement and Safety Verification for High-Level Robot Plans](https://arxiv.org/abs/2610.02662) | ArXiv cs.LG | AI 研究 |
-| 628 | [Strategic Multi-Agent Learning for Interpretable Action Valuation of All Players in Football](https://arxiv.org/abs/2610.05961) | ArXiv cs.LG | AI 研究 |
-| 629 | [Learning Pareto Stationary Fronts via Single-Pass Backpropagation](https://arxiv.org/abs/2610.06397) | ArXiv cs.LG | AI 研究 |
-| 630 | [Lost in the bf16 Cast: Exporting Ternary Language Models Can Revert Most Low-Learning-Rate Code Changes](https://arxiv.org/abs/2610.07853) | ArXiv cs.LG | AI 研究 |
-| 631 | [Trajectory-Aware Policy Optimization: Closing the State Distribution Gap in Long-Horizon LLM RL](https://arxiv.org/abs/2610.13020) | ArXiv cs.LG | AI 研究 |
-| 632 | [Attention-Graph Curvature for the Verification of Mathematical Reasoning](https://arxiv.org/abs/2610.16709) | ArXiv cs.LG | AI 研究 |
-| 633 | [MemWM: Associative Memory-Enhanced Latent World Models for Long-Horizon Planning](https://arxiv.org/abs/2610.19683) | ArXiv cs.LG | AI 研究 |
-| 634 | [What Remains Without Leaking Test Labels? Exposing Evaluation Flaws in Graph-Level Anomaly Detection](https://arxiv.org/abs/2610.24045) | ArXiv cs.LG | AI 研究 |
-| 635 | [Maestro: Agentic Formal Proof Development by Coordination](https://arxiv.org/abs/2610.25920) | ArXiv cs.LG | AI 研究 |
-| 636 | [Hilbert-Scale Stability of Posterior Diffusion Priors for Ill-Posed Signal Recovery](https://arxiv.org/abs/2610.27030) | ArXiv cs.LG | AI 研究 |
-| 637 | [BRIDGE: An Acceptance Gate to Block False Improvements in Model Updates, with a Retrospective Clinical Evaluation](https://arxiv.org/abs/2610.29515) | ArXiv cs.LG | AI 研究 |
-| 638 | [Loopholing All the Way: Language Modeling with pure Self-Conditioning](https://arxiv.org/abs/2610.30068) | ArXiv cs.LG | AI 研究 |
-| 639 | [Exact Spectral Uncertainty Decomposition for Linear-Gaussian Bayesian M/EEG Inverse Problems](https://arxiv.org/abs/2610.30207) | ArXiv cs.LG | AI 研究 |
-| 640 | [Benchmarking Model Compression Techniques Across Heterogeneous Edge Platforms: A Predictive Maintenance Use Case for Rotating Machinery](https://arxiv.org/abs/2610.30228) | ArXiv cs.LG | AI 研究 |
-| 641 | [Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.31544) | ArXiv cs.LG | AI 研究 |
-| 642 | [A Fix for Softmax and Cross-Entropy](https://arxiv.org/abs/2610.31642) | ArXiv cs.LG | AI 研究 |
-| 643 | [CuraLoc: Repository-Level Fault Localization via Planned Code Inspection](https://arxiv.org/abs/2610.31809) | ArXiv cs.LG | AI 研究 |
-| 644 | [Tree Depth and Sample-Quality-Associated Features: Two Hidden Factors in Boruta Selection for RNA-Seq Data Classification](https://arxiv.org/abs/2610.33307) | ArXiv cs.LG | AI 研究 |
-| 645 | [The Cost of an Unknown Horizon for the Last Iterate of Clipped SGD under Heavy-Tailed Noise](https://arxiv.org/abs/2610.33381) | ArXiv cs.LG | AI 研究 |
-| 646 | [Climate downscaling with likelihood functional flow matching](https://arxiv.org/abs/2610.33482) | ArXiv cs.LG | AI 研究 |
-| 647 | [INTRA: Interleaved Non-contiguous Token spaRse Attention](https://arxiv.org/abs/2610.34056) | ArXiv cs.LG | AI 研究 |
-| 648 | [STeP-TS: Shared Temporal Filters with Pruning for Time Series](https://arxiv.org/abs/2610.35128) | ArXiv cs.LG | AI 研究 |
-| 649 | [Shared Context, Separate Engines: Streaming Vision--Language Inference on Edge SoCs](https://arxiv.org/abs/2610.35309) | ArXiv cs.LG | AI 研究 |
-| 650 | [CoPE-CGL: Community-aware Prototype Extraction for Replay-Free Continual Graph Learning](https://arxiv.org/abs/2610.35313) | ArXiv cs.LG | AI 研究 |
-| 651 | [Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](https://arxiv.org/abs/2610.35866) | ArXiv cs.LG | AI 研究 |
-| 652 | [NAG-GS: A Semi-Implicit Stochastic Optimizer with Large-Step Stability](https://arxiv.org/abs/2209.14937) | ArXiv cs.LG | AI 研究 |
-| 653 | [Nash Incentive-compatible Online Mechanism Learning via Weakly Differentially Private Online Learning](https://arxiv.org/abs/2407.04898) | ArXiv cs.LG | AI 研究 |
-| 654 | [A Deep Learning Framework for TTV Characterization: A Case Study of the Kepler-88 System](https://arxiv.org/abs/2409.04557) | ArXiv cs.LG | AI 研究 |
-| 655 | [Non-asymptotic Estimation of Sparse Partial Correlation via Joint Partial Regression](https://arxiv.org/abs/2502.08414) | ArXiv cs.LG | AI 研究 |
-| 656 | [A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels](https://arxiv.org/abs/2502.17061) | ArXiv cs.LG | AI 研究 |
-| 657 | [Foreclassing: From Forecasts to Decisions](https://arxiv.org/abs/2503.04956) | ArXiv cs.LG | AI 研究 |
-| 658 | [Investigating Active Sampling for Hardness Classification with Vision-Based Tactile Sensors](https://arxiv.org/abs/2505.13231) | ArXiv cs.LG | AI 研究 |
-| 659 | [FRAME-C: A knowledge-augmented deep learning pipeline for classifying multi-electrode array electrophysiological signals](https://arxiv.org/abs/2505.18183) | ArXiv cs.LG | AI 研究 |
-| 660 | [When is Fine-Tuning Scalable? Certified Recovery from Noisy Data and Linear-Cost Fine-Tuning on Structured Task Shifts](https://arxiv.org/abs/2509.00924) | ArXiv cs.LG | AI 研究 |
-| 661 | [Detection of trade in products derived from threatened species using machine learning and a smartphone application](https://arxiv.org/abs/2509.06585) | ArXiv cs.LG | AI 研究 |
-| 662 | [CLEAR-IR: Clarity-Enhanced Active Reconstruction of Infrared Imagery](https://arxiv.org/abs/2510.04883) | ArXiv cs.LG | AI 研究 |
-| 663 | [Toward Uncertainty-Aware and Generalizable Neural Decoding for Quantum LDPC Codes](https://arxiv.org/abs/2510.06257) | ArXiv cs.LG | AI 研究 |
-| 664 | [scTREAT: Latent Diffusion for Single-Cell Drug-Response Prediction](https://arxiv.org/abs/2510.11726) | ArXiv cs.LG | AI 研究 |
-| 665 | [Optimizing Spectral Signature in Code Backdoor Detection](https://arxiv.org/abs/2510.13992) | ArXiv cs.LG | AI 研究 |
-| 666 | [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](https://arxiv.org/abs/2510.18239) | ArXiv cs.LG | AI 研究 |
-| 667 | [Uncertainty-Guided Multimodal Consensus for Multimodal Sentiment Analysis](https://arxiv.org/abs/2510.20256) | ArXiv cs.LG | AI 研究 |
-| 668 | [Seeing is believing: The case for hardware-centric inefficiency detection and remediation](https://arxiv.org/abs/2510.26008) | ArXiv cs.LG | AI 研究 |
-| 669 | [Latent Nonlinear Denoising Score Matching for Enhanced Learning of Structured Distributions](https://arxiv.org/abs/2512.06615) | ArXiv cs.LG | AI 研究 |
-| 670 | [R2CC: Reliable and Resilient Collective Communication for Distributed Learning](https://arxiv.org/abs/2512.25059) | ArXiv cs.LG | AI 研究 |
-| 671 | [Semantic-Geometric Task Representations for Bimanual Manipulation from Human Demonstrations to Robot Action Planning](https://arxiv.org/abs/2601.11460) | ArXiv cs.LG | AI 研究 |
-| 672 | [OneFlowSBI: One Model, Many Queries for Simulation-Based Inference](https://arxiv.org/abs/2601.22951) | ArXiv cs.LG | AI 研究 |
-| 673 | [Learning Sequential Decisions from Multiple Sources via Group-Robust Markov Decision Processes](https://arxiv.org/abs/2602.01825) | ArXiv cs.LG | AI 研究 |
-| 674 | [STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations](https://arxiv.org/abs/2602.10156) | ArXiv cs.LG | AI 研究 |
-| 675 | [Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs](https://arxiv.org/abs/2602.12273) | ArXiv cs.LG | AI 研究 |
-| 676 | [Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution](https://arxiv.org/abs/2602.15830) | ArXiv cs.LG | AI 研究 |
-| 677 | [HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers](https://arxiv.org/abs/2603.12222) | ArXiv cs.LG | AI 研究 |
-| 678 | [Machine learning cannot decarbonise the subsurface until it can be audited](https://arxiv.org/abs/2603.14907) | ArXiv cs.LG | AI 研究 |
-| 679 | [Expert-Guided Class-Conditional Goodness-of-Fit Scores for Interpretable Classification with Informative Missingness](https://arxiv.org/abs/2604.14809) | ArXiv cs.LG | AI 研究 |
-| 680 | [Discovering quantum phenomena with Interpretable Machine Learning](https://arxiv.org/abs/2604.16015) | ArXiv cs.LG | AI 研究 |
-| 681 | [Locally invariant manifolds and foliations](https://arxiv.org/abs/2604.18202) | ArXiv cs.LG | AI 研究 |
-| 682 | [Compliance Moral Hazard and the Backfiring Mandate](https://arxiv.org/abs/2604.21789) | ArXiv cs.LG | AI 研究 |
-| 683 | [PGID: Progressive Guided Inversion and Denoising for Robust Watermark Detection](https://arxiv.org/abs/2605.09319) | ArXiv cs.LG | AI 研究 |
-| 684 | [Phases of Muon: When Muon Eclipses SignSGD](https://arxiv.org/abs/2605.09552) | ArXiv cs.LG | AI 研究 |
-| 685 | [Multi-Variable Conformal Prediction: Optimizing Prediction Sets using Multiple Calibration Variables](https://arxiv.org/abs/2605.12341) | ArXiv cs.LG | AI 研究 |
-| 686 | [Parametric Rates for Nonparametric Conditional-Moment Bilevel Optimization](https://arxiv.org/abs/2605.21341) | ArXiv cs.LG | AI 研究 |
-| 687 | [An Asymptotic Theory of Chain-of-Thought in In-Context Learning](https://arxiv.org/abs/2606.03217) | ArXiv cs.LG | AI 研究 |
-| 688 | [Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density Estimation](https://arxiv.org/abs/2607.07767) | ArXiv cs.LG | AI 研究 |
-| 689 | [Computational and Statistical Guarantees of the c-Rectified flow](https://arxiv.org/abs/2608.02487) | ArXiv cs.LG | AI 研究 |
-| 690 | [Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184) | ArXiv cs.LG | AI 研究 |
-| 691 | [Momentum in large-batch training: Polyak enlarges the critical batch size, Nesterov improves data efficiency](https://arxiv.org/abs/2609.02728) | ArXiv cs.LG | AI 研究 |
-| 692 | [A Tight 3-Approximation for Fair $k$-Means](https://arxiv.org/abs/2609.07974) | ArXiv cs.LG | AI 研究 |
-| 693 | [Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays](https://arxiv.org/abs/2609.17726) | ArXiv cs.LG | AI 研究 |
-| 694 | [Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC](https://arxiv.org/abs/2609.17738) | ArXiv cs.LG | AI 研究 |
-| 695 | [When Does Test-Time Physical Diagnosis Pay?](https://arxiv.org/abs/2609.22299) | ArXiv cs.LG | AI 研究 |
-| 696 | [Nuclear Norm-Regularized Bayesian Matrix Completion](https://arxiv.org/abs/2609.30078) | ArXiv cs.LG | AI 研究 |
-| 697 | [Plan-to-Synthesis: Cross-City Human Mobility Generation via Semantic Latent Flow Matching](https://arxiv.org/abs/2609.32732) | ArXiv cs.LG | AI 研究 |
-| 698 | [CraftSPH: A composable framework for differentiable smoothed particle hydrodynamics implemented in PyTorch](https://arxiv.org/abs/2609.38208) | ArXiv cs.LG | AI 研究 |
-| 699 | [Advantage of Sample Complexity in Quantum PAC Learning Requires Inverse Access to State-Preparation Unitaries](https://arxiv.org/abs/2609.38403) | ArXiv cs.LG | AI 研究 |
-| 700 | [SD-DPC: Sparse Dictionary Differentiable Predictive Control](https://arxiv.org/abs/2610.02466) | ArXiv cs.LG | AI 研究 |
-| 701 | [Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](https://arxiv.org/abs/2610.08738) | ArXiv cs.LG | AI 研究 |
-| 702 | [Calibrating LLM Explanations to Human Decisions with Reinforcement Learning](https://arxiv.org/abs/2610.17306) | ArXiv cs.LG | AI 研究 |
-| 703 | [When Does the Dependency Graph Help Code-to-Architecture Mapping?](https://arxiv.org/abs/2610.19769) | ArXiv cs.LG | AI 研究 |
-| 704 | [BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks](https://arxiv.org/abs/2610.25459) | ArXiv cs.LG | AI 研究 |
-| 705 | [What Prediction-Market Contracts Reveal at Launch: Trading Volume and Dispute Risk](https://arxiv.org/abs/2610.29578) | ArXiv cs.LG | AI 研究 |
-| 706 | [EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video](https://arxiv.org/abs/2610.30293) | ArXiv cs.LG | AI 研究 |
-| 707 | [How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models](https://arxiv.org/abs/2610.32055) | ArXiv cs.LG | AI 研究 |
-| 708 | [Combinatorial Lock for Trojan-Resilient AI Engines via Hash-Assisted Spectral Filtering](https://arxiv.org/abs/2610.33437) | ArXiv cs.LG | AI 研究 |
-| 709 | [Attack logics, not outputs: Concept-based Property Attacks for Shortcut Elimination in Neural Networks](https://arxiv.org/abs/2610.34923) | ArXiv cs.LG | AI 研究 |
-| 710 | [mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles](https://arxiv.org/abs/2610.35204) | ArXiv cs.LG | AI 研究 |
-| 711 | [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) | TechCrunch AI | AI 产业 |
-| 712 | [SK Hynix Rings the Alarm Bells on Memory Supply, Says Shortages To Persist Through 2030 Despite Expansion, 50% Capacity Now Going Towards Long-Term Agreements Through 2027-2028](https://wccftech.com/sk-hynix-memory-shortages-to-persist-through-2030-despite-expansion/) | Wccftech | 芯片/市场 |
-| 713 | [Palit Says GALAX Is Going Nowhere and Continues To Operate As Usual, Though Recent GPU Shortages Drive Uncertaintity For Smaller Brands](https://wccftech.com/palit-says-galax-is-going-nowhere-continues-to-operate-as-usual/) | Wccftech | 芯片/市场 |
+| 408 | [Samsung Says Memory Shortages Will Get Worse in 2027 & Supply Constraints Will Persist Into 2028, Up To 70% Capacity Secured By Long-Term Agreement Customers](https://wccftech.com/samsung-memory-shortages-worse-in-2027-supply-constraints-persist-into-2028/) | Wccftech | 芯片/市场 |
+| 409 | [Phantom Blade Zero PC Performance Analysis & Tuning Guide – How To Get The Best Experience On PC](https://wccftech.com/how-to/phantom-blade-zero-pc-performance-analysis-tuning-guide-how-to-get-the-best-experience-on-pc/) | Wccftech | 芯片/市场 |
+
+## 2026-10-28
+
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) | TechCrunch AI | AI 产业 |
+| 2 | [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) | TechCrunch AI | AI 产业 |
+| 3 | [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/) | TechCrunch AI | AI 产业 |
+| 4 | [Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/) | TechCrunch AI | AI 产业 |
+| 5 | [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/) | TechCrunch AI | AI 产业 |
+| 6 | [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/) | TechCrunch AI | AI 产业 |
+| 7 | [The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO](https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/) | TechCrunch AI | AI 产业 |
+| 8 | [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/) | TechCrunch AI | AI 产业 |
+| 9 | [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/) | TechCrunch AI | AI 产业 |
+| 10 | [AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/) | TechCrunch AI | AI 产业 |
+| 11 | [South Korea’s financial industry hit by fresh wave of cyberattacks](https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/) | TechCrunch AI | AI 产业 |
+| 12 | [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/) | TechCrunch AI | AI 产业 |
+| 13 | [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/) | TechCrunch AI | AI 产业 |
+| 14 | [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) | TechCrunch AI | AI 产业 |
+| 15 | [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity) | The Verge AI | AI 产业 |
+| 16 | [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key) | The Verge AI | AI 产业 |
+| 17 | [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) | The Verge AI | AI 产业 |
+| 18 | [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending) | The Verge AI | AI 产业 |
+| 19 | [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence) | The Verge AI | AI 产业 |
+| 20 | [Meta says it’ll probably delay its controversial new business terms again](https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely) | The Verge AI | AI 产业 |
+| 21 | [xAI is buying out homeowners who promise not to sue over data center noise](https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit) | The Verge AI | AI 产业 |
+| 22 | [Voters in Texas agree: They hate data centers](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas) | The Verge AI | AI 产业 |
+| 23 | [Meta quietly launched an ‘AI pet journal’ app](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world) | The Verge AI | AI 产业 |
+| 24 | [Introducing Build-A-Chip-Bench: From Workload Specification to GDS](https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/) | SemiEngineering | 半导体 |
+| 25 | [Foundations of Power Management in the Age of AI](https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/) | SemiEngineering | 半导体 |
+| 26 | [Using AI for Analog Design](https://semiengineering.com/using-ai-for-analog-design/) | SemiEngineering | 半导体 |
+| 27 | [Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs](https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/) | SemiEngineering | 半导体 |
+| 28 | [Planning Your AI Design Journey In RF EDA](https://semiengineering.com/planning-your-ai-design-journey-in-rf-eda/) | SemiEngineering | 半导体 |
+| 29 | [How Much Can Semiconductor Models Hide?](https://semiengineering.com/how-much-can-semiconductor-models-hide/) | SemiEngineering | 半导体 |
+| 30 | [Blog Review: Oct. 28](https://semiengineering.com/blog-review-oct-28-3/) | SemiEngineering | 半导体 |
+| 31 | [Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’](https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/) | EE Times | 半导体 |
+| 32 | [SK Hynix Reports Record Q3 Results Driven by AI Memory Surge](https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/) | EE Times | 半导体 |
+| 33 | [Secure Safety and Security Communications](https://www.eetimes.com/secure-safety-and-security-communications/) | EE Times | 半导体 |
+| 34 | [Full-Stack Semiconductor Solutions for Embodied AI & Robotics](https://www.eetimes.com/full-stack-semiconductor-solutions-for-embodied-ai-robotics/) | EE Times | 半导体 |
+| 35 | [Intel Wants a Quantum Business, Classiq Could Help Build One](https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/) | EE Times | 半导体 |
+| 36 | [Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899](https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899) | Tom's Hardware | 芯片/市场 |
+| 37 | [Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers](https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub) | Tom's Hardware | 芯片/市场 |
+| 38 | [AI component hikes force the world's largest PC makers to return manufacturing capacity to China](https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain) | Tom's Hardware | 芯片/市场 |
+| 39 | [Amazon tells engineers to stop ‘tokenmaxxing’ to look productive](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim) | Tom's Hardware | 芯片/市场 |
+| 40 | [FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US](https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers) | Tom's Hardware | 芯片/市场 |
+| 41 | [Corsair Warthog case review: A rugged, military-themed chassis with plenty of airflow](https://www.tomshardware.com/pc-components/pc-cases/corsair-warthog-case-review) | Tom's Hardware | 芯片/市场 |
+| 42 | [US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk](https://www.tomshardware.com/tech-industry/us-marines-join-nato-mission-in-the-baltic-sea-to-protect-undersea-cables-from-sabotage-as-russia-continues-to-lurk-around-four-dozen-recon-and-intel-specialists-deployed-to-deter-seabed-threats) | Tom's Hardware | 芯片/市场 |
+| 43 | [SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims](https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return) | Tom's Hardware | 芯片/市场 |
+| 44 | [Seagate's 16TB external HDD falls to 0.025 cents per GB at Newegg](https://www.tomshardware.com/pc-components/external-hdds/seagates-16tb-external-hdd-falls-to-0-025-cents-per-gb-at-newegg-this-storage-deal-is-usd50-cheaper-than-even-its-prime-day-sale-price) | Tom's Hardware | 芯片/市场 |
+| 45 | [Why native PC ports of console games are suddenly everywhere](https://www.tomshardware.com/video-games/why-native-pc-ports-of-console-games-are-suddenly-everywhere-reverse-engineer-anything-gives-ai-agents-a-unified-toolkit-and-byte-for-byte-checks-keep-hallucinations-in-line) | Tom's Hardware | 芯片/市场 |
+| 46 | [Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual) | Tom's Hardware | 芯片/市场 |
+| 47 | [Save $249 on 32GB of DDR5 with this 9800X3D parts bundle](https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100) | Tom's Hardware | 芯片/市场 |
+| 48 | [Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics](https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas) | Tom's Hardware | 芯片/市场 |
+| 49 | [Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts) | Tom's Hardware | 芯片/市场 |
+| 50 | [IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping) | Tom's Hardware | 芯片/市场 |
+| 51 | [$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact'](https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons) | Tom's Hardware | 芯片/市场 |
+| 52 | [Japan experiments with autonomous AI chainsaw-wielding robots](https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches) | Tom's Hardware | 芯片/市场 |
+| 53 | [Google’s Gemini 4 Carbon Tops Every Other Model In All But Two Of Google’s Benchmarks, Scoring 88.2 Percent On SEC-bench Pro Vulnerability Discovery](https://wccftech.com/googles-gemini-4-carbon-mogs-every-other-model-on-nearly-every-benchmark-performs-over-10x-better-than-any-publicly-available-model-when-generating-high-quality-security-patches/) | Wccftech | 芯片/市场 |
+| 54 | [32GB DDR5 RAM Kit Bought For Just $110 In 2024 Now Listed For Over $1,500, But Cheaper Alternatives Still Exist](https://wccftech.com/32gb-ddr5-ram-kit-bought-for-just-110-in-2024-now-listed-for-over-1500-but-cheaper-alternatives-still-exist/) | Wccftech | 芯片/市场 |
+| 55 | [Cronos: Lazarus Costs Just $9.99 on December 3, and Bloober Team’s Prequel DLC Adds Teleportation, Invisibility Decoys, and a Faster Blade](https://wccftech.com/cronos-lazarus-999-december-3-bloober-prequel-dlc-teleportation-invisibility-decoys-faster-blade/) | Wccftech | 芯片/市场 |
+| 56 | [Crimson Desert Charting the Unknown DLC Drops On October 29, But It Will Be Later in the Day For Most of the World](https://wccftech.com/crimson-desert-charting-the-unknown-dlc-drops-on-october-29-later-day-world/) | Wccftech | 芯片/市场 |
+| 57 | [YouTuber Finds A Rare NVIDIA GTX 750 Ti With 8 GB VRAM That Delivers 30 FPS In Cyberpunk 2077](https://wccftech.com/youtuber-finds-a-rare-nvidia-gtx-750-ti-with-8-gb-vram/) | Wccftech | 芯片/市场 |
+| 58 | [AI Will Be the Biggest Creative Leap for Small, Medium and Big Studios Once the Slop Is Fixed, Peter Molyneux Argues](https://wccftech.com/peter-molyneux-ai-biggest-creative-leap-studios-slop-fixed/) | Wccftech | 芯片/市场 |
+| 59 | [RTX 5070 Ti Allegedly Runs At Just 0.67V And 142.8W Under 98% Load In An Extreme Undervolt, Roughly Half Its 300W Rating](https://wccftech.com/rtx-5070-ti-extreme-undervolt-0-67v-52-percent-power-reduction/) | Wccftech | 芯片/市场 |
+| 60 | [Hello Games Keeps Pouring Updates Into No Man’s Sky With Haunted FORSAKEN, Yet Light No Fire Nears Three Years Since Its Reveal](https://wccftech.com/hello-games-no-mans-sky-haunted-forsaken-light-no-fire-three-years-reveal/) | Wccftech | 芯片/市场 |
+| 61 | [NVIDIA GeForce RTX 5080 Prices Soar Past $2,000 At US Retailers, As Newegg’s Own Inventory Runs Dry](https://wccftech.com/nvidia-geforce-rtx-5080-prices-soar-past-2000-at-us-retailers-as-neweggs-own-inventory-runs-dry/) | Wccftech | 芯片/市场 |
+| 62 | [Unreleased ROG Matrix RX 5700 XT Prototype Surfaces Online; Could Hit 2,100 MHz With A 280W Power Limit, The Highest Of Any RX 5700 XT Ever Made](https://wccftech.com/unreleased-rog-matrix-rx-5700-xt-prototype-hits-2100-mhz-with-a-280w-power-limit/) | Wccftech | 芯片/市场 |
+| 63 | [SpaceX Tells FAA It Alone Expects 10,000 Launches A Year, As It Gears Up To Target $28.5 Trillion Market That Elon Musk Believes Is Inadequate](https://wccftech.com/spacex-tells-faa-it-alone-expects-10000-launches-a-year-as-it-gears-up-to-target-28-5-trillion-market-that-elon-musk-believes-is-inadequate/) | Wccftech | 芯片/市场 |
+| 64 | [Retailer Discovers Customer Got Scammed By A Fake Ryzen 9 9900X3D That Came Without Any Core Dies Underneath The IHS](https://wccftech.com/customer-gets-scammed-by-a-fake-ryzen-9-9900x3d/) | Wccftech | 芯片/市场 |
+| 65 | [Discord Will Make Public Server Messages Searchable On Google Starting In December, But Users Can Opt Out](https://wccftech.com/discord-will-make-public-server-messages-searchable-on-google-starting-in-december-but-users-can-opt-out/) | Wccftech | 芯片/市场 |
+| 66 | [ASUS ROG 720 Hz And 540 Hz 25-inch OLED Monitors Are Now Available At $1,099 And $699, Respectively](https://wccftech.com/asus-rog-720-hz-and-540-hz-25-inch-oled-monitors-are-now-available-at-1099-and-699-respectively/) | Wccftech | 芯片/市场 |
+| 67 | [AirPods Pro 3 Just Dropped 20% On Amazon, Get Live Translation, Heart Rate Sensing, Better Audio & More For Just $199](https://wccftech.com/airpods-pro-3-amazon-deal-199/) | Wccftech | 芯片/市场 |
+| 68 | [Square Enix Keeps Final Fantasy VII Revelation Battles Fresh By Limiting 3 Character Synergy Abilities To “Cinematic” Scenarios, Yet Hamaguchi Doesn’t Clarify Aerith’s Combat Status](https://wccftech.com/final-fantasy-vii-revelation-three-character-synergy-limited-aerith-combat/) | Wccftech | 芯片/市场 |
+| 69 | [KLEVV Launches Its First EXPO ULL-Compatible DDR5 Memory With Up To 8000 MT/s And 128 GB Capacity](https://wccftech.com/klevv-launches-cras-v-rgb-prime-ddr5-memory-boasting-up-to-8000-mt-s/) | Wccftech | 芯片/市场 |
+| 70 | [3D Artist Creates One-of-a-Kind Rendering Workstation That Features 15 RTX 4090 GPUs On A Single Motherboard, Powered By Five 1600W PSUs](https://wccftech.com/3d-artist-creates-rendering-workstation-with-15-rtx-4090-gpus-on-single-motherboard/) | Wccftech | 芯片/市场 |
 
 ## 2026-10-27
 
@@ -732,99 +503,28 @@
 | 4 | [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) | TechCrunch AI | AI 产业 |
 | 5 | [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/) | TechCrunch AI | AI 产业 |
 | 6 | [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/) | TechCrunch AI | AI 产业 |
-| 7 | [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/) | TechCrunch AI | AI 产业 |
-| 8 | [Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/) | TechCrunch AI | AI 产业 |
-| 9 | [Japan internet giant GMO says hackers posted stolen customer data](https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/) | TechCrunch AI | AI 产业 |
-| 10 | [Opera introduces a new web standard to let users deploy AI locally in their browser](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/) | TechCrunch AI | AI 产业 |
-| 11 | [General Compute raises $100 million Series A, countering the neocloud disaster narrative](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/) | TechCrunch AI | AI 产业 |
-| 12 | [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/) | TechCrunch AI | AI 产业 |
-| 13 | [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) | TechCrunch AI | AI 产业 |
-| 14 | [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) | TechCrunch AI | AI 产业 |
-| 15 | [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics) | The Verge AI | AI 产业 |
-| 16 | [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai) | The Verge AI | AI 产业 |
-| 17 | [Anthropic’s elaborate plan to keep Wall Street at bay](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety) | The Verge AI | AI 产业 |
-| 18 | [Firefox’s Smart Window adds AI form filling and webpage monitoring](https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms) | The Verge AI | AI 产业 |
-| 19 | [Google’s next Genie AI model generates more realistic experiences](https://www.theverge.com/tech/1019076/google-genie-4-ai-model) | The Verge AI | AI 产业 |
-| 20 | [Apple is adding an AI chatbot to Pages, Keynote, and Numbers](https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update) | The Verge AI | AI 产业 |
-| 21 | [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections) | The Verge AI | AI 产业 |
-| 22 | [Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)](https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/) | SemiEngineering | 半导体 |
-| 23 | [The imec Report: Scaling Optical Interconnects For The AI Era](https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/) | SemiEngineering | 半导体 |
-| 24 | [Chip Industry Technical Paper Roundup: Oct. 27](https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/) | SemiEngineering | 半导体 |
-| 25 | [Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies](https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/) | EE Times | 半导体 |
-| 26 | [CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design](https://www.eetimes.com/copperpilot-raises-pre-seed-to-develop-ai-agent-for-pcb-design/) | EE Times | 半导体 |
-| 27 | [Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In](https://www.eetimes.com/quantum-computing-energy-bill-is-coming-and-we-havent-priced-it-in/) | EE Times | 半导体 |
-| 28 | [Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating](https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use) | Tom's Hardware | 芯片/市场 |
-| 29 | [Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture](https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future) | Tom's Hardware | 芯片/市场 |
-| 30 | [Israeli ad tech firm tied to suspected Starlink tracking effort, report claims](https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned) | Tom's Hardware | 芯片/市场 |
-| 31 | [TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months) | Tom's Hardware | 芯片/市场 |
-| 32 | [Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package](https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review) | Tom's Hardware | 芯片/市场 |
-| 33 | [Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'](https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers) | Tom's Hardware | 芯片/市场 |
-| 34 | [Walmart slashes $750 off this MSI RTX 5060 gaming laptop](https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display) | Tom's Hardware | 芯片/市场 |
-| 35 | [Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos](https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability) | Tom's Hardware | 芯片/市场 |
-| 36 | [Apple adds M6 to 14-inch MacBook Pro and iMac](https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999) | Tom's Hardware | 芯片/市场 |
-| 37 | [Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit](https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community) | Tom's Hardware | 芯片/市场 |
-| 38 | [Roblox accused of downloading 145GB of 3D assets, including adult content, for AI training purposes during scraping spree](https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree) | Tom's Hardware | 芯片/市场 |
-| 39 | [Intel's APX offers 'better performance' in Windows 11 according to new Insider setting](https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus) | Tom's Hardware | 芯片/市场 |
-| 40 | [Grab 32GB of DDR5 RAM for just $151 in this 4-in-1 Newegg bundle with the 9800X3D and a 2TB SSD](https://www.tomshardware.com/pc-components/grab-32gb-of-ddr5-ram-for-just-usd151-in-this-4-in-1-newegg-bundle-with-the-9800x3d-and-a-2tb-ssd-start-building-a-high-end-4k-gaming-pc-with-this-combo-deal-that-also-includes-an-am5-gigabyte-motherboard-and-a-free-msi-aio-liquid-cooler) | Tom's Hardware | 芯片/市场 |
-| 41 | [Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines) | Tom's Hardware | 芯片/市场 |
-| 42 | [60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite](https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk) | Tom's Hardware | 芯片/市场 |
-| 43 | [Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity) | Tom's Hardware | 芯片/市场 |
-| 44 | [Data center gear is being hijacked in transit to the tune of hundreds of millions](https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china) | Tom's Hardware | 芯片/市场 |
-| 45 | [SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says](https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar) | Tom's Hardware | 芯片/市场 |
-| 46 | [Samsung’s 34-Inch ViewFinity S50GC Replaces A Dual-Monitor Setup With One 21:9 Screen, And Amazon Has It At $219.99, Down From $329.99](https://wccftech.com/samsung-34-inch-viewfinity-s50gc-ultrawide-monitor-deal/) | Wccftech | 芯片/市场 |
-| 47 | [ZOTAC Puts The RTX 5090 Up For Sale At $7500 In Japan, Even As Board Partners Say They Can No Longer Buy The GB202 Chip](https://wccftech.com/zotac-puts-the-rtx-5090-up-for-sale-at-7500-in-japan/) | Wccftech | 芯片/市场 |
-| 48 | [ASUS Says Audible Coil Whine Is Not A Hardware Defect, Rejects Warranty On Four-Month-Old RTX 5080 TUF OC No Matter How Loud It Got](https://wccftech.com/rtx-5080-coil-whine-asus-warranty-claim-rejected/) | Wccftech | 芯片/市场 |
-| 49 | [Elden Ring Movie’s Reported $175-200 Million Budget Makes It the Biggest Standalone Film Ever Offered at a Rights Market](https://wccftech.com/elden-ring-movie-reported-175-200-million-budget-biggest-standalone-film-rights-market/) | Wccftech | 芯片/市场 |
-| 50 | [Meta Doubles Down On NVIDIA Vera Rubin And Vera CPU Racks For Its Muse AI Models, While NVIDIA Puts $3 Billion Into Meta’s Equity Offering](https://wccftech.com/meta-doubles-down-on-nvidia-vera-rubin-and-vera-cpu-racks-for-its-muse-ai-models/) | Wccftech | 芯片/市场 |
-| 51 | [Meta Is The Lead Customer For AMD’s 6th Gen EPYC CPUs, Deploys Millions of EPYC Chips & Will Leverage Next-Gen Instinct MI500 And Rack-Scale Solutions](https://wccftech.com/meta-lead-customer-amd-epyc-cpus-millions-of-chips-leverage-next-gen-instinct-mi500-rack-scale-solutions/) | Wccftech | 芯片/市场 |
-| 52 | [Forza Motorsport 5 & 6 Finally Playable on PC Through Azimuth 1.0, Alongside Forza Horizon 3, With Up to 40% Better Performance and Enhanced Graphics](https://wccftech.com/forza-motorsport-5-6-finally-playable-on-pc-through-azimuth-1-0-alongside-forza-horizon-3-with-up-to-40-better-performance-and-enhanced-graphics/) | Wccftech | 芯片/市场 |
-| 53 | [CD Projekt Red Scrapped Multiplayer In Cyberpunk 2077, Yet It Seems To Be On The Table For The Sequel](https://wccftech.com/cd-projekt-red-scrapped-multiplayer-cyberpunk-2077-sequel-table/) | Wccftech | 芯片/市场 |
-| 54 | [Google TPUs Are Cheaper Than NVIDIA GPUs, Yet Anthropic’s $63 Billion TPU Financing Hit A Roadblock Until Broadcom Sweetened Terms For Banks](https://wccftech.com/nvidia-gpus-make-up-4-7-gw-of-anthropics-contracted-compute-topping-4-5-gw-of-cheaper-google-tpus-as-lenders-bet-on-nvidias-residual-value/) | Wccftech | 芯片/市场 |
-| 55 | [IBM Moves Into Chitose, The Japanese City Hosting Rapidus’ 2nm Plant, As Japan Pushes For Domestic 2nm Mass Production In 2027](https://wccftech.com/ibm-moves-into-chitose-the-japanese-city-hosting-rapidus-2nm-plant-as-japan-pushes-for-domestic-2nm-mass-production-in-2027/) | Wccftech | 芯片/市场 |
-| 56 | [Cristiano Amon Tells Qualcomm Staff Performance ‘Has Consistently Fallen Short Of Expectations’ As Job Cuts Land Days After Snapdragon Overheating Claims](https://wccftech.com/snapdragon-8-elite-extreme-gen-6-overheating-rumors-qualcomm-job-cuts/) | Wccftech | 芯片/市场 |
-| 57 | [“EA Never Understood BioWare,” Say Jennifer Hale and Mark Darrah, as Fans Call on CD Projekt to Save Mass Effect](https://wccftech.com/ea-never-understood-bioware-jennifer-hale-mark-darrah-fans-cd-projekt-save-mass-effect/) | Wccftech | 芯片/市场 |
-| 58 | [Total War: Shogun 2 Gets Massive Performance Boosts With New Mod, Up To 50% Higher FPS In Battles And Even Bigger Gains On Campaign Map](https://wccftech.com/total-war-shogun-2-gets-massive-performance-boosts-with-new-mod-up-to-50-higher-fps-in-battles-and-even-bigger-gains-on-campaign-map/) | Wccftech | 芯片/市场 |
-| 59 | [Nintendo Raised The Switch 2’s Price Last Month, But Samsung’s Upgraded 8nm Node Could Make A Cheaper Lite Model Possible](https://wccftech.com/nintendo-raised-switch-2s-price-samsungs-upgraded-8nm-node-cheaper-lite-model/) | Wccftech | 芯片/市场 |
-| 60 | [Incredible Savings: KAMRUI Mini PCs Are Up To 30% Off Thanks To A Limited-Time Promotion](https://wccftech.com/kamrui-mini-pcs-are-up-to-30-offering-incredible-savings/) | Wccftech | 芯片/市场 |
-| 61 | [Acer Prices Predator Atlas 8 At $1,299 Featuring Powerful Arc G3 Extreme With 24 GB RAM And 512 GB Storage](https://wccftech.com/acer-prices-predator-atlas-8-at-1299-featuring-powerful-arc-g3-extreme-with-24-gb-ram-and-512-gb-storage/) | Wccftech | 芯片/市场 |
-| 62 | [FromSoftware Remains Silent On The Duskbloods, Yet Switch 2 Datamine Uncovers 13 Total Bloodsworn](https://wccftech.com/fromsoftware-silent-the-duskbloods-switch-2-datamine-uncovers-total-bloodsworn/) | Wccftech | 芯片/市场 |
-| 63 | [China’s DRAM Self-Sufficiency To Remain A Distant Dream, As Local Giants Seek 10-Year LTAs From Samsung And SK hynix; CXMT & YMTC Lagging In Key Areas](https://wccftech.com/china-dram-self-sufficiency-10-year-ltas-samsung-sk-hynix-cxmt-ymtc/) | Wccftech | 芯片/市场 |
-
-## 2026-10-26
-
-| # | 标题 | 来源 | 分类 |
-|---|------|------|------|
-| 1 | [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/) | TechCrunch AI | AI 产业 |
-| 2 | [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/) | TechCrunch AI | AI 产业 |
-| 3 | [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/) | TechCrunch AI | AI 产业 |
-| 4 | [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) | The Verge AI | AI 产业 |
-| 5 | [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk) | The Verge AI | AI 产业 |
-| 6 | [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal) | The Verge AI | AI 产业 |
-| 7 | [Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)](https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/) | SemiEngineering | 半导体 |
-| 8 | [Large-Format Masks Move From Aspiration To Industry Roadmap](https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/) | SemiEngineering | 半导体 |
-| 9 | [Testing Silicon Photonics At Scale](https://semiengineering.com/testing-silicon-photonics-at-scale/) | SemiEngineering | 半导体 |
-| 10 | [Bringing Down Test Costs For Co-Packaged Optics](https://semiengineering.com/bringing-down-test-costs-for-co-packaged-optics/) | SemiEngineering | 半导体 |
-| 11 | [Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)](https://semiengineering.com/self-heating-and-parasitics-challenge-multi-tier-cfet-scaling-tu-munich-iit-kanpur/) | SemiEngineering | 半导体 |
-| 12 | [Using a Single Image to Optimize Urban Solar-Panel Orientation](https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/) | EE Times | 半导体 |
-| 13 | [Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings](https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/) | EE Times | 半导体 |
-| 14 | [Framing the Shift to 48V](https://www.eetimes.com/framing-the-shift-to-48v/) | EE Times | 半导体 |
-| 15 | [The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum](https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/) | EE Times | 半导体 |
-| 16 | [In Orbit, Useful Life Becomes a Performance Metric](https://www.eetimes.com/in-orbit-useful-life-becomes-a-performance-metric/) | EE Times | 半导体 |
-| 17 | [Intel quietly confirms Raptor Lake Next CPUs through internal driver publication](https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august) | Tom's Hardware | 芯片/市场 |
-| 18 | [JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub](https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review) | Tom's Hardware | 芯片/市场 |
-| 19 | [Save $134 on this WD Red Plus 10TB HDD bundle at Newegg](https://www.tomshardware.com/pc-components/hdds/save-usd134-on-this-wd-red-plus-10tb-hdd-bundle-at-newegg-this-double-drive-deal-lands-you-with-20tb-of-total-capacity-for-your-nas) | Tom's Hardware | 芯片/市场 |
-| 20 | [Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen) | Tom's Hardware | 芯片/市场 |
-| 21 | [3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team](https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second) | Tom's Hardware | 芯片/市场 |
-| 22 | [Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain](https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements) | Tom's Hardware | 芯片/市场 |
-| 23 | [Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM](https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors) | Tom's Hardware | 芯片/市场 |
-| 24 | [Windows 11’s ‘whole ISO’ squeezed into a CD-ROM](https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original) | Tom's Hardware | 芯片/市场 |
-| 25 | [Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026](https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model) | Tom's Hardware | 芯片/市场 |
-| 26 | [Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds](https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage) | Tom's Hardware | 芯片/市场 |
-| 27 | [Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business) | Tom's Hardware | 芯片/市场 |
-| 28 | [Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5](https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99) | Tom's Hardware | 芯片/市场 |
-| 29 | [Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg](https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support) | Tom's Hardware | 芯片/市场 |
-| 30 | [Modder turns NES into a Windows-like desktop with original hardware](https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet) | Tom's Hardware | 芯片/市场 |
-| 31 | [Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent) | Tom's Hardware | 芯片/市场 |
-| 32 | [Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty](https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy) | Tom's Hardware | 芯片/市场 |
-| 33 | [Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers](https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers) | Tom's Hardware | 芯片/市场 |
-| 34 | [Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months](https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes) | Tom's Hardware | 芯片/市场 |
+| 7 | [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics) | The Verge AI | AI 产业 |
+| 8 | [Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)](https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/) | SemiEngineering | 半导体 |
+| 9 | [The imec Report: Scaling Optical Interconnects For The AI Era](https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/) | SemiEngineering | 半导体 |
+| 10 | [Chip Industry Technical Paper Roundup: Oct. 27](https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/) | SemiEngineering | 半导体 |
+| 11 | [Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies](https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/) | EE Times | 半导体 |
+| 12 | [CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design](https://www.eetimes.com/copperpilot-raises-pre-seed-to-develop-ai-agent-for-pcb-design/) | EE Times | 半导体 |
+| 13 | [Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In](https://www.eetimes.com/quantum-computing-energy-bill-is-coming-and-we-havent-priced-it-in/) | EE Times | 半导体 |
+| 14 | [Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating](https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use) | Tom's Hardware | 芯片/市场 |
+| 15 | [Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture](https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future) | Tom's Hardware | 芯片/市场 |
+| 16 | [Israeli ad tech firm tied to suspected Starlink tracking effort, report claims](https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned) | Tom's Hardware | 芯片/市场 |
+| 17 | [TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months) | Tom's Hardware | 芯片/市场 |
+| 18 | [Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package](https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review) | Tom's Hardware | 芯片/市场 |
+| 19 | [Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'](https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers) | Tom's Hardware | 芯片/市场 |
+| 20 | [Walmart slashes $750 off this MSI RTX 5060 gaming laptop](https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display) | Tom's Hardware | 芯片/市场 |
+| 21 | [Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos](https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability) | Tom's Hardware | 芯片/市场 |
+| 22 | [Apple adds M6 to 14-inch MacBook Pro and iMac](https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999) | Tom's Hardware | 芯片/市场 |
+| 23 | [Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit](https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community) | Tom's Hardware | 芯片/市场 |
+| 24 | [Roblox accused of downloading 145GB of 3D assets, including adult content, for AI training purposes during scraping spree](https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree) | Tom's Hardware | 芯片/市场 |
+| 25 | [Intel's APX offers 'better performance' in Windows 11 according to new Insider setting](https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus) | Tom's Hardware | 芯片/市场 |
+| 26 | [Grab 32GB of DDR5 RAM for just $151 in this 4-in-1 Newegg bundle with the 9800X3D and a 2TB SSD](https://www.tomshardware.com/pc-components/grab-32gb-of-ddr5-ram-for-just-usd151-in-this-4-in-1-newegg-bundle-with-the-9800x3d-and-a-2tb-ssd-start-building-a-high-end-4k-gaming-pc-with-this-combo-deal-that-also-includes-an-am5-gigabyte-motherboard-and-a-free-msi-aio-liquid-cooler) | Tom's Hardware | 芯片/市场 |
+| 27 | [Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines) | Tom's Hardware | 芯片/市场 |
+| 28 | [60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite](https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk) | Tom's Hardware | 芯片/市场 |
+| 29 | [Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity) | Tom's Hardware | 芯片/市场 |
+| 30 | [Data center gear is being hijacked in transit to the tune of hundreds of millions](https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china) | Tom's Hardware | 芯片/市场 |
+| 31 | [SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says](https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar) | Tom's Hardware | 芯片/市场 |
