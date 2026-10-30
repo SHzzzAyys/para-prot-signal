@@ -1,18 +1,27 @@
-# PubMed Research Feed — 2026-10-29 04:13:01 +0000
+# PubMed Research Feed — 2026-10-30 04:13:36 +0000
 
-共 **24** 篇文章（Plasmodium 17 · Malaria parasite 3 · Toxoplasma 7）
+共 **25** 篇文章（Plasmodium 20 · Malaria parasite 4 · Toxoplasma 6）
 
 ---
+
+## 2026-10-29
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Site-specific distribution of pfhrp2 and pfhrp3 PCR non-amplification profiles in southern Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42957119/) | Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases | Plasmodium | [10.1016/j.meegid.2026.106049](https://doi.org/10.1016/j.meegid.2026.106049) |
+| 2 | [Clinical Plasmodium falciparum and Plasmodium vivax Infections in the Ethiopian Highlands Were Uncommonly Associated with Recent Travel.](https://pubmed.ncbi.nlm.nih.gov/42956399/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0344](https://doi.org/10.4269/ajtmh.26-0344) |
+| 3 | [Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.](https://pubmed.ncbi.nlm.nih.gov/42955868/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Plasmodium | [10.1177/15303667261503155](https://doi.org/10.1177/15303667261503155) |
 
 ## 2026-10-28
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [CLAG3 mutations reduce hemoglobin S-mediated protection against malaria.](https://pubmed.ncbi.nlm.nih.gov/42951726/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.10.003](https://doi.org/10.1016/j.pt.2026.10.003) |
+| 1 | [Nucleotide-resolution mapping of RNA N6-methyladenosine (m6A) modifications and comprehensive analysis of global polyadenylation events in mRNA 3' end processing in malaria pathogen Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42952048/) | RNA biology | Plasmodium · Malaria parasite | [10.1080/15476286.2026.2753979](https://doi.org/10.1080/15476286.2026.2753979) |
 | 2 | [Controlled human infection with Plasmodium falciparum-infected mosquito bites elicits antibodies against mosquito salivary protein SG1L3.](https://pubmed.ncbi.nlm.nih.gov/42950005/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014719](https://doi.org/10.1371/journal.ppat.1014719) |
-| 3 | [From Asia to Africa: drivers of antimalarial drug resistance emergence and spread.](https://pubmed.ncbi.nlm.nih.gov/42951725/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.10.002](https://doi.org/10.1016/j.pt.2026.10.002) |
-| 4 | [Malaria despite Doxycycline Prophylaxis: A Case Series and Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42950931/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103034](https://doi.org/10.1016/j.tmaid.2026.103034) |
-| 5 | [Chemoselective halogenation of premarineosin A for next-generation antimalarial development.](https://pubmed.ncbi.nlm.nih.gov/42758149/) | Organic & biomolecular chemistry | Plasmodium | [10.1039/d6ob01037g](https://doi.org/10.1039/d6ob01037g) |
+| 3 | [CLAG3 mutations reduce hemoglobin S-mediated protection against malaria.](https://pubmed.ncbi.nlm.nih.gov/42951726/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.10.003](https://doi.org/10.1016/j.pt.2026.10.003) |
+| 4 | [From Asia to Africa: drivers of antimalarial drug resistance emergence and spread.](https://pubmed.ncbi.nlm.nih.gov/42951725/) | Trends in parasitology | Plasmodium | [10.1016/j.pt.2026.10.002](https://doi.org/10.1016/j.pt.2026.10.002) |
+| 5 | [Malaria despite Doxycycline Prophylaxis: A Case Series and Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42950931/) | Travel medicine and infectious disease | Plasmodium | [10.1016/j.tmaid.2026.103034](https://doi.org/10.1016/j.tmaid.2026.103034) |
+| 6 | [Chemoselective halogenation of premarineosin A for next-generation antimalarial development.](https://pubmed.ncbi.nlm.nih.gov/42758149/) | Organic & biomolecular chemistry | Plasmodium | [10.1039/d6ob01037g](https://doi.org/10.1039/d6ob01037g) |
 
 ## 2026-10-27
 
@@ -52,28 +61,20 @@
 | 3 | [(±)-Nigronetides A-D and Nigronetides E-H, Complex Polyketides Produced by the Marine-Derived Fungus Nigrograna sp. M13.](https://pubmed.ncbi.nlm.nih.gov/42924939/) | Journal of natural products | Plasmodium | [10.1021/acs.jnatprod.6c00305](https://doi.org/10.1021/acs.jnatprod.6c00305) |
 | 4 | [Design and synthesis of novel 1,2,4,5-tetraoxane derivatives as a chemotherapeutic approach against malaria.](https://pubmed.ncbi.nlm.nih.gov/42912485/) | Natural product research | Plasmodium | [10.1080/14786419.2026.2753102](https://doi.org/10.1080/14786419.2026.2753102) |
 
-## 2026-10-22
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/42910591/) | Journal of cell science | Toxoplasma | [10.1242/jcs.265051](https://doi.org/10.1242/jcs.265051) |
-| 2 | [Transgenic Plasmodium berghei expressing P. vivax pre-erythrocytic antigens SSP3 and SPECT1 to elucidate their efficacy towards vaccine development.](https://pubmed.ncbi.nlm.nih.gov/42911959/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014810](https://doi.org/10.1371/journal.pntd.0014810) |
-| 3 | [Carbothioamide functionalized paroxetine analogues as antiparasitic agents targeting the hypoxanthine-guanine-xanthine phosphoribosyltransferase enzyme: Synthesis, characterization, biochemical, biophysical, and in silico studies.](https://pubmed.ncbi.nlm.nih.gov/42911912/) | PloS one | Plasmodium | [10.1371/journal.pone.0359519](https://doi.org/10.1371/journal.pone.0359519) |
-
 ## 2026-10-21
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Accessing invasion-competent Plasmodium vivax merozoites reveals antibody-dependent NK cell activation.](https://pubmed.ncbi.nlm.nih.gov/42905825/) | Science advances | Plasmodium · Malaria parasite | [10.1126/sciadv.aeh3417](https://doi.org/10.1126/sciadv.aeh3417) |
 
+## 2026-10-07
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Paralogous mutations in the Plasmodium falciparum surface anion channel associate with reduced protection due to sickle hemoglobin.](https://pubmed.ncbi.nlm.nih.gov/42842370/) | Cell reports | Plasmodium · Malaria parasite | [10.1016/j.celrep.2026.117938](https://doi.org/10.1016/j.celrep.2026.117938) |
+
 ## 2026-09-22
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [mSphere of Influence: Autoantibodies during malaria-a historical observation taking the modern spotlight.](https://pubmed.ncbi.nlm.nih.gov/42770718/) | mSphere | Plasmodium | [10.1128/msphere.00906-25](https://doi.org/10.1128/msphere.00906-25) |
-
-## 2026-09-08
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Previous malaria exposure attenuates monocyte-driven inflammation and correlates with modulation of the B cell response.](https://pubmed.ncbi.nlm.nih.gov/42709494/) | JCI insight | Malaria parasite | [10.1172/jci.insight.199206](https://doi.org/10.1172/jci.insight.199206) |

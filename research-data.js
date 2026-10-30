@@ -1,9 +1,9 @@
-window.researchLastUpdated = "2026-10-29 04:13:01 +0000";
+window.researchLastUpdated = "2026-10-30 04:13:36 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-42951726",
-    "title": "CLAG3 mutations reduce hemoglobin S-mediated protection against malaria.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951726/",
+    "id": "pubmed-42957119",
+    "title": "Site-specific distribution of pfhrp2 and pfhrp3 PCR non-amplification profiles in southern Côte d'Ivoire.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957119/",
     "source": "PubMed",
     "tag": "Plasmodium",
     "topics": [
@@ -13,15 +13,98 @@ window.researchItems = [
     "editor": "NCBI",
     "ageHours": 28.2,
     "score": 100,
-    "journal": "Trends in parasitology",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "pubDate": "2026-10-29",
+    "authors": [
+      "Ako BAA",
+      "Gbessi EA",
+      "Kouman ABK",
+      "Dagnogo O",
+      "Yao SS",
+      "Nguessan LT"
+    ],
+    "pmid": "42957119",
+    "doi": "10.1016/j.meegid.2026.106049",
+    "why": "BACKGROUND: Histidine-rich protein 2 (HRP2)-based rapid diagnostic tests are widely used for Plasmodium falciparum malaria, but parasites lacking pfhrp2 may escape detection. Evidence from Côte d'Ivoire remains limited, and conventional PCR non-amplification requires cautious interpretation because it may also reflect low parasite DNA concentration, assay sensitivity, or primer-binding-site variation. METHODS: We conducted an exploratory cross-sectional..."
+  },
+  {
+    "id": "pubmed-42956399",
+    "title": "Clinical Plasmodium falciparum and Plasmodium vivax Infections in the Ethiopian Highlands Were Uncommonly Associated with Recent Travel.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42956399/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.2,
+    "score": 98,
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pubDate": "2026-10-29",
+    "authors": [
+      "Lown LA",
+      "Ewnetu Y",
+      "Carlier L",
+      "Lemma W",
+      "Berhane N",
+      "Koepfli C"
+    ],
+    "pmid": "42956399",
+    "doi": "10.4269/ajtmh.26-0344",
+    "why": "The Ethiopian highlands were historically believed to be malaria-free, yet clinical cases are frequently observed in health centers at elevations above 2,000 m. The proportion of cases that recently returned from the lowlands where malaria is endemic, seasonal patterns, and risk factors for infection are poorly described. Febrile patients were enrolled from November 2019 to September 2020 in a health center in Gondar, Ethiopia, at an elevation of 2,100 m..."
+  },
+  {
+    "id": "pubmed-42955868",
+    "title": "Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955868/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.2,
+    "score": 96,
+    "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "pubDate": "2026-10-29",
+    "authors": [
+      "Lai MY",
+      "Abdullah ML",
+      "Lau YL"
+    ],
+    "pmid": "42955868",
+    "doi": "10.1177/15303667261503155",
+    "why": "BACKGROUND: A rapid and easy-to-use diagnostic tool is essential for the accurate diagnosis of malaria. Recombinase polymerase amplification (RPA) is well suited for on-site detection due to its rapid turnaround, high sensitivity, and operation at low temperatures. However, result visualization commonly relies on fluorescence probes, which require specialized equipment, or lateral flow strips, which add to the overall assay cost. METHODS: In this study..."
+  },
+  {
+    "id": "pubmed-42952048",
+    "title": "Nucleotide-resolution mapping of RNA N6-methyladenosine (m6A) modifications and comprehensive analysis of global polyadenylation events in mRNA 3' end processing in malaria pathogen Plasmodium falciparum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952048/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 52.2,
+    "score": 100,
+    "journal": "RNA biology",
     "pubDate": "2026-10-28",
     "authors": [
-      "Rihet P",
-      "Marquet S"
+      "Catacalos-Goad C",
+      "Chakrabarti M",
+      "Salem DH",
+      "Camporeale C",
+      "Somalraju S",
+      "Tegowski M"
     ],
-    "pmid": "42951726",
-    "doi": "10.1016/j.pt.2026.10.003",
-    "why": "Hemoglobin S (HbS), which confers protection against malaria, could exert selective pressure on the genome of Plasmodium falciparum. Forster et al. identified new parasite variants, including two variants shared by CLAG3 paralogs, that reduce the protective effect of HbS. These findings support the hypothesis of coevolution between humans and parasites."
+    "pmid": "42952048",
+    "doi": "10.1080/15476286.2026.2753979",
+    "why": "N6-methyladenosine (m6A) is the most abundant internal modification of eukaryotic mRNA, yet its distribution and potential involvement in mRNA 3'-end processing in the malaria parasite Plasmodium falciparum remain poorly understood. Here, we combined nucleotide resolution DART-seq, Nanopore DRS, MeRIP-seq and complementary 3'-end sequencing approaches to investigate the relationship between m6A deposition and mRNA 3'-end formation across the parasite..."
   },
   {
     "id": "pubmed-42950005",
@@ -35,8 +118,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 100,
+    "ageHours": 52.2,
+    "score": 98,
     "journal": "PLoS pathogens",
     "pubDate": "2026-10-28",
     "authors": [
@@ -52,6 +135,29 @@ window.researchItems = [
     "why": "Human malaria infections begin with the injection of Plasmodium sporozoites via mosquito saliva. Whole sporozoite immunizations have been used as a model to study immune responses to malaria parasites, having culminated in circumsporozoite protein (CSP)-targeting vaccines and monoclonal antibodies (mAbs). However, antibody responses targeting non-CSP antigens on the sporozoite surface remain poorly characterized. Here, we isolated single B cells from a..."
   },
   {
+    "id": "pubmed-42951726",
+    "title": "CLAG3 mutations reduce hemoglobin S-mediated protection against malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42951726/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 52.2,
+    "score": 92,
+    "journal": "Trends in parasitology",
+    "pubDate": "2026-10-28",
+    "authors": [
+      "Rihet P",
+      "Marquet S"
+    ],
+    "pmid": "42951726",
+    "doi": "10.1016/j.pt.2026.10.003",
+    "why": "Hemoglobin S (HbS), which confers protection against malaria, could exert selective pressure on the genome of Plasmodium falciparum. Forster et al. identified new parasite variants, including two variants shared by CLAG3 paralogs, that reduce the protective effect of HbS. These findings support the hypothesis of coevolution between humans and parasites."
+  },
+  {
     "id": "pubmed-42951725",
     "title": "From Asia to Africa: drivers of antimalarial drug resistance emergence and spread.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42951725/",
@@ -62,8 +168,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 98,
+    "ageHours": 52.2,
+    "score": 90,
     "journal": "Trends in parasitology",
     "pubDate": "2026-10-28",
     "authors": [
@@ -86,8 +192,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 96,
+    "ageHours": 52.2,
+    "score": 88,
     "journal": "Travel medicine and infectious disease",
     "pubDate": "2026-10-28",
     "authors": [
@@ -113,8 +219,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 68,
+    "ageHours": 52.2,
+    "score": 62,
     "journal": "Organic & biomolecular chemistry",
     "pubDate": "2026-10-28",
     "authors": [
@@ -140,7 +246,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
+    "ageHours": 76.2,
     "score": 100,
     "journal": "Acta tropica",
     "pubDate": "2026-10-27",
@@ -167,8 +273,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 92,
+    "ageHours": 76.2,
+    "score": 84,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-10-27",
     "authors": [
@@ -194,8 +300,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 90,
+    "ageHours": 76.2,
+    "score": 82,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-27",
     "authors": [
@@ -221,8 +327,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 88,
+    "ageHours": 76.2,
+    "score": 80,
     "journal": "G3 (Bethesda, Md.)",
     "pubDate": "2026-10-27",
     "authors": [
@@ -248,8 +354,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 86,
+    "ageHours": 100.2,
+    "score": 78,
     "journal": "The Journal of antibiotics",
     "pubDate": "2026-10-26",
     "authors": [
@@ -275,7 +381,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
+    "ageHours": 124.2,
     "score": 96,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-25",
@@ -302,7 +408,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
+    "ageHours": 148.2,
     "score": 98,
     "journal": "Journal of neuroimmunology",
     "pubDate": "2026-10-24",
@@ -328,7 +434,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
+    "ageHours": 148.2,
     "score": 94,
     "journal": "Biochemical pharmacology",
     "pubDate": "2026-10-24",
@@ -355,8 +461,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
-    "score": 82,
+    "ageHours": 148.2,
+    "score": 74,
     "journal": "Military medicine",
     "pubDate": "2026-10-24",
     "authors": [
@@ -382,7 +488,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
+    "ageHours": 172.2,
     "score": 92,
     "journal": "mBio",
     "pubDate": "2026-10-23",
@@ -409,8 +515,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 88,
+    "ageHours": 172.2,
+    "score": 90,
     "journal": "Veterinary research communications",
     "pubDate": "2026-10-23",
     "authors": [
@@ -431,8 +537,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 80,
+    "ageHours": 172.2,
+    "score": 72,
     "journal": "Journal of natural products",
     "pubDate": "2026-10-23",
     "authors": [
@@ -458,8 +564,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 78,
+    "ageHours": 172.2,
+    "score": 70,
     "journal": "Natural product research",
     "pubDate": "2026-10-23",
     "authors": [
@@ -475,83 +581,6 @@ window.researchItems = [
     "why": "Malaria continues to be a profound global health problem, with escalating drug resistance in Plasmodium falciparum paving way for the necessity of affordable synthetic antimalarial agents. A virtual library of 300 tetraoxane derivatives was designed and subjected to in silico ADMET and molecular docking against falcipain-2 (PDB: 3BPF). Seven classified drug candidates (KD-1 to KD-7) were synthesised via two-step acid-catalyzed cyclic condensation of..."
   },
   {
-    "id": "pubmed-42910591",
-    "title": "TGIF is a golgin-like protein required for Golgi structural maintenance and function in Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42910591/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 90,
-    "journal": "Journal of cell science",
-    "pubDate": "2026-10-22",
-    "authors": [
-      "Pearce C",
-      "Heaslip AT"
-    ],
-    "pmid": "42910591",
-    "doi": "10.1242/jcs.265051",
-    "why": "The Golgi is an essential organelle that serves as a central hub for endomembrane trafficking. In the protozoan parasite Toxoplasma gondii, a single Golgi stack is essential for parasite survival; however, the molecular determinants governing Golgi structure and function remain poorly understood. Here, we characterize a Golgi-associated protein that is required for Golgi integrity and function, which we named Toxoplasma Golgi Integrity Factor (TGIF). Loss..."
-  },
-  {
-    "id": "pubmed-42911959",
-    "title": "Transgenic Plasmodium berghei expressing P. vivax pre-erythrocytic antigens SSP3 and SPECT1 to elucidate their efficacy towards vaccine development.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42911959/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 76,
-    "journal": "PLoS neglected tropical diseases",
-    "pubDate": "2026-10-22",
-    "authors": [
-      "Kolli SK",
-      "Annamalai Subramani P",
-      "Ramesar J",
-      "Nicholas J",
-      "Ogbondah MM",
-      "Barnes SJ"
-    ],
-    "pmid": "42911959",
-    "doi": "10.1371/journal.pntd.0014810",
-    "why": "The development of an efficacious vaccine against Plasmodium vivax malaria remains a top global health priority. P. vivax forms hypnozoites, dormant forms of the parasite in the liver that can become reactivated after a few months or even years, causing relapse malaria and enhancing transmission. Therefore, targeting antigens expressed during the pre-erythrocytic stages offers the potential to prevent clinical malaria from both primary and relapse..."
-  },
-  {
-    "id": "pubmed-42911912",
-    "title": "Carbothioamide functionalized paroxetine analogues as antiparasitic agents targeting the hypoxanthine-guanine-xanthine phosphoribosyltransferase enzyme: Synthesis, characterization, biochemical, biophysical, and in silico studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42911912/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 74,
-    "journal": "PloS one",
-    "pubDate": "2026-10-22",
-    "authors": [
-      "Hammal L",
-      "Ali M",
-      "Zafar N",
-      "Mari SH",
-      "Zafar H",
-      "Wahab AT"
-    ],
-    "pmid": "42911912",
-    "doi": "10.1371/journal.pone.0359519",
-    "why": "Hypoxanthine guanine xanthine phosphoribosyl transferase (HGXPRT) is one of the central enzymes of purine salvage pathway of protozoan parasites, including Plasmodium. These parasites are purine auxotrophs, and rely on purine salvage pathway for nucleic acid synthesis. Inhibiting the enzymatic activity can effectively reduce the parasite- induced infections, including malaria. In this context, a library of new carbothioamide derivatives 1-17 of paroxetine..."
-  },
-  {
     "id": "pubmed-42905825",
     "title": "Accessing invasion-competent Plasmodium vivax merozoites reveals antibody-dependent NK cell activation.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42905825/",
@@ -563,8 +592,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 196.2,
-    "score": 98,
+    "ageHours": 220.2,
+    "score": 96,
     "journal": "Science advances",
     "pubDate": "2026-10-21",
     "authors": [
@@ -580,6 +609,34 @@ window.researchItems = [
     "why": "Malaria pathogenesis and clinical symptoms arise from blood-stage replication of Plasmodium parasites, which depends on rapid invasion of red blood cells by merozoites. Despite the central importance of this stage, direct functional studies of Plasmodium vivax (P. vivax) merozoites remain limited by the lack of continuous in vitro culture and restricted access to viable, invasion-competent merozoites from clinical isolates. Consequently, key aspects of P..."
   },
   {
+    "id": "pubmed-42842370",
+    "title": "Paralogous mutations in the Plasmodium falciparum surface anion channel associate with reduced protection due to sickle hemoglobin.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842370/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 556.2,
+    "score": 94,
+    "journal": "Cell reports",
+    "pubDate": "2026-10-07",
+    "authors": [
+      "Forster AJ",
+      "Docker J",
+      "Healey K",
+      "Zhang Z",
+      "Trebes A",
+      "Buck D"
+    ],
+    "pmid": "42842370",
+    "doi": "10.1016/j.celrep.2026.117938",
+    "why": "Genome-wide association studies of pathogens can uncover new aspects of infection biology and inform interventions. Here, we sequence Plasmodium falciparum genomes from 831 infections of Gambian children, identifying an association with disease severity on chromosome 1 which replicates in Kenyan infections. We then incorporate previously published data from the Gambia, Ghana, Mali, and Kenya in a meta-analysis of association between parasite variation and..."
+  },
+  {
     "id": "pubmed-42770718",
     "title": "mSphere of Influence: Autoantibodies during malaria-a historical observation taking the modern spotlight.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42770718/",
@@ -590,8 +647,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 892.2,
-    "score": 70,
+    "ageHours": 916.2,
+    "score": 64,
     "journal": "mSphere",
     "pubDate": "2026-09-22",
     "authors": [
@@ -600,32 +657,5 @@ window.researchItems = [
     "pmid": "42770718",
     "doi": "10.1128/msphere.00906-25",
     "why": "Juan Rivera-Correa works in the field of immunology of tropical infectious diseases, focusing on the role of autoimmune responses in malaria. In this mSphere of Influence article, he discusses the papers by Rosenberg and Daniel-Ribeiro, which were two of the first papers to report the presence of autoantibodies in malaria patients, changing the paradigm and blurring the line between autoimmune disorders and infectious diseases."
-  },
-  {
-    "id": "pubmed-42709494",
-    "title": "Previous malaria exposure attenuates monocyte-driven inflammation and correlates with modulation of the B cell response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709494/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 1228.2,
-    "score": 96,
-    "journal": "JCI insight",
-    "pubDate": "2026-09-08",
-    "authors": [
-      "Lautenbach MJ",
-      "Xi P",
-      "Kleberg L",
-      "Courey-Ghaouzi AD",
-      "Gower MS",
-      "Sousa Silva C"
-    ],
-    "pmid": "42709494",
-    "doi": "10.1172/jci.insight.199206",
-    "why": "Clinical immunity to malaria develops after repeated malaria episodes. In this process, the inflammatory response is modulated to respond less vigorously upon reinfection. Monocytes are a major source of proinflammatory mediators during blood-stage infection and are known to adapt to repeated pathogen exposure. Here, we investigated the effect of previous malaria exposure on monocytes during blood-stage malaria by comparing the response in previously..."
   }
 ];
