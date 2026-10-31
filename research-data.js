@@ -1,5 +1,164 @@
-window.researchLastUpdated = "2026-10-30 04:13:36 +0000";
+window.researchLastUpdated = "2026-10-31 03:55:09 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-42962858",
+    "title": "TAK0104 suppresses intracellular Toxoplasma gondii proliferation through disruption of adenosine kinase-associated purine metabolism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962858/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.9,
+    "score": 100,
+    "journal": "Molecular and biochemical parasitology",
+    "pubDate": "2026-10-30",
+    "authors": [
+      "Alraey Y",
+      "Alharbi MH",
+      "Saleh BH",
+      "Saif A"
+    ],
+    "pmid": "42962858",
+    "doi": "10.1016/j.molbiopara.2026.111790",
+    "why": "BACKGROUND AND AIM: Toxoplasma gondii relies predominantly on purine salvage pathways for intracellular survival due to the absence of complete de novo purine biosynthesis. Targeting parasite purine-associated metabolism, therefore, represents a promising therapeutic strategy for toxoplasmosis. METHODS: An integrated computational and experimental workflow was employed to identify candidate inhibitors targeting T. gondii adenosine kinase (AK)..."
+  },
+  {
+    "id": "pubmed-42961996",
+    "title": "High quality chromosomal genome assemblies of three human Plasmodium species directly from natural infections.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961996/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.9,
+    "score": 100,
+    "journal": "PLoS pathogens",
+    "pubDate": "2026-10-30",
+    "authors": [
+      "Dogga SK",
+      "Rop JC",
+      "Makunin A",
+      "Teltscher F",
+      "Pointon DL",
+      "Sims Y"
+    ],
+    "pmid": "42961996",
+    "doi": "10.1371/journal.ppat.1014754",
+    "why": "Malaria, caused by mosquito-transmitted Plasmodium parasites, remains a major global health challenge. While P. falciparum accounts for most malaria deaths, the lesser-studied P. ovale spp. and P. malariae also contribute to disease burden across many endemic regions, typically causing milder but chronic infections. Here, we generated high quality, chromosome-level reference genomes for P. ovale wallikeri, P. malariae, and P. falciparum directly from..."
+  },
+  {
+    "id": "pubmed-42961129",
+    "title": "Potent reaction hijacking inhibitors of Plasmodium falciparum asparagine tRNA synthetase.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961129/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.9,
+    "score": 100,
+    "journal": "mBio",
+    "pubDate": "2026-10-30",
+    "authors": [
+      "Ye X",
+      "Esherick LY",
+      "Ketprasit N",
+      "Narwal SK",
+      "Godoy LC",
+      "Boonyalai N"
+    ],
+    "pmid": "42961129",
+    "doi": "10.1128/mbio.01884-26",
+    "why": "UNLABELLED: Malaria remains one of the major threats to human health. Breakthrough drugs with high potency and low resistance risk are needed to combat the ever-increasing resistance to currently deployed antimalarials. Here, we explore a series of 4-aminoquinazoline-based sulfonamides (4AQS), with a synthetically accessible scaffold. Exemplars exhibit nanomolar potency against blood stage Plasmodium cultures, with up to 300-fold selectivity compared with..."
+  },
+  {
+    "id": "pubmed-42961036",
+    "title": "Diagnostic performance of the miLab MAL AI-driven automated digital microscopy system versus standard microscopy for Plasmodium spp. detection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961036/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 27.9,
+    "score": 96,
+    "journal": "Journal of clinical microbiology",
+    "pubDate": "2026-10-30",
+    "authors": [
+      "Monpierre L",
+      "Elaiba Y",
+      "Louboutin N",
+      "Ruiz P",
+      "Foulet F",
+      "Houzé S"
+    ],
+    "pmid": "42961036",
+    "doi": "10.1128/jcm.00254-26",
+    "why": "Microscopic detection of Plasmodium spp. using thin and thick blood smears remains the gold standard for diagnosing malaria, but its performance is highly dependent on stain quality and microscopist expertise. Recently, artificial intelligence (AI)-based technologies have enhanced laboratory performance in malaria diagnosis. This study aimed to evaluate the performance of miLab MAL (Noul, Inc., Republic of Korea), an AI-assisted microscopy system designed..."
+  },
+  {
+    "id": "pubmed-42961479",
+    "title": "Zoonotic diseases posing occupational risk to veterinary personnel during clinical management of dogs and cats: A narrative review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961479/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.9,
+    "score": 98,
+    "journal": "European journal of microbiology & immunology",
+    "pubDate": "2026-10-29",
+    "authors": [
+      "Dunay MP",
+      "Balogh M",
+      "Oláh ÁA",
+      "Dunay IR"
+    ],
+    "pmid": "42961479",
+    "doi": "10.1556/1886.2026.00053",
+    "why": "BACKGROUND: Veterinary professionals are among the occupational groups most exposed to zoonotic infections, and the exposure mainly occurs during the everyday clinical treatment of common household pets. Dogs and cats carry a wide and taxonomically varied range of zoonotic pathogens. These are able to infect people in several ways: through bites and scratches, via contact with urine or faeces, by inhaling aerosols, through direct contact on the skin, and..."
+  },
+  {
+    "id": "pubmed-42958641",
+    "title": "Malaria in a US resident blood donor following a 3-month travel deferral.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958641/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 51.9,
+    "score": 94,
+    "journal": "Transfusion",
+    "pubDate": "2026-10-29",
+    "authors": [
+      "Boop S",
+      "Finnis MC",
+      "Kirschke D",
+      "Moncayo A",
+      "Sundin A",
+      "Thompson J"
+    ],
+    "pmid": "42958641",
+    "doi": "10.1111/trf.70452",
+    "why": "BACKGROUND: The United States defers blood donations from people who have recently traveled to or lived in malaria-endemic areas. While transfusion-transmitted malaria is rare, it primarily occurs when the donor is a previous resident of a malaria-endemic area infected with Plasmodium parasites. In 2020, the travel deferral period was revised for US residents from 1 year to 3 months after leaving a malaria-endemic area. CASE REPORT: A single unit of..."
+  },
   {
     "id": "pubmed-42957119",
     "title": "Site-specific distribution of pfhrp2 and pfhrp3 PCR non-amplification profiles in southern Côte d'Ivoire.",
@@ -11,8 +170,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 100,
+    "ageHours": 51.9,
+    "score": 92,
     "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
     "pubDate": "2026-10-29",
     "authors": [
@@ -38,8 +197,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 98,
+    "ageHours": 51.9,
+    "score": 90,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-29",
     "authors": [
@@ -65,8 +224,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 28.2,
-    "score": 96,
+    "ageHours": 51.9,
+    "score": 88,
     "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
     "pubDate": "2026-10-29",
     "authors": [
@@ -90,8 +249,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 100,
+    "ageHours": 75.9,
+    "score": 98,
     "journal": "RNA biology",
     "pubDate": "2026-10-28",
     "authors": [
@@ -118,8 +277,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 98,
+    "ageHours": 75.9,
+    "score": 96,
     "journal": "PLoS pathogens",
     "pubDate": "2026-10-28",
     "authors": [
@@ -145,8 +304,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 92,
+    "ageHours": 75.9,
+    "score": 84,
     "journal": "Trends in parasitology",
     "pubDate": "2026-10-28",
     "authors": [
@@ -168,8 +327,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 90,
+    "ageHours": 75.9,
+    "score": 82,
     "journal": "Trends in parasitology",
     "pubDate": "2026-10-28",
     "authors": [
@@ -192,8 +351,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 88,
+    "ageHours": 75.9,
+    "score": 80,
     "journal": "Travel medicine and infectious disease",
     "pubDate": "2026-10-28",
     "authors": [
@@ -219,8 +378,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 52.2,
-    "score": 62,
+    "ageHours": 75.9,
+    "score": 52,
     "journal": "Organic & biomolecular chemistry",
     "pubDate": "2026-10-28",
     "authors": [
@@ -246,8 +405,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 100,
+    "ageHours": 99.9,
+    "score": 96,
     "journal": "Acta tropica",
     "pubDate": "2026-10-27",
     "authors": [
@@ -273,8 +432,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 84,
+    "ageHours": 99.9,
+    "score": 76,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-10-27",
     "authors": [
@@ -300,8 +459,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 82,
+    "ageHours": 99.9,
+    "score": 74,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-10-27",
     "authors": [
@@ -327,8 +486,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 76.2,
-    "score": 80,
+    "ageHours": 99.9,
+    "score": 72,
     "journal": "G3 (Bethesda, Md.)",
     "pubDate": "2026-10-27",
     "authors": [
@@ -354,8 +513,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 100.2,
-    "score": 78,
+    "ageHours": 123.9,
+    "score": 70,
     "journal": "The Journal of antibiotics",
     "pubDate": "2026-10-26",
     "authors": [
@@ -381,8 +540,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 124.2,
-    "score": 96,
+    "ageHours": 147.9,
+    "score": 92,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-10-25",
     "authors": [
@@ -408,8 +567,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 98,
+    "ageHours": 171.9,
+    "score": 94,
     "journal": "Journal of neuroimmunology",
     "pubDate": "2026-10-24",
     "authors": [
@@ -434,8 +593,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 94,
+    "ageHours": 171.9,
+    "score": 90,
     "journal": "Biochemical pharmacology",
     "pubDate": "2026-10-24",
     "authors": [
@@ -461,8 +620,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 148.2,
-    "score": 74,
+    "ageHours": 171.9,
+    "score": 66,
     "journal": "Military medicine",
     "pubDate": "2026-10-24",
     "authors": [
@@ -488,8 +647,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 92,
+    "ageHours": 195.9,
+    "score": 88,
     "journal": "mBio",
     "pubDate": "2026-10-23",
     "authors": [
@@ -515,8 +674,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 90,
+    "ageHours": 195.9,
+    "score": 86,
     "journal": "Veterinary research communications",
     "pubDate": "2026-10-23",
     "authors": [
@@ -537,8 +696,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 72,
+    "ageHours": 195.9,
+    "score": 64,
     "journal": "Journal of natural products",
     "pubDate": "2026-10-23",
     "authors": [
@@ -564,8 +723,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 172.2,
-    "score": 70,
+    "ageHours": 195.9,
+    "score": 62,
     "journal": "Natural product research",
     "pubDate": "2026-10-23",
     "authors": [
@@ -592,8 +751,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 220.2,
-    "score": 96,
+    "ageHours": 243.9,
+    "score": 94,
     "journal": "Science advances",
     "pubDate": "2026-10-21",
     "authors": [
@@ -609,6 +768,33 @@ window.researchItems = [
     "why": "Malaria pathogenesis and clinical symptoms arise from blood-stage replication of Plasmodium parasites, which depends on rapid invasion of red blood cells by merozoites. Despite the central importance of this stage, direct functional studies of Plasmodium vivax (P. vivax) merozoites remain limited by the lack of continuous in vitro culture and restricted access to viable, invasion-competent merozoites from clinical isolates. Consequently, key aspects of P..."
   },
   {
+    "id": "pubmed-42866248",
+    "title": "Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42866248/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 459.9,
+    "score": 58,
+    "journal": "RSC advances",
+    "pubDate": "2026-10-12",
+    "authors": [
+      "Tchamgoue J",
+      "Mountessou BYG",
+      "Yepdjou TYD",
+      "Trucksess A",
+      "van Geelen L",
+      "Tchoffo KJN"
+    ],
+    "pmid": "42866248",
+    "doi": "10.1039/d6ra06849a",
+    "why": "A recent review on Penicillium species highlighted steroids as a taxonomic marker of this genus. In the current study, three steroids (1-3), an acetophenone (4), and thirteen known compounds (5-17) were isolated from the solid culture of Penicillium tanzanicum, isolated from bull dung. The structures of the compounds were established using extensive spectroscopic and spectrometric analyses (NMR, HRMS) and by comparison with published data. The absolute..."
+  },
+  {
     "id": "pubmed-42842370",
     "title": "Paralogous mutations in the Plasmodium falciparum surface anion channel associate with reduced protection due to sickle hemoglobin.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842370/",
@@ -620,8 +806,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 556.2,
-    "score": 94,
+    "ageHours": 579.9,
+    "score": 92,
     "journal": "Cell reports",
     "pubDate": "2026-10-07",
     "authors": [
@@ -647,8 +833,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 916.2,
-    "score": 64,
+    "ageHours": 939.9,
+    "score": 54,
     "journal": "mSphere",
     "pubDate": "2026-09-22",
     "authors": [

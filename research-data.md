@@ -1,16 +1,27 @@
-# PubMed Research Feed — 2026-10-30 04:13:36 +0000
+# PubMed Research Feed — 2026-10-31 03:55:09 +0000
 
-共 **25** 篇文章（Plasmodium 20 · Malaria parasite 4 · Toxoplasma 6）
+共 **32** 篇文章（Toxoplasma 8 · Plasmodium 25 · Malaria parasite 5）
 
 ---
+
+## 2026-10-30
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [TAK0104 suppresses intracellular Toxoplasma gondii proliferation through disruption of adenosine kinase-associated purine metabolism.](https://pubmed.ncbi.nlm.nih.gov/42962858/) | Molecular and biochemical parasitology | Toxoplasma | [10.1016/j.molbiopara.2026.111790](https://doi.org/10.1016/j.molbiopara.2026.111790) |
+| 2 | [High quality chromosomal genome assemblies of three human Plasmodium species directly from natural infections.](https://pubmed.ncbi.nlm.nih.gov/42961996/) | PLoS pathogens | Plasmodium | [10.1371/journal.ppat.1014754](https://doi.org/10.1371/journal.ppat.1014754) |
+| 3 | [Potent reaction hijacking inhibitors of Plasmodium falciparum asparagine tRNA synthetase.](https://pubmed.ncbi.nlm.nih.gov/42961129/) | mBio | Plasmodium · Malaria parasite | [10.1128/mbio.01884-26](https://doi.org/10.1128/mbio.01884-26) |
+| 4 | [Diagnostic performance of the miLab MAL AI-driven automated digital microscopy system versus standard microscopy for Plasmodium spp. detection.](https://pubmed.ncbi.nlm.nih.gov/42961036/) | Journal of clinical microbiology | Plasmodium | [10.1128/jcm.00254-26](https://doi.org/10.1128/jcm.00254-26) |
 
 ## 2026-10-29
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Site-specific distribution of pfhrp2 and pfhrp3 PCR non-amplification profiles in southern Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42957119/) | Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases | Plasmodium | [10.1016/j.meegid.2026.106049](https://doi.org/10.1016/j.meegid.2026.106049) |
-| 2 | [Clinical Plasmodium falciparum and Plasmodium vivax Infections in the Ethiopian Highlands Were Uncommonly Associated with Recent Travel.](https://pubmed.ncbi.nlm.nih.gov/42956399/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0344](https://doi.org/10.4269/ajtmh.26-0344) |
-| 3 | [Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.](https://pubmed.ncbi.nlm.nih.gov/42955868/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Plasmodium | [10.1177/15303667261503155](https://doi.org/10.1177/15303667261503155) |
+| 1 | [Zoonotic diseases posing occupational risk to veterinary personnel during clinical management of dogs and cats: A narrative review.](https://pubmed.ncbi.nlm.nih.gov/42961479/) | European journal of microbiology & immunology | Toxoplasma | [10.1556/1886.2026.00053](https://doi.org/10.1556/1886.2026.00053) |
+| 2 | [Malaria in a US resident blood donor following a 3-month travel deferral.](https://pubmed.ncbi.nlm.nih.gov/42958641/) | Transfusion | Plasmodium | [10.1111/trf.70452](https://doi.org/10.1111/trf.70452) |
+| 3 | [Site-specific distribution of pfhrp2 and pfhrp3 PCR non-amplification profiles in southern Côte d'Ivoire.](https://pubmed.ncbi.nlm.nih.gov/42957119/) | Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases | Plasmodium | [10.1016/j.meegid.2026.106049](https://doi.org/10.1016/j.meegid.2026.106049) |
+| 4 | [Clinical Plasmodium falciparum and Plasmodium vivax Infections in the Ethiopian Highlands Were Uncommonly Associated with Recent Travel.](https://pubmed.ncbi.nlm.nih.gov/42956399/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0344](https://doi.org/10.4269/ajtmh.26-0344) |
+| 5 | [Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.](https://pubmed.ncbi.nlm.nih.gov/42955868/) | Vector borne and zoonotic diseases (Larchmont, N.Y.) | Plasmodium | [10.1177/15303667261503155](https://doi.org/10.1177/15303667261503155) |
 
 ## 2026-10-28
 
@@ -66,6 +77,12 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Accessing invasion-competent Plasmodium vivax merozoites reveals antibody-dependent NK cell activation.](https://pubmed.ncbi.nlm.nih.gov/42905825/) | Science advances | Plasmodium · Malaria parasite | [10.1126/sciadv.aeh3417](https://doi.org/10.1126/sciadv.aeh3417) |
+
+## 2026-10-12
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
 
 ## 2026-10-07
 
