@@ -1,23 +1,36 @@
-# PubMed Research Feed — 2026-11-03 05:12:05 +0000
+# PubMed Research Feed — 2026-11-04 04:42:08 +0000
 
-共 **51** 篇文章（Plasmodium 25 · Malaria parasite 13 · Toxoplasma 18）
+共 **55** 篇文章（Plasmodium 25 · Malaria parasite 15 · Toxoplasma 21）
 
 ---
+
+## 2026-11-03
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [A diagnostic prediction model for early diagnosis of imported malaria in a European non-endemic setting: Development and temporal validation in a 17-year cohort.](https://pubmed.ncbi.nlm.nih.gov/42977674/) | Enfermedades infecciosas y microbiologia clinica (English ed.) | Plasmodium | [10.1016/j.eimce.2026.503304](https://doi.org/10.1016/j.eimce.2026.503304) |
+| 2 | [Spatial patterns of mosquito communities and monkey malaria vectors in a tropical riverine forest in Sabah, Malaysian Borneo.](https://pubmed.ncbi.nlm.nih.gov/42976202/) | PLoS neglected tropical diseases | Plasmodium · Malaria parasite | [10.1371/journal.pntd.0014849](https://doi.org/10.1371/journal.pntd.0014849) |
+| 3 | [MIF deficiency exacerbates Plasmodium berghei ANKA induced cerebral malaria, associated with enhanced intracerebral T lymphocyte infiltration.](https://pubmed.ncbi.nlm.nih.gov/42977110/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108394](https://doi.org/10.1016/j.actatropica.2026.108394) |
+| 4 | [A Plasmodium knowlesi A1-H.1 transcriptome time course focusing on the late asexual blood stages.](https://pubmed.ncbi.nlm.nih.gov/42976206/) | PLoS pathogens | Plasmodium | [10.1371/journal.ppat.1014727](https://doi.org/10.1371/journal.ppat.1014727) |
+| 5 | [Identifying subgroups with decreased performance on malaria rapid diagnostic tests in Malawi.](https://pubmed.ncbi.nlm.nih.gov/42976156/) | PLOS global public health | Plasmodium | [10.1371/journal.pgph.0007366](https://doi.org/10.1371/journal.pgph.0007366) |
+| 6 | [Efficacy of artemisinin derivatives and kelch13 mutations in Plasmodium falciparum: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42529832/) | Transactions of the Royal Society of Tropical Medicine and Hygiene | Malaria parasite | [10.1093/trstmh/trag086](https://doi.org/10.1093/trstmh/trag086) |
 
 ## 2026-11-02
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [The mosquito-stage transcriptome of the neglected malaria parasite Plasmodium malariae reveals species-specific gene expression signatures and functional adaptations.](https://pubmed.ncbi.nlm.nih.gov/42970566/) | PLoS neglected tropical diseases | Plasmodium · Malaria parasite | [10.1371/journal.pntd.0014845](https://doi.org/10.1371/journal.pntd.0014845) |
-| 2 | [The Biology of Malaria Parasite Liver Infection.](https://pubmed.ncbi.nlm.nih.gov/42373301/) | Cold Spring Harbor perspectives in medicine | Malaria parasite | [10.1101/cshperspect.a041857](https://doi.org/10.1101/cshperspect.a041857) |
+| 2 | [Sphenoidal Meningioma with Focal Seizures Masquerading as Immune Reconstitution Inflammatory Syndrome in HIV Patient.](https://pubmed.ncbi.nlm.nih.gov/42975236/) | The Nigerian postgraduate medical journal | Toxoplasma | [10.4103/npmj.npmj_39_26](https://doi.org/10.4103/npmj.npmj_39_26) |
+| 3 | [The Biology of Malaria Parasite Liver Infection.](https://pubmed.ncbi.nlm.nih.gov/42373301/) | Cold Spring Harbor perspectives in medicine | Malaria parasite | [10.1101/cshperspect.a041857](https://doi.org/10.1101/cshperspect.a041857) |
 
 ## 2026-11-01
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Nucleotide-resolution mapping of RNA N6-methyladenosine (m6A) modifications and comprehensive analysis of global polyadenylation events in mRNA 3'-end processing in the malaria pathogen Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42952048/) | RNA biology | Plasmodium · Malaria parasite | [10.1080/15476286.2026.2753979](https://doi.org/10.1080/15476286.2026.2753979) |
-| 2 | [Exploiting Plasmodium Mitochondrial Pathways for Next-Generation Antimalarial Drug Development: Prospects and Updates.](https://pubmed.ncbi.nlm.nih.gov/42924446/) | Drug development research | Plasmodium · Malaria parasite | [10.1002/ddr.70399](https://doi.org/10.1002/ddr.70399) |
-| 3 | [Computational Optimisation of EtAMA1 Reveals Its Potential as a Vaccine Candidate Against Eimeria tenella.](https://pubmed.ncbi.nlm.nih.gov/42922405/) | Veterinary medicine and science | Plasmodium | [10.1002/vms3.71302](https://doi.org/10.1002/vms3.71302) |
+| 1 | [Molecular Survey of Meat-Borne Zoonotic Protozoa in Food Animals and Poultry in Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42977704/) | Veterinary medicine and science | Toxoplasma | [10.1002/vms3.71318](https://doi.org/10.1002/vms3.71318) |
+| 2 | [Toxoplasma gondii in Ethiopia: A Systematic Review and Meta-Analysis of Infection Prevalence and Associated Risk Factors in Humans and Animals.](https://pubmed.ncbi.nlm.nih.gov/42977694/) | Veterinary medicine and science | Toxoplasma | [10.1002/vms3.71293](https://doi.org/10.1002/vms3.71293) |
+| 3 | [Nucleotide-resolution mapping of RNA N6-methyladenosine (m6A) modifications and comprehensive analysis of global polyadenylation events in mRNA 3'-end processing in the malaria pathogen Plasmodium falciparum.](https://pubmed.ncbi.nlm.nih.gov/42952048/) | RNA biology | Plasmodium · Malaria parasite | [10.1080/15476286.2026.2753979](https://doi.org/10.1080/15476286.2026.2753979) |
+| 4 | [Exploiting Plasmodium Mitochondrial Pathways for Next-Generation Antimalarial Drug Development: Prospects and Updates.](https://pubmed.ncbi.nlm.nih.gov/42924446/) | Drug development research | Plasmodium · Malaria parasite | [10.1002/ddr.70399](https://doi.org/10.1002/ddr.70399) |
 
 ## 2026-10-31
 
@@ -66,29 +79,11 @@
 | 3 | [Epidemiology of Urban Malaria in the Greater Accra Region of Ghana: Predictors and Effect Modification across a Transmission Season.](https://pubmed.ncbi.nlm.nih.gov/42945548/) | The American journal of tropical medicine and hygiene | Plasmodium | [10.4269/ajtmh.26-0325](https://doi.org/10.4269/ajtmh.26-0325) |
 | 4 | [De novo assembly of complete Plasmodium falciparum isolate genomes using PacBio HiFi sequencing technology.](https://pubmed.ncbi.nlm.nih.gov/42936869/) | G3 (Bethesda, Md.) | Plasmodium | [10.1093/g3journal/jkag302](https://doi.org/10.1093/g3journal/jkag302) |
 
-## 2026-10-12
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Sterol-like natural products and other secondary metabolites with antimicrobial and antiplasmodial activities from Penicillium tanzanicum.](https://pubmed.ncbi.nlm.nih.gov/42866248/) | RSC advances | Plasmodium | [10.1039/d6ra06849a](https://doi.org/10.1039/d6ra06849a) |
-
-## 2026-10-08
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Demographic and epidemiological patterns of reported malaria cases in Aseer Region, Saudi Arabia: An eight-year surveillance analysis.](https://pubmed.ncbi.nlm.nih.gov/42854323/) | Journal of infection and public health | Plasmodium | [10.1016/j.jiph.2026.103384](https://doi.org/10.1016/j.jiph.2026.103384) |
-
 ## 2026-10-07
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Paralogous mutations in the Plasmodium falciparum surface anion channel associate with reduced protection due to sickle hemoglobin.](https://pubmed.ncbi.nlm.nih.gov/42842370/) | Cell reports | Malaria parasite | [10.1016/j.celrep.2026.117938](https://doi.org/10.1016/j.celrep.2026.117938) |
-
-## 2026-10-01
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Malaria trends in Bobo-Dioulasso, Burkina Faso (2011-2024): a retrospective laboratory-based study with implications for malaria control.](https://pubmed.ncbi.nlm.nih.gov/42889971/) | Parasite epidemiology and control | Plasmodium | [10.1016/j.parepi.2026.e00551](https://doi.org/10.1016/j.parepi.2026.e00551) |
 
 ## 2026-09-30
 
@@ -107,12 +102,6 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [A review on toxoplasma gondii research in Armenia: Gaps and opportunities.](https://pubmed.ncbi.nlm.nih.gov/42774752/) | Parasite epidemiology and control | Toxoplasma | [10.1016/j.parepi.2026.e00544](https://doi.org/10.1016/j.parepi.2026.e00544) |
-
-## 2026-09-03
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Burning microorganisms: the responses of litter myxomycetes to different fire intensities in a tropical savanna.](https://pubmed.ncbi.nlm.nih.gov/42875124/) | Fungal biology | Plasmodium | [10.1016/j.funbio.2026.101857](https://doi.org/10.1016/j.funbio.2026.101857) |
 
 ## 2026-09-01
 
