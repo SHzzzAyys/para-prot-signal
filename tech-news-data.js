@@ -1,5 +1,37 @@
-window.techNewsLastUpdated = "2026-11-07 06:23:06 +0000";
+window.techNewsLastUpdated = "2026-11-08 06:30:28 +0000";
 window.techNewsItems = [
+  {
+    "title": "Broken MSI Laptop Was Stripped Down To The Bare Motherboard And Its Essentials To Run A Custom Home Assistant, With A Little Help From Claude",
+    "link": "https://wccftech.com/user-builds-frankenstein-homelab-stripping-old-msi-laptop-motherboard-wall-mount/",
+    "description": "MSI’s older laptops have notoriously terrible build quality, but one victim didn’t end up discarding the hardware after the display was separated from the assembly. Instead, the owner decided to pursue extreme resourcefulness and repurposed the bare motherboard with RAM and storage to make a server that controls his lights, AC, and more. By wall mounting the MSI motherboard and enabling “Wake on Power,” the repurposed server automatically switches on to maintain connectivity The inventive setup ",
+    "pub_date": "2026-11-08",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node [Update]",
+    "link": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/",
+    "description": "Update - The latest word on the street is that TSMC hasn’t just been tapped to mass produce NVIDIA’s NVHBM base die, but the GPU manufacturer has reportedly requested the Taiwanese firm to begin 3D DRAM production. It didn’t take long for TSMC to comment, as it denies any plans to mass produce 3D DRAM, choosing to stick with logic chip manufacturing. Samsung has typically adopted a “turnkey” approach when developing HBM’s core and base dies, but according to the latest report, NVIDIA’s custom NV",
+    "pub_date": "2026-11-08",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "pub_date": "2026-11-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "pub_date": "2026-11-07",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
   {
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -7,6 +39,190 @@ window.techNewsItems = [
     "pub_date": "2026-11-07",
     "source": "TechCrunch AI",
     "category": "AI 产业"
+  },
+  {
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+    "pub_date": "2026-11-07",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+    "pub_date": "2026-11-07",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+    "pub_date": "2026-11-07",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
+    "link": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+    "description": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to $899 with a Ryzen 5 processor, 16GB of DDR5 memory, and a 1TB SSD",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "This week in Tom's Hardware Premium: November 7, 2026",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+    "description": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+    "description": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
+    "link": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
+    "description": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the entire month, as long as the stock lasts.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+    "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+    "description": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overall performance, poor efficiency, and high temps.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+    "description": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+    "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+    "description": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+    "description": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+    "link": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+    "description": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
+    "description": "The discovery of thousands of archival media assets led to the creation of Anniversary Editions of some classic titles.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+    "link": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+    "description": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+    "pub_date": "2026-11-07",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "VANTRUE’s Nexus Series Of Dash Cams Are Up To 17% Off On Amazon With Up To 15% Discount At Checkout; Get 360-Degree Surveillance, Night Vision & More, From $250",
+    "link": "https://wccftech.com/vantrue-nexus-dash-cam-lineup-amazon-deals-17-percent-off/",
+    "description": "Driving through unpredictable city traffic or leaving your car parked in poorly lit lots carries constant risk, especially when standard dash cams leave massive blind spots around your vehicle’s sides and cabin. There’s also the problem of poor image quality that delivers subpar performance in low-light surroundings, but VANTRUE has scaled these obstacles with its top-end Nexus dash cam lineup. The N5S, N4 Pro S, and N4S are currently up to 17 percent off on Amazon, but that’s not all. You have ",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Mass Effect 3’s Co-op Multiplayer Is Revived with Legendary Edition Multiplayer Mod on N7 Day, Even as BioWare’s Closure Hangs Over the Celebration",
+    "link": "https://wccftech.com/mass-effect-legendary-edition-multiplayer-n7-day-bioware-closure/",
+    "description": "2026's N7 Day may be sad (albeit with a tinge of hope provided by a Canadian petition to the government) for Mass Effect fans following BioWare's closure, but the ME3Tweaks group (the same folks behind the Pinnacle Station and Happy Ending mods, for example) have a long-awaited gift in store for the community: Legendary Edition Multiplayer, now available for download on Nexus Mods. As you can easily guess, it is the Mass Effect 3 multiplayer ported to 2021's Legendary Edition, which included the",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Dual RTX PRO 6000 GPUs Worth $32,000 Narrowly Escape Catastrophic Meltdown Thanks To The Owner’s Early Visual Inspection, Says Frayed 12V-2×6 Cables Raised Alarm",
+    "link": "https://wccftech.com/dual-rtx-pro-6000-workstation-12v-2x6-cable-sleeving-degradation-seasonic-psu/",
+    "description": "NVIDIA’s RTX PRO 6000 might cost $16,000 a pop, but for running top-end local AI models, it’s a PC builder’s dream, and when you have two units running at a time, there’s really no need to give companies like OpenAI, Google, Anthropic, and others your hard-earned cash. However, since these GPUs cost as much as a brand-spanking-new sedan, it’s imperative that you monitor their operations closely. One owner did, and that’s exactly how he potentially saved both of his RTX PRO 6000 units, as the fra",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Mass Effect’s N7 Day Follows EA Shutting Down BioWare and Canceling Its Next Game, but Fans’ Petition Will Force the Canadian Government to Respond",
+    "link": "https://wccftech.com/mass-effect-n7-day-bioware-closure-canada-petition/",
+    "description": "Today is N7 Day, the annual day that celebrates BioWare's Mass Effect franchise. This year, though, it might very well be the saddest N7 Day to date, given that the studio was just shut down by Electronic Arts and its new Mass Effect Universe game was canceled as part of that process, with the publisher choosing to fund Star Wars Battlefront 3 instead. As someone once said in a beloved movie trilogy, though, there is still hope. Global fans have been pouring their love through the Change.org pet",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel Razor Lake-S Desktop CPUs Reportedly Arrive In 2028 On The Same LGA 1954 Socket As Nova Lake-S, Extending Multi-Generational Platform Support",
+    "link": "https://wccftech.com/intel-razor-lake-s-desktop-cpus-arrive-in-2028-on-lga-1954-socket/",
+    "description": "Intel's Razor Lake-S Desktop CPUs are reportedly going to arrive in 2028, a year after the launch of Nova Lake-S on the same LGA 1954 platform. Intel Razor Lake-S Desktop CPUs To Extend Multi-Generational Support On LGA 1954 Platforms It looks like Intel is preparing a slew of Razor Lake chips for 2028. While we wait for Nova Lake to launch next year in the form of Nova Lake-S, Nova Lake-HX, and Nova Lake-H configurations, the Razor Lake lineup will span all of these and a higher-end AX configur",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel Panther Lake And Wildcat Lake Chips Land On Maxsun MoDT Motherboards Built For NAS Builds, With Up To 128 GB Of DDR5-7200 Memory",
+    "link": "https://wccftech.com/intel-panther-lake-wildcat-lake-modt-motherboards-built-by-maxsun-are-ready-for-nas/",
+    "description": "Intel Panther Lake & Wildcat Lake MoDT motherboards are arriving soon, targeting the NAS market with a wide array of features. Maxsun Deploys NAS-Focused Intel Panther Lake & Wildcat Lake MoDT Motherboards Back at Computex 2026, we spotted the first Intel Panther Lake and Wildcat Lake MoDT designs. These were made by Maxsun and were aimed at the NAS market. Now, Maxsun has shared more information on these two products, which are arriving soon. The company is preparing two options, one with Intel",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Baseus Cuts 26% Off Its VD1 Pro 4K Dual Dash Cam With Wire-Free Solar Parking Guard, Advanced Night Vision & A 64GB Card, For $140 On Amazon",
+    "link": "https://wccftech.com/baseus-vd1-pro-4k-dual-solar-dash-cam-deal/",
+    "description": "Worrying about hit-and-runs or vandalism while your vehicle is parked in an unfamiliar spot can create constant anxiety, especially when setting up traditional 24-hour surveillance requires tearing open your car interior to hardwire messy cables into the fuse box. Those standard dash cams can often deliver blurry nighttime recordings and unreadable license plates when an incident actually occurs. Thankfully, with Baseus’ VD1 Pro 4K, you won’t have to face these terrible outcomes, not when you ha",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "AMD Medusa 10, 8, 6 Core APU & RDNA 4m “GFX1170” Benchmarks Leak With Zen 6 Delivering Strong Single & Multi-Core Performance",
+    "link": "https://wccftech.com/amd-medusa-apu-rdna-4m-benchmarks-leak-zen-6-strong-single-multi-core-performance/",
+    "description": "Benchmarks of several next-generation AMD Medusa APUs based on the Zen 6 architecture have leaked within the Geekbench database. AMD Medusa APUs With Zen 6 Cores Impress In Single-Core & Multi-Core Benchmark Leaks, And These Are Still ES Numbers Several benchmarks of AMD's Medusa APUs have appeared in Geekbench. These listings were made on Lenovo devices, which will be part of their upcoming 2027 \"AMD\" portfolio. As the OEM continues to test these devices, we are getting an early look at the per",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "MoKo’s Transforming 4-In-1 Aluminum Laptop Stand Is Versatile, Cuts Desk Clutter And Boosts Ergonomics While Being Exceptionally Affordable At Just $20",
+    "link": "https://wccftech.com/moko-4in1-foldable-laptop-stand-magnetic-holder-deal/",
+    "description": "Hunching over a low laptop screen while juggling a phone and tablet across a tiny coffee shop table is an easy recipe for neck strain and daily clutter. The situation doesn’t improve when you’re forced to carry bulky dedicated mounts for each piece of tech. Fortunately, Amazon has an affordable solution for you, and it’s the MoKo 4-in-1 portable foldable laptop stand. For only $19.99, you’ll rid yourself of all these problems with a single purchase. The MoKo clever 4-in-1 transforming aluminum s",
+    "pub_date": "2026-11-07",
+    "source": "Wccftech",
+    "category": "芯片/市场"
   },
   {
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -89,6 +305,14 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "description": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+    "pub_date": "2026-11-06",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
@@ -137,30 +361,6 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
-    "title": "How Akai and Moog are embracing vibe-coded mods",
-    "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-    "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
-    "pub_date": "2026-11-06",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Amazon will let you text Alexa your shopping list",
-    "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-    "description": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
-    "pub_date": "2026-11-06",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Protesters break into Microsoft data center site in Amsterdam",
-    "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-    "description": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
-    "pub_date": "2026-11-06",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
     "title": "Chip Industry Week In Review",
     "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
     "description": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -201,17 +401,17 @@ window.techNewsItems = [
     "category": "半导体"
   },
   {
-    "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
-    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
-    "description": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
+    "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+    "description": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares what is next for FDX Fusion node, and the FDX program in general.",
     "pub_date": "2026-11-06",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
   },
   {
-    "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
-    "description": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares what is next for FDX Fusion node, and the FDX program in general.",
+    "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
+    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
+    "description": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
     "pub_date": "2026-11-06",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
@@ -289,17 +489,17 @@ window.techNewsItems = [
     "category": "芯片/市场"
   },
   {
-    "title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release",
-    "description": "The Legend of Zelda: Ocarina of Time has reportedly been dumped on its Switch 2 launch day, with its original release and a 23GB update already circulating online.",
+    "title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+    "description": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
     "pub_date": "2026-11-06",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
   },
   {
-    "title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
-    "description": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
+    "title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release",
+    "description": "The Legend of Zelda: Ocarina of Time has reportedly been dumped on its Switch 2 launch day, with its original release and a 23GB update already circulating online.",
     "pub_date": "2026-11-06",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
@@ -373,438 +573,6 @@ window.techNewsItems = [
     "link": "https://wccftech.com/playstation-6-end-smurfing-patent-ban-secondary-accounts/",
     "description": "If you have ever played any competitive game, you should be well aware of the smurfing phenomenon that ruins the experience for anyone who isn't a top player. By creating alternate accounts, high-rank players return to the bottom of the competitive ladder, stomping through less experienced players for all sorts of reasons, often not very good ones. However, next-generation systems like the PlayStation 6 may solve this long-standing issue (while also improving cloud gaming), as Sony has patented ",
     "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "NVIDIA Vera Delivers 2x The Agent Speed Of AMD’s 256-Core EPYC Venice And 1.6x More Agents Per Watt Than The Frequency-Optimized 96-Core Venice",
-    "link": "https://wccftech.com/nvidia-vera-delivers-2x-the-agent-speed-of-amds-256-core-epyc-venice/",
-    "description": "NVIDIA Vera CPUs continue to showcase strong performance and efficiency against leading x86 chips across Agentic AI workloads. NVIDIA Vera CPU Early Adopters Are Seeing Higher Tool Speed Per Watt, Agentic AI Tasks Per Watt and More Memory/Core Bandwidth Per Watt The Vera CPU continues to disrupt the Agentic AI segment and has already been adopted by various AI firms. The reason for Vera's adoption at scale is a representation of the ongoing AI demand, which has moved from GPUs to CPUs in the Age",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Crimson Desert Charting the Unknown Has Performance Issues In Some Areas, But Pearl Abyss Has Finally Started Addressing the Problem in Patch 2.04.08",
-    "link": "https://wccftech.com/crimson-desert-charting-the-unknown-performance-issues-addressed-patch-2-04-08/",
-    "description": "Crimson Desert: Charting the Unknown released last week on PC and consoles, and all those who started venturing into the unknown on their ship have definitely noticed how the expansion is not as polished as the base game. Pearl Abyss was well aware of this, launching a multitude of minor patches and hotfixes to address the most glaring issues. Thankfully, one of the biggest issues - the significant performance drops in some areas - is starting to get addressed in patch 2.04.08. \"Improved framera",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "XBOX PC App Redesign Rolls Out To Insiders With Up To 60% Faster Launches",
-    "link": "https://wccftech.com/xbox-pc-app-redesign-rolls-out-to-insiders-with-up-to-60-faster-launches/",
-    "description": "Microsoft has officially begun rolling out its redesigned XBOX PC app, promising substantial performance improvements and a more streamlined interface. According to the company's latest XBOX Wire announcement, the updated application is up to 60% faster to launch, while navigation and other everyday operations have also received significant optimizations. This follows our previous coverage in October, when Microsoft was reportedly testing a major overhaul of its XBOX PC app, internally codenamed",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Phantom Blade Zero Modders Add a Training Dummy, 1600 Foes Survival Mode, and Roguelite-Style Mode, as S-Game’s First Patch Brings No Major Gameplay Additions",
-    "link": "https://wccftech.com/phantom-blade-zero-training-1600-foes-survival-roguelite-style-mode-first-patch/",
-    "description": "Phantom Blade Zero launched last week on PC and PlayStation 5, and it's a rather polished release that has no glaring issues. However, S-Game has already released the first patch to iron out some kinks and introduce new features. In terms of new gameplay features, however, the development studio has yet to add anything significant, leaving it to modders to fill some of the gaps, making the experience even more engaging on PC even for those who already saw the end of Soul's journey. Unofficial Tr",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Windows 11 27H2 Could Be The Biggest Windows Upgrade Since 2024, With Major Performance Improvements And New Wallpapers",
-    "link": "https://wccftech.com/windows-11-27h2-could-be-the-biggest-windows-upgrade-since-2024-with-major-performance-improvements-and-new-wallpapers/",
-    "description": "Microsoft is reportedly preparing a major Windows 11 overhaul for 2027, prioritizing performance and reliability over launching Windows 12. Microsoft is reportedly preparing a substantial Windows 11 upgrade for 2027, potentially making version 27H2 the operating system's biggest update since 24H2 in 2024. The company is also developing new default wallpapers, while its broader efforts to improve Windows performance continue. According to The Verge's Tom Warren, Microsoft intends to make Windows ",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "NVIDIA’s Jensen Huang Summoned By U.S. Congress For A Closed Door Briefing To Address His Interactions With An Executive That’s In The Federal Spy Probe’s Crosshairs",
-    "link": "https://wccftech.com/nvidia-ceo-jensen-huang-congress-closed-door-briefing-china-spying-national-security/",
-    "description": "NVIDIA has spent the last several years trying to balance its status as the world’s dominant force in artificial intelligence with strict United States export regulations. Unfortunately, these efforts might not have borne fruit as the company’s CEO, Jensen Huang, now finds himself as the latest target of congressional investigators over potentially sensitive national security vulnerabilities. A coalition of U.S. House Republicans has formally requested that NVIDIA’s head honcho appear on Capitol",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "After Buying EA for $55 Billion (and Closing BioWare), Silver Lake and Saudi Arabia’s PIF Are Now Trying to Acquire Game Engine Maker Unity",
-    "link": "https://wccftech.com/silver-lake-pif-unity-acquisition-bid-after-ea-buyout-bioware-closure/",
-    "description": "The two biggest parties in the consortium that bought Electronic Arts for $55 billion, Silver Lake and Saudi Arabia's PIF, are back in business and trying to acquire Unity. The big news comes from Reuters, which claims that Silver Lake and PIF approached Unity's management about the possibility in recent weeks. Silver Lake and PIF reportedly evaluated Unity at about $25 billion, though that was before Unity's latest earnings report, which lifted its market ​capitalization to around $21.5 billion",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Baseus Cuts 26% Off Its VD1 Pro 4K Dual Dash Cam With Wire-Free Solar Parking Guard, Advanced Night Vision & A 64GB Card, For $140 On Amazon",
-    "link": "https://wccftech.com/baseus-vd1-pro-4k-dual-solar-dash-cam-deal/",
-    "description": "Worrying about hit-and-runs or vandalism while your vehicle is parked in an unfamiliar spot can create constant anxiety, especially when setting up traditional 24-hour surveillance requires tearing open your car interior to hardwire messy cables into the fuse box. Those standard dash cams can often deliver blurry nighttime recordings and unreadable license plates when an incident actually occurs. Thankfully, with Baseus’ VD1 Pro 4K, you won’t have to face these terrible outcomes, not when you ha",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Meta Exec Says A Recently Elected, Data Center-Skeptic Democratic Governor Now Wants To Meet After Inauguration, As 22.5 GW Of Capacity Is Still Slated To Come Online Regardless Of Politics",
-    "link": "https://wccftech.com/meta-exec-says-a-recently-elected-data-center-skeptic-democratic-governor-now-wants-to-meet-after-inauguration-as-22-5-gw-of-capacity-is-still-slated-to-come-online-regardless-of-politics/",
-    "description": "Some say the AI bubble has just popped, especially given the carnage unfolding across wide swathes of the market today. Many point to the Democratic sweep on Tuesday, and the ensuing likelihood of a broad-based moratorium on data center construction. And yet, a dispassionate analysis of this paradigm yields a relatively benign picture, one that posits that tens of gigawatts of new capacity would still come online in 2027. Over 20 GW of under-construction data centers have achieved a 75 percent c",
-    "pub_date": "2026-11-06",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "pub_date": "2026-11-05",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "OpenAI is stepping back from NDAs for data center projects",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
-    "pub_date": "2026-11-05",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Adding Network Security To AI, HPC, And Data Centers",
-    "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-    "description": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-    "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-    "description": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-    "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-    "description": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Fitting AI Models To Edge Applications",
-    "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-    "description": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Why Testing Automated Driving Is Harder Than It Looks",
-    "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-    "description": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs",
-    "link": "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/",
-    "description": "Eliminating the need for a separate bias regulator dedicated to the gate driver for a more streamlined power architecture. The post Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Physical AI Pushes The Limits Of Hardware",
-    "link": "https://semiengineering.com/physical-ai-pushes-the-limits-of-hardware/",
-    "description": "Autonomous machines promise to transform industries, but memory bottlenecks, power constraints, specialized architectures, and safety requirements are forcing chip designers to rethink the entire system. The post Physical AI Pushes The Limits Of Hardware appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "College Grads And AI",
-    "link": "https://semiengineering.com/college-grads-and-ai/",
-    "description": "Computer science majors may be in an awkward space; EE grads are fine for now. The post College Grads And AI appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-05",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "EE Times Magazine – November 2026",
-    "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
-    "description": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech",
-    "link": "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/",
-    "description": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
-    "link": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/",
-    "description": "Sponsored: PEN’s Aalyia Shaukat talks to Infineon’s Johannes Schoiswohl about the GaN market at OktoberTech Silicon Valley 2026, the event’s 10th anniversary. The post Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech",
-    "link": "https://www.eetimes.com/infineons-steve-tateosian-talks-iot-consumer-and-industrial-mcus-at-oktobertech/",
-    "description": "Sponsored: EDN's Majeed Ahmad talks to Infineon's Steve Tateosian on edge systems, application examples, and the growth of the market. The post Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems",
-    "link": "https://www.eetimes.com/from-pytorch-to-product-accelerating-edge-ai-through-open-ecosystems/",
-    "description": "In this 30-Minute BitCast, discover how open-source technologies are helping developers accelerate AI deployment on resource-constrained embedded devices. The post From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Accelerate Analog Design with Flexible, AI-Native Workflows",
-    "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
-    "description": "Join this webinar to learn how ChipAgents’ IC-star chip neural engine automates analog design, simulation, and verification in one unified, flexible agentic loop. The post Accelerate Analog Design with Flexible, AI-Native Workflows appeared first on EE Times.",
-    "pub_date": "2026-11-05",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
-    "description": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
-    "description": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
-    "description": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking to commercialize its SHAKTI and VEGA RISC-V processors, expand domestic server production, and attract more semiconductor investment. Krishnan sees the AI boom as a potential repeat of the Y2K-era opportunity that helped India's IT services industry grow",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
-    "link": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
-    "description": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall",
-    "description": "Nintendo's Switch 2 sales decreased by 41% compared to the same time frame last year due to an increase in the console's price. Investors are pressuring Nintendo to release more big games to attract more Switch 2 buyers.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "UPERFECT GR14BU portable monitor review: A 120 Hz 3K OLED touch display at a killer price",
-    "link": "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review",
-    "description": "With a 3K OLED panel and a 120 Hz refresh rate, the GR14BU comes out swinging.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
-    "description": "A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the CPU core temperatures aren't kept below 90°C.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
-    "description": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple MacBook Pro with PROLED XDR Display review: The screen that every Mac deserves",
-    "link": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
-    "description": "Apple's MacBook Pro with PROLED Display has lots of small tweaks that make it a major upgrade, including a lighter weight and touch functionality, but it's exceptionally expensive and out of reach for many.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Boost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48",
-    "link": "https://www.tomshardware.com/pc-components/microsd-cards/boost-your-nintendo-switch-2s-storage-for-zelda-ocarina-of-time-with-these-microsd-express-deals-starting-at-usd48-make-room-for-hyrule-with-these-high-speed-cards-that-double-or-triple-your-game-storage",
-    "description": "With the Legend of Zelda: Ocarina of Time remake now available for the Nintendo Switch 2, you're going to need enough storage to install it. Here are some Switch 2 microSD Express card deals to help you.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apple MacBook Pro (14-inch, M6) review: Speedy M6 chip slips into comfortable shoes",
-    "link": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
-    "description": "Apple’s brings its powerful M6 chip and N1 Wi-Fi 7 chip to the MacBook Pro.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai",
-    "description": "Rep. Yassamin Ansari of Arizona is asking her party to focus on AI issues.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "This $79.98 TP-Link wireless router with Wi-Fi 7 tech is back down to its lowest-ever price",
-    "link": "https://www.tomshardware.com/networking/routers/this-usd79-98-tp-link-wireless-router-with-wi-fi-7-tech-is-back-down-to-its-lowest-ever-price-archer-be3600-unlocks-multi-gigabit-networking-ideal-for-gaming-or-4k-streaming-with-33-percent-off",
-    "description": "You can pick up a TP-Link Archer BE3600 wireless router at its lowest ever price on Amazon for just $79.98.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Two dead, five injured in Taiwan PCB factory explosion",
-    "link": "https://www.tomshardware.com/tech-industry/two-dead-five-injured-in-taiwan-pcb-factory-explosion-panasonic-industrial-devices-materials-facility-fire-prompts-emergency-response",
-    "description": "An explosion and fire at a PCB factory situated in Taiwan’s Silicon Valley has left two people dead and five injured.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
-    "description": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Hackers target French blood service fridges following supermarket attacks",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice",
-    "description": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "SpaceX's plan to build more data center compute than Google's entire lifetime capacity in just 1.5 years is possible, say analysts",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-plans-to-build-more-data-center-compute-than-googles-entire-lifetime-capacity-in-just-1-5-years-analysts-say-target-is-realistic-spacex-to-build-staggering-10-gigawatts-of-compute-in-2027-alone",
-    "description": "SpaceX's bold claim that it's capable of building 10 GW of compute in 2027 may be plausible — analysts dig through the breakneck speed of Colossus buildouts as evidence",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Anthropic loosens Claude's game cloning ban",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
-    "description": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Grab a huge 44% saving on a 4K 43-inch Samsung smart monitor, now under $280",
-    "link": "https://www.tomshardware.com/monitors/grab-a-huge-44-percent-saving-on-a-4k-43-inch-samsung-smart-monitor-now-under-usd280-limited-time-woot-discount-on-dual-use-display-thatll-work-as-a-home-office-screen-or-standalone-smart-tv",
-    "description": "Grab a cheap upgrade from a top brand with this Samsung 43-inch M7 M70F 4K UHD monitor, down to just $279.99, giving you a smart display for TV, movies, and productivity.",
-    "pub_date": "2026-11-05",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Data Centers Aren’t Ready For The Next AI Bottleneck; Power Infrastructure, As NVIDIA’s Kyber Racks Could Require Electricity Usage Equivalent To 500 Homes",
-    "link": "https://wccftech.com/nvidia-kyber-rubin-ultra-nvl576-600kw-power-consumption-data-center-bottleneck/",
-    "description": "AI hardware has continued to evolve at a dizzying pace over the past few years, resulting in creating misery for consumers as far as the DRAM shortage goes, but there could be an even bigger problem on the horizon that data centers or governments simply aren’t equipped to handle; addressing the power infrastructure. As frontier AI models demand larger clusters to be trained on, the power density is scaling to mind-boggling heights. The latest visual data highlights NVIDIA’s upcoming Kyber rack s",
-    "pub_date": "2026-11-05",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "NVIDIA’s Vendor Financing Deals Are Not A Ponzi Scheme As It Is Slated To “Take Out $420 Billion” By Putting In $250 Billion, Says Tech Venture Capitalist Gene Munster",
-    "link": "https://wccftech.com/nvidias-vendor-financing-deals-are-not-a-ponzi-scheme-as-it-is-slated-to-take-out-420-billion-by-putting-in-250-billion-says-tech-venture-capitalist-gene-munster/",
-    "description": "Technology venture capitalist Gene Munster believes that NVIDIA's financing deals, through which the firm lends to its customers to enable them to establish their AI infrastructure, are not a Ponzi scheme. Munster made the remarks during the Zero Hedge podcast, where he compared the deals to the environment in the Dotcom bubble era of the 90s and pointed out the differences. Gene Munster Says Circular Contracts Of The 90s Aren't Similar To NVIDIA's Capital Financing Deals Because Of Massive Futu",
-    "pub_date": "2026-11-05",
     "source": "Wccftech",
     "category": "芯片/市场"
   }
