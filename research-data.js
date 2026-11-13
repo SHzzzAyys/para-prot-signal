@@ -1,5 +1,190 @@
-window.researchLastUpdated = "2026-11-12 05:38:11 +0000";
+window.researchLastUpdated = "2026-11-13 04:54:34 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-43019587",
+    "title": "Diagnostic Performance of the Hematology Analyzer XN-31 for Detecting Plasmodium Infections in School-Based Surveillance in Western Kenya.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019587/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 100,
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Kagaya W",
+      "Tougan T",
+      "Kanoi BN",
+      "Chitama BA",
+      "Chan C",
+      "Omondi P"
+    ],
+    "pmid": "43019587",
+    "doi": "10.4269/ajtmh.26-0027",
+    "why": "Despite significant progress in malaria control, asymptomatic and submicroscopic infections remain important reservoirs sustaining transmission and are often undetected by conventional microscopy or rapid diagnostic tests (RDTs). The Automated Hematology Analyzer XN-31 (Sysmex, Kobe, Japan) has shown high diagnostic accuracy in clinical settings, but performance under active surveillance, particularly among asymptomatic individuals, has not been..."
+  },
+  {
+    "id": "pubmed-43019584",
+    "title": "Polymorphism in the Pyruvate Kinase Liver and Red Blood Cells Genomic Region, Pyruvate Kinase Activity, and Association with Malaria Risk in Amazonians.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019584/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 98,
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Macedo EG",
+      "Ladeia WA",
+      "Prete CA",
+      "Ferreira NS",
+      "Domingues TSP",
+      "Soler JMP"
+    ],
+    "pmid": "43019584",
+    "doi": "10.4269/ajtmh.26-0199",
+    "why": "Polymorphisms in the pyruvate kinase liver and red blood cells (PKLR) gene that reduce the activity of the pyruvate kinase (PK) isoforms of the liver and red blood cells can lower Plasmodium falciparum (P. falciparum) malaria risk in Africans; however, their impact remains unclear in admixed Amazonian populations exposed to both P. falciparum and Plasmodium vivax (P. vivax). In the present study, participants in a large cohort study in the main urban..."
+  },
+  {
+    "id": "pubmed-43013819",
+    "title": "Preventing Malaria Infections and Moving toward Malaria Elimination.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013819/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 98,
+    "journal": "The New England journal of medicine",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Tchouatieu AM",
+      "Wells TNC",
+      "Achan J"
+    ],
+    "pmid": "43013819",
+    "doi": "10.1056/NEJMra2508563",
+    "why": "Malaria continues to be a major health challenge worldwide, causing an estimated 282 million cases of illness and 610,000 deaths in 2024, predominantly among African children. Despite recent stagnation in the progress of malaria prevention, the landscape is undergoing rapid transformation. This review examines current and emerging approaches to preventing malaria infection and supporting malaria elimination, including vector control, transmission-blocking..."
+  },
+  {
+    "id": "pubmed-43019357",
+    "title": "Plasmodium species positivity rates across regions with different malaria transmission intensities in Mainland Tanzania: Data from a nationwide survey conducted in 2023.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019357/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 96,
+    "journal": "PLOS global public health",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Mandai SS",
+      "Bakari C",
+      "Petro DA",
+      "Kisambale AJ",
+      "Chacha GA",
+      "Pereus D"
+    ],
+    "pmid": "43019357",
+    "doi": "10.1371/journal.pgph.0006091",
+    "why": "Although Plasmodium falciparum is the most prevalent and highly virulent species in Sub-Saharan Africa, non-falciparum species are increasingly recognized as a hidden burden. Generally, infections caused by non-falciparum species occur with low parasite densities and often present as co-infections with P. falciparum. These parasites may evade detection by routine diagnostics, complicating malaria case management and control efforts. To investigate the..."
+  },
+  {
+    "id": "pubmed-43019342",
+    "title": "When ownership is not enough: Evaluating the co-development and uptake of the Options Assessment Toolkit (OAT) for Plasmodium vivax radical cure in malaria-endemic countries.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019342/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 94,
+    "journal": "PLOS global public health",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Shrestha B",
+      "Valecha N",
+      "Thriemer K",
+      "Lynch CA"
+    ],
+    "pmid": "43019342",
+    "doi": "10.1371/journal.pgph.0006510",
+    "why": "Radical cure of Plasmodium vivax malaria remains a major challenge in endemic countries. New treatment options add opportunities but also increase complexity of policy decisions. Malaria treatment policies are often shaped by World Health Organisation (WHO) guidance, limiting scope for local adaptation. The Options Assessment Toolkit (OAT) was developed to support national policy making for the radical cure of vivax malaria. This study evaluates its..."
+  },
+  {
+    "id": "pubmed-43018584",
+    "title": "Discovery of a Pyrazine-2-Carboxamide Derivative as a Potent Plasmodium falciparum Inhibitor with Potential for Single-Dose Cure.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43018584/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 92,
+    "journal": "Journal of medicinal chemistry",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Marx VM",
+      "Mata AC",
+      "Yokokawa F",
+      "Kirrane T",
+      "Huang R",
+      "Lakshminarayana SB"
+    ],
+    "pmid": "43018584",
+    "doi": "10.1021/acs.jmedchem.6c01710",
+    "why": "Malaria remains a major cause of morbidity and mortality, particularly among young children, in endemic regions such as sub-Saharan Africa and Southeast Asia. Moreover, the emerging resistance of Plasmodium parasites to front-line therapeutics underscores the need for new blood-stage antimalarial drugs. Utilizing a Plasmodium falciparum (Pf) growth inhibition assay, we identified a novel pyrazine-2-carboxamide series. Lead optimization improved..."
+  },
+  {
+    "id": "pubmed-43018571",
+    "title": "Design, Synthesis and Dual-Stage Antimalarial Evaluation of β-Carboline-Metronidazole Hybrids: Structure-Activity Relationship and Molecular Docking Correlations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43018571/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 90,
+    "journal": "Journal of medicinal chemistry",
+    "pubDate": "2026-11-12",
+    "authors": [
+      "Pandey AR",
+      "Singh SP",
+      "Nandi R",
+      "H SA",
+      "Rayiti RK",
+      "Ghosh S"
+    ],
+    "pmid": "43018571",
+    "doi": "10.1021/acs.jmedchem.6c02225",
+    "why": "Malaria remains a major global health challenge, exacerbated by emerging drug-resistant Plasmodium strains. Herein, we report the design, synthesis, and dual-stage antimalarial evaluation of β-carboline-metronidazole hybrids. The synthesized hybrids, linked through ester and amide bonds, were evaluated in vitro against chloroquine-sensitive (Pf3D7) and resistant (PfK1) Plasmodium falciparum strains, as well as liver-stage Plasmodium berghei. Several..."
+  },
   {
     "id": "pubmed-43015198",
     "title": "New sites of vulnerability to stop vivax malaria.",
@@ -12,7 +197,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
+    "ageHours": 52.9,
     "score": 100,
     "journal": "Trends in parasitology",
     "pubDate": "2026-11-11",
@@ -25,6 +210,33 @@ window.researchItems = [
     "why": "Malaria vaccines based on the PfCSP molecule are now being deployed to prevent infection by the deadly parasite, Plasmodium falciparum. Can we apply the same tricks to stop the second major malaria parasite, Plasmodium vivax? Visweswaren and colleagues studied PvCSP, revealing new sites of vulnerability to target with vaccines."
   },
   {
+    "id": "pubmed-43017580",
+    "title": "A phosphinic acid bioisostere of hydroxyethylamine as a novel antiplasmodial scaffold: design, synthesis, and in vitro and in silico evaluation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017580/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 52.9,
+    "score": 88,
+    "journal": "RSC advances",
+    "pubDate": "2026-11-11",
+    "authors": [
+      "Abdou MM",
+      "Khodair AI",
+      "Qiu D",
+      "El-Saeed RA",
+      "Bahtati N",
+      "Khan FI"
+    ],
+    "pmid": "43017580",
+    "doi": "10.1039/d6ra09362k",
+    "why": "Malaria remains a major global health concern, and the emergence of drug-resistant Plasmodium falciparum strains highlights the need for new antimalarial scaffolds. In this study, a phosphinic acid-based analogue 2 was designed and synthesized through bioisosteric replacement of the hydroxyethylamine motif found in plasmepsin inhibitor scaffolds. The target compound was obtained through a multistep synthetic approach and evaluated for its antiplasmodial..."
+  },
+  {
     "id": "pubmed-43014523",
     "title": "An integrative model of cholesterol gradients in erythrocytes infected with Plasmodium falciparum.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43014523/",
@@ -35,8 +247,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 98,
+    "ageHours": 52.9,
+    "score": 84,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-11-11",
     "authors": [
@@ -57,8 +269,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 96,
+    "ageHours": 52.9,
+    "score": 80,
     "journal": "PLOS global public health",
     "pubDate": "2026-11-11",
     "authors": [
@@ -84,7 +296,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
+    "ageHours": 76.9,
     "score": 100,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-10",
@@ -101,33 +313,6 @@ window.researchItems = [
     "why": "BACKGROUND: Toxoplasmosis, caused by the intracellular parasite Toxoplasma gondii, is a globally distributed infection with particularly high prevalence in tropical regions. Despite its high endemicity, population-based epidemiological data for the urban Amazon are scarce. This study aimed to determine the seroprevalence of T. gondii and identify sociodemographic and behavioral factors associated with T. gondii infection in the urban population of..."
   },
   {
-    "id": "pubmed-43009999",
-    "title": "The invisible malaria epidemic in Somalia: why molecular surveillance can no longer wait.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43009999/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 98,
-    "journal": "Malaria journal",
-    "pubDate": "2026-11-10",
-    "authors": [
-      "Hashi MM",
-      "Aadam AA",
-      "Mahad AA",
-      "Ali AD",
-      "Khalif IA"
-    ],
-    "pmid": "43009999",
-    "doi": "10.1186/s12936-026-06219-x",
-    "why": "Malaria remains a hidden public health challenge in Somalia, where weak surveillance systems and reliance on conventional diagnostics may underestimate transmission and disease complexity. The absence of molecular surveillance limits understanding of parasite diversity, drug resistance, and emerging transmission patterns. In the context of climate change, displacement, and fragile health systems, Somalia urgently needs genomic approaches integrated into..."
-  },
-  {
     "id": "pubmed-43004044",
     "title": "The tachyzoite-bradyzoite transition in Toxoplasma gondii: molecular regulation, host adaptation, and therapeutic opportunities.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43004044/",
@@ -138,7 +323,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
+    "ageHours": 76.9,
     "score": 96,
     "journal": "Veterinary research communications",
     "pubDate": "2026-11-10",
@@ -155,6 +340,33 @@ window.researchItems = [
     "why": "Toxoplasma gondii is a globally prevalent zoonotic apicomplexan parasite. Its reversible transition between fast-replicating tachyzoites and dormant, cyst-encased bradyzoites underpins latent infection, disease recurrence and poor therapeutic outcomes. Immunocompetent hosts usually show no symptoms after primary infection, whereas bradyzoite reactivation in immunocompromised people causes fatal cerebral toxoplasmosis; congenital infection and..."
   },
   {
+    "id": "pubmed-43009999",
+    "title": "The invisible malaria epidemic in Somalia: why molecular surveillance can no longer wait.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009999/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 76.9,
+    "score": 96,
+    "journal": "Malaria journal",
+    "pubDate": "2026-11-10",
+    "authors": [
+      "Hashi MM",
+      "Aadam AA",
+      "Mahad AA",
+      "Ali AD",
+      "Khalif IA"
+    ],
+    "pmid": "43009999",
+    "doi": "10.1186/s12936-026-06219-x",
+    "why": "Malaria remains a hidden public health challenge in Somalia, where weak surveillance systems and reliance on conventional diagnostics may underestimate transmission and disease complexity. The absence of molecular surveillance limits understanding of parasite diversity, drug resistance, and emerging transmission patterns. In the context of climate change, displacement, and fragile health systems, Somalia urgently needs genomic approaches integrated into..."
+  },
+  {
     "id": "pubmed-43007515",
     "title": "Diagnostic and prognostic biomarkers for pediatric cerebral malaria: a review.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43007515/",
@@ -166,8 +378,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 96,
+    "ageHours": 76.9,
+    "score": 94,
     "journal": "Molecular biology reports",
     "pubDate": "2026-11-10",
     "authors": [
@@ -193,8 +405,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 94,
+    "ageHours": 76.9,
+    "score": 78,
     "journal": "Journal of tropical medicine",
     "pubDate": "2026-11-10",
     "authors": [
@@ -220,8 +432,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 92,
+    "ageHours": 76.9,
+    "score": 76,
     "journal": "Analytical chemistry",
     "pubDate": "2026-11-10",
     "authors": [
@@ -247,8 +459,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 88,
+    "ageHours": 76.9,
+    "score": 72,
     "journal": "Acta tropica",
     "pubDate": "2026-11-10",
     "authors": [
@@ -270,8 +482,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 86,
+    "ageHours": 76.9,
+    "score": 70,
     "journal": "Cell chemical biology",
     "pubDate": "2026-11-10",
     "authors": [
@@ -297,8 +509,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 84,
+    "ageHours": 76.9,
+    "score": 68,
     "journal": "PLOS global public health",
     "pubDate": "2026-11-10",
     "authors": [
@@ -324,7 +536,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
+    "ageHours": 100.9,
     "score": 94,
     "journal": "International journal of biological macromolecules",
     "pubDate": "2026-11-09",
@@ -352,8 +564,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 94,
+    "ageHours": 100.9,
+    "score": 92,
     "journal": "International journal of biological macromolecules",
     "pubDate": "2026-11-09",
     "authors": [
@@ -376,8 +588,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 92,
+    "ageHours": 100.9,
+    "score": 90,
     "journal": "G3 (Bethesda, Md.)",
     "pubDate": "2026-11-09",
     "authors": [
@@ -402,8 +614,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 78,
+    "ageHours": 100.9,
+    "score": 62,
     "journal": "Vox sanguinis",
     "pubDate": "2026-11-09",
     "authors": [
@@ -429,7 +641,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.6,
+    "ageHours": 124.9,
     "score": 98,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-11-08",
@@ -456,8 +668,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 125.6,
-    "score": 72,
+    "ageHours": 148.9,
+    "score": 56,
     "journal": "Journal of nanobiotechnology",
     "pubDate": "2026-11-07",
     "authors": [
@@ -483,7 +695,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.6,
+    "ageHours": 172.9,
     "score": 92,
     "journal": "Journal of clinical microbiology",
     "pubDate": "2026-11-06",
@@ -510,7 +722,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.6,
+    "ageHours": 172.9,
     "score": 90,
     "journal": "Parasites, hosts and diseases",
     "pubDate": "2026-11-06",
@@ -530,15 +742,14 @@ window.researchItems = [
     "title": "CD8+ T cells induce RIPK1-regulated brain endothelial cell death in cerebral malaria.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42993832/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 88,
+    "ageHours": 172.9,
+    "score": 86,
     "journal": "Science advances",
     "pubDate": "2026-11-06",
     "authors": [
@@ -564,8 +775,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 74,
+    "ageHours": 172.9,
+    "score": 58,
     "journal": "Clinical case reports",
     "pubDate": "2026-11-06",
     "authors": [
@@ -591,8 +802,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 68,
+    "ageHours": 172.9,
+    "score": 52,
     "journal": "Fitoterapia",
     "pubDate": "2026-11-06",
     "authors": [
@@ -608,87 +819,6 @@ window.researchItems = [
     "why": "Phytochemical investigation of the stems and leaves of Psychotria densinervia has led to the isolation of three previously undescribed compounds; a lanostane-type triterpene (1) and two sphingolipids (2 and 3) along with eight compounds described previously (4-11), Their structures and relative stereochemistries were elucidated using comprehensive spectroscopic analysis (UV, IR, ESI-MS, NMR) combined with J-based configurational analyses and comparison..."
   },
   {
-    "id": "pubmed-42994442",
-    "title": "Ganaplacide plus lumefantrine solid dispersion formulation for children with uncomplicated Plasmodium falciparum malaria (KALUMI): an open-label, multicentre, randomised, controlled, adaptive, phase 2, non-inferiority trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42994442/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 66,
-    "journal": "The Lancet. Infectious diseases",
-    "pubDate": "2026-11-06",
-    "authors": [
-      "Fofana B",
-      "Zoleko-Manego R",
-      "Mombo-Ngoma G",
-      "Offianan AT",
-      "Kilowele M",
-      "Togo AH"
-    ],
-    "pmid": "42994442",
-    "doi": "10.1016/S1473-3099(26)00492-5",
-    "why": "BACKGROUND: Ganaplacide plus lumefantrine solid dispersion formulation (SDF) is a novel antimalarial combination shown to be effective and well tolerated in adults, adolescents, and children with uncomplicated Plasmodium falciparum malaria. Here, we aimed to assess food effects on drug exposure and non-inferiority of ganaplacide plus lumefantrine SDF to artemether-lumefantrine. METHODS: This open-label, multicentre, randomised, controlled, adaptive, phase..."
-  },
-  {
-    "id": "pubmed-42993973",
-    "title": "Underappreciated Transmission of Plasmodium malariae and Plasmodium ovale: A Potential Barrier to Malaria Elimination in Bangladesh.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42993973/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 64,
-    "journal": "The American journal of tropical medicine and hygiene",
-    "pubDate": "2026-11-06",
-    "authors": [
-      "Billah SMM",
-      "Trina AT",
-      "Zamil MF",
-      "Hasan A",
-      "Islam MM",
-      "Hossain MS"
-    ],
-    "pmid": "42993973",
-    "doi": "10.4269/ajtmh.26-0557",
-    "why": "Plasmodium malariae (P. malariae) and Plasmodium ovale (P. ovale) spp. are underappreciated contributors to residual malaria transmission, especially in near-elimination settings. They remain absent from routine surveillance in Bangladesh, where field diagnosis relies on Plasmodium falciparum (P. falciparum)/Plasmodium vivax (P. vivax)-specific rapid diagnostic tests (RDTs) and microscopy. Cases escaping detection by ongoing malaria surveillance in..."
-  },
-  {
-    "id": "pubmed-42993972",
-    "title": "Two Decades of Molecular Surveillance in Kenya Reveal Shifting Plasmodium falciparum Drug Resistance Mutations Linked to Frontline Drug Changes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42993972/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 149.6,
-    "score": 62,
-    "journal": "The American journal of tropical medicine and hygiene",
-    "pubDate": "2026-11-06",
-    "authors": [
-      "Tollefson GA",
-      "Opot BH",
-      "Maina TK",
-      "Juma DW",
-      "Okoth RO",
-      "Juma JA"
-    ],
-    "pmid": "42993972",
-    "doi": "10.4269/ajtmh.25-0513",
-    "why": "Malaria control has faced repeated challenges due to the emergence and spread of antimalarial resistance. In the present study, temporal trends in Plasmodium falciparum resistance mutations were analyzed using molecular inversion probe sequencing of 625 samples from 11 Kenyan sites (1998-2021), spanning multiple frontline treatments. After the phased adoption of artemether-lumefantrine as first-line treatment of uncomplicated malaria in 2006, a rapid..."
-  },
-  {
     "id": "pubmed-42995420",
     "title": "Temporal dynamics of host immunometabolic response to Plasmodium yoelii infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42995420/",
@@ -700,8 +830,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 173.6,
-    "score": 90,
+    "ageHours": 196.9,
+    "score": 88,
     "journal": "ImmunoHorizons",
     "pubDate": "2026-11-05",
     "authors": [
@@ -721,15 +851,14 @@ window.researchItems = [
     "title": "Identification of Plasmodium sporozoites using angle-resolved scattered light pulse shapes.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42986815/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 173.6,
-    "score": 86,
+    "ageHours": 196.9,
+    "score": 84,
     "journal": "PloS one",
     "pubDate": "2026-11-05",
     "authors": [
@@ -744,46 +873,18 @@ window.researchItems = [
     "why": "Flow cytometry is widely used to identify and sort rare cells, but conventional approaches rely on fluorescent labels. Label-free discrimination of rare targets in complex, heterogeneous samples remains challenging. Here, we introduce a label-free strategy that combines multi-angle pulse shape flow cytometry (MAPS-FC), which exploits the full temporal structure of the signal pulses during cell or particles transit through the laser spot, with a deep..."
   },
   {
-    "id": "pubmed-42988235",
-    "title": "Acute kidney injury in imported malaria: A 20-year retrospective cohort study with derivation and internal validation of a simple early assessment score.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42988235/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 173.6,
-    "score": 58,
-    "journal": "Travel medicine and infectious disease",
-    "pubDate": "2026-11-05",
-    "authors": [
-      "Jegorović B",
-      "Kezić A",
-      "Karić U",
-      "Dakić Z",
-      "Šabanović M",
-      "Jug M"
-    ],
-    "pmid": "42988235",
-    "doi": "10.1016/j.tmaid.2026.103035",
-    "why": "BACKGROUND: Acute kidney injury (AKI) complicates malaria and worsens outcomes, but data from non-endemic European settings are scarce and no simple early clinical risk-stratification tool exists for this population. METHODS: We retrospectively analyzed adults hospitalized with parasitologically confirmed malaria at a tertiary referral center in Belgrade, Serbia (2004-2024). AKI was defined according to the 2012 Kidney Disease: Improving Global Outcomes..."
-  },
-  {
     "id": "pubmed-42981041",
     "title": "Amphipathic helices repurpose a Patched/NPC1-like cholesterol transporter to function at Plasmodium-erythrocyte membrane contact sites.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42981041/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 197.6,
-    "score": 84,
+    "ageHours": 220.9,
+    "score": 82,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-11-04",
     "authors": [
@@ -807,7 +908,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 485.6,
+    "ageHours": 508.9,
     "score": 88,
     "journal": "mBio",
     "pubDate": "2026-10-23",
@@ -834,7 +935,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 653.6,
+    "ageHours": 676.9,
     "score": 86,
     "journal": "Neurology",
     "pubDate": "2026-10-16",
@@ -861,7 +962,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1061.6,
+    "ageHours": 1084.9,
     "score": 84,
     "journal": "Biochemical and biophysical research communications",
     "pubDate": "2026-09-29",
@@ -887,7 +988,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1085.6,
+    "ageHours": 1108.9,
     "score": 82,
     "journal": "mBio",
     "pubDate": "2026-09-28",
@@ -908,15 +1009,14 @@ window.researchItems = [
     "title": "Targeting a site of vulnerability on circumsporozoite protein inhibits Plasmodium vivax malaria infection.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42785294/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 1181.6,
-    "score": 82,
+    "ageHours": 1204.9,
+    "score": 80,
     "journal": "Immunity",
     "pubDate": "2026-09-24",
     "authors": [
