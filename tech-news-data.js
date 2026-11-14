@@ -1,5 +1,429 @@
-window.techNewsLastUpdated = "2026-11-13 07:03:08 +0000";
+window.techNewsLastUpdated = "2026-11-14 06:52:37 +0000";
 window.techNewsItems = [
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "pub_date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+    "pub_date": "2026-11-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+    "pub_date": "2026-11-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "What’s really at stake in the Jensen Huang saga",
+    "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "description": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+    "pub_date": "2026-11-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "description": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+    "pub_date": "2026-11-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "The Jensen Huang scandal is hardly over",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "description": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
+    "pub_date": "2026-11-13",
+    "source": "The Verge AI",
+    "category": "AI 产业"
+  },
+  {
+    "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+    "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+    "description": "Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies.” Abstract Excerpt: “Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process... » read more The post Shifting HBM4 Controller Functions Closer To Memory (UC Riverside) appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-11-13",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
+    "description": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling tools for chips. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+    "pub_date": "2026-11-13",
+    "source": "SemiEngineering",
+    "category": "半导体"
+  },
+  {
+    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+    "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+    "description": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets. The post Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs appeared first on EE Times.",
+    "pub_date": "2026-11-13",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
+    "link": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/",
+    "description": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orbit, lifetime, shielding, and risk tolerance) instead of applying […] The post NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions appeared first on EE Times.",
+    "pub_date": "2026-11-13",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+    "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
+    "description": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times.",
+    "pub_date": "2026-11-13",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+    "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
+    "description": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times.",
+    "pub_date": "2026-11-13",
+    "source": "EE Times",
+    "category": "半导体"
+  },
+  {
+    "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+    "description": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts",
+    "description": "The best sub-$100 gifts to get the keyboard enthusiast in your life — even if they already have their end-game keyboard.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "10 great PC upgrades for under $100",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-great-pc-upgrades-for-under-usd100-spice-up-your-setup-for-less-with-these-gifts-and-impulse-purchases",
+    "description": "If you're in the market for a PC upgrade for a cheaper gift, here are 10 items under $100.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+    "link": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+    "description": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+    "description": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 AI servers.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy",
+    "link": "https://www.tomshardware.com/peripherals/popular-gaming-chair-and-desk-maker-secretlab-launches-dedicated-us-brick-and-mortar-locations-new-shop-in-la-spaces-in-best-buy",
+    "description": "Secretlab now sells its wares inside Best Buy and in a dedicated store in LA.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims",
+    "link": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum",
+    "description": "Jensen Huang reportedly called himself 'a piece of sh--\" after his forced departure, but employees still want him back.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Japanese workers return to fax machines during ongoing Microsoft 365 outage",
+    "link": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs",
+    "description": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/walmart-has-slashed-usd730-off-this-monster-gaming-pc-with-rtx-5070-ti-also-features-a-24-core-intel-processor-32gb-ddr5-2tb-ssd",
+    "description": "Save $730 on this CyberPowerPC with Intel Core Ultra 9 285 and RTX 5070 Ti.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+    "description": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation",
+    "link": "https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant",
+    "description": "While Alice Huang lives on the headlines, it was actually her husband who put her in the same room as Jensen Huang.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-8bitdo-wireless-controller-for-your-gaming-pc-and-switch-2-at-its-lowest-ever-price-now-usd51-12-27-percent-off-this-fully-customizable-ultimate-2-gamepad-with-tmr-joysticks-dual-triggers-and-remappable-buttons",
+    "description": "This 8BitDo Ultimate 2 game controller for your PC or Nintendo Switch is down to a record low price on Amazon right now.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+    "description": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64",
+    "link": "https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable",
+    "description": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 — Hackintoshes",
+    "pub_date": "2026-11-13",
+    "source": "Tom's Hardware",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Elon Musk Says Petition To Bring Jensen Huang Back To NVIDIA Is Underway And He’ll Sign It",
+    "link": "https://wccftech.com/elon-musk-says-petition-to-bring-jensen-huang-back-to-nvidia-is-underway-and-hell-sign-it/",
+    "description": "Tesla and SpaceX billionaire Elon Musk, who has previously supported bringing former NVIDIA CEO and founder Jensen Huang back to the firm as chairman, is now going to sign a petition in Huang's favor. Musk's comments come after Huang admitted to having a deeply personal relationship with a Singaporean data center executive of a firm under scrutiny for having smuggled AI chips to China. Musk's Remarks Come After Former NVIDIA CEO Abruptly Resigned Under Controversial Circumstances Musk's announce",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Apex Neural Rendering vs. NVIDIA DLSS: We Test 2X, 3X, And 4X (Multi) Frame Generation In Three PC Games",
+    "link": "https://wccftech.com/how-to/apex-neural-rendering-vs-nvidia-dlss-we-test-2x-3x-and-4x-multi-frame-generation-in-three-pc-games/",
+    "description": "AI-powered frame generation has rapidly become one of the most important technologies in modern PC gaming. By inserting artificially generated frames between those traditionally rendered by the game engine, technologies such as NVIDIA DLSS (Multi) Frame Generation, Intel XeSS (Multi) Frame Generation, or FSR Frame Generation can considerably improve perceived fluidity, particularly in graphically demanding games. However, frame generation isn't without its shortcomings. Visual artifacts, inconsi",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Letter Seeking Ex CEO Jensen Huang’s Return Is “Obviously Fake,” Says NVIDIA VP After He Is Made A Named Signatory Alongside Top Leadership At Firm",
+    "link": "https://wccftech.com/letter-seeking-ex-ceo-jensen-huangs-return-is-obviously-fake-says-nvidia-vp-after-he-is-made-a-named-signatory-alongside-top-leadership-at-firm/",
+    "description": "The vice president of NVIDIA's applied deep learning research, Bryan Catanzaro, has revealed that he did not sign a letter circulating online addressed to NVIDIA's board to reinstate former CEO Jensen Huang. Huang's sudden resignation from the firm that is the driving force behind global AI development has divided the technology industry, and a copy of a letter making online rounds lists others, such as NVIDIA's chief AI scientist, Bill Dally. Fake Letter Claims Top NVIDIA Leadership Wants Manag",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "SteamOS 3.9.6 Beta Fixes A Bug Where A 30 FPS Game With A 60 FPS Cap Dropped To 24 FPS On 120 Hz Displays",
+    "link": "https://wccftech.com/steamos-3-9-6-beta-fixes-a-bug-where-a-30-fps-game-with-a-60-fps-cap-dropped-to-24-fps-on-120-hz-displays/",
+    "description": "The latest beta addresses several display and frame-pacing problems alongside fixing HDR10 colors and other bugs. Valve Improves Frame Pacing, 240 Hz+ Display Support, and HDR10 Output in its Latest SteamOS Beta Valve is making some substantial progress in improving the experience on its SteamOS, and it's evident from the release notes of its latest 3.9.6 Beta release. The new version brings several improvements, particularly those that help make gaming a smoother experience while also fixing se",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+    "link": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+    "description": "Now that NVIDIA’s Jensen Huang is no longer the company CEO, we have some truth behind the exponential rise of semiconductor and memory prices. According to the latest findings, it appears that we were led to believe that there was an organic supply shortage, but in reality, we learn that Jensen was actually leveraging NVIDIA’s own balance sheet to finance AI startups and datacenter buildouts so they could absorb the company’s over-ordered semiconductor shipments from TSMC. NVIDIA faced an “aval",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "TCL Showcases World’s Fastest Laptop OLED Panel At 360 Hz On Lenovo Legion Prototype",
+    "link": "https://wccftech.com/tcl-showcases-worlds-fastest-laptop-oled-panel-at-360-hz-on-lenovo-legion-prototype/",
+    "description": "Chinese display maker TCL CSOT has demonstrated a blazing-fast OLED display on a Lenovo Legion laptop prototype that boasts a 360 Hz refresh rate at 1440p resolution. New 16-inch 1440p Inkjet-Printed OLED Panel Pushed Beyond 300 Hz on Lenovo Laptop A few months ago, Samsung just pushed laptop OLEDs to 300 Hz at 2.5K resolution, bringing more fluidity to gaming laptops. Now, Chinese display maker TCL CSOT has joined the race and has demonstrated what could become the world's fastest OLED panel fo",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Intel Core Ultra 7 260K Quietly Launches As Newegg-Exclusive CPU, Paired With Up To GeForce RTX 5070 At $1999",
+    "link": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/",
+    "description": "Intel has dropped a new 20-core Arrow Lake CPU that reaches consumers only through prebuilt systems. Intel Core Ultra 7 260K Quietly Enters the Market as a Newegg-Exclusive Processor, Featuring 20 Cores and 5.4 GHz Turbo Intel is still expanding its Arrow Lake-S lineup with new processors, and this time it launched the Intel Core Ultra 7 260K silently, but it's not a product that you can buy as a standalone product. Moreover, it's not from the Arrow Lake Refresh, aka Core Ultra 200S Plus series,",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report",
+    "link": "https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report/",
+    "description": "A new entity tied to Alice Huang, the Chinese executive at the heart of the scandal that led to the resignation of NVIDIA CEO Jensen Huang, disclosed banned NVIDIA GPUs as part of collateral offered by the holding company for financing in 2025, according to a new report from Bloomberg. The new details share another link with Alice Huang, whose firm Megaspeed has already been probed for supplying banned NVIDIA AI chips to China. Former NVIDIA CEO Jensen Huang's Partner Alice Huang's Holding Compa",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Astro Bot is the First PlayStation 5 Game to Get an Unofficial PC Port, Complete With NVIDIA DLSS Super Resolution and Frame Generation Support",
+    "link": "https://wccftech.com/astro-bot-playstation-5-unofficial-pc-port-nvidia-dlss-super-resolution-frame-generation/",
+    "description": "With so many console games getting native PC ports, including the recently released The Legend of Zelda: Ocarina of Time, and with work on AnyPS5 continuing, it was only a matter of time before the first unofficial PlayStation 5 ports would appear. And the honor has gone to Astro Bot, the 2024 Game of the Year, which has now hit PC complete with some advanced features, including full NVIDIA DLSS Super Resolution and Frame Generation support. \"A personal research project: running my own legally o",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "DeepSeek And Moonshot AI Models Appear To Carry Hidden NVIDIA Blackwell Fingerprints In Their Starting Weights, Pointing To Training Clusters Of 3,000 To 4,500 GPUs",
+    "link": "https://wccftech.com/deepseek-and-moonshot-ai-models-appear-to-carry-hidden-nvidia-blackwell-fingerprints-in-their-starting-weights-pointing-to-training-clusters-of-3000-to-4500-gpus/",
+    "description": "With chip tensions between the US and China experiencing another surge following former NVIDIA CEO Jensen Huang's abrupt departure from the firm, forensic analysis conducted by Uemployment Labs suggests that several Chinese AI models might have relied on thousands of NVIDIA's latest Blackwell AI GPUs for their training run. The AI lab attempted to match hardware fingerprints linked specifically to the Blackwell chips by reverse engineering AI model weights and recovering the thread count for the",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Quick Spectral Super Resolution Comes Soon to Six PS5 Games: Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man’s Sky, and Hell Let Loose: Vietnam",
+    "link": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+    "description": "Sony announced today that six PlayStation 5 games have added or are about to add support for Quick Spectral Super Resolution (QSSR), the lightweight AI upscaler derived from PS5 Pro's PSSR and originally released in October. The games are Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, and Hell Let Loose: Vietnam. Insomniac Games already had experience integrating Quick Spectral Super Resolution into Marvel's Wolverine. Head of Technology Mike Fitzgerald said in a",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "After NVIDIA Pushes Out Jensen Huang, Alice Huang’s Spy Credentials Suddenly Start To Crack, Leading To Pronouncements Of A Coup",
+    "link": "https://wccftech.com/after-nvidia-pushes-out-jensen-huang-alice-huangs-spy-credentials-suddenly-start-to-crack-leading-to-pronouncements-of-a-coup/",
+    "description": "It's a compelling narrative: Jensen Huang, a champion of open-source AI models and an advocate of retaining a sizable compute footprint within China, was perceived as a threat by the powers that be, who then engineered his ignominious exit from NVIDIA by painting his extensively photographed relationship with Alice Huang as a honeytrap, which we are to believe was engineered by the Chinese intelligence agencies. Interestingly, this narrative started to crack within hours of Jensen Huang's resign",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild",
+    "link": "https://wccftech.com/zelda-ocarina-of-time-remake-5-million-yet-series-sold-nothing-before-breath-of-the-wild/",
+    "description": "The Legend of Zelda: Ocarina of Time remake has become a smashing success, selling over 5 million copies in only four days of availability, but the Nintendo Switch 2 remake of one of the best games ever released had the real risk of never seeing the light of day. According to former Nintendo of America marketing leads Kit Ellis and Krysta Yang, the franchise was going through its darkest days before the launch of The Legend of Zelda: Breath of the Wild, with new games selling like nothing. \"The ",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Escape from Tarkov Director Nikita Buyanov Says the Console Version Will Be Announced Next Year, “100%”, but It Won’t Be Ready",
+    "link": "https://wccftech.com/escape-from-tarkov-console-version-announcement-2027/",
+    "description": "Escape from Tarkov's console version will be announced next year. The news comes directly from Nikita Buyanov, Game Director at Battlestate Games, who told Insider Gaming: We are really close to that (finding a partner). The console version, it won’t be ready next year, for sure. But for next year will be the announcement, 100%, I believe that. I guess the announcement will be early next year; I believe so. We revealed the studio's interest in a console port in our exclusive interview released i",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Pearl Abyss Is Researching The Feasibility of Crimson Desert Multiplayer, Yet More DLC Expansions And Follow-Up Projects Will Require The Right “Market Conditions”",
+    "link": "https://wccftech.com/pearl-abyss-feasibility-crimson-desert-multiplayer-more-dlc/",
+    "description": "Following its smashing success, Pearl Abyss expanded Crimson Desert with the Charting the Unknown DLC, which adds epilogue stories for the three main characters and sea exploration, making the game an even bigger open-world action-adventure experience. While the Korean publisher has yet to say anything regarding future expansions, it did confirm in its 3Q26 Earnings Letter that a multiplayer mode of some sort is still on the table, although future DLC expansions are not guaranteed. \"As an action",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Massive Microsoft 365 Outage Disrupts Outlook, Teams, Copilot And More Worldwide As Recovery Remains Ongoing",
+    "link": "https://wccftech.com/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-and-more-worldwide-as-recovery-remains-ongoing/",
+    "description": "A massive Microsoft 365 outage has disrupted Outlook, Teams, Copilot, and numerous other Microsoft services worldwide, leaving businesses, government agencies, and millions of potential users facing connectivity problems. The disruption began on Thursday, November 12, and continued into Friday, with Microsoft still working to restore normal service availability. According to Reuters, outage-tracking platform Downdetector recorded more than 130,000 reports of Outlook-related problems in the Unite",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "21 More Original XBOX Games Arrive On PC Via Backward Compatibility, Including KOTOR, Morrowind, And TimeSplitters",
+    "link": "https://wccftech.com/21-more-original-xbox-games-arrive-on-pc-via-backward-compatibility-including-kotor-morrowind-and-timesplitters/",
+    "description": "Microsoft had yet another surprise in store for XBOX's 25th-anniversary celebrations, announcing that 21 additional original XBOX games are now playable on Windows 11 PCs through XBOX Backward Compatibility, expanding the library to 25 titles. As previously covered by Wccftech, Microsoft's 25th-anniversary celebrations have already brought several major announcements, including the confirmation of Wolfenstein 3, id Software's next project, a new Firefight mode for Halo: Campaign Evolved, and fre",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "CD Projekt Red Has Already Targeted 2028 For The Witcher 4, and a New Legal Counsel Contract Points to April or May",
+    "link": "https://wccftech.com/cd-projekt-red-the-witcher-4-april-may-2028/",
+    "description": "Earlier this year, CD Projekt Red confirmed that we will embark on a new journey with Geralt of Rivia with The Witcher 3: Songs of the Past expansion, showing the first steps of this journey during gamescom in August. Unfortunately, the Polish publisher also confirmed that The Witcher 4 is targeting a 2028 release (likely due to the implementation of strict platform checkmarks), which will also delay development of The Witcher remake. However, there's a very good chance that the next entry in th",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "Despite Jensen Huang’s Exit And Tightening U.S. Sanctions, China Is Advancing Billion-Dollar NVIDIA AI Clusters; New Report Finds $3.2 Billion Computing Hubs",
+    "link": "https://wccftech.com/china-advancing-billion-dollar-nvidia-ai-clusters-sanctions/",
+    "description": "China has been incredibly resourceful in circumventing the U.S. export restrictions when discussing NVIDIA’s AI GPUs. Even though the chip manufacturer states that the trade sanctions have effectively driven its data center market share in the region down to zero, a new investigation reveals that more than $3.2 billion worth of computing projects are actively being built around the American firm’s restricted processors. An independent review reveals that a total of 150 projects surrounding NVIDI",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
+  {
+    "title": "XBOX’s 25th Anniversary Celebration Brings Wolfenstein 3, id Software’s Next Game Announcements, Firefight for Halo: Campaign Evolved, and New Fable Gameplay",
+    "link": "https://wccftech.com/xbox-25th-anniversary-wolfenstein-3-id-software-fable-halo/",
+    "description": "Microsoft prepared a few special announcements for Seattle's XBOX Fanfest event, which celebrates the brand's 25th anniversary (the original console launched on November 15, 2011). Perhaps the biggest one is the long-awaited confirmation that MachineGames is indeed working on Wolfenstein 3 next. Sure, we had plenty of evidence of that between job ads, casting rumors, and gameplay-related rumors, but everything is now official following XBOX CEO Asha Sharma's tweet: Wolfenstein 3 is officially in",
+    "pub_date": "2026-11-13",
+    "source": "Wccftech",
+    "category": "芯片/市场"
+  },
   {
     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
     "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -12,14 +436,6 @@ window.techNewsItems = [
     "title": "Muse can now place calls to US businesses — if you pay",
     "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
     "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "pub_date": "2026-11-12",
     "source": "TechCrunch AI",
     "category": "AI 产业"
@@ -105,59 +521,11 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "description": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
     "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "description": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "description": "This is the investment firm's largest fund to date.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "description": "This is Fireworks' second data breach in as many months.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-    "pub_date": "2026-11-12",
-    "source": "TechCrunch AI",
+    "source": "The Verge AI",
     "category": "AI 产业"
   },
   {
@@ -185,57 +553,9 @@ window.techNewsItems = [
     "category": "AI 产业"
   },
   {
-    "title": "The Jensen Huang scandal is hardly over",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-    "description": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
     "title": "AI chatbots are recommending fake retail websites, study finds",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
     "description": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "More game developers are starting to use generative AI",
-    "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-    "description": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Jensen Huang is out. What did China want from him?",
-    "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-    "description": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-    "description": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
-    "pub_date": "2026-11-12",
-    "source": "The Verge AI",
-    "category": "AI 产业"
-  },
-  {
-    "title": "I reviewed the Apple HomeView, ask me anything",
-    "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-    "description": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on […]",
     "pub_date": "2026-11-12",
     "source": "The Verge AI",
     "category": "AI 产业"
@@ -300,22 +620,6 @@ window.techNewsItems = [
     "title": "Introduction To FP8 Formats: Part 1",
     "link": "https://semiengineering.com/introduction-to-fp8-formats-part-1/",
     "description": "The rationale behind 8-bit floating-point data formats, their ecosystem momentum, and hardware support. The post Introduction To FP8 Formats: Part 1 appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-12",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "RISC-V For AI: Breakthrough Or Bad Idea?",
-    "link": "https://semiengineering.com/risc-v-for-ai-breakthrough-or-bad-idea/",
-    "description": "Custom instructions promise flexibility, but experts question whether RISC-V belongs at the heart of AI acceleration. The post RISC-V For AI: Breakthrough Or Bad Idea? appeared first on Semiconductor Engineering.",
-    "pub_date": "2026-11-12",
-    "source": "SemiEngineering",
-    "category": "半导体"
-  },
-  {
-    "title": "Foundation IP For The AI Era: Why Execution Shapes SoC Cost ─ eBook",
-    "link": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-shapes-soc-cost/",
-    "description": "How an integrated foundation IP strategy can reduce execution risk, enable faster tape-out, and lower TCO. The post Foundation IP For The AI Era: Why Execution Shapes SoC Cost ─ eBook appeared first on Semiconductor Engineering.",
     "pub_date": "2026-11-12",
     "source": "SemiEngineering",
     "category": "半导体"
@@ -461,382 +765,6 @@ window.techNewsItems = [
     "link": "https://www.tomshardware.com/video-games/nintendo/hobbyist-turns-usd45-usb-c-hub-into-a-working-nintendo-switch-2-dock-by-patching-its-firmware-consoles-proprietary-handshake-needs-about-540-bytes-of-code-to-answer",
     "description": "A hobbyist patched a Cable Matters USB-C hub’s firmware so the Nintendo Switch 2 accepts it as a dock for TV mode and HDR.",
     "pub_date": "2026-11-12",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Former Secretary Of State Hillary Clinton Criticizes U.S. Officials For Not Warning Former NVIDIA CEO Jensen Huang Of Chinese “Honeypot,” Saying “You Owe It To Him To Tell Him”",
-    "link": "https://wccftech.com/hillary-clinton-slams-us-officials-not-warning-jensen-huang-chinese-honeypot/",
-    "description": "Former U.S. Secretary of State Hillary Clinton has sharply criticized federal authorities for failing to alert former NVIDIA CEO Jensen Huang that he was allegedly the target of a Chinese intelligence operation, arguing that the U.S. government had an obligation to warn him rather than letting him remain unaware while continuing to approve chip exports. Speaking on the November 11 episode of her High Stakes with HRC podcast alongside co-host Kara Swisher, Clinton addressed the national security ",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Google’s Flash-Class Gemini 4 Hydrogen Is Now The Cheapest, Fastest Model In Vals AI’s Top 6, As Sundar Pichai Touts Its 2.5x Faster Response Times",
-    "link": "https://wccftech.com/googles-flash-class-gemini-4-hydrogen-is-now-the-cheapest-fastest-model-in-vals-ais-top-6-as-sundar-pichai-touts-its-2-5x-faster-response-times/",
-    "description": "Google is finally picking up its AI model launch cadence. As a case in point, after debuting the Gemini 4 Argon and Gemini 4 Carbon models in recent days, Google has just launched its latest flash-class model, dubbed the Gemini 4 Hydrogen. Sundar Pichai: Google's Gemini 4 Hydrogen is \"built for speed and efficiency for everyday tasks, coding and agentic workflows\" Google has just launched Gemini 4 Hydrogen for \"all tiers of its Google AI Studio, the Gemini API, Gemini for business, the Gemini ap",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Star Citizen Is Free to Play for Two Weeks, With Over 200 Ships and Ground Vehicles to Fly at IAE 2956",
-    "link": "https://wccftech.com/star-citizen-free-to-play-two-weeks-200-ships/",
-    "description": "Manchester-based developer Cloud Imperium Games has announced that Star Citizen will be free to play again for two weeks, starting tomorrow, November 13, through November 27, as part of the in-game Intergalactic Aerospace Expo (IAE) 2956 event. Throughout IAE 2956, players can try a wide range (over 200) of ships and ground vehicles for free by renting them from kiosks across the expo floor. A new group of exhibitors appears each day, giving players a chance to explore the spacecraft in the univ",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD Pushes Excessive SSD Writes Fix Via Latest Adrenalin Edition 26.11.1 Optional Driver",
-    "link": "https://wccftech.com/amd-pushes-excessive-ssd-writes-fix-via-latest-adrenalin-edition-26-11-1-optional-driver/",
-    "description": "The latest AMD update supposedly fixes the problems associated with the Adrenalin driver that kept writing data to the storage drives in the background. AMD Introduces Fix for Excessive SSD Writes Through Adrenalin Edition 26.11.1 Affecting RX 7000/9000 Series While Acknowledging Several More Bugs The problem that left many Radeon users frustrated has finally gotten an official fix. If you have read our previous reports, you might be aware that several Radeon GPU owners discovered a problem with",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Red Dead Redemption 2’s Modded Ray Tracing Cuts RTX 5080 Performance From 110 FPS to 50 FPS at 4K With NVIDIA DLSS",
-    "link": "https://wccftech.com/red-dead-redemption-2-ray-tracing-cuts-rtx-5080-performance-4k/",
-    "description": "Red Dead Redemption 2 never received official ray tracing support on PC, yet known Grand Theft Auto modder BadassBaboon introduced hardware-accelerated ray tracing, including ray-traced global illumination (RTGI), ambient occlusion, and shadows, to the second entry in the series by Rockstar Games with the Reality Redemption 2 graphics overhaul. Sadly, the subtle yet welcome improvements the mod brings come at a high cost, as one of the most powerful GPUs on the market, an RTX 5080 GPU, struggles",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Homelabber Runs Massive 2.8-Trillion-Parameter AI Model On Discontinued Intel Optane Memory, Without A GPU",
-    "link": "https://wccftech.com/homelabber-runs-massive-2-8-trillion-parameter-ai-model-on-discontinued-intel-optane-memory-without-a-gpu/",
-    "description": "A hardware enthusiast has managed to run one of the world's largest open-weight AI models on a server powered entirely by a CPU, with no GPU acceleration whatsoever. The secret? Discontinued Intel Optane persistent memory modules, which provide enormous memory capacity at a fraction of the cost of conventional server DRAM. The experiment, shared by Reddit user IndividualSurvival, involves running Moonshot AI's Kimi K3, a massive 2.8-trillion-parameter Mixture-of-Experts (MoE) model, on a third-g",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "War Thunder Art Director Tells Wccftech There Was “No Reason Not to Implement DLSS 5” – “It’s Just the Picture We Always Meant to Show”",
-    "link": "https://wccftech.com/war-thunder-art-director-dlss-5-interview-no-reason-not-to-implement/",
-    "description": "Today, Gaijin Entertainment released War Thunder's Eagle's Shadow update, which adds new planes, ships, and tanks, along with cluster bombs for planes and, exclusively for PC, NVIDIA DLSS 5 support, as announced earlier this month. War Thunder is thus the fifth game to feature official integration for NVIDIA's DLSS Neural Rendering technique, following NBA 2K27, Metro 2033 Redux, Metro Last Light Redux, and Hogwarts Legacy. The latter four occurred over the span of three weeks, signaling a ramp-",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Jensen Huang Steps Down As NVIDIA CEO, As Company Thanks Him “For His Immeasurable Contributions To The Company And The Industry,” Current CFO To Spearhead GPU Maker",
-    "link": "https://wccftech.com/jensen-huang-resigns-nvidia-ceo-colette-kress-interim/",
-    "description": "The prediction from analysts about Jensen Huang keeping his position as NVIDIA’s CEO was nothing but hot air because the GPU manufacturer has issued the latest statement that will certainly shake the foundations of the global semiconductor and artificial intelligence industries. NVIDIA has officially announced that co-founder Huang has resigned from his roles as President, Chief Executive Officer, and member of the Board of Directors, effective immediately. The announcement brings an abrupt end ",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Taiwan Chip Giant TSMC Acknowledges Hack Of Reportedly 49,000 Employee Files Occurred But Says Leaked Data Matches That Stored With External Cloud Provider",
-    "link": "https://wccftech.com/taiwan-chip-giant-tsmc-acknowledges-hack-of-reportedly-49000-employee-files-occurred-but-says-leaked-data-matches-that-stored-with-external-cloud-provider/",
-    "description": "A cloud services provider working with Taiwanese contract chip manufacturer TSMC has been hacked, the firm confirmed, after the hackers posted the purported data on underground web forums. The hackers have demanded three Bitcoins as ransom and threatened to release the information if they are not paid. TSMC discussed the event with UDN and asserted that its internal systems were not compromised. TSMC Says Its Systems Remain Uncompromised After Reports Of Employee Data Breach Surface According to",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Windows 11 Search Can Now Change System Settings Directly, Without Opening The Settings App",
-    "link": "https://wccftech.com/windows-11-search-can-now-change-system-settings-directly-without-opening-the-settings-app/",
-    "description": "Microsoft is making Windows 11 Search considerably more useful by allowing users to change system settings, control audio, and manage application windows directly from the search interface, eliminating the need to navigate through multiple menus. The new functionality, called inline actions, is rolling out to Windows Insiders in the Beta Channel with Windows 11 Build 26320.9876, released on November 6. The build was subsequently updated to 26320.9877 without introducing additional functionality.",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD’s “Siren Halo” Will Reportedly Support GDDR7 Memory, Potentially Moving Beyond Unified-Memory Approach",
-    "link": "https://wccftech.com/amds-siren-halo-will-reportedly-support-gddr7-memory/",
-    "description": "AMD's upcoming Siren Halo could utilize GDDR7 memory for a major graphics bandwidth upgrade. Leaker Claims AMD's Next-Gen Siren Halo Could Pair Zen 6 and RDNA 5 With Dedicated GDDR7 Memory While we wait for AMD's announcement of the upcoming Zen 6-based mainstream processor families such as the Medusa Point, Medusa Ridge, and the Halo lineup, a new leak confirms a memory upgrade for the Medusa Halo successor. According to a new rumor from the hardware leaker @Gotou_kai3, the \"Siren Halo\" will ut",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
-    "link": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
-    "description": "NVIDIA DLSS may have a promising new competitor. Apex Compute has introduced Apex Neural Rendering (ANR), a cross-platform neural rendering suite that reportedly delivers up to 2.4X faster frame generation, superior image quality, and substantially lower GPU memory consumption than NVIDIA's technology. Better still, gamers can already try it for themselves — or at least its (Multi) Frame Generation component, which is currently available in beta. Announced through an official X thread, ANR consi",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Noctua’s NT-CP1 Thermal Pad Promises Years Of Stable CPU Cooling Without Reapplying Thermal Paste, But Costs $25",
-    "link": "https://wccftech.com/noctua-launches-nt-cp1-thermal-pad-at-24/",
-    "description": "ASUS says the conventional thermal pastes lose their performance over time, while the NT-CP1 thermal pad can go on for several years. Noctua Launches NT-CP1 Thermal Pad for AMD AM4/AM5 Processors, Promising a \"Maintenance-Free\" Alternative to Conventional Thermal Paste Noctua has prepared a new thermal solution for enthusiasts who want to keep the CPU temperatures down without worrying about performance degradation. The company just launched the NT-CP1 AM5/4 Carbice carbon nanotube thermal pad, ",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "FromSoftware’s Bloodborne First Path Tracing Mod Rebuilds the Unofficial PC Port With Ray-Traced Moonlight and Global Illumination, Pushing The 2015 Classic Into Remake Territory",
-    "link": "https://wccftech.com/fromsoftwares-bloodborne-path-tracing-pc-remake/",
-    "description": "While FromSoftware is undoubtedly a master of the action role-playing game craft, the Japanese studio isn't known for cutting-edge visuals. In Elden Ring, the studio headed by Hidetaka Miyazaki made its first attempt at ray tracing, and it will likely be a good while until we see one of their games run with full path tracing. Thankfully, PC users didn't have to wait years for something of the sort, as Bloodborne received a stunning path tracing mod that rebuilds one of the unofficial PC ports av",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "ASUS Aims To Turn Desktops Into A Local AI “Agent Computer” With New Hardware And Software Ecosystem",
-    "link": "https://wccftech.com/asus-aims-to-turn-desktops-into-a-local-ai-agent-computer-with-new-hardware-and-software-ecosystem/",
-    "description": "Vendors like ASUS are now expanding their Agent Computer initiative across DIY PCs, gaming systems, workstations, and creator machines. ASUS Expands its Agent Computer Ecosystem to Bring Local AI and AI Agents to DIY PCs, Gaming Systems, and Workstations Popular hardware maker ASUS is pushing its AI strategy beyond traditional AI PCs as it introduces the Agent Computer initiative designed to make local and agentic AI accessible to a variety of desktop hardware. The company says users will be abl",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Nintendo Switch 2 Jailbreak Crackdown Severely Escalates, As Entry-Point Titles SmileBASIC 4 and Civilization VII Cannot Run Without Update to 23.5.0 Firmware",
-    "link": "https://wccftech.com/nintendo-switch-2-jailbreak-crackdown-smilebasic-4-civilization-vii-23-5-0-firmware/",
-    "description": "A few days after the first Nintendo Switch 2 jailbreak, when hackers were left modding and dumping games, Nintendo released firmware 23.5.0 this week, which effectively put the jailbreak out of commission, as game exploits like SmileBASIC and Civilization VII were prevented from escaping the game's environment, thus significantly reducing what could be achieved on the system. However, it seems Nintendo has no intention of letting users run the exploit at all, as it is reportedly preventing these",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Modded RTX 5090 With 96GB VRAM Shows Up On Chinese Marketplace With A Placeholder Price That’s 57x Higher Than The RTX PRO 6000’s",
-    "link": "https://wccftech.com/modded-rtx-5090-96gb-vram-china-listing/",
-    "description": "NVIDIA’s RTX 5090 shipments were already hard to come by, and that’s because Chinese hardware modders were repeatedly grabbing the available units to transform them into repurposed GPUs for AI servers by swapping out their default PCBs for custom solutions. It appears that these efforts have borne some fruit, because a listing shows a modded RTX 5090 boasting 96GB of VRAM, which is the same memory count as the RTX PRO 6000. Unfortunately, it’s at a placeholder price that only the mighty affluent",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "CAPCOM Takes Seven Golden Joystick Awards 2026, With Resident Evil Requiem Winning Ultimate Game of the Year and Console Game of the Year",
-    "link": "https://wccftech.com/capcom-resident-evil-requiem-golden-joystick-awards-2026/",
-    "description": "The winners of the Golden Joystick Awards 2026 were unveiled during yesterday evening's ceremony at the Troxy in London. You can now rewatch the entire event on YouTube, but in case you don't have two and a half hours to spare, here's the lowdown on all twenty-five categories. CAPCOM came off as the evening's big winner, taking home seven awards, including Studio of the Year, prizes for PRAGMATA and Onimusha: Way of the Sword, and three awards for Resident Evil Requiem, which won the Ultimate Ga",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Jensen Huang’s Scandals Create Panic For Chinese AI Firms As They Rush To Secure NVIDIA GPUs Before The U.S. Shuts The Door On The Opportunity Forever",
-    "link": "https://wccftech.com/jensen-huang-scandals-create-panic-chinese-ai-firms-rush-secure-nvidia-gpus/",
-    "description": "The fallout from NVIDIA CEO Jensen Huang’s personal scandal involving not one, but two women has triggered widespread panic across China’s AI sector, especially after it was revealed that one of the women whom the Chief Executive admitted to having an affair with was a Chinese spy. With the unraveling of these controversies, we now learn that AI firms in China are moving with a purpose to ensure that they have sufficient AI GPU shipments on their shores before Washington enforces a strict ban on",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "NVIDIA CEO Jensen Huang’s Biggest Strength Is To Synthesize Strategy, Tech & Other Variables For Decisive Decisions, Writes Analyst Amidst Speculation That He Might Be Fired",
-    "link": "https://wccftech.com/nvidia-ceo-jensen-huangs-biggest-strength-is-to-synthesize-strategy-tech-other-variables-for-decisive-decisions-writes-analyst-amidst-speculation-that-he-might-be-fired/",
-    "description": "With NVIDIA's board set to meet following a slew of reports about CEO Jensen Huang, analyst Ming Chi-Ku believes Huang and his involvement in the semiconductor supply chain are invaluable. The analyst made the remarks in an X post and shared that NVIDIA's ability to drive technology and provide stable order visibility to its supply chain partners is unmatched. \"Practical Move May Be to Gradually Reduce Nvidia's Reliance on Huang,\" Says Ming-Chi Kuo The uncertainty surrounding Huang's future has ",
-    "pub_date": "2026-11-12",
-    "source": "Wccftech",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
-    "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
-    "description": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving appeared first on EE Times.",
-    "pub_date": "2026-11-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
-    "link": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
-    "description": "Explore how 800V SiC MOSFETs boost EV range, charging, and performance—and see what next-gen designs make possible. The post Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving appeared first on EE Times.",
-    "pub_date": "2026-11-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
-    "link": "https://www.eetimes.com/automotive-tech-forum-lidar-is-key-to-safer-adas-and-autonomous-vehicles/",
-    "description": "This keynote explores how LiDAR is shaping the future of mobility by improving safety, reliability, and performance in autonomous systems. The post Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles appeared first on EE Times.",
-    "pub_date": "2026-11-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
-    "link": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/",
-    "description": "This keynote exmines GaN reliability and present the case for GaN being not only the most efficient solution, but also a necessary step for reducing system cost The post Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond appeared first on EE Times.",
-    "pub_date": "2026-11-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
-    "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
-    "description": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual labor-intensive process into a conversational, AI-driven workflow. The post Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI appeared first on EE Times.",
-    "pub_date": "2026-11-11",
-    "source": "EE Times",
-    "category": "半导体"
-  },
-  {
-    "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
-    "description": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
-    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
-    "description": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
-    "description": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
-    "link": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
-    "description": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
-    "description": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
-    "link": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
-    "description": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day off from now until this time next year to play a game of their choice — including the one everyone is talking about.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
-    "description": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
-    "description": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
-    "link": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
-    "description": "Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to boot after installing the previous firmware.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Montech King 95 3D Pro case review: The King has returned",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
-    "description": "The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior space for components and cooling, and the Pro version comes with seven RGB fan",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
-    "description": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
-    "description": "Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
-    "link": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
-    "description": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
-    "link": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
-    "description": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
-    "link": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
-    "description": "Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32",
-    "link": "https://www.tomshardware.com/desktops/pc-building/save-36-percent-on-this-hoto-cordless-rotary-3d-printing-toolkit-for-makers-now-under-usd32-5-speed-tool-ships-with-35-attachments-for-sanding-polishing-carving-and-more",
-    "description": "Grab a 36% saving on Hoto’s cordless rotary toolkit, with a 25,000 RPM motor, 35 accessories and a built-in LED ring light.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
-    "description": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
-    "description": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that owner Elon Musk might have hoped for.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
-    "link": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
-    "description": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd351-with-this-newegg-bundle-with-the-9800x3d-usd87-less-than-the-next-cheapest-memory-gaming-pc-build-kit-includes-enthusiast-asus-x870e-motherboard-and-free-aio-liquid-cooler-with-usd128-99-in-total-savings",
-    "description": "Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 in the process.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "Modder routes PC water cooling loop to radiator outside to beat the winter heat",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enterprising-pc-modder-makes-a-split-cooling-system-to-keep-it-from-overheating-his-room-winter-cold-keeps-cpu-and-gpu-temperatures-below-50-c-under-load",
-    "description": "A Reddit PC builder didn't want to bother opening a window in the winter when their system made their legs too hot, so they created an automated split cooling system to dump heat outside.",
-    "pub_date": "2026-11-11",
-    "source": "Tom's Hardware",
-    "category": "芯片/市场"
-  },
-  {
-    "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
-    "link": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-    "description": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
-    "pub_date": "2026-11-11",
     "source": "Tom's Hardware",
     "category": "芯片/市场"
   }
