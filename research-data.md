@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-11-14 04:47:44 +0000
+# PubMed Research Feed — 2026-11-15 04:39:52 +0000
 
-共 **39** 篇文章（Toxoplasma 11 · Plasmodium 25 · Malaria parasite 9）
+共 **37** 篇文章（Toxoplasma 9 · Plasmodium 25 · Malaria parasite 9）
 
 ---
 
@@ -9,7 +9,10 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Base editing-mediated precision genome engineering in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/43024681/) | PLoS neglected tropical diseases | Toxoplasma | [10.1371/journal.pntd.0014864](https://doi.org/10.1371/journal.pntd.0014864) |
-| 2 | [Cell-based immunotherapies for infectious diseases: current evidence and translational perspectives on cytokine induced killer (CIK) cells.](https://pubmed.ncbi.nlm.nih.gov/43024081/) | Seminars in immunopathology | Plasmodium | [10.1007/s00281-026-01092-x](https://doi.org/10.1007/s00281-026-01092-x) |
+| 2 | [Ecological drivers of avian haemosporidian richness, host specificity, and network centrality in South America.](https://pubmed.ncbi.nlm.nih.gov/43025535/) | International journal for parasitology | Plasmodium · Malaria parasite | [10.1016/j.ijpara.2026.105025](https://doi.org/10.1016/j.ijpara.2026.105025) |
+| 3 | [UHPLC-QTOF-MS profiling and antiplasmodial activity of extract and triterpenoids of Maytenus senegalensis: in vitro, in silico, and molecular dynamics studies.](https://pubmed.ncbi.nlm.nih.gov/43025721/) | Journal of ethnopharmacology | Plasmodium | [10.1016/j.jep.2026.122652](https://doi.org/10.1016/j.jep.2026.122652) |
+| 4 | [Integrated evaluation of bothropic venom fractions and synthetic scorpion peptides against Plasmodium falciparum: Antiparasitic efficacy versus cellular cytotoxicity.](https://pubmed.ncbi.nlm.nih.gov/43025580/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108380](https://doi.org/10.1016/j.actatropica.2026.108380) |
+| 5 | [Cell-based immunotherapies for infectious diseases: current evidence and translational perspectives on cytokine induced killer (CIK) cells.](https://pubmed.ncbi.nlm.nih.gov/43024081/) | Seminars in immunopathology | Plasmodium | [10.1007/s00281-026-01092-x](https://doi.org/10.1007/s00281-026-01092-x) |
 
 ## 2026-11-12
 
@@ -37,11 +40,11 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Beta-Amino Alcohols as Key Frameworks in Drug Discovery: A Review of Medicinal Applications and Biological Profiles.](https://pubmed.ncbi.nlm.nih.gov/43023509/) | Medicinal chemistry (Shariqah (United Arab Emirates)) | Plasmodium | [10.2174/0115734064529260261104134338](https://doi.org/10.2174/0115734064529260261104134338) |
-| 2 | [High seroprevalence and risk factors for Toxoplasma gondii infection in Iquitos: A city in the Peruvian Amazon.](https://pubmed.ncbi.nlm.nih.gov/43008035/) | PLoS neglected tropical diseases | Toxoplasma | [10.1371/journal.pntd.0014476](https://doi.org/10.1371/journal.pntd.0014476) |
-| 3 | [The invisible malaria epidemic in Somalia: why molecular surveillance can no longer wait.](https://pubmed.ncbi.nlm.nih.gov/43009999/) | Malaria journal | Plasmodium · Malaria parasite | [10.1186/s12936-026-06219-x](https://doi.org/10.1186/s12936-026-06219-x) |
+| 1 | [High seroprevalence and risk factors for Toxoplasma gondii infection in Iquitos: A city in the Peruvian Amazon.](https://pubmed.ncbi.nlm.nih.gov/43008035/) | PLoS neglected tropical diseases | Toxoplasma | [10.1371/journal.pntd.0014476](https://doi.org/10.1371/journal.pntd.0014476) |
+| 2 | [The invisible malaria epidemic in Somalia: why molecular surveillance can no longer wait.](https://pubmed.ncbi.nlm.nih.gov/43009999/) | Malaria journal | Plasmodium · Malaria parasite | [10.1186/s12936-026-06219-x](https://doi.org/10.1186/s12936-026-06219-x) |
+| 3 | [The tachyzoite-bradyzoite transition in Toxoplasma gondii: molecular regulation, host adaptation, and therapeutic opportunities.](https://pubmed.ncbi.nlm.nih.gov/43004044/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11614-5](https://doi.org/10.1007/s11259-026-11614-5) |
 | 4 | [Diagnostic and prognostic biomarkers for pediatric cerebral malaria: a review.](https://pubmed.ncbi.nlm.nih.gov/43007515/) | Molecular biology reports | Plasmodium · Malaria parasite | [10.1007/s11033-026-13115-9](https://doi.org/10.1007/s11033-026-13115-9) |
-| 5 | [The tachyzoite-bradyzoite transition in Toxoplasma gondii: molecular regulation, host adaptation, and therapeutic opportunities.](https://pubmed.ncbi.nlm.nih.gov/43004044/) | Veterinary research communications | Toxoplasma | [10.1007/s11259-026-11614-5](https://doi.org/10.1007/s11259-026-11614-5) |
+| 5 | [Beta-Amino Alcohols as Key Frameworks in Drug Discovery: A Review of Medicinal Applications and Biological Profiles.](https://pubmed.ncbi.nlm.nih.gov/43023509/) | Medicinal chemistry (Shariqah (United Arab Emirates)) | Plasmodium | [10.2174/0115734064529260261104134338](https://doi.org/10.2174/0115734064529260261104134338) |
 | 6 | [Therapeutic Potential of Ocimum basilicum in Diabetes-Malaria Comorbidity: Evidence From Parasitemia, Biochemical, and Coagulation Outcomes in Mice.](https://pubmed.ncbi.nlm.nih.gov/43011285/) | Journal of tropical medicine | Plasmodium | [10.1155/jotm/6206620](https://doi.org/10.1155/jotm/6206620) |
 | 7 | [SANDWiCH: An Oil-Free High-Throughput Microwell-Array Platform for Digital Loop-Mediated Isothermal Amplification.](https://pubmed.ncbi.nlm.nih.gov/43010396/) | Analytical chemistry | Plasmodium | [10.1021/acs.analchem.6c03950](https://doi.org/10.1021/acs.analchem.6c03950) |
 | 8 | [Impact of pfhrp2/pfhrp3 Gene Deletions on the Diagnostic Performance of HRP2-Based Rapid Diagnostic Tests for Plasmodium falciparum in sub-Saharan Africa: A Systematic Review and Meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43009002/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108405](https://doi.org/10.1016/j.actatropica.2026.108405) |
@@ -52,31 +55,16 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Geldanamycin and novobiocin induce unique conformational shifts in Plasmodium falciparum Hsp90.](https://pubmed.ncbi.nlm.nih.gov/43003214/) | International journal of biological macromolecules | Plasmodium · Malaria parasite | [10.1016/j.ijbiomac.2026.155205](https://doi.org/10.1016/j.ijbiomac.2026.155205) |
-| 2 | [Virtual screening and in vitro validation of isoform-specific inhibitors targeting toxoplasma gondii cyclophilins.](https://pubmed.ncbi.nlm.nih.gov/43003213/) | International journal of biological macromolecules | Toxoplasma | [10.1016/j.ijbiomac.2026.155202](https://doi.org/10.1016/j.ijbiomac.2026.155202) |
-| 3 | [Tracking malaria parasite lineages through de novo mutations in highly related Plasmodium falciparum genomes.](https://pubmed.ncbi.nlm.nih.gov/43000935/) | G3 (Bethesda, Md.) | Plasmodium · Malaria parasite | [10.1093/g3journal/jkag313](https://doi.org/10.1093/g3journal/jkag313) |
-| 4 | [Transfusion-transmitted malaria in Europe and North America: Epidemiology, residual risk and implications for blood safety policies.](https://pubmed.ncbi.nlm.nih.gov/43003081/) | Vox sanguinis | Plasmodium | [10.1111/vox.70389](https://doi.org/10.1111/vox.70389) |
+| 1 | [Virtual screening and in vitro validation of isoform-specific inhibitors targeting toxoplasma gondii cyclophilins.](https://pubmed.ncbi.nlm.nih.gov/43003213/) | International journal of biological macromolecules | Toxoplasma | [10.1016/j.ijbiomac.2026.155202](https://doi.org/10.1016/j.ijbiomac.2026.155202) |
+| 2 | [Geldanamycin and novobiocin induce unique conformational shifts in Plasmodium falciparum Hsp90.](https://pubmed.ncbi.nlm.nih.gov/43003214/) | International journal of biological macromolecules | Plasmodium · Malaria parasite | [10.1016/j.ijbiomac.2026.155205](https://doi.org/10.1016/j.ijbiomac.2026.155205) |
+| 3 | [Tracking malaria parasite lineages through de novo mutations in highly related Plasmodium falciparum genomes.](https://pubmed.ncbi.nlm.nih.gov/43000935/) | G3 (Bethesda, Md.) | Malaria parasite | [10.1093/g3journal/jkag313](https://doi.org/10.1093/g3journal/jkag313) |
 
 ## 2026-11-08
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Urine as a Noninvasive Diagnostic Approach for Toxoplasma gondii: A Systematic Review of Molecular and Serological Detection Methods.](https://pubmed.ncbi.nlm.nih.gov/43005315/) | Journal of parasitology research | Toxoplasma | [10.1155/japr/9315889](https://doi.org/10.1155/japr/9315889) |
-
-## 2026-11-07
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Correction: Erythrocyte membrane with CLIPPKF as biomimetic nanodecoy traps merozoites and attaches to infected red blood cells to prevent Plasmodium infection.](https://pubmed.ncbi.nlm.nih.gov/42998989/) | Journal of nanobiotechnology | Plasmodium | [10.1186/s12951-026-05186-4](https://doi.org/10.1186/s12951-026-05186-4) |
-
-## 2026-11-06
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [Evaluation of a new assay for the detection of IgM in recent and congenital Toxoplasma infections.](https://pubmed.ncbi.nlm.nih.gov/42992824/) | Journal of clinical microbiology | Toxoplasma | [10.1128/jcm.00654-26](https://doi.org/10.1128/jcm.00654-26) |
-| 2 | [CD8+ T cells induce RIPK1-regulated brain endothelial cell death in cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42993832/) | Science advances | Malaria parasite | [10.1126/sciadv.aej4381](https://doi.org/10.1126/sciadv.aej4381) |
-| 3 | [Toxoplasma gondii GRA16-induced apoptosis in KRAS-mutant colorectal cancer cells is linked to coordinated p53 and PP2A-B55 signaling.](https://pubmed.ncbi.nlm.nih.gov/42989853/) | Parasites, hosts and diseases | Toxoplasma | [10.3347/PHD.26050](https://doi.org/10.3347/PHD.26050) |
-| 4 | [Symmetrical Peripheral Gangrene in a Child With Plasmodium falciparum Cerebral Malaria: A Rare but Serious Complication.](https://pubmed.ncbi.nlm.nih.gov/42999776/) | Clinical case reports | Plasmodium | [10.1002/ccr3.73843](https://doi.org/10.1002/ccr3.73843) |
+| 1 | [Aminosteroids from Buxaceae and Apocynaceae Plants as Antiprotozoal Agents: Structural Diversity and Structure-Activity Relationships.](https://pubmed.ncbi.nlm.nih.gov/43028244/) | International journal of molecular sciences | Plasmodium | [10.3390/ijms27219999](https://doi.org/10.3390/ijms27219999) |
+| 2 | [Urine as a Noninvasive Diagnostic Approach for Toxoplasma gondii: A Systematic Review of Molecular and Serological Detection Methods.](https://pubmed.ncbi.nlm.nih.gov/43005315/) | Journal of parasitology research | Toxoplasma | [10.1155/japr/9315889](https://doi.org/10.1155/japr/9315889) |
 
 ## 2026-11-04
 
