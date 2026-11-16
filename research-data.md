@@ -1,6 +1,6 @@
-# PubMed Research Feed — 2026-11-15 04:39:52 +0000
+# PubMed Research Feed — 2026-11-16 04:36:24 +0000
 
-共 **37** 篇文章（Toxoplasma 9 · Plasmodium 25 · Malaria parasite 9）
+共 **38** 篇文章（Toxoplasma 9 · Plasmodium 25 · Malaria parasite 10）
 
 ---
 
@@ -55,7 +55,7 @@
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Virtual screening and in vitro validation of isoform-specific inhibitors targeting toxoplasma gondii cyclophilins.](https://pubmed.ncbi.nlm.nih.gov/43003213/) | International journal of biological macromolecules | Toxoplasma | [10.1016/j.ijbiomac.2026.155202](https://doi.org/10.1016/j.ijbiomac.2026.155202) |
+| 1 | [Virtual screening and in vitro validation of isoform-specific inhibitors targeting Toxoplasma gondii cyclophilins.](https://pubmed.ncbi.nlm.nih.gov/43003213/) | International journal of biological macromolecules | Toxoplasma | [10.1016/j.ijbiomac.2026.155202](https://doi.org/10.1016/j.ijbiomac.2026.155202) |
 | 2 | [Geldanamycin and novobiocin induce unique conformational shifts in Plasmodium falciparum Hsp90.](https://pubmed.ncbi.nlm.nih.gov/43003214/) | International journal of biological macromolecules | Plasmodium · Malaria parasite | [10.1016/j.ijbiomac.2026.155205](https://doi.org/10.1016/j.ijbiomac.2026.155205) |
 | 3 | [Tracking malaria parasite lineages through de novo mutations in highly related Plasmodium falciparum genomes.](https://pubmed.ncbi.nlm.nih.gov/43000935/) | G3 (Bethesda, Md.) | Malaria parasite | [10.1093/g3journal/jkag313](https://doi.org/10.1093/g3journal/jkag313) |
 
@@ -95,3 +95,9 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [Targeting a site of vulnerability on circumsporozoite protein inhibits Plasmodium vivax malaria infection.](https://pubmed.ncbi.nlm.nih.gov/42785294/) | Immunity | Malaria parasite | [10.1016/j.immuni.2026.09.001](https://doi.org/10.1016/j.immuni.2026.09.001) |
+
+## 2026-06-11
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [In-vitro, in-vivo, and in-silico investigation of the traditionally used polyherbal combinations of Coptis teeta, Nyctanthes arbor-tristis, and Andrographis paniculata.](https://pubmed.ncbi.nlm.nih.gov/42276394/) | Journal of ethnopharmacology | Malaria parasite | [10.1016/j.jep.2026.121982](https://doi.org/10.1016/j.jep.2026.121982) |
