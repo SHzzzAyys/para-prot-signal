@@ -1,9 +1,9 @@
-window.researchLastUpdated = "2026-11-20 05:35:31 +0000";
+window.researchLastUpdated = "2026-11-21 05:29:25 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-43055286",
-    "title": "Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43055286/",
+    "id": "pubmed-43064546",
+    "title": "Meanings mothers attribute to caring for children with congenital toxoplasmosis: A virtual ethnography on Facebook®.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064546/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -11,18 +11,48 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
+    "ageHours": 29.5,
     "score": 100,
-    "journal": "Tropical doctor",
-    "pubDate": "2026-11-19",
+    "journal": "Journal of pediatric nursing",
+    "pubDate": "2026-11-20",
     "authors": [
-      "Pandey P",
-      "Pal V",
-      "Singh D"
+      "Escaliante GV",
+      "Machado-Kayzuka GC",
+      "Neris RR",
+      "Frizzo HCF",
+      "Barbosa NG",
+      "Nascimento LC"
     ],
-    "pmid": "43055286",
-    "doi": "10.1177/00494755261508888",
-    "why": "Ocular parasitic infections are an under-recognised cause of ocular morbidity in low- and middle-income countries. We found Taenia solium (26.5%) was the most common parasite, followed by Toxocara canis/cati (19.4%), Toxoplasma gondii (17.3%) and Acanthamoeba spp. (11.2%). Reduced visual acuity (66.3%), retinitis/chorioretinitis (38.8%), uveitis (32.7%) and vitreous involvement (28.6%) were the predominant clinical manifestations. Poor nutritional status..."
+    "pmid": "43064546",
+    "doi": "10.1016/j.pedn.2026.10.049",
+    "why": "INTRODUCTION: Congenital toxoplasmosis is a significant public health concern due to its severity and its profound impact on maternal and family care. OBJECTIVE: To explore how mothers of children with congenital toxoplasmosis use Facebook to share caregiving experiences and construct meanings related to their maternal trajectories within digital support networks. METHOD: This is an exploratory, qualitative study based on virtual ethnography. The study..."
+  },
+  {
+    "id": "pubmed-43063265",
+    "title": "Structural basis of Anopheles mosquito salivary protein complexes implicated in malaria transmission.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063265/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 29.5,
+    "score": 100,
+    "journal": "Science advances",
+    "pubDate": "2026-11-20",
+    "authors": [
+      "Su T",
+      "Liu S",
+      "Williams AE",
+      "Calvo E",
+      "Zhou ZH"
+    ],
+    "pmid": "43063265",
+    "doi": "10.1126/sciadv.aeb2411",
+    "why": "Successful malaria transmission by Anopheles mosquitoes depends on Plasmodium development within the mosquito midgut and subsequent sporozoite invasion of its salivary glands. Salivary proteins, notably Saglin and likely salivary gland surface proteins (SGS4 and SGS5), were suggested to play roles in these processes, but the lack of their structures has hindered our understanding of the underlying molecular mechanisms. In this study, we carried out..."
   },
   {
     "id": "pubmed-43057552",
@@ -35,8 +65,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 100,
+    "ageHours": 53.5,
+    "score": 98,
     "journal": "Acta tropica",
     "pubDate": "2026-11-19",
     "authors": [
@@ -63,8 +93,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 100,
+    "ageHours": 53.5,
+    "score": 98,
     "journal": "Cell",
     "pubDate": "2026-11-19",
     "authors": [
@@ -90,8 +120,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 98,
+    "ageHours": 53.5,
+    "score": 96,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-19",
     "authors": [
@@ -118,8 +148,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 98,
+    "ageHours": 53.5,
+    "score": 96,
     "journal": "PLoS pathogens",
     "pubDate": "2026-11-19",
     "authors": [
@@ -135,6 +165,30 @@ window.researchItems = [
     "why": "Drug resistance in Plasmodium falciparum threatens malaria control and elimination efforts, particularly where sustained chemoprevention and treatment have driven parasite evolution. Senegal has implemented antimalarial strategies for two decades, including sulfadoxine-pyrimethamine (SP) for intermittent preventive treatment in pregnancy and SP plus amodiaquine for seasonal malaria chemoprevention in children. We analyzed whole-genome sequencing (WGS)..."
   },
   {
+    "id": "pubmed-43055286",
+    "title": "Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055286/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 53.5,
+    "score": 94,
+    "journal": "Tropical doctor",
+    "pubDate": "2026-11-19",
+    "authors": [
+      "Pandey P",
+      "Pal V",
+      "Singh D"
+    ],
+    "pmid": "43055286",
+    "doi": "10.1177/00494755261508888",
+    "why": "Ocular parasitic infections are an under-recognised cause of ocular morbidity in low- and middle-income countries. We found Taenia solium (26.5%) was the most common parasite, followed by Toxocara canis/cati (19.4%), Toxoplasma gondii (17.3%) and Acanthamoeba spp. (11.2%). Reduced visual acuity (66.3%), retinitis/chorioretinitis (38.8%), uveitis (32.7%) and vitreous involvement (28.6%) were the predominant clinical manifestations. Poor nutritional status..."
+  },
+  {
     "id": "pubmed-43057277",
     "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43057277/",
@@ -145,8 +199,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 96,
+    "ageHours": 53.5,
+    "score": 94,
     "journal": "Lancet (London, England)",
     "pubDate": "2026-11-19",
     "authors": [
@@ -173,8 +227,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 96,
+    "ageHours": 53.5,
+    "score": 94,
     "journal": "PloS one",
     "pubDate": "2026-11-19",
     "authors": [
@@ -200,8 +254,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 92,
+    "ageHours": 53.5,
+    "score": 90,
     "journal": "Tropical medicine & international health : TM & IH",
     "pubDate": "2026-11-19",
     "authors": [
@@ -223,8 +277,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 90,
+    "ageHours": 53.5,
+    "score": 88,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-11-19",
     "authors": [
@@ -250,8 +304,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 88,
+    "ageHours": 53.5,
+    "score": 86,
     "journal": "PLoS medicine",
     "pubDate": "2026-11-19",
     "authors": [
@@ -277,8 +331,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.6,
-    "score": 86,
+    "ageHours": 53.5,
+    "score": 84,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-19",
     "authors": [
@@ -304,8 +358,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 98,
+    "ageHours": 77.5,
+    "score": 92,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-18",
     "authors": [
@@ -331,8 +385,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 96,
+    "ageHours": 77.5,
+    "score": 90,
     "journal": "Acta parasitologica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -358,8 +412,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 80,
+    "ageHours": 77.5,
+    "score": 78,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-18",
     "authors": [
@@ -385,8 +439,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 78,
+    "ageHours": 77.5,
+    "score": 76,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -408,8 +462,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 76,
+    "ageHours": 77.5,
+    "score": 74,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -431,8 +485,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 74,
+    "ageHours": 77.5,
+    "score": 72,
     "journal": "ACS sensors",
     "pubDate": "2026-11-18",
     "authors": [
@@ -458,8 +512,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 72,
+    "ageHours": 77.5,
+    "score": 70,
     "journal": "Infection and immunity",
     "pubDate": "2026-11-18",
     "authors": [
@@ -485,8 +539,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.6,
-    "score": 70,
+    "ageHours": 77.5,
+    "score": 68,
     "journal": "Journal of travel medicine",
     "pubDate": "2026-11-18",
     "authors": [
@@ -502,30 +556,6 @@ window.researchItems = [
     "why": "BACKGROUND: The standard artemether-lumefantrine regimen for uncomplicated Plasmodium falciparum malaria comprises six doses over three days. Reports of late recurrence in non-endemic settings have prompted recommendations for longer regimens despite limited direct comparative evidence. We described early parasite clearance and 42-day recurrence after 3-day therapy in a selected cohort of adults without a documented previous malaria episode. METHODS: We..."
   },
   {
-    "id": "pubmed-43044679",
-    "title": "CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43044679/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma",
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 94,
-    "journal": "Molecular and biochemical parasitology",
-    "pubDate": "2026-11-17",
-    "authors": [
-      "Ganguly N",
-      "Thakre BJ"
-    ],
-    "pmid": "43044679",
-    "doi": "10.1016/j.molbiopara.2026.111793",
-    "why": "Protozoan parasites possess complex genomes, unusual DNA-repair mechanisms, multiple developmental stages, and, in several species, intracellular or vector-dependent life cycles that complicate functional genetic studies. CRISPR-Cas9 has become a central tool for functional genomics in these organisms, enabling targeted gene disruption, replacement, tagging, nucleotide modification and genome-wide functional screening. However, editing efficiency and..."
-  },
-  {
     "id": "pubmed-43043926",
     "title": "Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43043926/",
@@ -537,8 +567,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 94,
+    "ageHours": 101.5,
+    "score": 92,
     "journal": "PloS one",
     "pubDate": "2026-11-17",
     "authors": [
@@ -565,8 +595,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 92,
+    "ageHours": 101.5,
+    "score": 90,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-11-17",
     "authors": [
@@ -581,6 +611,30 @@ window.researchItems = [
     "why": "The actin cytoskeleton is crucial to regulate cellular processes and morphology in eukaryotes, yet the tools to visualize it are not compatible with all organisms. In the apicomplexan Plasmodium falciparum, actin filaments are thought to be short and unstable, complicating their visualization. Here, we show that a tandem fusion of the actin-chromobody can label filaments in all P. falciparum red blood cell stages and observe actin structures in live cells..."
   },
   {
+    "id": "pubmed-43044679",
+    "title": "CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044679/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 101.5,
+    "score": 88,
+    "journal": "Molecular and biochemical parasitology",
+    "pubDate": "2026-11-17",
+    "authors": [
+      "Ganguly N",
+      "Thakre BJ"
+    ],
+    "pmid": "43044679",
+    "doi": "10.1016/j.molbiopara.2026.111793",
+    "why": "Protozoan parasites possess complex genomes, unusual DNA-repair mechanisms, multiple developmental stages, and, in several species, intracellular or vector-dependent life cycles that complicate functional genetic studies. CRISPR-Cas9 has become a central tool for functional genomics in these organisms, enabling targeted gene disruption, replacement, tagging, nucleotide modification and genome-wide functional screening. However, editing efficiency and..."
+  },
+  {
     "id": "pubmed-43048651",
     "title": "Epidemiology and Associated Risk Factors of Malaria Infection in Loka Abaya District, Sidama Region, Ethiopia.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43048651/",
@@ -591,8 +645,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 68,
+    "ageHours": 101.5,
+    "score": 66,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-11-17",
     "authors": [
@@ -615,8 +669,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 66,
+    "ageHours": 101.5,
+    "score": 64,
     "journal": "Trends in microbiology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -642,8 +696,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 64,
+    "ageHours": 101.5,
+    "score": 62,
     "journal": "The Journal of biological chemistry",
     "pubDate": "2026-11-17",
     "authors": [
@@ -666,8 +720,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 62,
+    "ageHours": 101.5,
+    "score": 60,
     "journal": "European journal of pharmacology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -693,8 +747,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.6,
-    "score": 58,
+    "ageHours": 101.5,
+    "score": 56,
     "journal": "PLoS computational biology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -710,30 +764,6 @@ window.researchItems = [
     "why": "Copy number variants (CNVs) are prevalent in both diploid and haploid genomes and contribute to genome evolution and phenotypic diversity. However, CNV detection in low-input data, including low-cell and single-cell sequencing data, remains challenging due to the shallow and highly uneven read counts and amplification bias. Another challenge lies in selecting reference samples, which are used to provide a baseline for defining copy-number losses or gains..."
   },
   {
-    "id": "pubmed-43037394",
-    "title": "The ER protein CGAF1 stabilizes CDC50.1 and drives nascent guanylate cyclase complex assembly for apical trafficking in Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43037394/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 101.6,
-    "score": 92,
-    "journal": "mBio",
-    "pubDate": "2026-11-16",
-    "authors": [
-      "Richardson ED",
-      "Cabral G",
-      "Brown KM"
-    ],
-    "pmid": "43037394",
-    "doi": "10.1128/mbio.02080-26",
-    "why": "UNLABELLED: The apicomplexan guanylate cyclase (GC) complex acts as a signaling hub linking environmental sensing to lytic growth via production of cyclic guanosine monophosphate (cGMP). In Toxoplasma gondii, at least three accessory proteins (CDC50.1, UGO, and SLF) form a complex with GC to regulate its trafficking and activity. To further resolve the assembly and composition of the GC complex in T. gondii, we screened for novel interactors of GC using..."
-  },
-  {
     "id": "pubmed-43037396",
     "title": "Characterizing malaria parasite drug response using single-cell transcriptomics.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43037396/",
@@ -744,8 +774,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.6,
-    "score": 90,
+    "ageHours": 125.5,
+    "score": 88,
     "journal": "mBio",
     "pubDate": "2026-11-16",
     "authors": [
@@ -759,6 +789,30 @@ window.researchItems = [
     "why": "Gene expression analysis in malaria parasites has been used to define transcriptional regulatory networks but has been used less frequently to characterize parasite response to drug treatment or to show how parasites may evade killing. Here, we applied single-cell RNA sequencing (scRNA-seq) to hundreds of thousands of individually infected asynchronous red blood cells to evaluate the parasite's response to treatment with three chemotypes that can be used..."
   },
   {
+    "id": "pubmed-43037394",
+    "title": "The ER protein CGAF1 stabilizes CDC50.1 and drives nascent guanylate cyclase complex assembly for apical trafficking in Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037394/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 125.5,
+    "score": 86,
+    "journal": "mBio",
+    "pubDate": "2026-11-16",
+    "authors": [
+      "Richardson ED",
+      "Cabral G",
+      "Brown KM"
+    ],
+    "pmid": "43037394",
+    "doi": "10.1128/mbio.02080-26",
+    "why": "UNLABELLED: The apicomplexan guanylate cyclase (GC) complex acts as a signaling hub linking environmental sensing to lytic growth via production of cyclic guanosine monophosphate (cGMP). In Toxoplasma gondii, at least three accessory proteins (CDC50.1, UGO, and SLF) form a complex with GC to regulate its trafficking and activity. To further resolve the assembly and composition of the GC complex in T. gondii, we screened for novel interactors of GC using..."
+  },
+  {
     "id": "pubmed-42003133",
     "title": "Effective Treatment Using Bumped Kinase Inhibitor 1708 in a Calf Clinical Model of Cryptosporidiosis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42003133/",
@@ -769,8 +823,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.6,
-    "score": 88,
+    "ageHours": 125.5,
+    "score": 84,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-11-16",
     "authors": [
@@ -786,29 +840,9 @@ window.researchItems = [
     "why": "BACKGROUND: Cryptosporidium parvum, an apicomplexan parasite and the causative agent of cryptosporidiosis, contributes to a high burden in mortality and morbidity for humans and livestock. Currently, there are no reliably successful parasite-specific treatments for the debilitating diarrhea associated with the infection. Bumped kinase inhibitors (BKIs), which selectively target parasite calcium-dependent protein kinases, have been shown to decrease..."
   },
   {
-    "id": "pubmed-43041635",
-    "title": "Correction to \"Synergistic Combination of Cryptolepis sanguinolenta (Lindl.) Schlechter (Apocynaceae) and Azadirachta Indica (A. Juss) (Meliaceae) Against 3D7 and DD2 Strains of Plasmodium Falciparum\".",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43041635/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 125.6,
-    "score": 52,
-    "journal": "Advances in pharmacological and pharmaceutical sciences",
-    "pubDate": "2026-11-15",
-    "authors": [],
-    "pmid": "43041635",
-    "doi": "10.1155/adpp/9791648",
-    "why": "[This corrects the article DOI: 10.1155/adpp/1273876.]."
-  },
-  {
-    "id": "pubmed-43024681",
-    "title": "Base editing-mediated precision genome engineering in Toxoplasma gondii.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43024681/",
+    "id": "pubmed-43059877",
+    "title": "In-country cerebrospinal fluid metagenomic next generation sequencing for pathogen detection in Lima, Peru.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059877/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -816,48 +850,46 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 173.6,
-    "score": 90,
-    "journal": "PLoS neglected tropical diseases",
-    "pubDate": "2026-11-13",
+    "ageHours": 149.5,
+    "score": 96,
+    "journal": "medRxiv : the preprint server for health sciences",
+    "pubDate": "2026-11-15",
     "authors": [
-      "Liu F",
-      "Wu Y",
-      "Chen Z",
-      "Liu X",
-      "Yu L",
-      "Shen J"
+      "Reddy SP",
+      "Chavez Neyra A",
+      "Lugo K",
+      "Ayzanoa B",
+      "Cucho Espinoza C",
+      "Morgenroth-Rebin J"
     ],
-    "pmid": "43024681",
-    "doi": "10.1371/journal.pntd.0014864",
-    "why": "Functional genomics in Toxoplasma gondii (T. gondii), an obligate intracellular parasite of global medical importance, primarily relies on CRISPR-Cas9-mediated gene disruption. However, conventional CRISPR-Cas9 editing relies on generating double-strand breaks (DSBs), which are repaired either by error-prone non-homologous end joining or by homology-directed repair requiring donor templates and time-consuming clone isolation. Here, we established the..."
+    "pmid": "43059877",
+    "doi": "10.64898/2026.11.13.26367457",
+    "why": "BACKGROUND: Central nervous system (CNS) infections are a major cause of morbidity and mortality in low- and middle-income countries such as Peru. However, their epidemiology is poorly characterized due to a wide range of endemic and opportunistic pathogens involved and limited access to specialized neurodiagnostic testing. Cerebrospinal fluid (CSF) metagenomic next-generation sequencing (mNGS) can detect any pathogen in a single hypothesis-free assay but..."
   },
   {
-    "id": "pubmed-43025535",
-    "title": "Ecological drivers of avian haemosporidian richness, host specificity, and network centrality in South America.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43025535/",
+    "id": "pubmed-43059892",
+    "title": "High-Throughput Screen of Advanced Repurposing Library Identifies Compounds Active Against Acute and Chronic Stages of Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059892/",
     "source": "PubMed",
-    "tag": "Malaria parasite",
+    "tag": "Toxoplasma",
     "topics": [
-      "Malaria parasite"
+      "Toxoplasma"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 173.6,
-    "score": 88,
-    "journal": "International journal for parasitology",
-    "pubDate": "2026-11-13",
+    "ageHours": 173.5,
+    "score": 98,
+    "journal": "bioRxiv : the preprint server for biology",
+    "pubDate": "2026-11-14",
     "authors": [
-      "Tamayo-Quintero J",
-      "la Puente JM",
-      "Matta NE",
-      "Pacheco MA",
-      "Sedano-Cruz RE",
-      "Rivera-Gutierrez HF"
+      "Uddin T",
+      "McNamara CW",
+      "Chatterjee AK",
+      "Sibley LD"
     ],
-    "pmid": "43025535",
-    "doi": "10.1016/j.ijpara.2026.105025",
-    "why": "Avian malaria parasites and related haemosporidians represent a highly diverse and infect birds worldwide, yet large-scale patterns of infections in South America, the most bird-diverse region globally, remain poorly investigated. We integrated and curated the most comprehensive molecular datasets available, combining MalAvi records with published and unpublished data from the Northern Andes for resident species, to assess lineage richness, distribution..."
+    "pmid": "43059892",
+    "doi": "10.64898/2026.11.13.766473",
+    "why": "Toxoplasma gondii , a pathogen with a global burden impacting millions, has the capability to interconvert between the actively replicating tachyzoite form into a semi- dormant bradyzoite for, complicating treatment. Here, we utilized an advanced high- throughput screen (HTS) to identify repurposing candidates from the ReFRAME library, which consolidates 14,095 molecules from three major databases, including FDA- approved and late-stage clinical leads. To..."
   },
   {
     "id": "pubmed-42276394",
@@ -870,7 +902,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 3893.6,
+    "ageHours": 3917.5,
     "score": 86,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-06-11",
