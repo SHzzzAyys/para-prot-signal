@@ -1,9 +1,36 @@
-window.researchLastUpdated = "2026-11-21 05:29:25 +0000";
+window.researchLastUpdated = "2026-11-22 04:54:50 +0000";
 window.researchItems = [
   {
-    "id": "pubmed-43064546",
-    "title": "Meanings mothers attribute to caring for children with congenital toxoplasmosis: A virtual ethnography on Facebook®.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43064546/",
+    "id": "pubmed-43065302",
+    "title": "Rhabdomyolysis in Ugandan children with severe malaria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065302/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 28.9,
+    "score": 100,
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "pubDate": "2026-11-21",
+    "authors": [
+      "Hawkes MT",
+      "Batte A",
+      "Namazzi R",
+      "Shackleford M",
+      "Conroy AL",
+      "John CC"
+    ],
+    "pmid": "43065302",
+    "doi": "10.1093/cid/ciag748",
+    "why": "BACKGROUND: Rhabdomyolysis is a serious clinical syndrome characterized by skeletal muscle injury, release of creatine kinase (CK) and increased risk of acute kidney injury (AKI). Few studies have examined rhabdomyolysis in severe pediatric malaria. METHODS: Secondary analysis of a prospective cohort study. We examined the association of rhabdomyolysis with mortality (Cox proportional hazards models, complete case analysis and multiple imputation by..."
+  },
+  {
+    "id": "pubmed-43064758",
+    "title": "Stability and tethering of the preconoidal rings in Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064758/",
     "source": "PubMed",
     "tag": "Toxoplasma",
     "topics": [
@@ -11,21 +38,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.5,
+    "ageHours": 52.9,
     "score": 100,
-    "journal": "Journal of pediatric nursing",
+    "journal": "EMBO reports",
     "pubDate": "2026-11-20",
     "authors": [
-      "Escaliante GV",
-      "Machado-Kayzuka GC",
-      "Neris RR",
-      "Frizzo HCF",
-      "Barbosa NG",
-      "Nascimento LC"
+      "Haase R",
+      "Tell I Puig A",
+      "Vadas O",
+      "Dos Santos Pacheco N",
+      "Maco B",
+      "Soldati-Favre D"
     ],
-    "pmid": "43064546",
-    "doi": "10.1016/j.pedn.2026.10.049",
-    "why": "INTRODUCTION: Congenital toxoplasmosis is a significant public health concern due to its severity and its profound impact on maternal and family care. OBJECTIVE: To explore how mothers of children with congenital toxoplasmosis use Facebook to share caregiving experiences and construct meanings related to their maternal trajectories within digital support networks. METHOD: This is an exploratory, qualitative study based on virtual ethnography. The study..."
+    "pmid": "43064758",
+    "doi": "10.1038/s44319-026-00995-y",
+    "why": "Apicomplexan parasites rely on a specialized apical cytoskeleton to generate the forces required for motility and host-cell invasion. At its core lies the conoid, composed of spiraling tubulin fibers capped by three preconoidal rings (PCRs), which anchor the actin nucleator Formin 1 and contribute to force transmission at the parasite apex. Here, we refine the molecular organization and function of the PCRs in Toxoplasma gondii. We show that PCR..."
   },
   {
     "id": "pubmed-43063265",
@@ -39,7 +66,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 29.5,
+    "ageHours": 52.9,
     "score": 100,
     "journal": "Science advances",
     "pubDate": "2026-11-20",
@@ -55,31 +82,31 @@ window.researchItems = [
     "why": "Successful malaria transmission by Anopheles mosquitoes depends on Plasmodium development within the mosquito midgut and subsequent sporozoite invasion of its salivary glands. Salivary proteins, notably Saglin and likely salivary gland surface proteins (SGS4 and SGS5), were suggested to play roles in these processes, but the lack of their structures has hindered our understanding of the underlying molecular mechanisms. In this study, we carried out..."
   },
   {
-    "id": "pubmed-43057552",
-    "title": "Entomological survey for potential Anopheles malaria vectors and their insecticide resistance status in agricultural and peri-urban sites of Central and Southern Greece.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43057552/",
+    "id": "pubmed-43064546",
+    "title": "Meanings mothers attribute to caring for children with congenital toxoplasmosis: A virtual ethnography on Facebook®.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064546/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Toxoplasma",
     "topics": [
-      "Plasmodium"
+      "Toxoplasma"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
+    "ageHours": 52.9,
     "score": 98,
-    "journal": "Acta tropica",
-    "pubDate": "2026-11-19",
+    "journal": "Journal of pediatric nursing",
+    "pubDate": "2026-11-20",
     "authors": [
-      "Balaska S",
-      "Parnassa V",
-      "Vitaliotis IL",
-      "Mastis S",
-      "Alexandris NC",
-      "Skevofylaka A"
+      "Escaliante GV",
+      "Machado-Kayzuka GC",
+      "Neris RR",
+      "Frizzo HCF",
+      "Barbosa NG",
+      "Nascimento LC"
     ],
-    "pmid": "43057552",
-    "doi": "10.1016/j.actatropica.2026.108421",
-    "why": "Greece has eliminated malaria for several decades now, however the ecological settings as being transformed in response to climatic crisis and the current geo-political situation may pose an epidemiological risk. Evidence on Anopheles vector species occurrence and their insecticide resistance (IR) profile in the country is limited and this study aims to narrow this gap. To this end, Anopheles collections were performed in selected agricultural and..."
+    "pmid": "43064546",
+    "doi": "10.1016/j.pedn.2026.10.049",
+    "why": "INTRODUCTION: Congenital toxoplasmosis is a significant public health concern due to its severity and its profound impact on maternal and family care. OBJECTIVE: To explore how mothers of children with congenital toxoplasmosis use Facebook to share caregiving experiences and construct meanings related to their maternal trajectories within digital support networks. METHOD: This is an exploratory, qualitative study based on virtual ethnography. The study..."
   },
   {
     "id": "pubmed-43057226",
@@ -93,7 +120,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
+    "ageHours": 76.9,
     "score": 98,
     "journal": "Cell",
     "pubDate": "2026-11-19",
@@ -110,9 +137,9 @@ window.researchItems = [
     "why": "Anopheles stephensi, a malaria-transmitting mosquito, has invaded Africa and rapidly adapts to the high temperatures in urban settings. However, the molecular basis of its thermal adaptation remains unclear. Here, we identified a variant of a 5-kb deletion in the circadian clock gene timeless (tim-5kb) that rose to high frequency after 3 years of rearing at high laboratory temperatures. The tim+/-5kb heterozygous males maintain stable expression of the..."
   },
   {
-    "id": "pubmed-43057496",
-    "title": "Antimalarial activity of Croton caudatus Geiseler leaf extract and its ability to reduce experimental cerebral malaria pathogenesis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43057496/",
+    "id": "pubmed-43057552",
+    "title": "Entomological survey for potential Anopheles malaria vectors and their insecticide resistance status in agricultural and peri-urban sites of Central and Southern Greece.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057552/",
     "source": "PubMed",
     "tag": "Plasmodium",
     "topics": [
@@ -120,21 +147,21 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
+    "ageHours": 76.9,
     "score": 96,
-    "journal": "Journal of ethnopharmacology",
+    "journal": "Acta tropica",
     "pubDate": "2026-11-19",
     "authors": [
-      "Chatterjee A",
-      "Singh N",
-      "Chanu WK",
-      "Nayak P",
-      "Das R",
-      "Singh CB"
+      "Balaska S",
+      "Parnassa V",
+      "Vitaliotis IL",
+      "Mastis S",
+      "Alexandris NC",
+      "Skevofylaka A"
     ],
-    "pmid": "43057496",
-    "doi": "10.1016/j.jep.2026.122617",
-    "why": "ETHNOPHARMACOLOGICAL RELEVANCE: Croton caudatus Geiseler is widely used in traditional medicine to treat various ailments, including malaria. However, scientific evidences supporting its antimalarial activity and the associated molecular mechanisms, and its potential to reduce severe malaria complications are lacking. AIM OF THE STUDY: The present study was aimed to evaluate the antimalarial activity of C. caudatus leaf extract and its fractions, and to..."
+    "pmid": "43057552",
+    "doi": "10.1016/j.actatropica.2026.108421",
+    "why": "Greece has eliminated malaria for several decades now, however the ecological settings as being transformed in response to climatic crisis and the current geo-political situation may pose an epidemiological risk. Evidence on Anopheles vector species occurrence and their insecticide resistance (IR) profile in the country is limited and this study aims to narrow this gap. To this end, Anopheles collections were performed in selected agricultural and..."
   },
   {
     "id": "pubmed-43056398",
@@ -148,7 +175,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
+    "ageHours": 76.9,
     "score": 96,
     "journal": "PLoS pathogens",
     "pubDate": "2026-11-19",
@@ -165,6 +192,61 @@ window.researchItems = [
     "why": "Drug resistance in Plasmodium falciparum threatens malaria control and elimination efforts, particularly where sustained chemoprevention and treatment have driven parasite evolution. Senegal has implemented antimalarial strategies for two decades, including sulfadoxine-pyrimethamine (SP) for intermittent preventive treatment in pregnancy and SP plus amodiaquine for seasonal malaria chemoprevention in children. We analyzed whole-genome sequencing (WGS)..."
   },
   {
+    "id": "pubmed-43057496",
+    "title": "Antimalarial activity of Croton caudatus Geiseler leaf extract and its ability to reduce experimental cerebral malaria pathogenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057496/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 76.9,
+    "score": 94,
+    "journal": "Journal of ethnopharmacology",
+    "pubDate": "2026-11-19",
+    "authors": [
+      "Chatterjee A",
+      "Singh N",
+      "Chanu WK",
+      "Nayak P",
+      "Das R",
+      "Singh CB"
+    ],
+    "pmid": "43057496",
+    "doi": "10.1016/j.jep.2026.122617",
+    "why": "ETHNOPHARMACOLOGICAL RELEVANCE: Croton caudatus Geiseler is widely used in traditional medicine to treat various ailments, including malaria. However, scientific evidences supporting its antimalarial activity and the associated molecular mechanisms, and its potential to reduce severe malaria complications are lacking. AIM OF THE STUDY: The present study was aimed to evaluate the antimalarial activity of C. caudatus leaf extract and its fractions, and to..."
+  },
+  {
+    "id": "pubmed-43056343",
+    "title": "Five-year trends in Malaria prevalence, Plasmodium species distribution, demographic patterns, and seasonal variation at Yejube health center, Baso Liben district, East Gojjam zone, Ethiopia, 2020-2024: Implications for Malaria elimination.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056343/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 76.9,
+    "score": 94,
+    "journal": "PloS one",
+    "pubDate": "2026-11-19",
+    "authors": [
+      "Fenta A",
+      "Dilnessa T",
+      "Tilahun A",
+      "Adugna A",
+      "Belew H",
+      "Tegegne BA"
+    ],
+    "pmid": "43056343",
+    "doi": "10.1371/journal.pone.0363165",
+    "why": "BACKGROUND: Malaria remains a major global public health problem, with an estimated 282 million cases and 610,000 deaths in 2024, predominantly in the WHO African Region. Ethiopia continues to face substantial malaria transmission and has adopted an elimination strategy emphasizing surveillance, early diagnosis and treatment, and integrated vector control. Assessing local temporal, species-specific, demographic, and seasonal patterns is essential to guide..."
+  },
+  {
     "id": "pubmed-43055286",
     "title": "Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43055286/",
@@ -175,8 +257,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 94,
+    "ageHours": 76.9,
+    "score": 92,
     "journal": "Tropical doctor",
     "pubDate": "2026-11-19",
     "authors": [
@@ -199,8 +281,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 94,
+    "ageHours": 76.9,
+    "score": 92,
     "journal": "Lancet (London, England)",
     "pubDate": "2026-11-19",
     "authors": [
@@ -216,34 +298,6 @@ window.researchItems = [
     "why": "BACKGROUND: The R21/Matrix-M (R21) malaria vaccine candidate, recommended by WHO for use in young children, could be extended to the whole population. Seasonal mass vaccination (SMV) before peak malaria transmission could be a promising tool to accelerate progress towards malaria elimination. We aimed to evaluate the safety and effectiveness of SMV with R21 in two malaria-endemic settings in west Africa. METHODS: This open-label, cluster-randomised..."
   },
   {
-    "id": "pubmed-43056343",
-    "title": "Five-year trends in Malaria prevalence, Plasmodium species distribution, demographic patterns, and seasonal variation at Yejube health center, Baso Liben district, East Gojjam zone, Ethiopia, 2020-2024: Implications for Malaria elimination.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43056343/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium",
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 94,
-    "journal": "PloS one",
-    "pubDate": "2026-11-19",
-    "authors": [
-      "Fenta A",
-      "Dilnessa T",
-      "Tilahun A",
-      "Adugna A",
-      "Belew H",
-      "Tegegne BA"
-    ],
-    "pmid": "43056343",
-    "doi": "10.1371/journal.pone.0363165",
-    "why": "BACKGROUND: Malaria remains a major global public health problem, with an estimated 282 million cases and 610,000 deaths in 2024, predominantly in the WHO African Region. Ethiopia continues to face substantial malaria transmission and has adopted an elimination strategy emphasizing surveillance, early diagnosis and treatment, and integrated vector control. Assessing local temporal, species-specific, demographic, and seasonal patterns is essential to guide..."
-  },
-  {
     "id": "pubmed-43057217",
     "title": "Zoonotic Malaria Beyond Elimination: Making One Health Accountable.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43057217/",
@@ -254,8 +308,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 90,
+    "ageHours": 76.9,
+    "score": 88,
     "journal": "Tropical medicine & international health : TM & IH",
     "pubDate": "2026-11-19",
     "authors": [
@@ -277,8 +331,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 88,
+    "ageHours": 76.9,
+    "score": 86,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-11-19",
     "authors": [
@@ -304,8 +358,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 86,
+    "ageHours": 76.9,
+    "score": 84,
     "journal": "PLoS medicine",
     "pubDate": "2026-11-19",
     "authors": [
@@ -331,8 +385,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 53.5,
-    "score": 84,
+    "ageHours": 76.9,
+    "score": 82,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-19",
     "authors": [
@@ -358,8 +412,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 92,
+    "ageHours": 100.9,
+    "score": 90,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-18",
     "authors": [
@@ -385,8 +439,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 90,
+    "ageHours": 100.9,
+    "score": 88,
     "journal": "Acta parasitologica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -412,8 +466,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 78,
+    "ageHours": 100.9,
+    "score": 76,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-18",
     "authors": [
@@ -439,8 +493,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 76,
+    "ageHours": 100.9,
+    "score": 74,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -462,8 +516,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 74,
+    "ageHours": 100.9,
+    "score": 72,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -485,8 +539,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 72,
+    "ageHours": 100.9,
+    "score": 70,
     "journal": "ACS sensors",
     "pubDate": "2026-11-18",
     "authors": [
@@ -512,8 +566,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 70,
+    "ageHours": 100.9,
+    "score": 68,
     "journal": "Infection and immunity",
     "pubDate": "2026-11-18",
     "authors": [
@@ -539,8 +593,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 77.5,
-    "score": 68,
+    "ageHours": 100.9,
+    "score": 66,
     "journal": "Journal of travel medicine",
     "pubDate": "2026-11-18",
     "authors": [
@@ -567,7 +621,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
+    "ageHours": 124.9,
     "score": 92,
     "journal": "PloS one",
     "pubDate": "2026-11-17",
@@ -588,14 +642,13 @@ window.researchItems = [
     "title": "Visualization of actin filaments in Plasmodium falciparum blood cell stages.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43043695/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Malaria parasite",
     "topics": [
-      "Plasmodium",
       "Malaria parasite"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
+    "ageHours": 124.9,
     "score": 90,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-11-17",
@@ -622,8 +675,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 88,
+    "ageHours": 124.9,
+    "score": 86,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -645,8 +698,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 66,
+    "ageHours": 124.9,
+    "score": 64,
     "journal": "Journal of parasitology research",
     "pubDate": "2026-11-17",
     "authors": [
@@ -669,8 +722,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 64,
+    "ageHours": 124.9,
+    "score": 62,
     "journal": "Trends in microbiology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -696,8 +749,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 62,
+    "ageHours": 124.9,
+    "score": 60,
     "journal": "The Journal of biological chemistry",
     "pubDate": "2026-11-17",
     "authors": [
@@ -720,8 +773,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 60,
+    "ageHours": 124.9,
+    "score": 58,
     "journal": "European journal of pharmacology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -747,8 +800,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 101.5,
-    "score": 56,
+    "ageHours": 124.9,
+    "score": 54,
     "journal": "PLoS computational biology",
     "pubDate": "2026-11-17",
     "authors": [
@@ -774,7 +827,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 125.5,
+    "ageHours": 148.9,
     "score": 88,
     "journal": "mBio",
     "pubDate": "2026-11-16",
@@ -799,8 +852,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 125.5,
-    "score": 86,
+    "ageHours": 148.9,
+    "score": 84,
     "journal": "mBio",
     "pubDate": "2026-11-16",
     "authors": [
@@ -823,8 +876,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 125.5,
-    "score": 84,
+    "ageHours": 148.9,
+    "score": 82,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-11-16",
     "authors": [
@@ -850,8 +903,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 149.5,
-    "score": 96,
+    "ageHours": 172.9,
+    "score": 94,
     "journal": "medRxiv : the preprint server for health sciences",
     "pubDate": "2026-11-15",
     "authors": [
@@ -877,8 +930,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 173.5,
-    "score": 98,
+    "ageHours": 196.9,
+    "score": 96,
     "journal": "bioRxiv : the preprint server for biology",
     "pubDate": "2026-11-14",
     "authors": [
@@ -902,7 +955,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 3917.5,
+    "ageHours": 3940.9,
     "score": 86,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-06-11",
