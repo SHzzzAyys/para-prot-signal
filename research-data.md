@@ -1,24 +1,33 @@
-# PubMed Research Feed — 2026-11-23 05:35:33 +0000
+# PubMed Research Feed — 2026-11-24 08:14:03 +0000
 
-共 **37** 篇文章（Malaria parasite 8 · Plasmodium 25 · Toxoplasma 8）
+共 **35** 篇文章（Toxoplasma 7 · Plasmodium 25 · Malaria parasite 7）
 
 ---
+
+## 2026-11-23
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Practice patterns in the diagnosis and management of ocular toxoplasmosis in Egypt: a multicenter retrospective case series.](https://pubmed.ncbi.nlm.nih.gov/43070989/) | International ophthalmology | Toxoplasma | [10.1007/s10792-026-04356-5](https://doi.org/10.1007/s10792-026-04356-5) |
+| 2 | [Malaria and the Coagulation System: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/43072727/) | Hamostaseologie | Plasmodium | [10.1055/a-3002-1611](https://doi.org/10.1055/a-3002-1611) |
+| 3 | [A One Health investigation of malaria infections in critically endangered eastern gorillas (Gorilla beringei) and national park employees in the highlands of the Democratic Republic of the Congo.](https://pubmed.ncbi.nlm.nih.gov/43072441/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108417](https://doi.org/10.1016/j.actatropica.2026.108417) |
+| 4 | [Dynamics of parasitemia, symptoms and biomarkers during growth phase in malaria volunteer infection studies: implications for the development of highly sensitive Rapid Diagnostic Tests.](https://pubmed.ncbi.nlm.nih.gov/43071548/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag571](https://doi.org/10.1093/infdis/jiag571) |
 
 ## 2026-11-21
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Challenges and opportunities in global malaria control: highlights from the Malaria in Melbourne 2025 conference.](https://pubmed.ncbi.nlm.nih.gov/43067425/) | Molecular and biochemical parasitology | Malaria parasite | [10.1016/j.molbiopara.2026.111796](https://doi.org/10.1016/j.molbiopara.2026.111796) |
+| 1 | [Challenges and opportunities in global malaria control: Highlights from the Malaria in Melbourne 2025 conference.](https://pubmed.ncbi.nlm.nih.gov/43067425/) | Molecular and biochemical parasitology | Malaria parasite | [10.1016/j.molbiopara.2026.111796](https://doi.org/10.1016/j.molbiopara.2026.111796) |
 | 2 | [Rhabdomyolysis in Ugandan children with severe malaria.](https://pubmed.ncbi.nlm.nih.gov/43065302/) | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | Plasmodium | [10.1093/cid/ciag748](https://doi.org/10.1093/cid/ciag748) |
 
 ## 2026-11-20
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Stability and tethering of the preconoidal rings in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/43064758/) | EMBO reports | Toxoplasma | [10.1038/s44319-026-00995-y](https://doi.org/10.1038/s44319-026-00995-y) |
-| 2 | [In silico evaluation of antimalarial compounds derived from the stem bark of Senegalia polyacantha (Willd.) Seigler & Ebinger (Fabaceae) against the validated target: Plasmodium falciparum prolyl-tRNA synthetase.](https://pubmed.ncbi.nlm.nih.gov/43067928/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00797-z](https://doi.org/10.1007/s40203-026-00797-z) |
+| 1 | [Structural basis of Anopheles mosquito salivary protein complexes implicated in malaria transmission.](https://pubmed.ncbi.nlm.nih.gov/43063265/) | Science advances | Plasmodium · Malaria parasite | [10.1126/sciadv.aeb2411](https://doi.org/10.1126/sciadv.aeb2411) |
+| 2 | [Stability and tethering of the preconoidal rings in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/43064758/) | EMBO reports | Toxoplasma | [10.1038/s44319-026-00995-y](https://doi.org/10.1038/s44319-026-00995-y) |
 | 3 | [Meanings mothers attribute to caring for children with congenital toxoplasmosis: A virtual ethnography on Facebook®.](https://pubmed.ncbi.nlm.nih.gov/43064546/) | Journal of pediatric nursing | Toxoplasma | [10.1016/j.pedn.2026.10.049](https://doi.org/10.1016/j.pedn.2026.10.049) |
-| 4 | [Structural basis of Anopheles mosquito salivary protein complexes implicated in malaria transmission.](https://pubmed.ncbi.nlm.nih.gov/43063265/) | Science advances | Plasmodium · Malaria parasite | [10.1126/sciadv.aeb2411](https://doi.org/10.1126/sciadv.aeb2411) |
+| 4 | [In silico evaluation of antimalarial compounds derived from the stem bark of Senegalia polyacantha (Willd.) Seigler & Ebinger (Fabaceae) against the validated target: Plasmodium falciparum prolyl-tRNA synthetase.](https://pubmed.ncbi.nlm.nih.gov/43067928/) | In silico pharmacology | Plasmodium | [10.1007/s40203-026-00797-z](https://doi.org/10.1007/s40203-026-00797-z) |
 
 ## 2026-11-19
 
@@ -26,9 +35,9 @@
 |---|------|------|------|-----|
 | 1 | [Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.](https://pubmed.ncbi.nlm.nih.gov/43055286/) | Tropical doctor | Toxoplasma | [10.1177/00494755261508888](https://doi.org/10.1177/00494755261508888) |
 | 2 | [A natural mutation of timeless enhances mosquito thermal adaptation and malaria parasite transmission.](https://pubmed.ncbi.nlm.nih.gov/43057226/) | Cell | Plasmodium · Malaria parasite | [10.1016/j.cell.2026.10.049](https://doi.org/10.1016/j.cell.2026.10.049) |
-| 3 | [Aqueous Extract of Guiera senegalensis J. F. Gmel. Galls (Combretaceae) Improves Malaria-Induced Cognitive Abnormalities in Suppressive Study: A Pilot Investigation.](https://pubmed.ncbi.nlm.nih.gov/43065649/) | Advances in pharmacological and pharmaceutical sciences | Plasmodium | [10.1155/adpp/2690662](https://doi.org/10.1155/adpp/2690662) |
-| 4 | [Genotype-phenotype investigation of evolving mutations associated with antimalarial resistance among Senegalese Plasmodium falciparum malaria parasites.](https://pubmed.ncbi.nlm.nih.gov/43056398/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014822](https://doi.org/10.1371/journal.ppat.1014822) |
-| 5 | [Five-year trends in Malaria prevalence, Plasmodium species distribution, demographic patterns, and seasonal variation at Yejube health center, Baso Liben district, East Gojjam zone, Ethiopia, 2020-2024: Implications for Malaria elimination.](https://pubmed.ncbi.nlm.nih.gov/43056343/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0363165](https://doi.org/10.1371/journal.pone.0363165) |
+| 3 | [Genotype-phenotype investigation of evolving mutations associated with antimalarial resistance among Senegalese Plasmodium falciparum malaria parasites.](https://pubmed.ncbi.nlm.nih.gov/43056398/) | PLoS pathogens | Plasmodium · Malaria parasite | [10.1371/journal.ppat.1014822](https://doi.org/10.1371/journal.ppat.1014822) |
+| 4 | [Five-year trends in Malaria prevalence, Plasmodium species distribution, demographic patterns, and seasonal variation at Yejube health center, Baso Liben district, East Gojjam zone, Ethiopia, 2020-2024: Implications for Malaria elimination.](https://pubmed.ncbi.nlm.nih.gov/43056343/) | PloS one | Plasmodium · Malaria parasite | [10.1371/journal.pone.0363165](https://doi.org/10.1371/journal.pone.0363165) |
+| 5 | [Aqueous Extract of Guiera senegalensis J. F. Gmel. Galls (Combretaceae) Improves Malaria-Induced Cognitive Abnormalities in Suppressive Study: A Pilot Investigation.](https://pubmed.ncbi.nlm.nih.gov/43065649/) | Advances in pharmacological and pharmaceutical sciences | Plasmodium | [10.1155/adpp/2690662](https://doi.org/10.1155/adpp/2690662) |
 | 6 | [Entomological survey for potential Anopheles malaria vectors and their insecticide resistance status in agricultural and peri-urban sites of Central and Southern Greece.](https://pubmed.ncbi.nlm.nih.gov/43057552/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108421](https://doi.org/10.1016/j.actatropica.2026.108421) |
 | 7 | [Antimalarial activity of Croton caudatus Geiseler leaf extract and its ability to reduce experimental cerebral malaria pathogenesis.](https://pubmed.ncbi.nlm.nih.gov/43057496/) | Journal of ethnopharmacology | Plasmodium | [10.1016/j.jep.2026.122617](https://doi.org/10.1016/j.jep.2026.122617) |
 | 8 | [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial.](https://pubmed.ncbi.nlm.nih.gov/43057277/) | Lancet (London, England) | Plasmodium | [10.1016/S0140-6736(26)01562-X](https://doi.org/10.1016/S0140-6736(26)01562-X) |
@@ -55,20 +64,9 @@
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
 | 1 | [A rare imported mixed Plasmodium falciparum and P. malariae infection: The indispensable role of microscopy. A case report.](https://pubmed.ncbi.nlm.nih.gov/43067232/) | Diagnostic microbiology and infectious disease | Plasmodium | [10.1016/j.diagmicrobio.2026.117759](https://doi.org/10.1016/j.diagmicrobio.2026.117759) |
-| 2 | [CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.](https://pubmed.ncbi.nlm.nih.gov/43044679/) | Molecular and biochemical parasitology | Toxoplasma | [10.1016/j.molbiopara.2026.111793](https://doi.org/10.1016/j.molbiopara.2026.111793) |
-| 3 | [Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.](https://pubmed.ncbi.nlm.nih.gov/43043926/) | PloS one | Malaria parasite | [10.1371/journal.pone.0362585](https://doi.org/10.1371/journal.pone.0362585) |
+| 2 | [Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.](https://pubmed.ncbi.nlm.nih.gov/43043926/) | PloS one | Malaria parasite | [10.1371/journal.pone.0362585](https://doi.org/10.1371/journal.pone.0362585) |
+| 3 | [CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.](https://pubmed.ncbi.nlm.nih.gov/43044679/) | Molecular and biochemical parasitology | Toxoplasma | [10.1016/j.molbiopara.2026.111793](https://doi.org/10.1016/j.molbiopara.2026.111793) |
 | 4 | [Visualization of actin filaments in Plasmodium falciparum blood cell stages.](https://pubmed.ncbi.nlm.nih.gov/43043695/) | Proceedings of the National Academy of Sciences of the United States of America | Malaria parasite | [10.1073/pnas.2628890123](https://doi.org/10.1073/pnas.2628890123) |
-| 5 | [Epidemiology and Associated Risk Factors of Malaria Infection in Loka Abaya District, Sidama Region, Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/43048651/) | Journal of parasitology research | Plasmodium | [10.1155/japr/7993879](https://doi.org/10.1155/japr/7993879) |
-| 6 | [A multipathogen view of Epstein-Barr virus pathogenesis and tumorigenesis.](https://pubmed.ncbi.nlm.nih.gov/43045551/) | Trends in microbiology | Plasmodium | [10.1016/j.tim.2026.10.010](https://doi.org/10.1016/j.tim.2026.10.010) |
-| 7 | [The heteromeric Plasmodium falciparum pantothenate kinase has only one active site and does not require Pf14-3-3I for activity.](https://pubmed.ncbi.nlm.nih.gov/43044821/) | The Journal of biological chemistry | Plasmodium | [10.1016/j.jbc.2026.113765](https://doi.org/10.1016/j.jbc.2026.113765) |
-
-## 2026-11-16
-
-| # | 标题 | 期刊 | 主题 | DOI |
-|---|------|------|------|-----|
-| 1 | [The ER protein CGAF1 stabilizes CDC50.1 and drives nascent guanylate cyclase complex assembly for apical trafficking in Toxoplasma gondii.](https://pubmed.ncbi.nlm.nih.gov/43037394/) | mBio | Toxoplasma | [10.1128/mbio.02080-26](https://doi.org/10.1128/mbio.02080-26) |
-| 2 | [Effective Treatment Using Bumped Kinase Inhibitor 1708 in a Calf Clinical Model of Cryptosporidiosis.](https://pubmed.ncbi.nlm.nih.gov/42003133/) | The Journal of infectious diseases | Toxoplasma | [10.1093/infdis/jiag217](https://doi.org/10.1093/infdis/jiag217) |
-| 3 | [Characterizing malaria parasite drug response using single-cell transcriptomics.](https://pubmed.ncbi.nlm.nih.gov/43037396/) | mBio | Malaria parasite | [10.1128/mbio.02513-26](https://doi.org/10.1128/mbio.02513-26) |
 
 ## 2026-10-22
 
