@@ -1,17 +1,31 @@
-# PubMed Research Feed — 2026-11-24 08:14:03 +0000
+# PubMed Research Feed — 2026-11-25 06:51:02 +0000
 
-共 **35** 篇文章（Toxoplasma 7 · Plasmodium 25 · Malaria parasite 7）
+共 **35** 篇文章（Toxoplasma 9 · Plasmodium 25 · Malaria parasite 7）
 
 ---
+
+## 2026-11-25
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Conservative management: diagnostic error after suspected CSF leak.](https://pubmed.ncbi.nlm.nih.gov/43077598/) | Diagnosis (Berlin, Germany) | Toxoplasma | [10.1515/dx-2026-0166](https://doi.org/10.1515/dx-2026-0166) |
+
+## 2026-11-24
+
+| # | 标题 | 期刊 | 主题 | DOI |
+|---|------|------|------|-----|
+| 1 | [Correction: Identification of two genomic cryptotypes of Plasmodium malariae in Africa.](https://pubmed.ncbi.nlm.nih.gov/43077373/) | PLoS neglected tropical diseases | Plasmodium | [10.1371/journal.pntd.0014893](https://doi.org/10.1371/journal.pntd.0014893) |
 
 ## 2026-11-23
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Practice patterns in the diagnosis and management of ocular toxoplasmosis in Egypt: a multicenter retrospective case series.](https://pubmed.ncbi.nlm.nih.gov/43070989/) | International ophthalmology | Toxoplasma | [10.1007/s10792-026-04356-5](https://doi.org/10.1007/s10792-026-04356-5) |
-| 2 | [Malaria and the Coagulation System: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/43072727/) | Hamostaseologie | Plasmodium | [10.1055/a-3002-1611](https://doi.org/10.1055/a-3002-1611) |
-| 3 | [A One Health investigation of malaria infections in critically endangered eastern gorillas (Gorilla beringei) and national park employees in the highlands of the Democratic Republic of the Congo.](https://pubmed.ncbi.nlm.nih.gov/43072441/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108417](https://doi.org/10.1016/j.actatropica.2026.108417) |
-| 4 | [Dynamics of parasitemia, symptoms and biomarkers during growth phase in malaria volunteer infection studies: implications for the development of highly sensitive Rapid Diagnostic Tests.](https://pubmed.ncbi.nlm.nih.gov/43071548/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag571](https://doi.org/10.1093/infdis/jiag571) |
+| 1 | [Mitogenomic Evidence of Host Plasticity and Strict Phylogeographic Restriction in the Avian Malaria Parasite Plasmodium collidatum.](https://pubmed.ncbi.nlm.nih.gov/43075561/) | Ecology and evolution | Plasmodium · Malaria parasite | [10.1002/ece3.74821](https://doi.org/10.1002/ece3.74821) |
+| 2 | [Helical repeat protein mRSiC is required for rRNA fragment accumulation in T. gondii mitochondria.](https://pubmed.ncbi.nlm.nih.gov/43073441/) | EMBO reports | Toxoplasma · Plasmodium | [10.1038/s44319-026-00998-9](https://doi.org/10.1038/s44319-026-00998-9) |
+| 3 | [Practice patterns in the diagnosis and management of ocular toxoplasmosis in Egypt: a multicenter retrospective case series.](https://pubmed.ncbi.nlm.nih.gov/43070989/) | International ophthalmology | Toxoplasma | [10.1007/s10792-026-04356-5](https://doi.org/10.1007/s10792-026-04356-5) |
+| 4 | [Malaria and the Coagulation System: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/43072727/) | Hamostaseologie | Plasmodium | [10.1055/a-3002-1611](https://doi.org/10.1055/a-3002-1611) |
+| 5 | [A One Health investigation of malaria infections in critically endangered eastern gorillas (Gorilla beringei) and national park employees in the highlands of the Democratic Republic of the Congo.](https://pubmed.ncbi.nlm.nih.gov/43072441/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108417](https://doi.org/10.1016/j.actatropica.2026.108417) |
+| 6 | [Dynamics of parasitemia, symptoms and biomarkers during growth phase in malaria volunteer infection studies: implications for the development of highly sensitive Rapid Diagnostic Tests.](https://pubmed.ncbi.nlm.nih.gov/43071548/) | The Journal of infectious diseases | Plasmodium | [10.1093/infdis/jiag571](https://doi.org/10.1093/infdis/jiag571) |
 
 ## 2026-11-21
 
@@ -57,19 +71,15 @@
 | 4 | [Update on the Malaria Situation in the Americas, 2015 - 2024.](https://pubmed.ncbi.nlm.nih.gov/43051340/) | Acta tropica | Plasmodium | [10.1016/j.actatropica.2026.108423](https://doi.org/10.1016/j.actatropica.2026.108423) |
 | 5 | [Architecture-Dependent Effects of Terminal Switching of Thiol Anchors and Methylene Blue Reporters in Electrochemical DNA-Based Sensors.](https://pubmed.ncbi.nlm.nih.gov/43050603/) | ACS sensors | Plasmodium | [10.1021/acssensors.6c03138](https://doi.org/10.1021/acssensors.6c03138) |
 | 6 | [Basophil FcεR1γ signaling regulates gut barrier integrity and systemic antibacterial immunity during malaria with a sex bias.](https://pubmed.ncbi.nlm.nih.gov/43049708/) | Infection and immunity | Plasmodium | [10.1128/iai.00383-26](https://doi.org/10.1128/iai.00383-26) |
-| 7 | [3-Day Artemether-Lumefantrine Regimen in Non-immune Adults with Imported Uncomplicated Plasmodium falciparum Malaria: An 11-Year Retrospective Study (MALARIA3).](https://pubmed.ncbi.nlm.nih.gov/43049171/) | Journal of travel medicine | Plasmodium | [10.1093/jtm/taag110](https://doi.org/10.1093/jtm/taag110) |
 
 ## 2026-11-17
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [A rare imported mixed Plasmodium falciparum and P. malariae infection: The indispensable role of microscopy. A case report.](https://pubmed.ncbi.nlm.nih.gov/43067232/) | Diagnostic microbiology and infectious disease | Plasmodium | [10.1016/j.diagmicrobio.2026.117759](https://doi.org/10.1016/j.diagmicrobio.2026.117759) |
-| 2 | [Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.](https://pubmed.ncbi.nlm.nih.gov/43043926/) | PloS one | Malaria parasite | [10.1371/journal.pone.0362585](https://doi.org/10.1371/journal.pone.0362585) |
-| 3 | [CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.](https://pubmed.ncbi.nlm.nih.gov/43044679/) | Molecular and biochemical parasitology | Toxoplasma | [10.1016/j.molbiopara.2026.111793](https://doi.org/10.1016/j.molbiopara.2026.111793) |
-| 4 | [Visualization of actin filaments in Plasmodium falciparum blood cell stages.](https://pubmed.ncbi.nlm.nih.gov/43043695/) | Proceedings of the National Academy of Sciences of the United States of America | Malaria parasite | [10.1073/pnas.2628890123](https://doi.org/10.1073/pnas.2628890123) |
+| 1 | [Visualization of actin filaments in Plasmodium falciparum blood cell stages.](https://pubmed.ncbi.nlm.nih.gov/43043695/) | Proceedings of the National Academy of Sciences of the United States of America | Malaria parasite | [10.1073/pnas.2628890123](https://doi.org/10.1073/pnas.2628890123) |
 
-## 2026-10-22
+## 2026-05-07
 
 | # | 标题 | 期刊 | 主题 | DOI |
 |---|------|------|------|-----|
-| 1 | [Thiochromene Analogues as Antiparasitic Chemotype: Synthesis, Antiplasmodial and Antitrypanosomal Profiling, Experimental Validation, and Computational Insights into Trypanothione Reductase Inhibition.](https://pubmed.ncbi.nlm.nih.gov/43065972/) | ACS omega | Plasmodium | [10.1021/acsomega.6c08419](https://doi.org/10.1021/acsomega.6c08419) |
+| 1 | [Cysteine cathepsin proteases in apicomplexan parasites.](https://pubmed.ncbi.nlm.nih.gov/42103323/) | Biological chemistry | Toxoplasma | [10.1515/hsz-2025-0240](https://doi.org/10.1515/hsz-2025-0240) |

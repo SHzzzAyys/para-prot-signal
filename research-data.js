@@ -1,5 +1,108 @@
-window.researchLastUpdated = "2026-11-24 08:14:03 +0000";
+window.researchLastUpdated = "2026-11-25 06:51:02 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-43077598",
+    "title": "Conservative management: diagnostic error after suspected CSF leak.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077598/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 6.8,
+    "score": 100,
+    "journal": "Diagnosis (Berlin, Germany)",
+    "pubDate": "2026-11-25",
+    "authors": [
+      "Gross SA"
+    ],
+    "pmid": "43077598",
+    "doi": "10.1515/dx-2026-0166",
+    "why": "OBJECTIVES: To trace how a suspected but unexamined surgical complication propagated through non-disclosure, anchoring, and fragmented care into months of diagnostic delay, unresolved illness, and lasting harm. CASE PRESENTATION: A 23-year-old woman developed persistent clear nasal drainage after elective functional endoscopic sinus surgery and asked her surgeon whether it was a cerebrospinal fluid (CSF) leak. Beta-2 transferrin was never ordered. The..."
+  },
+  {
+    "id": "pubmed-43077373",
+    "title": "Correction: Identification of two genomic cryptotypes of Plasmodium malariae in Africa.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077373/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 30.8,
+    "score": 100,
+    "journal": "PLoS neglected tropical diseases",
+    "pubDate": "2026-11-24",
+    "authors": [
+      "Lefebvre MJM",
+      "Arnathau C",
+      "Houzé S",
+      "de Thoisy B",
+      "González C",
+      "Rondón S"
+    ],
+    "pmid": "43077373",
+    "doi": "10.1371/journal.pntd.0014893",
+    "why": "[This corrects the article DOI: 10.1371/journal.pntd.0014176.]."
+  },
+  {
+    "id": "pubmed-43075561",
+    "title": "Mitogenomic Evidence of Host Plasticity and Strict Phylogeographic Restriction in the Avian Malaria Parasite Plasmodium collidatum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075561/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium",
+      "Malaria parasite"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 54.8,
+    "score": 100,
+    "journal": "Ecology and evolution",
+    "pubDate": "2026-11-23",
+    "authors": [
+      "Prompiram P",
+      "Mongkolphan C",
+      "Chaisilp N",
+      "Poltep K"
+    ],
+    "pmid": "43075561",
+    "doi": "10.1002/ece3.74821",
+    "why": "Avian malaria parasites (Plasmodium spp.) are globally distributed pathogens that significantly affect host evolution and biodiversity. The rapid expansion-cancelation cycles that are characteristic of invasive lineages are well documented. However, the mechanisms maintaining the stability of endemic generalists remain poorly understood. This study aimed to resolve the evolutionary history and population genetics of Plasmodium collidatum (lineage..."
+  },
+  {
+    "id": "pubmed-43073441",
+    "title": "Helical repeat protein mRSiC is required for rRNA fragment accumulation in T. gondii mitochondria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073441/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 54.8,
+    "score": 98,
+    "journal": "EMBO reports",
+    "pubDate": "2026-11-23",
+    "authors": [
+      "Drakoulis N",
+      "Maschmann S",
+      "Gluhic Z",
+      "Blum AB",
+      "Hillebrand A",
+      "Possling A"
+    ],
+    "pmid": "43073441",
+    "doi": "10.1038/s44319-026-00998-9",
+    "why": "Myzozoans, including apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii, possess unusual mitochondrial genomes that only encode two to three respiratory chain subunits and extensively fragmented rRNAs forming a divergent mitoribosome. Heptatricopeptide repeat (HPR) proteins are expanded in myzozoans, with some functioning as mitoribosomal constituents. Additional HPR proteins have been proposed to function in post-transcriptional..."
+  },
   {
     "id": "pubmed-43070989",
     "title": "Practice patterns in the diagnosis and management of ocular toxoplasmosis in Egypt: a multicenter retrospective case series.",
@@ -11,8 +114,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 32.2,
-    "score": 100,
+    "ageHours": 54.8,
+    "score": 96,
     "journal": "International ophthalmology",
     "pubDate": "2026-11-23",
     "authors": [
@@ -38,8 +141,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 32.2,
-    "score": 100,
+    "ageHours": 54.8,
+    "score": 94,
     "journal": "Hamostaseologie",
     "pubDate": "2026-11-23",
     "authors": [
@@ -63,8 +166,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 32.2,
-    "score": 98,
+    "ageHours": 54.8,
+    "score": 92,
     "journal": "Acta tropica",
     "pubDate": "2026-11-23",
     "authors": [
@@ -90,8 +193,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 32.2,
-    "score": 96,
+    "ageHours": 54.8,
+    "score": 90,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-11-23",
     "authors": [
@@ -117,8 +220,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 80.2,
-    "score": 100,
+    "ageHours": 102.8,
+    "score": 98,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-11-21",
     "authors": [
@@ -144,8 +247,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 80.2,
-    "score": 86,
+    "ageHours": 102.8,
+    "score": 84,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-11-21",
     "authors": [
@@ -172,8 +275,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 104.2,
-    "score": 98,
+    "ageHours": 126.8,
+    "score": 96,
     "journal": "Science advances",
     "pubDate": "2026-11-20",
     "authors": [
@@ -198,8 +301,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 104.2,
-    "score": 96,
+    "ageHours": 126.8,
+    "score": 92,
     "journal": "EMBO reports",
     "pubDate": "2026-11-20",
     "authors": [
@@ -225,8 +328,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 104.2,
-    "score": 94,
+    "ageHours": 126.8,
+    "score": 90,
     "journal": "Journal of pediatric nursing",
     "pubDate": "2026-11-20",
     "authors": [
@@ -252,8 +355,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 104.2,
-    "score": 94,
+    "ageHours": 126.8,
+    "score": 88,
     "journal": "In silico pharmacology",
     "pubDate": "2026-11-20",
     "authors": [
@@ -279,8 +382,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 98,
+    "ageHours": 150.8,
+    "score": 94,
     "journal": "Tropical doctor",
     "pubDate": "2026-11-19",
     "authors": [
@@ -304,8 +407,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 96,
+    "ageHours": 150.8,
+    "score": 94,
     "journal": "Cell",
     "pubDate": "2026-11-19",
     "authors": [
@@ -332,8 +435,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 94,
+    "ageHours": 150.8,
+    "score": 92,
     "journal": "PLoS pathogens",
     "pubDate": "2026-11-19",
     "authors": [
@@ -360,8 +463,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 92,
+    "ageHours": 150.8,
+    "score": 90,
     "journal": "PloS one",
     "pubDate": "2026-11-19",
     "authors": [
@@ -387,8 +490,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 88,
+    "ageHours": 150.8,
+    "score": 86,
     "journal": "Advances in pharmacological and pharmaceutical sciences",
     "pubDate": "2026-11-19",
     "authors": [
@@ -414,8 +517,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 82,
+    "ageHours": 150.8,
+    "score": 80,
     "journal": "Acta tropica",
     "pubDate": "2026-11-19",
     "authors": [
@@ -441,8 +544,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 80,
+    "ageHours": 150.8,
+    "score": 78,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-19",
     "authors": [
@@ -468,8 +571,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 78,
+    "ageHours": 150.8,
+    "score": 76,
     "journal": "Lancet (London, England)",
     "pubDate": "2026-11-19",
     "authors": [
@@ -495,8 +598,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 74,
+    "ageHours": 150.8,
+    "score": 72,
     "journal": "Tropical medicine & international health : TM & IH",
     "pubDate": "2026-11-19",
     "authors": [
@@ -518,8 +621,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 72,
+    "ageHours": 150.8,
+    "score": 70,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-11-19",
     "authors": [
@@ -545,8 +648,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 70,
+    "ageHours": 150.8,
+    "score": 68,
     "journal": "PLoS medicine",
     "pubDate": "2026-11-19",
     "authors": [
@@ -572,8 +675,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 68,
+    "ageHours": 150.8,
+    "score": 66,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-19",
     "authors": [
@@ -599,8 +702,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 128.2,
-    "score": 62,
+    "ageHours": 150.8,
+    "score": 60,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-19",
     "authors": [
@@ -626,8 +729,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 92,
+    "ageHours": 174.8,
+    "score": 88,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-18",
     "authors": [
@@ -653,8 +756,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 90,
+    "ageHours": 174.8,
+    "score": 86,
     "journal": "Acta parasitologica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -680,8 +783,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 60,
+    "ageHours": 174.8,
+    "score": 58,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -703,8 +806,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 58,
+    "ageHours": 174.8,
+    "score": 56,
     "journal": "Acta tropica",
     "pubDate": "2026-11-18",
     "authors": [
@@ -726,8 +829,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 56,
+    "ageHours": 174.8,
+    "score": 54,
     "journal": "ACS sensors",
     "pubDate": "2026-11-18",
     "authors": [
@@ -753,8 +856,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 54,
+    "ageHours": 174.8,
+    "score": 52,
     "journal": "Infection and immunity",
     "pubDate": "2026-11-18",
     "authors": [
@@ -770,110 +873,6 @@ window.researchItems = [
     "why": "Malaria predisposes individuals to concurrent bacteremia, a complication associated with increased intestinal permeability and mast cell (MC) activation. These effects correlate with elevated type-2 cytokines, including interleukin (IL)-3, IL-4, and IL-10. We previously demonstrated that basophils regulate MC activation and protect intestinal barrier integrity during malaria. Because FcεR1γ signaling is required for basophil IL-4 production, we monitored..."
   },
   {
-    "id": "pubmed-43049171",
-    "title": "3-Day Artemether-Lumefantrine Regimen in Non-immune Adults with Imported Uncomplicated Plasmodium falciparum Malaria: An 11-Year Retrospective Study (MALARIA3).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43049171/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 152.2,
-    "score": 52,
-    "journal": "Journal of travel medicine",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Musumeci S",
-      "Ciullini L",
-      "Schwob JM",
-      "Jendoubi G",
-      "Fischer A",
-      "Cherkaoui A"
-    ],
-    "pmid": "43049171",
-    "doi": "10.1093/jtm/taag110",
-    "why": "BACKGROUND: The standard artemether-lumefantrine regimen for uncomplicated Plasmodium falciparum malaria comprises six doses over three days. Reports of late recurrence in non-endemic settings have prompted recommendations for longer regimens despite limited direct comparative evidence. We described early parasite clearance and 42-day recurrence after 3-day therapy in a selected cohort of adults without a documented previous malaria episode. METHODS: We..."
-  },
-  {
-    "id": "pubmed-43067232",
-    "title": "A rare imported mixed Plasmodium falciparum and P. malariae infection: The indispensable role of microscopy. A case report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43067232/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 176.2,
-    "score": 92,
-    "journal": "Diagnostic microbiology and infectious disease",
-    "pubDate": "2026-11-17",
-    "authors": [
-      "Yapalak ZL",
-      "Bedir O",
-      "Artuk C",
-      "Altunay K",
-      "Yazıcı E",
-      "Koru Ö"
-    ],
-    "pmid": "43067232",
-    "doi": "10.1016/j.diagmicrobio.2026.117759",
-    "why": "Malaria remains a clinically important diagnosis in non-endemic countries, where mixed-species infections are easily overlooked. We report an 18-year-old man who presented with a four-day history of intermittent fever after returning from Guinea and developed marked thrombocytopenia (platelet nadir 64,000/mm³). A rapid diagnostic test was positive only for Plasmodium falciparum; however, microscopic examination of thin and thick blood films revealed a..."
-  },
-  {
-    "id": "pubmed-43043926",
-    "title": "Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43043926/",
-    "source": "PubMed",
-    "tag": "Malaria parasite",
-    "topics": [
-      "Malaria parasite"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 176.2,
-    "score": 90,
-    "journal": "PloS one",
-    "pubDate": "2026-11-17",
-    "authors": [
-      "Nallapati VT",
-      "Manoj AR",
-      "Belurkar S",
-      "Kulal N",
-      "Bhat P",
-      "Gupta N"
-    ],
-    "pmid": "43043926",
-    "doi": "10.1371/journal.pone.0362585",
-    "why": "Plasmodium vivax is a major cause of malaria in India, especially in the southwest, where chloroquine (CQ) followed by 14-day primaquine is the recommended treatment; however, antimalarial drug resistance poses a significant threat, prompting this study to investigate the molecular epidemiology of drug resistance in vivax malaria clinical samples from southwestern India. A total of 93 P. vivax malaria samples were collected from symptomatic adult patients..."
-  },
-  {
-    "id": "pubmed-43044679",
-    "title": "CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43044679/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 176.2,
-    "score": 88,
-    "journal": "Molecular and biochemical parasitology",
-    "pubDate": "2026-11-17",
-    "authors": [
-      "Ganguly N",
-      "Thakre BJ"
-    ],
-    "pmid": "43044679",
-    "doi": "10.1016/j.molbiopara.2026.111793",
-    "why": "Protozoan parasites possess complex genomes, unusual DNA-repair mechanisms, multiple developmental stages, and, in several species, intracellular or vector-dependent life cycles that complicate functional genetic studies. CRISPR-Cas9 has become a central tool for functional genomics in these organisms, enabling targeted gene disruption, replacement, tagging, nucleotide modification and genome-wide functional screening. However, editing efficiency and..."
-  },
-  {
     "id": "pubmed-43043695",
     "title": "Visualization of actin filaments in Plasmodium falciparum blood cell stages.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43043695/",
@@ -884,7 +883,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 176.2,
+    "ageHours": 198.8,
     "score": 88,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-11-17",
@@ -900,30 +899,30 @@ window.researchItems = [
     "why": "The actin cytoskeleton is crucial to regulate cellular processes and morphology in eukaryotes, yet the tools to visualize it are not compatible with all organisms. In the apicomplexan Plasmodium falciparum, actin filaments are thought to be short and unstable, complicating their visualization. Here, we show that a tandem fusion of the actin-chromobody can label filaments in all P. falciparum red blood cell stages and observe actin structures in live cells..."
   },
   {
-    "id": "pubmed-43065972",
-    "title": "Thiochromene Analogues as Antiparasitic Chemotype: Synthesis, Antiplasmodial and Antitrypanosomal Profiling, Experimental Validation, and Computational Insights into Trypanothione Reductase Inhibition.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43065972/",
+    "id": "pubmed-42103323",
+    "title": "Cysteine cathepsin proteases in apicomplexan parasites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103323/",
     "source": "PubMed",
-    "tag": "Plasmodium",
+    "tag": "Toxoplasma",
     "topics": [
-      "Plasmodium"
+      "Toxoplasma"
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 800.2,
-    "score": 90,
-    "journal": "ACS omega",
-    "pubDate": "2026-10-22",
+    "ageHours": 4854.8,
+    "score": 84,
+    "journal": "Biological chemistry",
+    "pubDate": "2026-05-07",
     "authors": [
-      "Malik J",
-      "Kirad S",
-      "Murugan A",
-      "Basilico N",
-      "Alvarez EC",
-      "Andrés-Rodríguez J"
+      "Mayté A",
+      "Silvestre A",
+      "Veillard F",
+      "Lacroix-Lamandé S",
+      "Lalmanach G",
+      "Tottey J"
     ],
-    "pmid": "43065972",
-    "doi": "10.1021/acsomega.6c08419",
-    "why": "The emergence of drug resistance and the limited availability of effective therapeutics continue to hinder the treatment of protozoal diseases, highlighting the need for new chemotypes with broad-spectrum antiparasitic potential. In the present study, a series of nitro and trifluoromethyl-substituted thiochromene carboxamides, previously identified as antileishmanial agents, were further explored for their broad-spectrum antiparasitic potential..."
+    "pmid": "42103323",
+    "doi": "10.1515/hsz-2025-0240",
+    "why": "Cysteine cathepsins are papain-like proteases which play key roles in a large range of organisms, including apicomplexan parasites. These obligate endoparasites are responsible for many devastating diseases in human and/or animal hosts, for which available treatments are limited or face the emergence of resistance. This review presents the cysteine cathepsins expressed by five major Apicomplexa (Plasmodium falciparum, Cryptosporidium parvum, Toxoplasma..."
   }
 ];
