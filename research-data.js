@@ -1,5 +1,140 @@
-window.researchLastUpdated = "2026-11-25 06:51:02 +0000";
+window.researchLastUpdated = "2026-11-26 06:42:15 +0000";
 window.researchItems = [
+  {
+    "id": "pubmed-43074383",
+    "title": "Regioselective C-4 Benzylation of 5-Aminopyrazoles With p-Quinone Methides for Preparing Unsymmetrical Triarylmethanes and Their Evaluation as Antiplasmodial Agents.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074383/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 6.7,
+    "score": 90,
+    "journal": "ChemMedChem",
+    "pubDate": "2026-11-26",
+    "authors": [
+      "Abbasi FM",
+      "Ghosh A",
+      "Gupta N",
+      "Manhas A",
+      "Ali S",
+      "Kumar N"
+    ],
+    "pmid": "43074383",
+    "doi": "10.1002/cmdc.70585",
+    "why": "A Sc(OTf)3-mediated, regioselective C-4 benzylation of 5-aminopyrazoles with para-quinone methides is reported as an efficient strategy for the synthesis of unsymmetrical triarylmethanes. Most of the synthesized compounds were evaluated for their antiplasmodial activity. Two of the compounds 3ab and 3ai exhibited promising, concentration-dependent antiplasmodial activity, while in vivo evaluation of 3ai significantly prolonged the mean survival time of..."
+  },
+  {
+    "id": "pubmed-43085523",
+    "title": "Extensive membrane lipid remodeling at the host-parasite interface of Toxoplasma gondii.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43085523/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 30.7,
+    "score": 100,
+    "journal": "Biochimica et biophysica acta. Biomembranes",
+    "pubDate": "2026-11-25",
+    "authors": [
+      "Nakashima Y",
+      "Ishida S",
+      "Mineoka N",
+      "Masatani T",
+      "Kuriyama S",
+      "Yoshida M"
+    ],
+    "pmid": "43085523",
+    "doi": "10.1016/j.bbamem.2026.184593",
+    "why": "Phosphoinositides regulate diverse membrane trafficking and signaling events in eukaryotic cells, yet their transbilayer distribution remains largely unexplored, particularly at host-parasite membrane interfaces. Here, we determined the membrane leaflet localization of phosphatidylinositol 4-phosphate (PtdIns(4)P) and phosphatidylinositol 4,5-bisphosphate (PtdIns(4,5)P2) in Toxoplasma gondii using quick-freezing freeze-fracture replica labeling combined..."
+  },
+  {
+    "id": "pubmed-43084154",
+    "title": "Molecular recognition and dynamic behaviour of diosmin as a putative inhibitor of Plasmodium falciparum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084154/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 30.7,
+    "score": 100,
+    "journal": "Journal of computer-aided molecular design",
+    "pubDate": "2026-11-25",
+    "authors": [
+      "Verma D",
+      "Tripathi M",
+      "Rathore S",
+      "Ahmad I",
+      "Saeed M",
+      "Shukla D"
+    ],
+    "pmid": "43084154",
+    "doi": "10.1007/s10822-026-00985-1",
+    "why": "Malaria remains a leading global public health problem, mainly because of the spread of drug-resistant Plasmodium falciparum strains, which underscores the need for antimalarials directed at alternative metabolic routes. The present study combined sequence conservation analysis, structure-based virtual screening, molecular dynamics (MD) simulations and experimental evaluation to identify candidate inhibitors of P. falciparum bifunctional..."
+  },
+  {
+    "id": "pubmed-43085489",
+    "title": "Toxoplasma gondii and Neospora caninum in wild boars: evaluating diagnostic tools for parasitic wildlife surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43085489/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 30.7,
+    "score": 98,
+    "journal": "Parasitology international",
+    "pubDate": "2026-11-25",
+    "authors": [
+      "Runco M",
+      "Gos ML",
+      "Guichón ML",
+      "Pardini L",
+      "Morsella C",
+      "Rago MV"
+    ],
+    "pmid": "43085489",
+    "doi": "10.1016/j.parint.2026.103417",
+    "why": "The invasive wild boar (Sus scrofa) is commonly hunted for human consumption and meat marketing in both native and introduced ranges worldwide. Due to its foraging behavior, potential ingestion of Toxoplasma gondii and Neospora caninum parasites is highly likely, making it an ideal sentinel species for parasitic surveillance. This study evaluated the presence and prevalence of T. gondii and N. caninum in wild boars introduced in Northern Patagonia..."
+  },
+  {
+    "id": "pubmed-43084589",
+    "title": "A protocol study for a systematic review and Bayesian hierarchical meta-analysis of global epidemiology and spatial distribution of toxoplasmosis in sheep.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084589/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 30.7,
+    "score": 96,
+    "journal": "PloS one",
+    "pubDate": "2026-11-25",
+    "authors": [
+      "Mizani A",
+      "Hanafi-Bojd AA",
+      "Arabian M",
+      "Aghayan SA",
+      "Parandin F",
+      "Amuei F"
+    ],
+    "pmid": "43084589",
+    "doi": "10.1371/journal.pone.0362549",
+    "why": "BACKGROUND: Toxoplasma gondii is a globally distributed zoonotic parasite that poses significant public health risks through infected sheep and their products. This protocol aims to estimate the global apparent and diagnostic-accuracy-adjusted true seroprevalence of T. gondii in sheep and investigate its spatial distribution using Bayesian hierarchical meta-analysis, meta-regression, and geographic information systems (GIS). METHODS: Following PRISMA-P..."
+  },
   {
     "id": "pubmed-43077598",
     "title": "Conservative management: diagnostic error after suspected CSF leak.",
@@ -11,8 +146,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 6.8,
-    "score": 100,
+    "ageHours": 30.7,
+    "score": 94,
     "journal": "Diagnosis (Berlin, Germany)",
     "pubDate": "2026-11-25",
     "authors": [
@@ -21,6 +156,30 @@ window.researchItems = [
     "pmid": "43077598",
     "doi": "10.1515/dx-2026-0166",
     "why": "OBJECTIVES: To trace how a suspected but unexamined surgical complication propagated through non-disclosure, anchoring, and fragmented care into months of diagnostic delay, unresolved illness, and lasting harm. CASE PRESENTATION: A 23-year-old woman developed persistent clear nasal drainage after elective functional endoscopic sinus surgery and asked her surgeon whether it was a cerebrospinal fluid (CSF) leak. Beta-2 transferrin was never ordered. The..."
+  },
+  {
+    "id": "pubmed-43077712",
+    "title": "Natural Infection Induces Antibodies Targeting Pfs230 Domains D1M and D7D8 with Potential for Malaria Transmission Blocking.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077712/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 54.7,
+    "score": 96,
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pubDate": "2026-11-24",
+    "authors": [
+      "Harju T",
+      "Cao Y",
+      "Kumar N"
+    ],
+    "pmid": "43077712",
+    "doi": "10.4269/ajtmh.26-0551",
+    "why": "The natural immunogenicity of domain 1 (D1M) and domains 7 and 8 (D7D8) in Plasmodium falciparum transmission-blocking vaccine (TBV) candidate Pfs230 is assessed. Antibody reactivity by ELISA using endemic human sera from Zimbabwe (n = 301) and Thailand (n = 44) was evaluated. Regression analyses revealed significant positive correlations between responses to both domains. A 1-log increase in Pfs230-D1M reactivity predicted a 0.43- to 0.87-log increase in..."
   },
   {
     "id": "pubmed-43077373",
@@ -33,8 +192,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 30.8,
-    "score": 100,
+    "ageHours": 54.7,
+    "score": 94,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-24",
     "authors": [
@@ -61,7 +220,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
+    "ageHours": 78.7,
     "score": 100,
     "journal": "Ecology and evolution",
     "pubDate": "2026-11-23",
@@ -87,8 +246,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
-    "score": 98,
+    "ageHours": 78.7,
+    "score": 92,
     "journal": "EMBO reports",
     "pubDate": "2026-11-23",
     "authors": [
@@ -114,8 +273,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
-    "score": 96,
+    "ageHours": 78.7,
+    "score": 90,
     "journal": "International ophthalmology",
     "pubDate": "2026-11-23",
     "authors": [
@@ -141,8 +300,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
-    "score": 94,
+    "ageHours": 78.7,
+    "score": 86,
     "journal": "Hamostaseologie",
     "pubDate": "2026-11-23",
     "authors": [
@@ -166,8 +325,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
-    "score": 92,
+    "ageHours": 78.7,
+    "score": 84,
     "journal": "Acta tropica",
     "pubDate": "2026-11-23",
     "authors": [
@@ -193,8 +352,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 54.8,
-    "score": 90,
+    "ageHours": 78.7,
+    "score": 82,
     "journal": "The Journal of infectious diseases",
     "pubDate": "2026-11-23",
     "authors": [
@@ -220,7 +379,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 102.8,
+    "ageHours": 126.7,
     "score": 98,
     "journal": "Molecular and biochemical parasitology",
     "pubDate": "2026-11-21",
@@ -247,8 +406,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 102.8,
-    "score": 84,
+    "ageHours": 126.7,
+    "score": 76,
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "pubDate": "2026-11-21",
     "authors": [
@@ -264,6 +423,32 @@ window.researchItems = [
     "why": "BACKGROUND: Rhabdomyolysis is a serious clinical syndrome characterized by skeletal muscle injury, release of creatine kinase (CK) and increased risk of acute kidney injury (AKI). Few studies have examined rhabdomyolysis in severe pediatric malaria. METHODS: Secondary analysis of a prospective cohort study. We examined the association of rhabdomyolysis with mortality (Cox proportional hazards models, complete case analysis and multiple imputation by..."
   },
   {
+    "id": "pubmed-43083699",
+    "title": "CYP2D6 Genetic Characteristics in Recurrent Plasmodium vivax Malaria Cases in the Republic of Korea.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083699/",
+    "source": "PubMed",
+    "tag": "Plasmodium",
+    "topics": [
+      "Plasmodium"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 150.7,
+    "score": 98,
+    "journal": "Tropical medicine and infectious disease",
+    "pubDate": "2026-11-20",
+    "authors": [
+      "Jung H",
+      "Ku B",
+      "Lee SY",
+      "Kim IH",
+      "Lee SE"
+    ],
+    "pmid": "43083699",
+    "doi": "10.3390/tropicalmed11110332",
+    "why": "Plasmodium vivax malaria remains an important public health concern in the Republic of Korea, which targets elimination by 2030. Primaquine is essential for radical cure and relapse prevention; its metabolic activation involves cytochrome P450 2D6 (CYP2D6). CYP2D6 genetic variation may influence metabolic capacity and contribute to primaquine treatment response differences. We examined CYP2D6 genotype and predicted metabolizer phenotype distributions..."
+  },
+  {
     "id": "pubmed-43063265",
     "title": "Structural basis of Anopheles mosquito salivary protein complexes implicated in malaria transmission.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43063265/",
@@ -275,7 +460,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 126.8,
+    "ageHours": 150.7,
     "score": 96,
     "journal": "Science advances",
     "pubDate": "2026-11-20",
@@ -301,8 +486,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 126.8,
-    "score": 92,
+    "ageHours": 150.7,
+    "score": 86,
     "journal": "EMBO reports",
     "pubDate": "2026-11-20",
     "authors": [
@@ -328,8 +513,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 126.8,
-    "score": 90,
+    "ageHours": 150.7,
+    "score": 84,
     "journal": "Journal of pediatric nursing",
     "pubDate": "2026-11-20",
     "authors": [
@@ -355,8 +540,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 126.8,
-    "score": 88,
+    "ageHours": 150.7,
+    "score": 80,
     "journal": "In silico pharmacology",
     "pubDate": "2026-11-20",
     "authors": [
@@ -372,30 +557,6 @@ window.researchItems = [
     "why": "Our previous preliminary in vitro studies indicated that extracts and isolated compounds (1-24) from the stem bark of Senegalia polyacantha (S. polyacantha) exhibit antimalarial properties associated with cytotoxicity profiles that are suitable for subsequent in vivo investigations in animal models. Advancing these in vivo studies, however, requires prior insight into the potential mechanism of action of the plant's major chemical constituents. In this..."
   },
   {
-    "id": "pubmed-43055286",
-    "title": "Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43055286/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 94,
-    "journal": "Tropical doctor",
-    "pubDate": "2026-11-19",
-    "authors": [
-      "Pandey P",
-      "Pal V",
-      "Singh D"
-    ],
-    "pmid": "43055286",
-    "doi": "10.1177/00494755261508888",
-    "why": "Ocular parasitic infections are an under-recognised cause of ocular morbidity in low- and middle-income countries. We found Taenia solium (26.5%) was the most common parasite, followed by Toxocara canis/cati (19.4%), Toxoplasma gondii (17.3%) and Acanthamoeba spp. (11.2%). Reduced visual acuity (66.3%), retinitis/chorioretinitis (38.8%), uveitis (32.7%) and vitreous involvement (28.6%) were the predominant clinical manifestations. Poor nutritional status..."
-  },
-  {
     "id": "pubmed-43057226",
     "title": "A natural mutation of timeless enhances mosquito thermal adaptation and malaria parasite transmission.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43057226/",
@@ -407,7 +568,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
+    "ageHours": 174.7,
     "score": 94,
     "journal": "Cell",
     "pubDate": "2026-11-19",
@@ -435,7 +596,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
+    "ageHours": 174.7,
     "score": 92,
     "journal": "PLoS pathogens",
     "pubDate": "2026-11-19",
@@ -463,7 +624,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
+    "ageHours": 174.7,
     "score": 90,
     "journal": "PloS one",
     "pubDate": "2026-11-19",
@@ -480,6 +641,30 @@ window.researchItems = [
     "why": "BACKGROUND: Malaria remains a major global public health problem, with an estimated 282 million cases and 610,000 deaths in 2024, predominantly in the WHO African Region. Ethiopia continues to face substantial malaria transmission and has adopted an elimination strategy emphasizing surveillance, early diagnosis and treatment, and integrated vector control. Assessing local temporal, species-specific, demographic, and seasonal patterns is essential to guide..."
   },
   {
+    "id": "pubmed-43055286",
+    "title": "Clinical spectrum and morbidity of ocular parasitic infections among rural children in central India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055286/",
+    "source": "PubMed",
+    "tag": "Toxoplasma",
+    "topics": [
+      "Toxoplasma"
+    ],
+    "type": "PubMed",
+    "editor": "NCBI",
+    "ageHours": 174.7,
+    "score": 88,
+    "journal": "Tropical doctor",
+    "pubDate": "2026-11-19",
+    "authors": [
+      "Pandey P",
+      "Pal V",
+      "Singh D"
+    ],
+    "pmid": "43055286",
+    "doi": "10.1177/00494755261508888",
+    "why": "Ocular parasitic infections are an under-recognised cause of ocular morbidity in low- and middle-income countries. We found Taenia solium (26.5%) was the most common parasite, followed by Toxocara canis/cati (19.4%), Toxoplasma gondii (17.3%) and Acanthamoeba spp. (11.2%). Reduced visual acuity (66.3%), retinitis/chorioretinitis (38.8%), uveitis (32.7%) and vitreous involvement (28.6%) were the predominant clinical manifestations. Poor nutritional status..."
+  },
+  {
     "id": "pubmed-43065649",
     "title": "Aqueous Extract of Guiera senegalensis J. F. Gmel. Galls (Combretaceae) Improves Malaria-Induced Cognitive Abnormalities in Suppressive Study: A Pilot Investigation.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43065649/",
@@ -490,8 +675,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 86,
+    "ageHours": 174.7,
+    "score": 78,
     "journal": "Advances in pharmacological and pharmaceutical sciences",
     "pubDate": "2026-11-19",
     "authors": [
@@ -517,8 +702,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 80,
+    "ageHours": 174.7,
+    "score": 72,
     "journal": "Acta tropica",
     "pubDate": "2026-11-19",
     "authors": [
@@ -544,8 +729,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 78,
+    "ageHours": 174.7,
+    "score": 70,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-19",
     "authors": [
@@ -571,8 +756,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 76,
+    "ageHours": 174.7,
+    "score": 68,
     "journal": "Lancet (London, England)",
     "pubDate": "2026-11-19",
     "authors": [
@@ -598,8 +783,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 72,
+    "ageHours": 174.7,
+    "score": 64,
     "journal": "Tropical medicine & international health : TM & IH",
     "pubDate": "2026-11-19",
     "authors": [
@@ -621,8 +806,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 70,
+    "ageHours": 174.7,
+    "score": 62,
     "journal": "The American journal of tropical medicine and hygiene",
     "pubDate": "2026-11-19",
     "authors": [
@@ -648,8 +833,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 68,
+    "ageHours": 174.7,
+    "score": 60,
     "journal": "PLoS medicine",
     "pubDate": "2026-11-19",
     "authors": [
@@ -675,8 +860,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 66,
+    "ageHours": 174.7,
+    "score": 58,
     "journal": "PLoS neglected tropical diseases",
     "pubDate": "2026-11-19",
     "authors": [
@@ -702,8 +887,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 150.8,
-    "score": 60,
+    "ageHours": 174.7,
+    "score": 52,
     "journal": "Journal of ethnopharmacology",
     "pubDate": "2026-11-19",
     "authors": [
@@ -719,160 +904,6 @@ window.researchItems = [
     "why": "ETHNOPHARMACOLOGICAL RELEVANCE: Ongoing Plasmodium falciparum (P. falciparum) resistance to first-line treatment threatens the livelihoods of people in Sub-Saharan African tropical regions, necessitating the development of new antimalarials. Ziziphus mucronata (Z. mucronata) is a native South African medicinal plant, used in Traditional Southern African Medicine to treat malaria. Its antimalarial properties have been validated, but its phytochemistry..."
   },
   {
-    "id": "pubmed-43050483",
-    "title": "Mechanistic insights into benzoxaborole activity against Cryptosporidium parvum: CPSF3 targeting genetically validated for AN3661, with implications for resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43050483/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 88,
-    "journal": "PLoS neglected tropical diseases",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Wenker J",
-      "Braun L",
-      "Swale C",
-      "Gouin A",
-      "Pichon J",
-      "Mariot J"
-    ],
-    "pmid": "43050483",
-    "doi": "10.1371/journal.pntd.0014883",
-    "why": "BACKGROUND: Cryptosporidiosis is a major enteric disease affecting humans and animals worldwide, with severe consequences in young children and neonatal livestock, yet treatment options remain extremely limited. Benzoxaboroles have emerged as promising broad-spectrum antiparasitic compounds, but their mechanisms of action, molecular targets, and resistance pathways in Cryptosporidium spp. remain incompletely understood, limiting their optimal therapeutic..."
-  },
-  {
-    "id": "pubmed-43050039",
-    "title": "Therapeutic and Epigenetic Effects of Bee Venom on Acute Toxoplasmosis in Mice: A Parasitological, Histopathological, and MicroRNA Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43050039/",
-    "source": "PubMed",
-    "tag": "Toxoplasma",
-    "topics": [
-      "Toxoplasma"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 86,
-    "journal": "Acta parasitologica",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Moubarak MA",
-      "Abdelmaksoud HF",
-      "Shaker MH",
-      "Zalat RS",
-      "Hassan M",
-      "ElSherbini MS"
-    ],
-    "pmid": "43050039",
-    "doi": "10.1007/s11686-026-01426-7",
-    "why": "Acute toxoplasmosis can cause severe complications, while available treatments may be associated with adverse effects. Bee venom (BV) has potential antiparasitic and immunomodulatory properties; however, its therapeutic effects against acute toxoplasmosis, particularly in combination with spiramycin (SPI), remain insufficiently investigated. This study evaluated the effects of BV alone and in combination with SPI on parasitic burden, histopathological..."
-  },
-  {
-    "id": "pubmed-43051343",
-    "title": "Spatiotemporal Analysis of Childhood Malaria Risk in Rwanda, 2014-2023: A Spatial Study of DHS and MIS Surveys.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43051343/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 58,
-    "journal": "Acta tropica",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Rudasingwa G",
-      "Ishimwe NC"
-    ],
-    "pmid": "43051343",
-    "doi": "10.1016/j.actatropica.2026.108419",
-    "why": "BACKGROUND: Malaria remains a leading cause of childhood morbidity in sub-Saharan Africa. Rwanda offers a valuable epidemiological case study, having experienced marked control gains, a documented resurgence, and subsequent recovery. We characterised spatial and temporal patterns of Plasmodium falciparum parasitaemia among children aged 6-59 months across four nationally representative surveys (2014-2023) to quantify national trends and identify..."
-  },
-  {
-    "id": "pubmed-43051340",
-    "title": "Update on the Malaria Situation in the Americas, 2015 - 2024.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43051340/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 56,
-    "journal": "Acta tropica",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Navarro-Costa D",
-      "Araújo RM"
-    ],
-    "pmid": "43051340",
-    "doi": "10.1016/j.actatropica.2026.108423",
-    "why": "Malaria remains a major Public Health challenge in the Americas despite the recent certification of several countries as malaria-free. This regional analysis describes malaria trends from 2015 to 2024, identifies populations and territories with the highest burden, and examines opportunities to accelerate elimination. National and subnational surveillance data reported by countries were analyzed by parasite species, mortality, population group, geographic..."
-  },
-  {
-    "id": "pubmed-43050603",
-    "title": "Architecture-Dependent Effects of Terminal Switching of Thiol Anchors and Methylene Blue Reporters in Electrochemical DNA-Based Sensors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43050603/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 54,
-    "journal": "ACS sensors",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Yang Q",
-      "Cambra-Pellejà M",
-      "Burgos-Avila J",
-      "Sena A",
-      "Chamorro-Garcia A",
-      "Idili A"
-    ],
-    "pmid": "43050603",
-    "doi": "10.1021/acssensors.6c03138",
-    "why": "The terminal placement of surface anchors and redox reporters is a fundamental but often under-optimized design parameter in electrochemical DNA-based sensors. Most architectures use a 5' thiol anchor and a 3' methylene blue reporter by convention, although switching these terminal modifications can alter probe orientation, target accessibility, reporter behavior, and signal transduction. Here, we systematically investigated the effect of switching thiol..."
-  },
-  {
-    "id": "pubmed-43049708",
-    "title": "Basophil FcεR1γ signaling regulates gut barrier integrity and systemic antibacterial immunity during malaria with a sex bias.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43049708/",
-    "source": "PubMed",
-    "tag": "Plasmodium",
-    "topics": [
-      "Plasmodium"
-    ],
-    "type": "PubMed",
-    "editor": "NCBI",
-    "ageHours": 174.8,
-    "score": 52,
-    "journal": "Infection and immunity",
-    "pubDate": "2026-11-18",
-    "authors": [
-      "Céspedes N",
-      "Fellows AM",
-      "Donnelly EL",
-      "Kaylor HL",
-      "Halidu F",
-      "Thakur A"
-    ],
-    "pmid": "43049708",
-    "doi": "10.1128/iai.00383-26",
-    "why": "Malaria predisposes individuals to concurrent bacteremia, a complication associated with increased intestinal permeability and mast cell (MC) activation. These effects correlate with elevated type-2 cytokines, including interleukin (IL)-3, IL-4, and IL-10. We previously demonstrated that basophils regulate MC activation and protect intestinal barrier integrity during malaria. Because FcεR1γ signaling is required for basophil IL-4 production, we monitored..."
-  },
-  {
     "id": "pubmed-43043695",
     "title": "Visualization of actin filaments in Plasmodium falciparum blood cell stages.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43043695/",
@@ -883,7 +914,7 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 198.8,
+    "ageHours": 222.7,
     "score": 88,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pubDate": "2026-11-17",
@@ -909,8 +940,8 @@ window.researchItems = [
     ],
     "type": "PubMed",
     "editor": "NCBI",
-    "ageHours": 4854.8,
-    "score": 84,
+    "ageHours": 4878.7,
+    "score": 82,
     "journal": "Biological chemistry",
     "pubDate": "2026-05-07",
     "authors": [
